@@ -1,7 +1,5 @@
 # Automated-Podcast-Transcription-and-Topic-Segmentation
 
-# Automated-Podcast-Transcription-and-Topic-Segmentation
-
 *A Springboard Internship Program Project*
 
 
@@ -259,11 +257,11 @@ Intern pre-cautions,
 This project uses the **MIT License**.
 Create a `LICENSE` file from GitHub’s license picker.
 
----
+
 
 # **Contact**
 
 For questions or doubts:
 [springboardmentor13579x@gmail.com](mailto:springboardmentor13579x@gmail.com) (official mentor email)
 
----
+
