@@ -1,21 +1,24 @@
 # Automated-Podcast-Transcription-and-Topic-Segmentation
-An end-to-end AI-based audio intelligence system that transcribes long-form audio (medical podcasts, interviews, lectures), performs topic segmentation, keyword extraction, sentiment analysis, and provides a searchable, timestamped UI.
 
-Designed for scalability, clarity, and real-world AI workflows.
-____________________________________________________________________________________________________________________________________________________________________
-## Project Overview
+*A Springboard Internship Program Project*
 
-Medical podcasts contain discussions on diseases, treatments, and research. Long durations make it hard to access specific content quickly.
 
-This project solves that by:
+## **Project Overview**
 
-- Converting podcast audio into accurate text using OpenAI Whisper  
-- Segmenting transcripts into topic-based sections  
-- Extracting keywords and summaries  
-- Performing **sentiment analysis**  
-- Providing a searchable and interactive Streamlit interface  
+The **Automated Podcast Transcription & Topic Segmentation** project aims to build an end-to-end AI system that can:
 
-____________________________________________________________________________________________________________________________________________________________________
+* Convert podcast audio into accurate transcripts
+* Detect topic boundaries automatically
+* Segment the transcript into meaningful chapters
+* Extract keywords and summaries for each topic
+* Provide a UI to navigate the podcast episode by topics & timestamps
+* Display segment-level visual analytics
+
+This project focuses on applying **AI, Speech Processing, NLP, and ML engineering** to create a practical real-world audio intelligence tool.  
+
+______________________________________________________________________________________________________________________________________
+_______________________________________
+
 ## Key Features
 
 - **Automatic Audio Transcription:** High-quality speech-to-text with Whisper, supports long audio files  
@@ -24,9 +27,10 @@ ________________________________________________________________________________
 - **Global Transcript Search:** Search across all segments  
 - **Sentiment Analysis:** Positive, neutral, negative sentiment per segment  
 - **Interactive UI:** Streamlit-based, easy navigation between segments
-   __________________________________________________________________________________________________________________________________________________________________
+   __________________________________________________________________________________________________________________________________
+   ___________________________________
 
-  ## 🛠️ Tech Stack
+  ##  Tech Stack
 
 - **Programming Language:** Python  
 - **Audio Processing:** LibROSA, PyDub  
@@ -38,7 +42,8 @@ ________________________________________________________________________________
 - **Data Storage:** JSON  
 - **Visualization & UI:** Streamlit, Plotly  
 - **Version Control:** Git, GitHub
-  ___________________________________________________________________________________________________________________________________________________________________
+  ____________________________________________________________________________________________________________________________________
+  _________________________________
 
   ##  Workflow / Pipeline
 
@@ -72,6 +77,21 @@ ________________________________________________________________________________
 
 10. **Version Control:**  
     - Track all code and updates using Git and GitHub
+
+______________________________________________________________________________________________________________________________________
+______________________________
+
+    ## **System Architecture**
+
+```
+Audio Input → Preprocessing → Transcription (ASR) → Transcript Cleaning
+             ↓
+    Embedding Model → Topic Segmentation → Segment Summaries & Keywords
+             ↓
+          Indexing → UI (Search, Playback, Visualization)
+
+_____________________________________________________________________________________________________________________________________-____________________________________
+
 # Project Structure
 
 ```text
@@ -89,9 +109,10 @@ AI_PODCAST_TRANSCRIPT/
 ├── transcripts/                       # Generated transcripts
 ├── README.md                           # Project documentation
 └── .gitignore                          # Git ignore rules
-___________________________________________________________________________________________________________________________________________________________________
+______________________________________________________________________________________________________________________________________
+____________________________________
                                             
+# **License**
 
-
-
-
+This project uses the **MIT License**.
+Create a `LICENSE` file from GitHub’s license picker.
