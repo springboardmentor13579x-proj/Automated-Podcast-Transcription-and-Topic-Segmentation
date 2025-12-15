@@ -58,3 +58,9 @@ transcription: open ai wisper
 task 3:check transciption quality. (nlp matrix)
 task 5: generating short summary.
 task 5: segmentation of audio trans. is should segmented.
+
+git when update to push update
+
+1.git add .
+2.git commit -m "Update project files"
+3.git push origin intern-mohd_farrakh
