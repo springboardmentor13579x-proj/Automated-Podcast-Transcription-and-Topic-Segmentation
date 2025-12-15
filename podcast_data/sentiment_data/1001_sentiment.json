@@ -1,0 +1,730 @@
+[
+    {
+        "start": 0.0,
+        "end": 12.06,
+        "text": "Ted Talks are recorded live at the Ted Conference and partner events.",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 12.06,
+        "end": 15.280000000000001,
+        "text": "This episode features musician Andrew Bird.",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 15.280000000000001,
+        "end": 18.28,
+        "text": "Here's Andrew Bird.",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 18.28,
+        "end": 25.28,
+        "text": "Well, there's lots to talk about, and I think I'm just going to play to start on.",
+        "score": 0.5423,
+        "label": "Positive"
+    },
+    {
+        "start": 228.78,
+        "end": 235.28,
+        "text": "So, feed the fishes.",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 236.46,
+        "end": 243.46,
+        "text": "Sing me happy birthday.",
+        "score": 0.5719,
+        "label": "Positive"
+    },
+    {
+        "start": 243.46,
+        "end": 250.46,
+        "text": "The luck it's going to be.",
+        "score": 0.4588,
+        "label": "Positive"
+    },
+    {
+        "start": 250.46,
+        "end": 256.46,
+        "text": "Here are the...",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 318.41999999999996,
+        "end": 327.64,
+        "text": "Chaotic",
+        "score": -0.4939,
+        "label": "Negative"
+    },
+    {
+        "start": 327.64,
+        "end": 350.03999999999996,
+        "text": "All right.",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 350.03999999999996,
+        "end": 352.68,
+        "text": "So I wanted to do something special today.",
+        "score": 0.4019,
+        "label": "Positive"
+    },
+    {
+        "start": 352.68,
+        "end": 359.04,
+        "text": "I want to debut a new song that I've been working on in the last five or six months.",
+        "score": 0.0772,
+        "label": "Positive"
+    },
+    {
+        "start": 359.04,
+        "end": 363.6,
+        "text": "And there's a few things more thrilling than playing a song for the first time in front",
+        "score": 0.6659,
+        "label": "Positive"
+    },
+    {
+        "start": 363.6,
+        "end": 369.64,
+        "text": "of an audience, especially when it's half finished.",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 369.64,
+        "end": 374.04,
+        "text": "I'm kind of hoping some conversations here might help me finish it, because it gets into",
+        "score": 0.6378,
+        "label": "Positive"
+    },
+    {
+        "start": 374.04,
+        "end": 378.28000000000003,
+        "text": "all sorts of crazy realms.",
+        "score": -0.34,
+        "label": "Negative"
+    },
+    {
+        "start": 378.28,
+        "end": 382.79999999999995,
+        "text": "So this is basically a song about loops, but not the kind of loops that I make up here.",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 382.79999999999995,
+        "end": 384.71999999999997,
+        "text": "They're feedback loops.",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 384.71999999999997,
+        "end": 392.35999999999996,
+        "text": "And in the audio world, that's kind of, that's when the microphone gets too close to its",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 392.35999999999996,
+        "end": 397.55999999999995,
+        "text": "sound source, and then it gets in this self-destructive loop that creates a very unpleasant",
+        "score": -0.3167,
+        "label": "Negative"
+    },
+    {
+        "start": 397.55999999999995,
+        "end": 398.55999999999995,
+        "text": "sound.",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 398.55999999999995,
+        "end": 403.03999999999996,
+        "text": "I'm going to demonstrate for you.",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 403.03999999999996,
+        "end": 408.03999999999996,
+        "text": "I'm not going to hurt you.",
+        "score": 0.4168,
+        "label": "Positive"
+    },
+    {
+        "start": 408.04,
+        "end": 430.96000000000004,
+        "text": "This is loop feedback.",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 430.96000000000004,
+        "end": 432.76,
+        "text": "All right.",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 432.76,
+        "end": 437.84000000000003,
+        "text": "I don't know if that was necessary, but my point is it's the sound of self-destruction.",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 437.91999999999996,
+        "end": 448.23999999999995,
+        "text": "And I've been thinking about how that applies across a whole spectrum of realms from, say,",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 448.23999999999995,
+        "end": 449.23999999999995,
+        "text": "the ecological.",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 449.23999999999995,
+        "end": 456.35999999999996,
+        "text": "There seems to be a rule in nature that if you get too close to where you came from,",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 456.35999999999996,
+        "end": 457.67999999999995,
+        "text": "it gets ugly.",
+        "score": -0.5106,
+        "label": "Negative"
+    },
+    {
+        "start": 457.67999999999995,
+        "end": 464.35999999999996,
+        "text": "So you can't feed cows their own brains, or you get mad cow disease, and inbreeding,",
+        "score": -0.4939,
+        "label": "Negative"
+    },
+    {
+        "start": 464.36,
+        "end": 466.88,
+        "text": "and incest, and let's see.",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 466.88,
+        "end": 469.08000000000004,
+        "text": "What's the other one?",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 469.08000000000004,
+        "end": 470.08000000000004,
+        "text": "Biological.",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 470.08000000000004,
+        "end": 476.24,
+        "text": "There's autoimmune diseases where the body attacks itself, little two overzealously, and",
+        "score": -0.4404,
+        "label": "Negative"
+    },
+    {
+        "start": 476.24,
+        "end": 480.8,
+        "text": "destroys the host, the person.",
+        "score": -0.5574,
+        "label": "Negative"
+    },
+    {
+        "start": 480.8,
+        "end": 488.36,
+        "text": "And then, okay, this is where we get to the song, kind of bridges the gap to the emotional,",
+        "score": 0.3612,
+        "label": "Positive"
+    },
+    {
+        "start": 488.36,
+        "end": 494.64,
+        "text": "because although I've used scientific terms in songs, it's very difficult sometimes to",
+        "score": -0.4201,
+        "label": "Negative"
+    },
+    {
+        "start": 494.64,
+        "end": 497.08000000000004,
+        "text": "make them lyrical.",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 497.08000000000004,
+        "end": 500.2,
+        "text": "And there's some things you just don't need to have in songs.",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 500.2,
+        "end": 507.04,
+        "text": "But so I'm trying to bridge this gap between this idea and this melody.",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 507.04,
+        "end": 514.24,
+        "text": "And so I don't know if you've ever had this, but when I close my eyes sometimes and try",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 514.24,
+        "end": 517.9200000000001,
+        "text": "to sleep, I can't stop thinking about my own eyes.",
+        "score": 0.2235,
+        "label": "Positive"
+    },
+    {
+        "start": 518.8,
+        "end": 523.3199999999999,
+        "text": "And it's like your eyes start straining to see themselves.",
+        "score": 0.0516,
+        "label": "Positive"
+    },
+    {
+        "start": 523.3199999999999,
+        "end": 524.7199999999999,
+        "text": "That sort of feels like to me.",
+        "score": 0.2975,
+        "label": "Positive"
+    },
+    {
+        "start": 524.7199999999999,
+        "end": 525.7199999999999,
+        "text": "It's not pleasant.",
+        "score": -0.4023,
+        "label": "Negative"
+    },
+    {
+        "start": 525.7199999999999,
+        "end": 528.52,
+        "text": "I'm sorry if I put that idea in your head.",
+        "score": -0.0772,
+        "label": "Negative"
+    },
+    {
+        "start": 528.52,
+        "end": 534.1999999999999,
+        "text": "But it's impossible, of course, to see themselves, but they seem to be trying.",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 534.1999999999999,
+        "end": 537.5999999999999,
+        "text": "And so that's getting a little more closer to a personal experience.",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 537.5999999999999,
+        "end": 541.4,
+        "text": "And then, or yours being able to hear themselves.",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 541.4,
+        "end": 543.04,
+        "text": "It's just, it's impossible.",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 543.04,
+        "end": 545.04,
+        "text": "That's the thing.",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 545.04,
+        "end": 550.88,
+        "text": "And so I've been working on this song that mentions these things.",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 550.88,
+        "end": 557.3199999999999,
+        "text": "And then also imagines a person who's been so successful at defending themselves from",
+        "score": 0.7065,
+        "label": "Positive"
+    },
+    {
+        "start": 557.3199999999999,
+        "end": 562.68,
+        "text": "heartbreak that they're left to do the deed themselves.",
+        "score": -0.5719,
+        "label": "Negative"
+    },
+    {
+        "start": 562.68,
+        "end": 565.88,
+        "text": "If that's possible, and that's what the song is asking.",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 565.88,
+        "end": 568.88,
+        "text": "All right.",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 568.88,
+        "end": 571.36,
+        "text": "It doesn't have a name yet.",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 665.04,
+        "end": 690.88,
+        "text": "Go ahead and congratulate yourself.",
+        "score": 0.4939,
+        "label": "Positive"
+    },
+    {
+        "start": 690.88,
+        "end": 692.36,
+        "text": "Give yourself a hand.",
+        "score": 0.4939,
+        "label": "Positive"
+    },
+    {
+        "start": 692.36,
+        "end": 694.36,
+        "text": "The hand is your hand.",
+        "score": 0.7506,
+        "label": "Positive"
+    },
+    {
+        "start": 694.36,
+        "end": 700.48,
+        "text": "And the eye that I, as itself is your eye and the ear that hears it self is near.",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 700.48,
+        "end": 704.32,
+        "text": "Because it's your ear.",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 704.32,
+        "end": 707.92,
+        "text": "Oh, you're done, the impossible now.",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 707.92,
+        "end": 711.28,
+        "text": "Took yourself apart.",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 711.28,
+        "end": 714.2,
+        "text": "You made yourself and vulnerable.",
+        "score": -0.2263,
+        "label": "Negative"
+    },
+    {
+        "start": 714.2,
+        "end": 718.88,
+        "text": "No one can break your heart.",
+        "score": -0.296,
+        "label": "Negative"
+    },
+    {
+        "start": 718.88,
+        "end": 722.44,
+        "text": "So you wear it out.",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 722.44,
+        "end": 729.44,
+        "text": "You ring it all, and you wear it all, and you break it yourself.",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 729.44,
+        "end": 733.44,
+        "text": "Ring it your own, and you break it yourself.",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 733.44,
+        "end": 739.44,
+        "text": "Ring it your own, and you break it yourself.",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 752.44,
+        "end": 759.44,
+        "text": "Thanks.",
+        "score": 0.4404,
+        "label": "Positive"
+    },
+    {
+        "start": 759.44,
+        "end": 766.44,
+        "text": "It's kind of cool.",
+        "score": 0.2516,
+        "label": "Positive"
+    },
+    {
+        "start": 766.44,
+        "end": 769.44,
+        "text": "Like songwriters can sort of get away with murder.",
+        "score": -0.4939,
+        "label": "Negative"
+    },
+    {
+        "start": 769.44,
+        "end": 777.44,
+        "text": "You can throw out crazy theories and not have to back it up with data or graphs or research.",
+        "score": -0.34,
+        "label": "Negative"
+    },
+    {
+        "start": 777.44,
+        "end": 784.44,
+        "text": "But I think reckless curiosity would be what the world needs now.",
+        "score": -0.5499,
+        "label": "Negative"
+    },
+    {
+        "start": 784.44,
+        "end": 790.44,
+        "text": "Just a little bit of...",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 790.44,
+        "end": 795.44,
+        "text": "I'm going to finish up with a song I'm called Weather Systems.",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 807.44,
+        "end": 820.44,
+        "text": "Quiet, quiet down she says.",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 820.44,
+        "end": 830.44,
+        "text": "Speaking to the back of his head on the edge of a bed I can see your blood flow I can see your...",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 830.44,
+        "end": 837.44,
+        "text": "...cells grow.",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 837.44,
+        "end": 844.44,
+        "text": "Hold still, while don't spill the wine.",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 844.44,
+        "end": 857.44,
+        "text": "I can see it all from here, I can see your heart can see.",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 857.44,
+        "end": 864.44,
+        "text": "Weather Systems are the world.",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 864.44,
+        "end": 878.44,
+        "text": "Oh, Weather Systems are...",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 878.44,
+        "end": 885.44,
+        "text": "Oh...",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 908.44,
+        "end": 918.44,
+        "text": "Something's just an opposite.",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 918.44,
+        "end": 927.44,
+        "text": "I would hold it where all free agents of some substance are.",
+        "score": 0.5106,
+        "label": "Positive"
+    },
+    {
+        "start": 927.44,
+        "end": 953.44,
+        "text": "I can see it all from here, I can see your heart can see.",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 953.44,
+        "end": 958.44,
+        "text": "Weather Systems are...",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 958.44,
+        "end": 963.44,
+        "text": "The world.",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 983.44,
+        "end": 993.44,
+        "text": "The world.",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 993.44,
+        "end": 1003.44,
+        "text": "The world.",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 1003.44,
+        "end": 1013.44,
+        "text": "The world.",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 1013.44,
+        "end": 1023.44,
+        "text": "The world.",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 1023.44,
+        "end": 1033.44,
+        "text": "The world.",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 1053.44,
+        "end": 1072.44,
+        "text": "Weather Systems are...",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 1072.44,
+        "end": 1087.44,
+        "text": "...",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 1087.44,
+        "end": 1095.44,
+        "text": "...",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 1095.44,
+        "end": 1114.44,
+        "text": "...",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 1114.44,
+        "end": 1139.44,
+        "text": "...",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 1140.44,
+        "end": 1149.44,
+        "text": "Thanks.",
+        "score": 0.4404,
+        "label": "Positive"
+    },
+    {
+        "start": 1149.44,
+        "end": 1155.44,
+        "text": "That was Andrew Bird recorded at TED 2010 in Long Beach, California, February, 2010.",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 1155.44,
+        "end": 1160.44,
+        "text": "For more information on TED, visit TED.com.",
+        "score": 0.0,
+        "label": "Neutral"
+    }
+]

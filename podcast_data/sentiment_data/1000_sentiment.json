@@ -1,0 +1,1808 @@
+[
+    {
+        "start": 0.0,
+        "end": 10.64,
+        "text": "10 Talks to Recorded Live at the Ted Conference",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 10.64,
+        "end": 14.96,
+        "text": "This episode features optogeneticist, Gyro Misonbock",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 14.96,
+        "end": 17.04,
+        "text": "This talk contains powerful visuals",
+        "score": 0.4215,
+        "label": "Positive"
+    },
+    {
+        "start": 17.04,
+        "end": 19.44,
+        "text": "Download the video at Ted.com",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 19.44,
+        "end": 21.84,
+        "text": "Here's Gyro Misonbock",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 21.84,
+        "end": 26.48,
+        "text": "I have a doppelg\u00e4nger",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 26.48,
+        "end": 34.96,
+        "text": "Dr. Gero is a brilliant but slightly mad scientist",
+        "score": -0.3528,
+        "label": "Negative"
+    },
+    {
+        "start": 34.96,
+        "end": 37.76,
+        "text": "In the Dragon Ball Sea Android Saga",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 37.76,
+        "end": 45.120000000000005,
+        "text": "If you look very carefully, you see that his skull has been replaced with a transparent plexiglass dome",
+        "score": 0.2006,
+        "label": "Positive"
+    },
+    {
+        "start": 45.120000000000005,
+        "end": 50.0,
+        "text": "so that the workings of his brain can be observed and also controlled with light",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 50.96,
+        "end": 53.04,
+        "text": "That's exactly what I do",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 53.04,
+        "end": 56.8,
+        "text": "Optical mind control",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 56.8,
+        "end": 62.32,
+        "text": "But in contrast to my evil twin who lusts after world domination",
+        "score": -0.8126,
+        "label": "Negative"
+    },
+    {
+        "start": 62.32,
+        "end": 64.72,
+        "text": "My motives are not sinister",
+        "score": 0.4847,
+        "label": "Positive"
+    },
+    {
+        "start": 64.72,
+        "end": 69.12,
+        "text": "I control the brain in order to understand how it works",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 69.12,
+        "end": 73.28,
+        "text": "Now wait a minute you may say how can you go straight to controlling the brain",
+        "score": 0.2263,
+        "label": "Positive"
+    },
+    {
+        "start": 73.28,
+        "end": 75.84,
+        "text": "without understanding it first?",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 75.84,
+        "end": 79.92,
+        "text": "Isn't that putting the card before the horse?",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 80.24,
+        "end": 83.04,
+        "text": "Many neuroscientists agree with this view",
+        "score": 0.3612,
+        "label": "Positive"
+    },
+    {
+        "start": 83.04,
+        "end": 88.96000000000001,
+        "text": "and think that understanding will come from more detailed observation and analysis",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 88.96000000000001,
+        "end": 93.2,
+        "text": "They say if we could record the activity of all neurons",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 93.2,
+        "end": 95.68,
+        "text": "we would understand the brain",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 95.68,
+        "end": 98.64,
+        "text": "But think for a moment what that means",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 98.64,
+        "end": 102.96000000000001,
+        "text": "Even if we could measure what every cell is doing at all times",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 102.96000000000001,
+        "end": 106.8,
+        "text": "we would still have to make sense of the recorded activity patterns",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 106.88,
+        "end": 114.0,
+        "text": "And that's so difficult chances are we'll understand these patterns just as little as the brains that produce them",
+        "score": -0.2876,
+        "label": "Negative"
+    },
+    {
+        "start": 114.0,
+        "end": 116.8,
+        "text": "Take a look at what brain activity might look like",
+        "score": 0.3612,
+        "label": "Positive"
+    },
+    {
+        "start": 116.8,
+        "end": 120.72,
+        "text": "In this simulation each black dot is one nerve cell",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 120.72,
+        "end": 124.72,
+        "text": "The dot is visible whenever the cell fires an electrical impulse",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 124.72,
+        "end": 126.96,
+        "text": "There's 10,000 neurons here",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 126.96,
+        "end": 132.07999999999998,
+        "text": "So you're looking at roughly 1% of the brain of a cockroach",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 132.8,
+        "end": 137.36,
+        "text": "Your brains are about 100 million times more complicated",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 137.36,
+        "end": 142.32000000000002,
+        "text": "Somewhere in a pattern like this is you",
+        "score": 0.3612,
+        "label": "Positive"
+    },
+    {
+        "start": 142.32000000000002,
+        "end": 149.12,
+        "text": "Your perceptions, your emotions, your memories, your plans for the future",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 149.12,
+        "end": 153.92000000000002,
+        "text": "But we don't know where since we don't know how to read the pattern",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 153.92000000000002,
+        "end": 157.44,
+        "text": "We don't understand the code used by the brain",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 157.52,
+        "end": 160.88,
+        "text": "To make progress we need to break the code",
+        "score": 0.4215,
+        "label": "Positive"
+    },
+    {
+        "start": 160.88,
+        "end": 162.4,
+        "text": "But how?",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 163.44,
+        "end": 169.12,
+        "text": "An experienced code break will tell you that in order to figure out what the symbols in a code mean",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 169.12,
+        "end": 174.32,
+        "text": "it's essential to be able to play with them to rearrange them at will",
+        "score": 0.34,
+        "label": "Positive"
+    },
+    {
+        "start": 174.32,
+        "end": 179.84,
+        "text": "So in this situation too to decode the information contained in patterns like this",
+        "score": 0.3612,
+        "label": "Positive"
+    },
+    {
+        "start": 179.84,
+        "end": 181.84,
+        "text": "Watching alone won't do",
+        "score": -0.25,
+        "label": "Negative"
+    },
+    {
+        "start": 181.84,
+        "end": 184.32,
+        "text": "We need to rearrange the pattern",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 184.32,
+        "end": 188.4,
+        "text": "In other words, instead of recording the activity of neurons",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 188.4,
+        "end": 189.92,
+        "text": "we need to control it",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 189.92,
+        "end": 194.0,
+        "text": "It's not essential that we can control the activity of all neurons in the brain",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 194.0,
+        "end": 194.95999999999998,
+        "text": "Just some",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 194.95999999999998,
+        "end": 197.12,
+        "text": "The more targeted our interventions the better",
+        "score": 0.4404,
+        "label": "Positive"
+    },
+    {
+        "start": 197.12,
+        "end": 201.44,
+        "text": "And I'll show you in a moment how we can achieve the necessary precision",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 201.44,
+        "end": 203.92,
+        "text": "And since I'm realistic rather than grandiose",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 203.92,
+        "end": 208.24,
+        "text": "I don't claim that the ability to control the function of the nervous system",
+        "score": 0.0516,
+        "label": "Positive"
+    },
+    {
+        "start": 208.24,
+        "end": 211.2,
+        "text": "will at once unravel all its mysteries",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 211.2,
+        "end": 212.88,
+        "text": "But we'll certainly learn a lot",
+        "score": 0.4767,
+        "label": "Positive"
+    },
+    {
+        "start": 215.28,
+        "end": 223.04,
+        "text": "Now I'm by no means the first person to realize how powerful a tool intervention is",
+        "score": 0.1531,
+        "label": "Positive"
+    },
+    {
+        "start": 223.04,
+        "end": 228.16,
+        "text": "The history of attempts to think of as the function of the nervous system is long and elastrous",
+        "score": -0.2732,
+        "label": "Negative"
+    },
+    {
+        "start": 228.16,
+        "end": 236.32,
+        "text": "It dates back at least 200 years to Galvanis famous experiments in the late 18th century and beyond",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 236.32,
+        "end": 244.24,
+        "text": "Galvanis showed that the frogs legs twitched when he connected the lumbar nerve to a source of electrical current",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 245.20000000000002,
+        "end": 250.96,
+        "text": "This experiment revealed the first and perhaps most fundamental nugget of the neural code",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 250.96,
+        "end": 254.56,
+        "text": "That information is written in the form of electrical impulses",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 256.56,
+        "end": 263.84000000000003,
+        "text": "Galvanis approach of probing the nervous system with electrodes has remained state of the art until today",
+        "score": -0.2732,
+        "label": "Negative"
+    },
+    {
+        "start": 263.84000000000003,
+        "end": 265.6,
+        "text": "Despite the number of drawbacks",
+        "score": -0.0572,
+        "label": "Negative"
+    },
+    {
+        "start": 266.24,
+        "end": 269.44,
+        "text": "Sticking wires into the brain is obviously rather crude",
+        "score": -0.5719,
+        "label": "Negative"
+    },
+    {
+        "start": 269.44,
+        "end": 272.24,
+        "text": "It's hard to do in animals that run around",
+        "score": -0.1027,
+        "label": "Negative"
+    },
+    {
+        "start": 272.40000000000003,
+        "end": 277.2,
+        "text": "And there is a physical limit to the number of wires that can be inserted simultaneously",
+        "score": 0.0772,
+        "label": "Positive"
+    },
+    {
+        "start": 278.88,
+        "end": 282.32,
+        "text": "So around the turn of the last century I started to think",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 283.12,
+        "end": 287.2,
+        "text": "Wouldn't it be wonderful if one could take this logic and turn it upside down",
+        "score": -0.4585,
+        "label": "Negative"
+    },
+    {
+        "start": 288.24,
+        "end": 292.16,
+        "text": "So instead of inserting a wire into one spot of the brain",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 292.88,
+        "end": 294.88,
+        "text": "Reengineer the brain itself",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 295.36,
+        "end": 300.88,
+        "text": "So that some of its neural elements become responsive to a diffusely broadcast signal",
+        "score": 0.3612,
+        "label": "Positive"
+    },
+    {
+        "start": 300.96,
+        "end": 302.96,
+        "text": "Such as a flash of light",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 303.68,
+        "end": 306.4,
+        "text": "Such an approach would literally in a flash of light",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 307.2,
+        "end": 309.44,
+        "text": "Overcome many of the obstacles to discovery",
+        "score": -0.3818,
+        "label": "Negative"
+    },
+    {
+        "start": 310.24,
+        "end": 314.71999999999997,
+        "text": "First, it's clearly a non-invasive wireless form of communication",
+        "score": 0.4019,
+        "label": "Positive"
+    },
+    {
+        "start": 315.52,
+        "end": 320.08,
+        "text": "And second, just as in a radio broadcast you can communicate with many receivers at once",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 320.64,
+        "end": 322.8,
+        "text": "You don't need to know where these receivers are",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 323.68,
+        "end": 327.92,
+        "text": "And it doesn't matter if these receivers move just think of the stereo in your car",
+        "score": -0.0191,
+        "label": "Neutral"
+    },
+    {
+        "start": 329.44,
+        "end": 330.71999999999997,
+        "text": "It gets even better",
+        "score": 0.4404,
+        "label": "Positive"
+    },
+    {
+        "start": 331.52,
+        "end": 337.12,
+        "text": "For it turns out that we can fabricate the receivers out of materials that are encoded in DNA",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 338.24,
+        "end": 341.12,
+        "text": "So each nerve cell with the right genetic makeup",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 341.68,
+        "end": 346.88,
+        "text": "Those spontaneously produce a receiver that allows us to control its function",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 348.0,
+        "end": 352.8,
+        "text": "I hope you'll appreciate the beautiful simplicity of this concept",
+        "score": 0.8591,
+        "label": "Positive"
+    },
+    {
+        "start": 353.28,
+        "end": 358.24,
+        "text": "There's no high-tech gizmos here just biology revealed through biology",
+        "score": -0.296,
+        "label": "Negative"
+    },
+    {
+        "start": 358.72,
+        "end": 362.72,
+        "text": "Now let's take a look at these miraculous receivers up close",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 363.12,
+        "end": 365.6,
+        "text": "As we zoom in on one of these purple neurons",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 365.92,
+        "end": 369.28000000000003,
+        "text": "We see that its outer membrane is studied with microscopic pores",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 369.84000000000003,
+        "end": 372.16,
+        "text": "Pores like these conduct electrical current",
+        "score": 0.3612,
+        "label": "Positive"
+    },
+    {
+        "start": 372.32,
+        "end": 375.36,
+        "text": "And are responsible for all the communication in the nervous system",
+        "score": 0.0516,
+        "label": "Positive"
+    },
+    {
+        "start": 376.24,
+        "end": 378.24,
+        "text": "But these pores here are special",
+        "score": 0.5499,
+        "label": "Positive"
+    },
+    {
+        "start": 378.40000000000003,
+        "end": 381.6,
+        "text": "They are coupled to light receptors similar to the ones in your eyes",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 382.32,
+        "end": 384.88,
+        "text": "Whenever a flash of light hits the receptor",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 384.96,
+        "end": 387.92,
+        "text": "The poor opens an electrical current is switched on",
+        "score": -0.4767,
+        "label": "Negative"
+    },
+    {
+        "start": 387.92,
+        "end": 390.15999999999997,
+        "text": "And the neuron fires electrical impulses",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 390.64,
+        "end": 394.0,
+        "text": "Because the light activated pores encoded in DNA",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 394.0,
+        "end": 396.0,
+        "text": "We can achieve incredible precision",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 396.88,
+        "end": 402.4,
+        "text": "This is because although each cell in our bodies contains the same set of genes",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 402.4,
+        "end": 406.15999999999997,
+        "text": "Different mixes of genes can turn on and off in different cells",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 407.12,
+        "end": 411.76,
+        "text": "We can exploit this to make sure that only some neurons contain our light activated",
+        "score": 0.2263,
+        "label": "Positive"
+    },
+    {
+        "start": 411.76,
+        "end": 412.96,
+        "text": "Poor and others don't",
+        "score": -0.4767,
+        "label": "Negative"
+    },
+    {
+        "start": 413.52,
+        "end": 419.12,
+        "text": "So in this cartoon the bluish white cell in the upper left corner does not respond to light",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 419.12,
+        "end": 421.68,
+        "text": "Because it lacks the light activated poor",
+        "score": -0.4767,
+        "label": "Negative"
+    },
+    {
+        "start": 422.88,
+        "end": 427.68,
+        "text": "The approach works so well that we can write purely artificial messages directly to the brain",
+        "score": 0.4101,
+        "label": "Positive"
+    },
+    {
+        "start": 428.32,
+        "end": 435.36,
+        "text": "In this example each electrical impulse, each deflection on the trace is caused by a brief pulse of light",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 436.4,
+        "end": 440.4,
+        "text": "And the approach of course also works in moving behaving animals",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 441.35999999999996,
+        "end": 446.15999999999997,
+        "text": "This is the first ever such experiment sort of the optical equivalent of galvanis",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 446.96,
+        "end": 451.35999999999996,
+        "text": "It was done six or seven years ago by my then graduate student Susana Lima",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 451.35999999999996,
+        "end": 454.32,
+        "text": "Susana had engineered the fruit fly on the left",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 455.2,
+        "end": 461.28,
+        "text": "So that just two out of the 200,000 cells in its brain expressed the light activated poor",
+        "score": -0.4767,
+        "label": "Negative"
+    },
+    {
+        "start": 461.91999999999996,
+        "end": 466.88,
+        "text": "You're familiar with these cells because they are the ones that frustrate you when you try to swap the fly",
+        "score": -0.4588,
+        "label": "Negative"
+    },
+    {
+        "start": 467.44,
+        "end": 473.52,
+        "text": "They trigger these capri-flakes that makes the fly jump into the air and fly away whenever you move your hand in position",
+        "score": 0.4939,
+        "label": "Positive"
+    },
+    {
+        "start": 474.32,
+        "end": 479.04,
+        "text": "And you can see here that the flash of light has exactly the same effect the animal jumps",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 479.12,
+        "end": 485.12,
+        "text": "It spreads its wings, it vibrates them, but it can't actually take off because the fly is sandwiched between two glass plates",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 486.71999999999997,
+        "end": 490.64,
+        "text": "Now to make sure that this was no reaction of the fly to a flash it could see",
+        "score": 0.0258,
+        "label": "Neutral"
+    },
+    {
+        "start": 491.52,
+        "end": 495.68,
+        "text": "Susana did a simple but brutally effective experiment",
+        "score": -0.3291,
+        "label": "Negative"
+    },
+    {
+        "start": 496.16,
+        "end": 497.92,
+        "text": "She cut the heads off of our flies",
+        "score": -0.2732,
+        "label": "Negative"
+    },
+    {
+        "start": 499.36,
+        "end": 501.68,
+        "text": "These headless bodies can live for about a day",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 502.48,
+        "end": 504.48,
+        "text": "But they don't do much",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 504.88,
+        "end": 509.76,
+        "text": "They just they just stand around and groom excessively",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 510.48,
+        "end": 514.0,
+        "text": "So it seems that the only trait that survives the capitation is vanity",
+        "score": -0.2263,
+        "label": "Negative"
+    },
+    {
+        "start": 518.48,
+        "end": 520.64,
+        "text": "Anyway as you as you'll see in a moment",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 520.88,
+        "end": 525.52,
+        "text": "Susana was able to turn on the flight motor of what's the equivalent of the spinal cord of the",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 525.68,
+        "end": 530.8,
+        "text": "These flies and get some of the headless bodies to actually take off and fly away",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 535.5999999999999,
+        "end": 537.5999999999999,
+        "text": "They didn't get very far obviously",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 538.4799999999999,
+        "end": 546.88,
+        "text": "Since we took these first steps the field of optogenetics has exploded and there's now hundreds of labs using these approaches",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 547.8399999999999,
+        "end": 554.4799999999999,
+        "text": "And we've come in long ways in Skalvanis and Susana's first successes in making animals twitch a jump",
+        "score": 0.5574,
+        "label": "Positive"
+    },
+    {
+        "start": 555.12,
+        "end": 558.8000000000001,
+        "text": "We can now actually interfere with their psychology in rather profound ways",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 559.28,
+        "end": 563.84,
+        "text": "As I'll show you in my last example which is directed at a familiar question",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 564.96,
+        "end": 566.96,
+        "text": "Life is a string of choices",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 567.52,
+        "end": 570.48,
+        "text": "Creating a constant pressure to decide what to do next",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 571.6,
+        "end": 576.08,
+        "text": "We cope with this pressure by having brains and within our brains",
+        "score": -0.3612,
+        "label": "Negative"
+    },
+    {
+        "start": 576.64,
+        "end": 580.32,
+        "text": "Decision-making centers that I've called here the actor",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 581.2800000000001,
+        "end": 588.6400000000001,
+        "text": "The actor implements a policy that takes into account the state of the environment and the context in which we operate",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 589.5200000000001,
+        "end": 595.36,
+        "text": "Our actions change the environment or the context and these changes are then fed back into the decision loop",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 596.4000000000001,
+        "end": 600.72,
+        "text": "Now to put some neurobiologically meat on this abstract model",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 601.44,
+        "end": 606.08,
+        "text": "We constructed a simple one-dimensional world for our favorite subjects fruit flies",
+        "score": 0.4588,
+        "label": "Positive"
+    },
+    {
+        "start": 606.88,
+        "end": 614.8000000000001,
+        "text": "Each chamber in these two vertical stacks contains one fly the left and the right halves of the chamber are filled with two different",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 614.8000000000001,
+        "end": 619.9200000000001,
+        "text": "Olders and the security camera watches as the flies pace up and down between them",
+        "score": 0.34,
+        "label": "Positive"
+    },
+    {
+        "start": 620.88,
+        "end": 627.6,
+        "text": "Here's some such CCTV footage whenever a fly reaches the midpoint of the chamber where the two order streams meet",
+        "score": 0.0516,
+        "label": "Positive"
+    },
+    {
+        "start": 628.08,
+        "end": 630.08,
+        "text": "It has to make a decision",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 630.24,
+        "end": 635.9200000000001,
+        "text": "It has to decide whether to turn around and stay in the same order or whether to cross the midline and",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 636.24,
+        "end": 638.24,
+        "text": "Something new",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 638.32,
+        "end": 642.64,
+        "text": "These decisions are clearly a reflection of the actor's policy",
+        "score": 0.4019,
+        "label": "Positive"
+    },
+    {
+        "start": 644.24,
+        "end": 647.0400000000001,
+        "text": "Now for an intelligent being like our fly",
+        "score": 0.6705,
+        "label": "Positive"
+    },
+    {
+        "start": 648.0,
+        "end": 650.4000000000001,
+        "text": "This policy is not written in stone",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 650.4000000000001,
+        "end": 653.36,
+        "text": "But rather changes as the animal learns from experience",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 654.08,
+        "end": 658.0,
+        "text": "We can incorporate such an element of adaptive intelligence into our model",
+        "score": 0.4767,
+        "label": "Positive"
+    },
+    {
+        "start": 658.8000000000001,
+        "end": 662.32,
+        "text": "By assuming that the fly's brain contains not only an actor",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 662.88,
+        "end": 669.2800000000001,
+        "text": "But a different group of cells a critic that provides a running commentary on the actor's choices",
+        "score": -0.3919,
+        "label": "Negative"
+    },
+    {
+        "start": 670.32,
+        "end": 675.5200000000001,
+        "text": "You can think of this nagging in the voice as sort of the brain's equivalent of the Catholic Church",
+        "score": -0.481,
+        "label": "Negative"
+    },
+    {
+        "start": 676.6400000000001,
+        "end": 684.24,
+        "text": "Um if you're an Austrian like me or a or the super ego if you're a Freudian or your mother if you're Jewish",
+        "score": 0.7506,
+        "label": "Positive"
+    },
+    {
+        "start": 687.84,
+        "end": 689.84,
+        "text": "Now now obviously",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 690.8000000000001,
+        "end": 694.8000000000001,
+        "text": "The critic is a key ingredient in what makes us intelligent",
+        "score": 0.2263,
+        "label": "Positive"
+    },
+    {
+        "start": 695.6,
+        "end": 701.44,
+        "text": "So we set out to identify the cells in the fly's brain that played the role of the critic",
+        "score": 0.0772,
+        "label": "Positive"
+    },
+    {
+        "start": 702.24,
+        "end": 704.64,
+        "text": "And the logic of our experiment was simple",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 704.64,
+        "end": 707.36,
+        "text": "We thought if we could use our optical remote control",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 707.9200000000001,
+        "end": 709.84,
+        "text": "To activate the cells of the critic",
+        "score": -0.2732,
+        "label": "Negative"
+    },
+    {
+        "start": 710.32,
+        "end": 715.12,
+        "text": "We should be able artificially to nag the actor into changing its policy",
+        "score": -0.3612,
+        "label": "Negative"
+    },
+    {
+        "start": 715.84,
+        "end": 719.2,
+        "text": "In other words the fly should learn from mistakes",
+        "score": -0.3612,
+        "label": "Negative"
+    },
+    {
+        "start": 719.9200000000001,
+        "end": 723.44,
+        "text": "That it thought it had made but in reality it had not made",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 724.48,
+        "end": 728.96,
+        "text": "So we bred flies whose brains were more or less randomly peppered",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 729.52,
+        "end": 731.76,
+        "text": "With cells that were light addressable",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 731.76,
+        "end": 734.8000000000001,
+        "text": "And then we took these flies and allowed them to make choices",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 735.36,
+        "end": 737.52,
+        "text": "And whenever they made one of the two choices",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 738.0,
+        "end": 740.88,
+        "text": "Chose one order in this case the blue one over the orange one",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 741.44,
+        "end": 743.44,
+        "text": "We switched on the lights",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 743.6800000000001,
+        "end": 746.48,
+        "text": "If the critic was among the optically activated cells",
+        "score": -0.2732,
+        "label": "Negative"
+    },
+    {
+        "start": 747.12,
+        "end": 750.96,
+        "text": "The result of this intervention should be a change in policy",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 751.28,
+        "end": 754.96,
+        "text": "The fly should learn to avoid the optically reinforced order",
+        "score": -0.296,
+        "label": "Negative"
+    },
+    {
+        "start": 755.84,
+        "end": 758.08,
+        "text": "Here's what happened in two instances",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 758.8000000000001,
+        "end": 762.08,
+        "text": "We're comparing two strains of flies each of them",
+        "score": -0.296,
+        "label": "Negative"
+    },
+    {
+        "start": 762.4,
+        "end": 765.36,
+        "text": "Having about a hundred light addressable cells in their brains",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 765.84,
+        "end": 768.5600000000001,
+        "text": "Shown here in green on the left and on the right",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 769.12,
+        "end": 774.24,
+        "text": "What's common among these groups of cells is that they all produce the neurotransmitter dopamine",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 774.96,
+        "end": 778.5600000000001,
+        "text": "But the identities of the individual dopamine producing neurons",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 778.5600000000001,
+        "end": 781.76,
+        "text": "are clearly largely different on the left and on the right",
+        "score": 0.4019,
+        "label": "Positive"
+    },
+    {
+        "start": 782.32,
+        "end": 784.5600000000001,
+        "text": "Optically activating these",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 784.5600000000001,
+        "end": 787.28,
+        "text": "100 or so cells in the two strains of flies",
+        "score": -0.296,
+        "label": "Negative"
+    },
+    {
+        "start": 787.6,
+        "end": 789.6,
+        "text": "Had dramatically different consequences",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 790.24,
+        "end": 793.36,
+        "text": "If you look first at the behavior of the fly on the right",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 793.6,
+        "end": 796.64,
+        "text": "You can see that whenever it reaches the midpoint of the chamber",
+        "score": 0.0516,
+        "label": "Positive"
+    },
+    {
+        "start": 796.64,
+        "end": 799.6,
+        "text": "When the two orders meet it marches straight through",
+        "score": 0.2263,
+        "label": "Positive"
+    },
+    {
+        "start": 800.32,
+        "end": 801.6800000000001,
+        "text": "As it did before",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 801.76,
+        "end": 803.92,
+        "text": "Its behavior is completely unchanged",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 803.92,
+        "end": 806.4799999999999,
+        "text": "But the behavior of the fly on the left is very different",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 807.1999999999999,
+        "end": 809.1999999999999,
+        "text": "Whenever it comes up to the midpoint",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 810.0,
+        "end": 813.52,
+        "text": "It pauses it carefully scans the order interfaces",
+        "score": 0.128,
+        "label": "Positive"
+    },
+    {
+        "start": 813.52,
+        "end": 817.3599999999999,
+        "text": "If it was sniffing out its environment and then it turns around",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 817.3599999999999,
+        "end": 820.4,
+        "text": "This means that the policy that the actor implements",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 820.4,
+        "end": 824.64,
+        "text": "Now includes an instruction to avoid the order that's in the right half of the chamber",
+        "score": -0.296,
+        "label": "Negative"
+    },
+    {
+        "start": 825.52,
+        "end": 828.9599999999999,
+        "text": "This means that the critic must have spoken in that animal",
+        "score": -0.2732,
+        "label": "Negative"
+    },
+    {
+        "start": 829.0400000000001,
+        "end": 834.08,
+        "text": "And that the critic must be contained among the dopamine producing neurons on the left",
+        "score": -0.2732,
+        "label": "Negative"
+    },
+    {
+        "start": 834.08,
+        "end": 836.72,
+        "text": "But not among the dopamine producing neurons on the right",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 838.48,
+        "end": 840.08,
+        "text": "Through many such experiments",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 840.8000000000001,
+        "end": 845.44,
+        "text": "We were able to narrow down the identity of the critic to just 12 cells",
+        "score": -0.2732,
+        "label": "Negative"
+    },
+    {
+        "start": 846.72,
+        "end": 849.2,
+        "text": "These 12 cells are shown here in green",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 849.9200000000001,
+        "end": 853.84,
+        "text": "They sent their output to a brain structure called the mushroom body",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 853.84,
+        "end": 855.2,
+        "text": "Which is shown here in gray",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 855.76,
+        "end": 859.0400000000001,
+        "text": "We know from our formal model that the brain structure",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 859.0400000000001,
+        "end": 862.24,
+        "text": "At the receiving end of the critics commentary",
+        "score": -0.296,
+        "label": "Negative"
+    },
+    {
+        "start": 862.24,
+        "end": 864.88,
+        "text": "Is the actor so this anatomy suggests",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 864.88,
+        "end": 868.5600000000001,
+        "text": "That the mushroom bodies have something to do with action choice",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 869.84,
+        "end": 872.08,
+        "text": "Based on everything we know about the mushroom bodies",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 872.08,
+        "end": 873.2,
+        "text": "This makes perfect sense",
+        "score": 0.5719,
+        "label": "Positive"
+    },
+    {
+        "start": 873.2,
+        "end": 875.12,
+        "text": "In fact it makes so much sense",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 875.76,
+        "end": 879.0400000000001,
+        "text": "That we can construct an electronic toy circuit",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 879.0400000000001,
+        "end": 881.2,
+        "text": "That simulates the behavior of the fly",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 882.1600000000001,
+        "end": 884.48,
+        "text": "In this electronic toy circuit",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 884.48,
+        "end": 889.5200000000001,
+        "text": "The mushroom body neurons are symbolized by the vertical bank of blue LEDs",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 889.5200000000001,
+        "end": 890.8000000000001,
+        "text": "In the center of the board",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 892.4000000000001,
+        "end": 897.6,
+        "text": "These LEDs are wired to sensors that detect the presence of odorous molecules in the air",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 898.48,
+        "end": 902.32,
+        "text": "Each odor activates a different combination of sensors",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 902.32,
+        "end": 906.08,
+        "text": "Which in turn activates a different odor detector in the mushroom body",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 907.2,
+        "end": 909.36,
+        "text": "So the pilot in the cockpit of the fly",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 909.92,
+        "end": 913.12,
+        "text": "The actor can tell which odor is present",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 913.12,
+        "end": 916.24,
+        "text": "Simply by looking at which of the blue LEDs lights up",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 917.6,
+        "end": 920.88,
+        "text": "What the actor does with this information depends on its policy",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 921.52,
+        "end": 924.24,
+        "text": "Which is stored in the strengths of the connection",
+        "score": 0.4019,
+        "label": "Positive"
+    },
+    {
+        "start": 924.48,
+        "end": 926.32,
+        "text": "Between the odor detectors",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 926.32,
+        "end": 929.36,
+        "text": "And the motors that power the fly's evasive actions",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 930.32,
+        "end": 932.8000000000001,
+        "text": "If the connection is weak the motors will stay off",
+        "score": -0.4404,
+        "label": "Negative"
+    },
+    {
+        "start": 932.8000000000001,
+        "end": 935.12,
+        "text": "And the fly will continue straight on its course",
+        "score": 0.2263,
+        "label": "Positive"
+    },
+    {
+        "start": 935.76,
+        "end": 938.4,
+        "text": "If the connection is strong the motors will turn on",
+        "score": 0.5106,
+        "label": "Positive"
+    },
+    {
+        "start": 938.64,
+        "end": 940.4,
+        "text": "And the fly will initiate the turn",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 941.92,
+        "end": 943.6,
+        "text": "Now consider a situation in which",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 944.64,
+        "end": 947.84,
+        "text": "The motors stay off the fly continues on its path",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 948.48,
+        "end": 951.6,
+        "text": "And it suffers some painful consequence such as getting zapped",
+        "score": -0.7184,
+        "label": "Negative"
+    },
+    {
+        "start": 953.12,
+        "end": 956.48,
+        "text": "In a situation like this we would expect the critic to speak up",
+        "score": 0.1027,
+        "label": "Positive"
+    },
+    {
+        "start": 956.9599999999999,
+        "end": 959.76,
+        "text": "And to tell the actor to change its policy",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 960.9599999999999,
+        "end": 963.76,
+        "text": "We have created such a situation artificially",
+        "score": 0.25,
+        "label": "Positive"
+    },
+    {
+        "start": 963.76,
+        "end": 965.92,
+        "text": "By turning on the critic with a flash of light",
+        "score": -0.2732,
+        "label": "Negative"
+    },
+    {
+        "start": 966.88,
+        "end": 970.0799999999999,
+        "text": "That caused a strengthening of the connections",
+        "score": 0.4939,
+        "label": "Positive"
+    },
+    {
+        "start": 970.0799999999999,
+        "end": 973.76,
+        "text": "Between the currently active odor detector and the motors",
+        "score": 0.4019,
+        "label": "Positive"
+    },
+    {
+        "start": 974.4799999999999,
+        "end": 978.8,
+        "text": "So the next time the fly finds itself facing the same odor again",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 979.36,
+        "end": 982.56,
+        "text": "The connection is strong enough to turn on the motors",
+        "score": 0.5106,
+        "label": "Positive"
+    },
+    {
+        "start": 982.56,
+        "end": 984.9599999999999,
+        "text": "And to trigger an evasive maneuver",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 988.16,
+        "end": 990.16,
+        "text": "I don't know about you",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 990.4,
+        "end": 993.68,
+        "text": "But I find it exhilarating to see",
+        "score": 0.5499,
+        "label": "Positive"
+    },
+    {
+        "start": 993.92,
+        "end": 996.8,
+        "text": "How vague psychological notions evaporate",
+        "score": -0.1027,
+        "label": "Negative"
+    },
+    {
+        "start": 997.4399999999999,
+        "end": 1001.4399999999999,
+        "text": "And give rise to a physical mechanistic understanding of the mind",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 1001.76,
+        "end": 1003.3599999999999,
+        "text": "Even if it's the mind of the fly",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 1004.2399999999999,
+        "end": 1006.2399999999999,
+        "text": "This is one piece of good news",
+        "score": 0.4404,
+        "label": "Positive"
+    },
+    {
+        "start": 1007.52,
+        "end": 1010.7199999999999,
+        "text": "The other piece of good news for scientists at least",
+        "score": 0.4404,
+        "label": "Positive"
+    },
+    {
+        "start": 1011.4399999999999,
+        "end": 1013.4399999999999,
+        "text": "Is that much remains to be discovered",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 1014.9599999999999,
+        "end": 1016.8,
+        "text": "In the experiments I told you about",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 1016.8,
+        "end": 1018.9599999999999,
+        "text": "We have lifted the identity of the critic",
+        "score": -0.2732,
+        "label": "Negative"
+    },
+    {
+        "start": 1019.52,
+        "end": 1022.16,
+        "text": "But we still have no idea how the critic does its job",
+        "score": -0.6652,
+        "label": "Negative"
+    },
+    {
+        "start": 1023.12,
+        "end": 1025.28,
+        "text": "Come to think of it knowing when you're wrong",
+        "score": -0.4767,
+        "label": "Negative"
+    },
+    {
+        "start": 1025.76,
+        "end": 1028.0,
+        "text": "Without a teacher or your mother telling you",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 1028.48,
+        "end": 1029.68,
+        "text": "It's a very hard problem",
+        "score": -0.5678,
+        "label": "Negative"
+    },
+    {
+        "start": 1030.8799999999999,
+        "end": 1034.3999999999999,
+        "text": "There are some ideas in computer science and in artificial intelligence",
+        "score": 0.4767,
+        "label": "Positive"
+    },
+    {
+        "start": 1034.8799999999999,
+        "end": 1036.56,
+        "text": "As to how this might be done",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 1036.8,
+        "end": 1039.6,
+        "text": "But we still haven't solved a single example",
+        "score": -0.3007,
+        "label": "Negative"
+    },
+    {
+        "start": 1040.96,
+        "end": 1043.6,
+        "text": "Of how intelligent behavior",
+        "score": 0.4588,
+        "label": "Positive"
+    },
+    {
+        "start": 1044.24,
+        "end": 1047.28,
+        "text": "Springs from the physical interactions in living matter",
+        "score": 0.0258,
+        "label": "Neutral"
+    },
+    {
+        "start": 1048.32,
+        "end": 1050.8,
+        "text": "I think we'll get there in the not-to-distant future",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 1051.44,
+        "end": 1053.44,
+        "text": "Thank you",
+        "score": 0.3612,
+        "label": "Positive"
+    },
+    {
+        "start": 1056.48,
+        "end": 1058.32,
+        "text": "That was gyro-misonbach",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 1058.32,
+        "end": 1063.44,
+        "text": "Recorded at Ted Global 2010 in Oxford, England, July 2010",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 1063.44,
+        "end": 1066.1599999999999,
+        "text": "For more information on Ted visit Ted.com",
+        "score": 0.0,
+        "label": "Neutral"
+    }
+]

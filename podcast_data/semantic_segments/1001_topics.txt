@@ -1,0 +1,19 @@
+=== TOPIC ANALYSIS FOR: 1001 ===
+
+Total Sentences: 84 | Detected Topics: 4
+
+
+🔹 TOPIC 1:  Ted Talks are recorded live at the Ted Conference and partner events . This episode features musician Andrew Bird . Bird: There's lots to talk about, and I think I'm just going to play to start on .
+   (Starts with: " Ted Talks are recorded live at the Ted Conference and partner events. This episode features musician Andrew Bird. Here's Andrew Bird. Well, there's lots to talk about, and I think I'm just going to p...")
+
+
+🔹 TOPIC 2: The luck it's going to be.
+   (Starts with: "The luck it's going to be....")
+
+
+🔹 TOPIC 3:  I want to debut a new song that I've been working on in the last five or six months . This is basically a song about loops, but not the kind of loops that I make up here . In the audio world, that's when the microphone gets too close to its sound source, and then it gets in this self-destructive loop that creates a very unpleasant sound .
+   (Starts with: "Here are the... Chaotic All right. So I wanted to do something special today. I want to debut a new song that I've been working on in the last five or six months. And there's a few things more thrilli...")
+
+
+🔹 TOPIC 4:  Andrew Bird recorded at TED 2010 in Long Beach, California, February, 2010 . Bird: "When I close my eyes sometimes and try to sleep, I can't stop thinking about my own eyes" Bird: I've been working on this song that mentions these things .
+   (Starts with: "What's the other one? Biological. There's autoimmune diseases where the body attacks itself, little two overzealously, and destroys the host, the person. And then, okay, this is where we get to the so...")

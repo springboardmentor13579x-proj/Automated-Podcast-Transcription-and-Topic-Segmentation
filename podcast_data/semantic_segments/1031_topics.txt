@@ -1,0 +1,11 @@
+=== TOPIC ANALYSIS FOR: 1031 ===
+
+Total Sentences: 143 | Detected Topics: 2
+
+
+🔹 TOPIC 1:  Tony Porter grew up in New York City between Harlem and the Bronx . He says he was taught that men had to be tough, strong, courageous, dominating, no pain, no emotions with the exception of anger and definitely no fear . Porter: There are some wonderful, wonderful, absolutely wonderful things about being a man .
+   (Starts with: " Ted Talks are recorded live at the Ted Conference and partner events. This episode features educator Tony Porter. Here's Tony Porter. Hello folks, I'm Tony Porter from a call to men. I want to talk w...")
+
+
+🔹 TOPIC 2:  Anthony grew up in Tenement buildings, you know, in the inner city, and at this time we were living in the Bronx . In the building next to where he lived, he was about 16 years old, and we were all about 12 years old . He was hanging out with all his younger guys and he was having sex with a 16-year-old girl . He asked a boy, a football player, how would you feel if in front of all the players your coach told you you were playing like a girl? And I said to myself, God, if it would destroy him to be called a girl, what are
+   (Starts with: "Why would I do this? And I think back to my father, there was a time in my life where we had a very trouble experience in our family. My brother Henry, he died tragically when we was teenagers. We liv...")

@@ -1,0 +1,751 @@
+[
+    {
+        "start": 0.0,
+        "end": 9.0,
+        "text": "This TED Talk features business school professor Tanya Menon, recorded live at TEDx Ohio State University, 2017.",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 11.0,
+        "end": 15.0,
+        "text": "This episode is brought to you by Briars, America's favorite ice cream brand.",
+        "score": 0.4588,
+        "label": "Positive"
+    },
+    {
+        "start": 15.0,
+        "end": 20.0,
+        "text": "If you're on a diet or living a low-carb lifestyle, Briars has the perfect treat for you.",
+        "score": 0.7506,
+        "label": "Positive"
+    },
+    {
+        "start": 20.0,
+        "end": 26.0,
+        "text": "It's Briars Carb Smart. With yummy flavors like caramel swirl, chocolate covered almond, vanilla, and peanut butter.",
+        "score": 0.8225,
+        "label": "Positive"
+    },
+    {
+        "start": 26.0,
+        "end": 34.0,
+        "text": "Briars Carb Smart is available in tubs and bars, each with between 3 to 5 grams net carbs and 150 calories or less per serving.",
+        "score": 0.4019,
+        "label": "Positive"
+    },
+    {
+        "start": 34.0,
+        "end": 42.0,
+        "text": "Try Briars Carb Smart for your next sweet tooth craving. Get a coupon at briars.com slash health talks.",
+        "score": 0.5574,
+        "label": "Positive"
+    },
+    {
+        "start": 46.0,
+        "end": 54.0,
+        "text": "I started teaching MBA students 17 years ago, and sometimes I run into my students years later.",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 55.0,
+        "end": 64.0,
+        "text": "When I run into them, a funny thing happens. I don't remember just their faces. I also remember where exactly in the classroom they were sitting.",
+        "score": 0.4404,
+        "label": "Positive"
+    },
+    {
+        "start": 64.0,
+        "end": 72.0,
+        "text": "I also remember who they were sitting with as well. This is not because I have any special superpowers of memory.",
+        "score": 0.5859,
+        "label": "Positive"
+    },
+    {
+        "start": 72.0,
+        "end": 81.0,
+        "text": "The reason I can remember them is because they have creatures of habit. They are sitting with the favorite people in their favorite seats.",
+        "score": 0.7184,
+        "label": "Positive"
+    },
+    {
+        "start": 81.0,
+        "end": 85.0,
+        "text": "They find their twins. They stay with them for the whole year.",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 85.0,
+        "end": 95.0,
+        "text": "Now, the danger of this for my students is they're at risk of leaving the university with just a few people who are exactly like them.",
+        "score": -0.4588,
+        "label": "Negative"
+    },
+    {
+        "start": 95.0,
+        "end": 101.0,
+        "text": "They're going to squander their chance for an international diverse network. How could this happen to them?",
+        "score": 0.25,
+        "label": "Positive"
+    },
+    {
+        "start": 101.0,
+        "end": 107.0,
+        "text": "My students are open-minded. They come to business school precisely so that they can get great networks.",
+        "score": 0.6249,
+        "label": "Positive"
+    },
+    {
+        "start": 108.0,
+        "end": 114.0,
+        "text": "Now, all of us socially narrow in our lives, in our school and in work.",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 114.0,
+        "end": 121.0,
+        "text": "I want you to think about this one. How many of you here brought a friend along for this talk?",
+        "score": 0.5423,
+        "label": "Positive"
+    },
+    {
+        "start": 121.0,
+        "end": 128.0,
+        "text": "I want you to look at your friend a little bit. Are they of the same nationality as you?",
+        "score": 0.5423,
+        "label": "Positive"
+    },
+    {
+        "start": 128.0,
+        "end": 133.0,
+        "text": "Are they of the same gender as you? Are they of the same race?",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 133.0,
+        "end": 137.0,
+        "text": "Look at them closely. Don't they look like you as well?",
+        "score": -0.0026,
+        "label": "Neutral"
+    },
+    {
+        "start": 137.0,
+        "end": 143.0,
+        "text": "They're muscle people together and the people are the same hairstyles and the check shirts.",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 143.0,
+        "end": 147.0,
+        "text": "We all do this in life. We all do it in life.",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 147.0,
+        "end": 153.0,
+        "text": "In fact, there's nothing wrong with this. It makes us comfortable to be around people who are similar.",
+        "score": 0.7054,
+        "label": "Positive"
+    },
+    {
+        "start": 153.0,
+        "end": 162.0,
+        "text": "The problem is when we are on a precipice. When we're in trouble, when we need new ideas, when we need new jobs, when we need new resources,",
+        "score": -0.6597,
+        "label": "Negative"
+    },
+    {
+        "start": 162.0,
+        "end": 167.0,
+        "text": "this is when we really pay a price for living in a click.",
+        "score": -0.1761,
+        "label": "Negative"
+    },
+    {
+        "start": 167.0,
+        "end": 174.0,
+        "text": "Mark Granaveta, the sociologist, he had a famous paper called The Strength of Weak Ties.",
+        "score": 0.0772,
+        "label": "Positive"
+    },
+    {
+        "start": 174.0,
+        "end": 179.0,
+        "text": "What he did in this paper, he asked people how they got their jobs.",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 179.0,
+        "end": 183.0,
+        "text": "What he learned was that most people don't get their jobs through their strong ties.",
+        "score": 0.5106,
+        "label": "Positive"
+    },
+    {
+        "start": 183.0,
+        "end": 188.0,
+        "text": "Their father, their mother, their significant other. They instead get jobs through weak ties.",
+        "score": -0.2732,
+        "label": "Negative"
+    },
+    {
+        "start": 188.0,
+        "end": 195.0,
+        "text": "People who they just met. So if you think about what the problem is with your strong ties, think about your significant other, for example.",
+        "score": 0.34,
+        "label": "Positive"
+    },
+    {
+        "start": 195.0,
+        "end": 202.0,
+        "text": "The network is redundant. Everybody that they know, you know, or I hope you know them.",
+        "score": 0.4404,
+        "label": "Positive"
+    },
+    {
+        "start": 202.0,
+        "end": 209.0,
+        "text": "Your Weak Ties, people you just met today, they are your ticket to a whole new social world.",
+        "score": -0.4404,
+        "label": "Negative"
+    },
+    {
+        "start": 209.0,
+        "end": 215.0,
+        "text": "The thing is that we have this amazing ticket to travel our social world, but we don't use it very well.",
+        "score": 0.704,
+        "label": "Positive"
+    },
+    {
+        "start": 215.0,
+        "end": 218.0,
+        "text": "Sometimes we stay awfully close to home.",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 218.0,
+        "end": 224.0,
+        "text": "And today what I want to talk about is what are those habits that keep human being so close to home?",
+        "score": 0.0772,
+        "label": "Positive"
+    },
+    {
+        "start": 224.0,
+        "end": 229.0,
+        "text": "And how can we be a little bit more intentional about traveling our social universe?",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 229.0,
+        "end": 238.0,
+        "text": "So let's look at the first strategy. The first strategy is to use a more imperfect social search engine.",
+        "score": -0.3804,
+        "label": "Negative"
+    },
+    {
+        "start": 238.0,
+        "end": 245.0,
+        "text": "And what I mean by a social search engine, this is how you are finding and filtering your friends.",
+        "score": 0.4767,
+        "label": "Positive"
+    },
+    {
+        "start": 245.0,
+        "end": 252.0,
+        "text": "And so people always tell me, I want to get lucky through the network. I want to get a new job. I want to get a great opportunity.",
+        "score": 0.891,
+        "label": "Positive"
+    },
+    {
+        "start": 252.0,
+        "end": 257.0,
+        "text": "And I say, well, that's really hard because your networks are so fundamentally predictable.",
+        "score": 0.1045,
+        "label": "Positive"
+    },
+    {
+        "start": 257.0,
+        "end": 266.0,
+        "text": "Map out your habitual daily footpath. And what you'll probably discover is that you can start at home, you go to your school or your workplace,",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 266.0,
+        "end": 274.0,
+        "text": "you maybe go up the same staircase or elevator, you go to the bathroom, the same bathroom, and the same stall in that bathroom.",
+        "score": -0.2023,
+        "label": "Negative"
+    },
+    {
+        "start": 274.0,
+        "end": 280.0,
+        "text": "You end up in the gym, then you come right back home. It's like stops on a train schedule. It's that predictable.",
+        "score": 0.2263,
+        "label": "Positive"
+    },
+    {
+        "start": 280.0,
+        "end": 286.0,
+        "text": "It's efficient, but the problem is that you're seeing exactly the same people.",
+        "score": -0.3919,
+        "label": "Negative"
+    },
+    {
+        "start": 286.0,
+        "end": 295.0,
+        "text": "Make your network slightly more inefficient. Go to a bathroom on a different floor. You encounter a whole new network of people.",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 295.0,
+        "end": 307.0,
+        "text": "The other side of it is how we are actually filtering. And we do this automatically. The minute we meet someone, we're looking at them, we meet them, we're initially seeing you're interesting.",
+        "score": 0.4019,
+        "label": "Positive"
+    },
+    {
+        "start": 307.0,
+        "end": 312.0,
+        "text": "You're not interesting, you're relevant. We do this automatically. We can't even help it.",
+        "score": -0.5448,
+        "label": "Negative"
+    },
+    {
+        "start": 312.0,
+        "end": 319.0,
+        "text": "And what I want to encourage you to do instead is to fight your filters. I want you to take a look around this room.",
+        "score": 0.3182,
+        "label": "Positive"
+    },
+    {
+        "start": 319.0,
+        "end": 326.0,
+        "text": "And I want you to identify the least interesting person that you see. And I want you to connect with them over the next coffee break.",
+        "score": -0.1675,
+        "label": "Negative"
+    },
+    {
+        "start": 326.0,
+        "end": 333.0,
+        "text": "And I want you to go even further than that. What I want you to do is to find the most irritating person you see as well.",
+        "score": -0.1513,
+        "label": "Negative"
+    },
+    {
+        "start": 333.0,
+        "end": 344.0,
+        "text": "And connect with them. What you are doing with this exercise is you are forcing yourself to see what you don't want to see.",
+        "score": -0.0572,
+        "label": "Negative"
+    },
+    {
+        "start": 344.0,
+        "end": 354.0,
+        "text": "To connect with who you don't want to connect to widen your social world. To truly widen what we have to do is we've got to fight our sense of choice.",
+        "score": 0.0201,
+        "label": "Neutral"
+    },
+    {
+        "start": 354.0,
+        "end": 360.0,
+        "text": "We've got to fight our choices. And my students hate this. But you know what I do? I won't let them sit in their favorite seats.",
+        "score": 0.2144,
+        "label": "Positive"
+    },
+    {
+        "start": 360.0,
+        "end": 370.0,
+        "text": "I move them around from seat to seat. I force them to work with different people so that there are more accidental bumps in the network where people get a chance to connect with each other.",
+        "score": 0.1045,
+        "label": "Positive"
+    },
+    {
+        "start": 370.0,
+        "end": 379.0,
+        "text": "And we studied exactly this kind of an intervention at Harvard University. And at Harvard, when you look at the rooming groups, there's freshmen rooming groups.",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 379.0,
+        "end": 387.0,
+        "text": "People are not choosing those roommates. They're all different races, all different ethnicities. Maybe people are initially uncomfortable with those roommates.",
+        "score": -0.3818,
+        "label": "Negative"
+    },
+    {
+        "start": 387.0,
+        "end": 398.0,
+        "text": "But the amazing thing is at the end of a year with those students, they're able to overcome that initial discomfort. They're able to find deep level commonalities with people.",
+        "score": 0.3612,
+        "label": "Positive"
+    },
+    {
+        "start": 398.0,
+        "end": 414.0,
+        "text": "So the takeaway here is not just take someone out to coffee. It's a little more subtle. It's go to the coffee room. And when researchers talk about social hubs, what makes a social hub so special is you can't choose.",
+        "score": 0.541,
+        "label": "Positive"
+    },
+    {
+        "start": 414.0,
+        "end": 425.0,
+        "text": "You can't predict who you're going to meet in that place. And so with these social hubs, the paradox is interesting enough to get randomness.",
+        "score": 0.3182,
+        "label": "Positive"
+    },
+    {
+        "start": 425.0,
+        "end": 440.0,
+        "text": "It requires actually some planning. In one university that I worked at, there was a mail room on every single floor. What that meant is that the only people who would bump into each other are those who are actually on that floor and who are bumping into each other anyway.",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 440.0,
+        "end": 450.0,
+        "text": "At another university I worked at, there was only one mail room. And so all the faculty from all over that building would run into each other in that social hub.",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 450.0,
+        "end": 464.0,
+        "text": "A simple change in planning, a huge difference in the traffic of people and the accidental bumps in the network. And here's my question for you. What are you doing that breaks you from your social habits?",
+        "score": 0.25,
+        "label": "Positive"
+    },
+    {
+        "start": 464.0,
+        "end": 476.0,
+        "text": "Where do you find yourself in places where you get injections of diversity, unpredictable diversity? And my students give me some wonderful examples. They tell me when they're doing pickup basketball games.",
+        "score": 0.5719,
+        "label": "Positive"
+    },
+    {
+        "start": 476.0,
+        "end": 489.0,
+        "text": "Or my favorite example is when they go to a dog park. They tell me it's even better than online dating when they're there. So the real thing that I want you to think about is we've got to fight our filters.",
+        "score": 0.5574,
+        "label": "Positive"
+    },
+    {
+        "start": 489.0,
+        "end": 504.0,
+        "text": "We've got to make ourselves a little more inefficient. And by doing so we're creating a more imprecise social search engine. And you're creating that randomness, that luck that is going to cause you to widen your travels through your social universe.",
+        "score": 0.788,
+        "label": "Positive"
+    },
+    {
+        "start": 504.0,
+        "end": 514.0,
+        "text": "But in fact there's more to it than that. Sometimes we actually buy ourselves a second class ticket to travel our social universe.",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 514.0,
+        "end": 526.0,
+        "text": "We are not courageous when we reach out to people. Let me give you an example of that. A few years ago I had a very eventful year. That year I managed to lose a job.",
+        "score": -0.6571,
+        "label": "Negative"
+    },
+    {
+        "start": 526.0,
+        "end": 535.0,
+        "text": "I managed to get a dream job overseas and accept it. I had a baby the next month. I got very sick. I was unable to take the dream job.",
+        "score": 0.2516,
+        "label": "Positive"
+    },
+    {
+        "start": 535.0,
+        "end": 544.0,
+        "text": "And so in a few weeks what ended up happening was I lost my identity as a faculty member and I got a very stressful new identity as a mother.",
+        "score": -0.7089,
+        "label": "Negative"
+    },
+    {
+        "start": 544.0,
+        "end": 552.0,
+        "text": "And what I also got was tons of advice from people. And the advice I despised more than any other advice was you've got to go network with everybody.",
+        "score": -0.4019,
+        "label": "Negative"
+    },
+    {
+        "start": 552.0,
+        "end": 560.0,
+        "text": "When your psychological world is breaking down the hardest thing to do is to try and reach out and build up your social world.",
+        "score": 0.0258,
+        "label": "Neutral"
+    },
+    {
+        "start": 560.0,
+        "end": 571.0,
+        "text": "And so we studied exactly this idea on a much larger scale. What we did was we looked at high and low socio-economic status people.",
+        "score": -0.2732,
+        "label": "Negative"
+    },
+    {
+        "start": 571.0,
+        "end": 578.0,
+        "text": "And we looked at them in two situations. We looked at them first in a baseline condition when they were quite comfortable.",
+        "score": 0.5563,
+        "label": "Positive"
+    },
+    {
+        "start": 578.0,
+        "end": 586.0,
+        "text": "And what we found was that our lower socio-economic status people when they were comfortable they were actually reaching out to more people. They thought of more people.",
+        "score": 0.4404,
+        "label": "Positive"
+    },
+    {
+        "start": 586.0,
+        "end": 593.0,
+        "text": "They were also less constrained in how they were networking. They were thinking of more diverse people. Then they hire status people.",
+        "score": -0.0276,
+        "label": "Neutral"
+    },
+    {
+        "start": 593.0,
+        "end": 602.0,
+        "text": "Then we asked them to think about maybe losing a job. We threatened them. And once they thought about that the networks they generated completely differed.",
+        "score": -0.6808,
+        "label": "Negative"
+    },
+    {
+        "start": 602.0,
+        "end": 610.0,
+        "text": "The lower socio-economic status people they reached inwards. They thought of fewer people. They thought of less diverse people.",
+        "score": -0.2023,
+        "label": "Negative"
+    },
+    {
+        "start": 610.0,
+        "end": 620.0,
+        "text": "The higher socio-economic status people. They thought of more people. They thought of a broader network. They were positioning themselves to bounce back from that setback.",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 620.0,
+        "end": 635.0,
+        "text": "Let's consider what this actually means. Imagine that you are being spontaneously unfriended by everyone in your network other than your mom, your dad, and your dog.",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 635.0,
+        "end": 642.0,
+        "text": "This is essentially what we are doing at these moments when we need our networks the most.",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 642.0,
+        "end": 654.0,
+        "text": "Imagine this is what we are doing it to ourselves. We are mentally compressing our networks when we are being harassed, when we are being bullied, when we are threatened about losing a job, when we feel down and weak.",
+        "score": -0.9442,
+        "label": "Negative"
+    },
+    {
+        "start": 654.0,
+        "end": 664.0,
+        "text": "We are closing our self-off, isolating our self-subscrating a blind spot where we actually don't see our resources. We don't see our allies, we don't see our opportunities.",
+        "score": -0.5972,
+        "label": "Negative"
+    },
+    {
+        "start": 664.0,
+        "end": 672.0,
+        "text": "How can we overcome this? Two simple strategies. One strategy is simply to look at your list of Facebook friends and LinkedIn friends.",
+        "score": 0.7351,
+        "label": "Positive"
+    },
+    {
+        "start": 672.0,
+        "end": 678.0,
+        "text": "Just so you remind yourself of people who are there beyond those that automatically come to mind.",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 678.0,
+        "end": 700.0,
+        "text": "In our own research, one of the things we did was we considered Claude Steele's research on self-affirmation. Simply thinking about your own values, networking from a place of strength, what Lee Thompson, Hun Suk Choi and I were able to do is we found that people who had affirmed themselves first were able to take advice from people who would otherwise be threatening to them.",
+        "score": 0.3612,
+        "label": "Positive"
+    },
+    {
+        "start": 700.0,
+        "end": 710.0,
+        "text": "Here is a last exercise. I want you to look in your email inbox and I want you to look at the last time you asked somebody for a favor.",
+        "score": 0.5106,
+        "label": "Positive"
+    },
+    {
+        "start": 710.0,
+        "end": 719.0,
+        "text": "I want you to look at the language that you used. Did you say things like, oh, you are a great resource or I owe you one. I am obligated to you.",
+        "score": 0.7845,
+        "label": "Positive"
+    },
+    {
+        "start": 719.0,
+        "end": 728.0,
+        "text": "All of this language represents a metaphor. It is a metaphor of economics, of a balanced sheet, of accounting, of transactions.",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 728.0,
+        "end": 735.0,
+        "text": "And when we think about human relations in a transactional way, it is fundamentally uncomfortable to us as human beings.",
+        "score": -0.3818,
+        "label": "Negative"
+    },
+    {
+        "start": 735.0,
+        "end": 744.0,
+        "text": "We must think about human relations and reaching out to people in more humane ways. And here is an idea as to how to do so.",
+        "score": 0.2023,
+        "label": "Positive"
+    },
+    {
+        "start": 744.0,
+        "end": 751.0,
+        "text": "Look at words like, please thank you, you are welcome. In other languages, look at the literal translation of these words.",
+        "score": 0.8519,
+        "label": "Positive"
+    },
+    {
+        "start": 751.0,
+        "end": 756.0,
+        "text": "Each of these words is a word that helps us impose upon other people in our social networks.",
+        "score": 0.1027,
+        "label": "Positive"
+    },
+    {
+        "start": 756.0,
+        "end": 764.0,
+        "text": "And so the word thank you, if you look at it in Spanish, Italian, French, Gracia, Gracie, Merci in French.",
+        "score": 0.4144,
+        "label": "Positive"
+    },
+    {
+        "start": 764.0,
+        "end": 771.0,
+        "text": "Each of them are grace and mercy. They are godly words. There is nothing economic or transactional about those words.",
+        "score": 0.6486,
+        "label": "Positive"
+    },
+    {
+        "start": 772.0,
+        "end": 778.0,
+        "text": "The word you are welcome is interesting. The great persuasion theorist Robert Childini says, we have to get our favors back.",
+        "score": 0.8957,
+        "label": "Positive"
+    },
+    {
+        "start": 778.0,
+        "end": 786.0,
+        "text": "So we need to emphasize the transaction a little bit more. He says, let's not say you are welcome. Instead say, I know you do the same for me.",
+        "score": 0.4588,
+        "label": "Positive"
+    },
+    {
+        "start": 786.0,
+        "end": 794.0,
+        "text": "But sometimes it may be helpful to not think in transactional ways, to eliminate the transaction, to make it a little bit more invisible.",
+        "score": 0.5719,
+        "label": "Positive"
+    },
+    {
+        "start": 795.0,
+        "end": 804.0,
+        "text": "And in fact if you look in Chinese, the word bucaji, in Chinese you are welcome means don't be formal. We are family, we don't need to go through those formalities.",
+        "score": 0.4588,
+        "label": "Positive"
+    },
+    {
+        "start": 804.0,
+        "end": 815.0,
+        "text": "And Cambaliant Indonesian is come back to me. When you say you are welcome next time, think about how you can maybe sometimes eliminate the transaction and instead strengthen that social tie.",
+        "score": 0.6486,
+        "label": "Positive"
+    },
+    {
+        "start": 815.0,
+        "end": 820.0,
+        "text": "Maybe it is great to collaborate or that is what friends are for.",
+        "score": 0.802,
+        "label": "Positive"
+    },
+    {
+        "start": 821.0,
+        "end": 827.0,
+        "text": "I want you to think about how you think about this ticket that you have to travel your social universe.",
+        "score": 0.0772,
+        "label": "Positive"
+    },
+    {
+        "start": 827.0,
+        "end": 837.0,
+        "text": "Here is one metaphor. It is a common metaphor. Life is a journey, right? It is a train ride. And you are on this train, you are passing around the train and there are certain people with you.",
+        "score": 0.2732,
+        "label": "Positive"
+    },
+    {
+        "start": 837.0,
+        "end": 843.0,
+        "text": "Certain people get on this train and some stay with you, some leave at different stops, new ones may enter.",
+        "score": 0.0772,
+        "label": "Positive"
+    },
+    {
+        "start": 843.0,
+        "end": 852.0,
+        "text": "I love this metaphor. It is a beautiful one but I want you to consider a different metaphor. This one is passive, being a passenger on that train.",
+        "score": 0.7717,
+        "label": "Positive"
+    },
+    {
+        "start": 852.0,
+        "end": 870.0,
+        "text": "And it is quite linear, you are off to some particular destination. Why not instead think of yourself as an atom, bumping up against other atoms, maybe transferring energy with them, bonding with them a little and maybe creating something new on your travels through the social universe.",
+        "score": 0.4654,
+        "label": "Positive"
+    },
+    {
+        "start": 870.0,
+        "end": 874.0,
+        "text": "Thank you so much and I hope we bump into each other again.",
+        "score": 0.6872,
+        "label": "Positive"
+    },
+    {
+        "start": 878.0,
+        "end": 882.0,
+        "text": "For more TED Talks, go to TED.com",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 886.0,
+        "end": 888.0,
+        "text": "PRX",
+        "score": 0.0,
+        "label": "Neutral"
+    }
+]

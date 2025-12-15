@@ -1,0 +1,157 @@
+AI Podcast Transcription & Diarization System
+
+Project Goal: To build an automated pipeline that takes raw podcast audio and converts it into a professional, speaker-labeled script with summaries.
+
+1. Data Collection (download_kaggle_subset.py)
+
+What's in it: A script that connects to Kaggle and downloads a specific amount of data (e.g., 2GB).
+
+What we used: kaggle (Python API).
+
+Why: Real podcast datasets are massive (100GB+). We needed a way to download just a small, manageable "slice" for testing without filling up the hard drive.
+
+How it works:
+
+It authenticates using your API key.
+
+It lists files in the dataset.
+
+It downloads audio files one by one until the 2GB limit is reached, then stops automatically.
+
+2. Audio Preprocessing (preprocess_audio.py)
+
+What's in it: A cleaning machine that standardizes all audio files.
+
+What we used: librosa (for audio analysis) and soundfile (for saving).
+
+Why: AI models are picky. They perform best when audio is consistent. Raw MP3s can be stereo, noisy, or have different sample rates, which slows down or confuses the AI.
+
+How it works:
+
+Format: Converts compressed MP3s to uncompressed WAV.
+
+Resampling: Changes sample rate to 16,000 Hz (16kHz). Viva Tip: This is the native rate OpenAI Whisper was trained on.
+
+Mono: Mixes Stereo (Left/Right) into Mono (One track) because speech models don't need directional sound.
+
+Skipping: Checks if a file is already processed to save time.
+
+3. Transcription & Summarization (transcribe_podcasts.py)
+
+What's in it: The "Ears" and "Brain" of the project. It listens to audio and writes text.
+
+What we used:
+
+OpenAI Whisper: For Speech-to-Text (Transcription).
+
+Hugging Face Transformers (DistilBART): For abstractive summarization.
+
+Why:
+
+Whisper: It is currently the state-of-the-art open-source model for accuracy.
+
+JSON: We save data as JSON (not just text) because we need the exact timestamps (start/end time) of every sentence for the next step.
+
+How it works:
+
+Transcription: It feeds the clean WAV file into Whisper. Whisper outputs text segments with timestamps.
+
+Interactive Mode: After processing, it asks if you want a summary.
+
+Smart Summary: It takes the full text, feeds it into DistilBART, and generates a concise 200-250 word summary of the podcast.
+
+4. Speaker Diarization (diarize_podcasts.py)
+
+What's in it: The "Who said what" engine. This turns a block of text into a script.
+
+What we used: pyannote.audio.
+
+Why: Whisper knows what was said, but it is bad at knowing who said it. Pyannote is specialized for "Speaker Diarization" (identifying unique voices).
+
+How it works:
+
+Parallel Processing: It runs Pyannote on the audio to get a list of "Who was speaking when" (e.g., Speaker 1: 00:00-00:05).
+
+Merging: It loads the JSON timestamps from Whisper.
+
+Alignment: It matches the timestamps. If Whisper says "Hello" at 00:02, and Pyannote says "Speaker A" was active at 00:02, the script labels that line as "Speaker A".
+
+Key Technologies (Cheat Sheet)
+
+Whisper (OpenAI): Converts Audio → Text.
+
+Pyannote (Hugging Face): Identifies Voices (Diarization).
+
+Librosa: Handles audio loading and mathematics.
+
+FFmpeg: The engine under the hood that reads/writes audio formats.
+
+Technical Stack & Implementation Details (For Viva/Interview)
+
+If asked "How exactly did you build this?", use these technical details:
+
+1. Audio Processing Stack
+
+Library: librosa (The industry standard for audio analysis in Python).
+
+Code Implementation:
+
+y, sr = librosa.load(audio_path, sr=16000, mono=True)
+
+
+Why 16,000 Hz? This is the specific sampling rate the Whisper model was trained on. Giving it 44.1kHz audio forces it to downsample internally, wasting CPU cycles. We do it proactively.
+
+Why Mono? Speech recognition models analyze a single waveform. Stereo channels contain redundant data.
+
+2. Transcription Model
+
+Library: openai-whisper
+
+Model Architecture: Transformer-based Encoder-Decoder.
+
+Specific Model Used: base model (~74M parameters).
+
+Note: We chose 'base' as a trade-off between speed and accuracy. The 'large' model is more accurate but requires 10GB+ VRAM.
+
+Code Implementation:
+
+model = whisper.load_model("base")
+result = model.transcribe(audio_file, fp16=False)
+
+
+Timestamps: We extract result['segments'] to get start/end times for every sentence, which is critical for mapping speakers later.
+
+3. Summarization Model
+
+Library: transformers (by Hugging Face).
+
+Model Architecture: BART (Bidirectional and Auto-Regressive Transformers).
+
+Specific Model Used: sshleifer/distilbart-cnn-12-6.
+
+Why this model? It is a "distilled" (smaller/faster) version of the massive BART model, fine-tuned specifically on the CNN/DailyMail dataset for news summarization. It is perfect for condensing factual content.
+
+Code Implementation:
+
+summarizer = pipeline("summarization", model="sshleifer/distilbart-cnn-12-6")
+summary = summarizer(text_chunk, max_length=300, min_length=150)
+
+
+4. Speaker Diarization (Segmentation)
+
+Library: pyannote.audio
+
+Specific Model Used: pyannote/speaker-diarization-3.1.
+
+How it works (Under the hood): It uses an end-to-end neural network that performs three tasks:
+
+Voice Activity Detection (VAD): "Is someone speaking?"
+
+Speaker Embedding: Creates a vector (mathematical fingerprint) for the voice.
+
+Clustering: Groups similar vectors together to assign labels (Speaker 0, Speaker 1).
+
+Code Implementation:
+
+pipeline = Pipeline.from_pretrained("pyannote/speaker-diarization-3.1")
+diarization = pipeline(audio_file)

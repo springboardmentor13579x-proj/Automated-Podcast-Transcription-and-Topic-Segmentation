@@ -1,0 +1,527 @@
+[
+    {
+        "start": 0.0,
+        "end": 7.0,
+        "text": "This TED Talk features author Bruce Renevossen, recorded live at TED NYC 2017.",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 7.0,
+        "end": 12.0,
+        "text": "We want to tell you about a podcast we think you'll love.",
+        "score": 0.6705,
+        "label": "Positive"
+    },
+    {
+        "start": 12.0,
+        "end": 15.0,
+        "text": "99% Invisible from PRX's Radio Topia.",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 15.0,
+        "end": 19.0,
+        "text": "Ever wonder how inflatable men came to be regular fixtures at used car lots?",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 19.0,
+        "end": 23.0,
+        "text": "Want to know why women's clothes typically don't have pockets?",
+        "score": 0.0772,
+        "label": "Positive"
+    },
+    {
+        "start": 23.0,
+        "end": 27.0,
+        "text": "99% Invisible is all about the thought that goes into the things we don't think about.",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 27.0,
+        "end": 30.0,
+        "text": "The unnoticed architecture and design that shape our world.",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 30.0,
+        "end": 37.0,
+        "text": "You can listen and subscribe to 99% Invisible, hosted by Roman Mars, at 99%Invisible.org,",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 37.0,
+        "end": 40.0,
+        "text": "or wherever you get your podcasts.",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 41.0,
+        "end": 45.0,
+        "text": "Support for TED Talk's daily comes from T-Mobile for Business.",
+        "score": 0.4019,
+        "label": "Positive"
+    },
+    {
+        "start": 45.0,
+        "end": 50.0,
+        "text": "T-Mobile and Sprint are joining forces, building a 5G network with more bandwidth,",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 50.0,
+        "end": 53.0,
+        "text": "tailored for businesses of all sizes nationwide.",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 54.0,
+        "end": 58.0,
+        "text": "It's a network designed to power businesses with the reach and reliability they need",
+        "score": 0.0258,
+        "label": "Neutral"
+    },
+    {
+        "start": 58.0,
+        "end": 64.0,
+        "text": "to keep employees and offices connected, and the capacity to handle business as it changes in the future.",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 64.0,
+        "end": 67.0,
+        "text": "More at T-MobileForBusiness.com",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 75.0,
+        "end": 77.0,
+        "text": "So what is capitalism?",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 77.0,
+        "end": 80.0,
+        "text": "Capitalism fundamentally is a series of marketplaces.",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 80.0,
+        "end": 85.0,
+        "text": "You could have a marketplace for lemonade, a marketplace for lemons, a marketplace for trucks",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 85.0,
+        "end": 91.0,
+        "text": "that transport lemons, a marketplace that fuels those trucks, marketplaces that sell wood to build lemonade stands.",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 91.0,
+        "end": 98.0,
+        "text": "However, capitalism, of course, as we know, is this either celebrated term or condemned term.",
+        "score": 0.2023,
+        "label": "Positive"
+    },
+    {
+        "start": 98.0,
+        "end": 101.0,
+        "text": "It's either revered or it's reviled.",
+        "score": 0.5106,
+        "label": "Positive"
+    },
+    {
+        "start": 101.0,
+        "end": 107.0,
+        "text": "And I'm here to argue that this is because capitalism in the modern iteration is largely misunderstood.",
+        "score": -0.5859,
+        "label": "Negative"
+    },
+    {
+        "start": 108.0,
+        "end": 115.0,
+        "text": "In my view, capitalism should not be thought of as an ideology, but instead should be thought of as an operating system.",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 115.0,
+        "end": 117.0,
+        "text": "Think of your iPhone.",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 117.0,
+        "end": 123.0,
+        "text": "Your iPhone merges hardware with software, apps and hardware.",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 123.0,
+        "end": 131.0,
+        "text": "Now think about all the hardware as the physical reality all around you, and think of the apps as entrepreneurial activity, creative energy.",
+        "score": 0.6124,
+        "label": "Positive"
+    },
+    {
+        "start": 131.0,
+        "end": 134.0,
+        "text": "And in between, you have an operating system.",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 134.0,
+        "end": 138.0,
+        "text": "As you have advances in hardware, you have advances in software.",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 138.0,
+        "end": 140.0,
+        "text": "And the operating system needs to keep up.",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 140.0,
+        "end": 143.0,
+        "text": "It needs to be patched. It needs to be updated.",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 143.0,
+        "end": 145.0,
+        "text": "New releases have to happen.",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 145.0,
+        "end": 148.0,
+        "text": "And all of these things have to happen symbiotically.",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 148.0,
+        "end": 154.0,
+        "text": "The operating system needs to keep getting more and more advanced to keep up with innovation.",
+        "score": 0.6318,
+        "label": "Positive"
+    },
+    {
+        "start": 154.0,
+        "end": 159.0,
+        "text": "And this is why fundamentally, when you think about it as an operating system,",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 159.0,
+        "end": 165.0,
+        "text": "it devolves the language of ideology away from what traditional defenders of capitalism think.",
+        "score": 0.0772,
+        "label": "Positive"
+    },
+    {
+        "start": 165.0,
+        "end": 176.0,
+        "text": "But even if you go to the Constitution, you'll notice, before the founders even got to the First Amendment with free speech, free religion, free press, they thought about patents and copyright.",
+        "score": 0.9366,
+        "label": "Positive"
+    },
+    {
+        "start": 176.0,
+        "end": 180.0,
+        "text": "They talked about the government's role in promoting arts and sciences.",
+        "score": 0.3612,
+        "label": "Positive"
+    },
+    {
+        "start": 180.0,
+        "end": 185.0,
+        "text": "It's the reason why I could not start a search engine tomorrow called Goggle.",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 186.0,
+        "end": 190.0,
+        "text": "Goggle doesn't own G's, but I couldn't do it because there could be some confusion.",
+        "score": -0.4215,
+        "label": "Negative"
+    },
+    {
+        "start": 190.0,
+        "end": 194.0,
+        "text": "So even property rights have ambiguity built into that.",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 194.0,
+        "end": 195.0,
+        "text": "And on and on.",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 195.0,
+        "end": 199.0,
+        "text": "And by 1900, you have other types of property that come into being.",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 199.0,
+        "end": 205.0,
+        "text": "For instance, imagine that in 1900, you owned 100 acres of land, some place in the Midwest.",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 205.0,
+        "end": 209.0,
+        "text": "It's very easy to see where your fence ends, your neighbor's property begins.",
+        "score": 0.4927,
+        "label": "Positive"
+    },
+    {
+        "start": 209.0,
+        "end": 212.0,
+        "text": "Now let me ask you, where in the sky does your property end?",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 213.0,
+        "end": 217.0,
+        "text": "Does it end at 1000 feet, 5000 feet, 10,000 feet?",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 217.0,
+        "end": 223.0,
+        "text": "It makes no difference because other than the novelty of a few hot air balloons, man couldn't fly.",
+        "score": -0.296,
+        "label": "Negative"
+    },
+    {
+        "start": 223.0,
+        "end": 225.0,
+        "text": "But within three years, he could.",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 225.0,
+        "end": 236.0,
+        "text": "Now, all of a sudden, it was very much relevant whether your land ends at 1000 feet in the sky, 5000 feet, 10,000 feet, and you have to have someone arbitrate that.",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 236.0,
+        "end": 252.0,
+        "text": "And indeed, that's exactly what happened in five or 10 years from now when Amazon wants to deliver a package over your house to your neighbor from that UPS truck, we're going to have to decide does your property end at five feet, 10 feet, 50 feet, 100 feet, where does it end?",
+        "score": 0.1779,
+        "label": "Positive"
+    },
+    {
+        "start": 252.0,
+        "end": 257.0,
+        "text": "And there is no ideology that'll tell you where your property ends.",
+        "score": -0.296,
+        "label": "Negative"
+    },
+    {
+        "start": 257.0,
+        "end": 259.0,
+        "text": "It's an operating system.",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 259.0,
+        "end": 262.0,
+        "text": "And similarly, we're going to see this with automobiles.",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 262.0,
+        "end": 267.0,
+        "text": "A few years after the Wright Brothers figured out flight, human beings started using more and more cars.",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 267.0,
+        "end": 275.0,
+        "text": "And all of a sudden, the regulatory system, the operating system had to be patched to all of a sudden address the safety of consumers.",
+        "score": 0.4215,
+        "label": "Positive"
+    },
+    {
+        "start": 275.0,
+        "end": 282.0,
+        "text": "That the consumers of vehicles were presenting danger to horses, other pedestrians, trolleys, what have you.",
+        "score": -0.5267,
+        "label": "Negative"
+    },
+    {
+        "start": 282.0,
+        "end": 286.0,
+        "text": "And all of a sudden, the driver of these automobiles had to have driver's licenses.",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 286.0,
+        "end": 296.0,
+        "text": "Iexams registered motor vehicles, speed limits, rules of the road so that horses, pedestrians could coexist with cars.",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 296.0,
+        "end": 298.0,
+        "text": "It had to be backwards compatible.",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 298.0,
+        "end": 303.0,
+        "text": "So a new invention had to basically fit advances from the past.",
+        "score": 0.3612,
+        "label": "Positive"
+    },
+    {
+        "start": 303.0,
+        "end": 310.0,
+        "text": "Similarly, five or 10 years from now, we're going to see the same thing with self-driving cars, coexisting with human-driven cars.",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 310.0,
+        "end": 316.0,
+        "text": "The reason why this is important is in 10 years, another thing is going to happen beyond drones in self-driving cars.",
+        "score": 0.2023,
+        "label": "Positive"
+    },
+    {
+        "start": 316.0,
+        "end": 323.0,
+        "text": "But you're going to see the most valuable economy in the world, the largest economy in the world, is going to be a country run by communists.",
+        "score": 0.6798,
+        "label": "Positive"
+    },
+    {
+        "start": 323.0,
+        "end": 327.0,
+        "text": "The Chinese seem to be very good at capitalism.",
+        "score": 0.4927,
+        "label": "Positive"
+    },
+    {
+        "start": 327.0,
+        "end": 334.0,
+        "text": "And this is going to have fundamental problems and present an identity crisis for the United States.",
+        "score": -0.6124,
+        "label": "Negative"
+    },
+    {
+        "start": 334.0,
+        "end": 347.0,
+        "text": "Because for a long time, free markets coincided with liberties such as free speech, free press, free religion, and all of a sudden this equation is going to be decoupled.",
+        "score": 0.9477,
+        "label": "Positive"
+    },
+    {
+        "start": 347.0,
+        "end": 363.0,
+        "text": "And when it gets decoupled, we might find the democracy, the multitude of voices actually impedes capitalism because a state that does not have any pretense of limited government can very quickly mandate a regulatory framework for drones, for electric cars.",
+        "score": -0.2263,
+        "label": "Negative"
+    },
+    {
+        "start": 363.0,
+        "end": 371.0,
+        "text": "For self-driving cars, for any new innovation where they feel that they can leapfrog Western societies.",
+        "score": 0.3818,
+        "label": "Positive"
+    },
+    {
+        "start": 371.0,
+        "end": 376.0,
+        "text": "And this is a very unique thing in the American experience.",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 376.0,
+        "end": 383.0,
+        "text": "And this is why it's very important to think of American capitalism as an operating system and not as an ideology.",
+        "score": 0.2716,
+        "label": "Positive"
+    },
+    {
+        "start": 383.0,
+        "end": 391.0,
+        "text": "Because when you think about it as an ideology, you can have good politics make for very, very bad policy.",
+        "score": -0.2895,
+        "label": "Negative"
+    },
+    {
+        "start": 391.0,
+        "end": 400.0,
+        "text": "That market outcomes and democratic voices and battles for votes can end up stifling progress.",
+        "score": 0.0516,
+        "label": "Positive"
+    },
+    {
+        "start": 400.0,
+        "end": 414.0,
+        "text": "So over the next few years, as this political cycle plays out, you're going to see American democracy rise to meet the challenges that capitalism poses and modernity poses.",
+        "score": 0.3182,
+        "label": "Positive"
+    },
+    {
+        "start": 414.0,
+        "end": 428.0,
+        "text": "And I ask policy makers to think about decoupling ideology from economics and think about how good policy can ultimately become good politics. Thank you.",
+        "score": 0.8074,
+        "label": "Positive"
+    },
+    {
+        "start": 428.0,
+        "end": 434.0,
+        "text": "For more TED Talks, go to TED.com",
+        "score": 0.0,
+        "label": "Neutral"
+    }
+]

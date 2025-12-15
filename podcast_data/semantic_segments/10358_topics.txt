@@ -1,0 +1,7 @@
+=== TOPIC ANALYSIS FOR: 10358 ===
+
+Total Sentences: 209 | Detected Topics: 1
+
+
+🔹 TOPIC 1:  This TED Talk features business school professor Tanya Menon, recorded live at TEDx Ohio State University, 2017 . Menon: What are habits that keep human being so close to home? And how can we be more intentional about traveling our social universe?
+   (Starts with: " This TED Talk features business school professor Tanya Menon, recorded live at TEDx Ohio State University, 2017. This episode is brought to you by Briars, America's favorite ice cream brand. If you'r...")
