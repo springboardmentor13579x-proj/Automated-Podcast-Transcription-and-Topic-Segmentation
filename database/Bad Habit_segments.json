@@ -1,0 +1,1323 @@
+[
+    {
+        "file": "Bad Habit_cleaned.json",
+        "segment_id": 1,
+        "text": "When I was first learning to meditate, the instruction was to simply pay attention to  my breath and when my mind wandered to bring it back.",
+        "summary": "when I was first learning to meditate, the instruction was to simply pay attention to my breath and when my mind wandered to bring it back.",
+        "keywords": [
+            "simply pay attention",
+            "learning to meditate",
+            "bring it back",
+            "simply pay",
+            "pay attention",
+            "mind wandered",
+            "wandered to bring",
+            "meditate"
+        ],
+        "start_time": 0.0,
+        "end_time": 20.92
+    },
+    {
+        "file": "Bad Habit_cleaned.json",
+        "segment_id": 2,
+        "text": "Sounded simple enough, yet I'd sit on these silent retreats, sweating through t-shirts  in the middle of winter.",
+        "summary": "I'd sit on these silent retreats sweating through t-shirts in the middle of winter .",
+        "keywords": [
+            "Sounded simple",
+            "silent retreats",
+            "sweating through t-shirts",
+            "middle of winter",
+            "Sounded",
+            "retreats",
+            "sweating",
+            "winter"
+        ],
+        "start_time": 20.92,
+        "end_time": 29.240000000000002
+    },
+    {
+        "file": "Bad Habit_cleaned.json",
+        "segment_id": 3,
+        "text": "I'd take naps every chance I got because it was really hard work.",
+        "summary": "I'd take naps every chance I got because it was really hard work . it was hard work.",
+        "keywords": [
+            "hard work",
+            "naps every chance",
+            "work",
+            "naps",
+            "chance",
+            "hard"
+        ],
+        "start_time": 29.24,
+        "end_time": 32.64
+    },
+    {
+        "file": "Bad Habit_cleaned.json",
+        "segment_id": 4,
+        "text": "Actually, it was exhausting.",
+        "summary": "it was exhausting, but it was a bit of a slur .",
+        "keywords": [
+            "exhausting"
+        ],
+        "start_time": 32.64,
+        "end_time": 35.48
+    },
+    {
+        "file": "Bad Habit_cleaned.json",
+        "segment_id": 5,
+        "text": "The instruction was simple enough, but I was missing something really important.",
+        "summary": "the instruction was simple enough, but I was missing something really important . the instruction is simple enough .",
+        "keywords": [
+            "instruction was simple",
+            "important",
+            "instruction",
+            "simple",
+            "missing"
+        ],
+        "start_time": 35.48,
+        "end_time": 40.4
+    },
+    {
+        "file": "Bad Habit_cleaned.json",
+        "segment_id": 6,
+        "text": "So why is it so hard to pay attention?",
+        "summary": "why is it so hard to pay attention? i don't know if it's a bad thing .",
+        "keywords": [
+            "pay attention",
+            "hard to pay",
+            "attention",
+            "hard",
+            "pay"
+        ],
+        "start_time": 40.4,
+        "end_time": 43.2
+    },
+    {
+        "file": "Bad Habit_cleaned.json",
+        "segment_id": 7,
+        "text": "Well studies show that even when we're really trying to pay attention to something, like  maybe this talk, at some point about half of us will drift off into a daydream or have  this urge to check our Twitter feed.",
+        "summary": "studies show half of us will drift off into a daydream or have this urge to check our Twitter feed .",
+        "keywords": [
+            "Twitter feed",
+            "check our Twitter",
+            "studies show",
+            "pay attention",
+            "point about half",
+            "urge to check",
+            "Twitter",
+            "talk"
+        ],
+        "start_time": 43.2,
+        "end_time": 56.44
+    },
+    {
+        "file": "Bad Habit_cleaned.json",
+        "segment_id": 8,
+        "text": "So what's going on here?",
+        "summary": "what's going on here? i'm not sure if it's a good idea to do it .",
+        "keywords": [],
+        "start_time": 56.44,
+        "end_time": 59.16
+    },
+    {
+        "file": "Bad Habit_cleaned.json",
+        "segment_id": 9,
+        "text": "It turns out that we're fighting one of the most evolutionarily conserved learning processes  currently known in science, one that's conserved back to the most basic nervous systems in  our demand.",
+        "summary": "we're fighting one of the most evolutionarily conserved learning processes currently known in science, one that's conserved back to the most basic nervous systems in our demand .",
+        "keywords": [
+            "basic nervous systems",
+            "evolutionarily conserved learning",
+            "conserved learning processes",
+            "learning processes",
+            "basic nervous",
+            "nervous systems",
+            "evolutionarily conserved",
+            "conserved learning"
+        ],
+        "start_time": 59.16,
+        "end_time": null
+    },
+    {
+        "file": "Bad Habit_cleaned.json",
+        "segment_id": 10,
+        "text": "This reward-based learning process is called positive and negative reinforcement and basically  goes like this.",
+        "summary": "reward-based learning process is called positive and negative reinforcement . it basically goes like this .",
+        "keywords": [
+            "reward-based learning process",
+            "reward-based learning",
+            "learning process",
+            "process is called",
+            "called positive",
+            "positive and negative",
+            "negative reinforcement",
+            "reinforcement and basically"
+        ],
+        "start_time": 70.16,
+        "end_time": null
+    },
+    {
+        "file": "Bad Habit_cleaned.json",
+        "segment_id": 11,
+        "text": "We see some food that looks good, our brain says, calories, survival. We eat the food, we taste it, taste good, and especially with sugar, our body sends a signal  to our brain that says, remember what you're eating and where you found it.",
+        "summary": "we see some food that looks good, our brain says, calories, survival . we eat the food, we taste it, taste good, and especially with sugar .",
+        "keywords": [
+            "calories",
+            "survival",
+            "good",
+            "taste good",
+            "brain",
+            "food",
+            "taste",
+            "body sends"
+        ],
+        "start_time": 76.32,
+        "end_time": 91.44
+    },
+    {
+        "file": "Bad Habit_cleaned.json",
+        "segment_id": 12,
+        "text": "We lay down this context-dependent memory and learn to repeat the process next time.",
+        "summary": "we lay down this context-dependent memory and learn to repeat the process next time . we learn to replicate the process .",
+        "keywords": [
+            "process next time",
+            "context-dependent memory",
+            "memory and learn",
+            "learn to repeat",
+            "repeat the process",
+            "time",
+            "lay",
+            "context-dependent"
+        ],
+        "start_time": 91.44,
+        "end_time": 96.67999999999999
+    },
+    {
+        "file": "Bad Habit_cleaned.json",
+        "segment_id": 13,
+        "text": "See food, eat food, feel good, repeat.",
+        "summary": "See food, eat food, feel good, repeat . see food, be good, see food and feel good.",
+        "keywords": [
+            "feel good",
+            "eat food",
+            "repeat",
+            "food",
+            "eat",
+            "feel",
+            "good"
+        ],
+        "start_time": 96.67999999999999,
+        "end_time": 158.28
+    },
+    {
+        "file": "Bad Habit_cleaned.json",
+        "segment_id": 14,
+        "text": "Trigger behavior reward.",
+        "summary": "Trigger behavior reward . if you are a trigger, click here for more .",
+        "keywords": [
+            "Trigger behavior reward",
+            "Trigger behavior",
+            "behavior reward",
+            "Trigger",
+            "reward",
+            "behavior"
+        ],
+        "start_time": 101.03999999999999,
+        "end_time": 160.84
+    },
+    {
+        "file": "Bad Habit_cleaned.json",
+        "segment_id": 15,
+        "text": "Simple right?",
+        "summary": "a simple right? . . simple right! . click here for all the latest news .",
+        "keywords": [
+            "Simple"
+        ],
+        "start_time": 103.84,
+        "end_time": 104.84
+    },
+    {
+        "file": "Bad Habit_cleaned.json",
+        "segment_id": 16,
+        "text": "Well after a while our creative brain say, you know what, you can use this for more than  just remembering where food is.",
+        "summary": "creative brain say, you know what, you can use this for more than just remembering where food is .",
+        "keywords": [
+            "creative brain",
+            "remembering where food",
+            "creative",
+            "brain",
+            "remembering",
+            "food"
+        ],
+        "start_time": 104.84,
+        "end_time": 112.28
+    },
+    {
+        "file": "Bad Habit_cleaned.json",
+        "segment_id": 17,
+        "text": "You know next time you feel bad, why don't you try eating something good so you'll feel  better?",
+        "summary": "you know next time you feel bad, why don't you try eating something good so you'll feel better?",
+        "keywords": [
+            "feel bad",
+            "time you feel",
+            "eating something good",
+            "feel",
+            "bad",
+            "time",
+            "eating",
+            "good"
+        ],
+        "start_time": 113.0,
+        "end_time": null
+    },
+    {
+        "file": "Bad Habit_cleaned.json",
+        "segment_id": 18,
+        "text": "We thank our brains for the great idea.",
+        "summary": "we thank our brains for the great idea . the idea was a great idea for us .",
+        "keywords": [
+            "great idea",
+            "idea",
+            "brains",
+            "great"
+        ],
+        "start_time": 119.84,
+        "end_time": 121.92
+    },
+    {
+        "file": "Bad Habit_cleaned.json",
+        "segment_id": 19,
+        "text": "Try this and quickly learn that if we eat chocolate or ice cream when we're mad or sad,  we feel better.",
+        "summary": "try this and quickly learn that if we eat chocolate or ice cream when we're mad or sad, we feel better.",
+        "keywords": [
+            "mad or sad",
+            "quickly learn",
+            "eat chocolate",
+            "chocolate or ice",
+            "ice cream",
+            "sad",
+            "quickly",
+            "learn"
+        ],
+        "start_time": 121.92,
+        "end_time": null
+    },
+    {
+        "file": "Bad Habit_cleaned.json",
+        "segment_id": 20,
+        "text": "Same process, just a different trigger.",
+        "summary": "Same process, just a different trigger . same trigger, just different triggers and triggers .",
+        "keywords": [
+            "process",
+            "trigger"
+        ],
+        "start_time": 128.88,
+        "end_time": 132.16
+    },
+    {
+        "file": "Bad Habit_cleaned.json",
+        "segment_id": 21,
+        "text": "Instead of this hunger signal coming from our stomach, this emotional feeling sad triggers  that are just to eat.",
+        "summary": "this emotional feeling sad triggers that are just to eat . instead of this hunger signal coming from our stomach .",
+        "keywords": [
+            "hunger signal coming",
+            "emotional feeling sad",
+            "feeling sad triggers",
+            "hunger signal",
+            "signal coming",
+            "emotional feeling",
+            "feeling sad",
+            "sad triggers"
+        ],
+        "start_time": 132.16,
+        "end_time": 139.32
+    },
+    {
+        "file": "Bad Habit_cleaned.json",
+        "segment_id": 22,
+        "text": "Maybe in our teenage years, we were a nerd at school and we see those rebel kids outside  smoking and they say, hey, I want to be cool so we start smoking.",
+        "summary": "maybe in our teenage years, we were a nerd at school and we see those rebel kids outside smoking and they say, hey, I want to be cool so we start smoking.",
+        "keywords": [
+            "teenage years",
+            "nerd at school",
+            "rebel kids",
+            "start smoking",
+            "hey",
+            "kids outside smoking",
+            "smoking",
+            "years"
+        ],
+        "start_time": 139.35999999999999,
+        "end_time": 149.92
+    },
+    {
+        "file": "Bad Habit_cleaned.json",
+        "segment_id": 23,
+        "text": "The Marlboro man wasn't a dork and that was no accident.",
+        "summary": "the marlboro man wasn't a dork and that was no accident .",
+        "keywords": [
+            "Marlboro man",
+            "Marlboro",
+            "accident",
+            "man",
+            "dork"
+        ],
+        "start_time": 149.92,
+        "end_time": 153.76
+    },
+    {
+        "file": "Bad Habit_cleaned.json",
+        "segment_id": 24,
+        "text": "See cool, smoke to be cool, feel good, repeat.",
+        "summary": "See cool, smoke to be cool, feel good, repeat . see cool, see smoke, smell and feel good .",
+        "keywords": [
+            "feel good",
+            "repeat",
+            "cool",
+            "smoke",
+            "feel",
+            "good"
+        ],
+        "start_time": 153.76,
+        "end_time": 158.28
+    },
+    {
+        "file": "Bad Habit_cleaned.json",
+        "segment_id": 25,
+        "text": "Trigger behavior reward.",
+        "summary": "Trigger behavior reward . if you are a trigger, click here for more .",
+        "keywords": [
+            "Trigger behavior reward",
+            "Trigger behavior",
+            "behavior reward",
+            "Trigger",
+            "reward",
+            "behavior"
+        ],
+        "start_time": 101.03999999999999,
+        "end_time": 160.84
+    },
+    {
+        "file": "Bad Habit_cleaned.json",
+        "segment_id": 26,
+        "text": "And each time we do this, we learn to repeat the process and it becomes a habit.",
+        "summary": "each time we do this, we learn to repeat the process and it becomes a habit.",
+        "keywords": [
+            "learn to repeat",
+            "repeat the process",
+            "habit",
+            "time",
+            "learn",
+            "repeat",
+            "process"
+        ],
+        "start_time": 160.84,
+        "end_time": 166.04
+    },
+    {
+        "file": "Bad Habit_cleaned.json",
+        "segment_id": 27,
+        "text": "So later, feeling stressed out triggers that urge to smoke a cigarette or to eat something  sweet.",
+        "summary": "feeling stressed out triggers that urge to smoke a cigarette or to eat something sweet .",
+        "keywords": [
+            "feeling stressed",
+            "eat something sweet",
+            "stressed out triggers",
+            "triggers that urge",
+            "urge to smoke",
+            "smoke a cigarette",
+            "feeling",
+            "sweet"
+        ],
+        "start_time": 166.04,
+        "end_time": null
+    },
+    {
+        "file": "Bad Habit_cleaned.json",
+        "segment_id": 28,
+        "text": "Now with these same brain processes, we've gone from learning to survive to literally  killing ourselves with these habits.",
+        "summary": "we've gone from learning to survive to literally killing ourselves with these same habits . now we're learning to live with the same brain processes .",
+        "keywords": [
+            "brain processes",
+            "learning to survive",
+            "survive to literally",
+            "literally killing",
+            "processes",
+            "habits",
+            "brain",
+            "learning"
+        ],
+        "start_time": 172.6,
+        "end_time": 181.44
+    },
+    {
+        "file": "Bad Habit_cleaned.json",
+        "segment_id": 29,
+        "text": "Obesity and smoking are among the leading preventable causes of morbidity and brutality  of the world.",
+        "summary": "Obesity and smoking are among the leading preventable causes of morbidity and brutality .",
+        "keywords": [
+            "Obesity and smoking",
+            "leading preventable",
+            "morbidity and brutality",
+            "Obesity",
+            "world",
+            "smoking",
+            "leading",
+            "preventable"
+        ],
+        "start_time": 181.44,
+        "end_time": null
+    },
+    {
+        "file": "Bad Habit_cleaned.json",
+        "segment_id": 30,
+        "text": "So back to my breath.",
+        "summary": "so back to my breath . back to your breath. . so here you are . here.",
+        "keywords": [
+            "breath",
+            "back"
+        ],
+        "start_time": 187.6,
+        "end_time": 189.95999999999998
+    },
+    {
+        "file": "Bad Habit_cleaned.json",
+        "segment_id": 31,
+        "text": "What if instead of fighting our brains or trying to force ourselves to pay attention,  we instead tapped into this natural reward based learning process but added a twist.",
+        "summary": "instead of fighting our brains or trying to force ourselves to pay attention, we tapped into this natural reward based learning process .",
+        "keywords": [
+            "natural reward based",
+            "reward based learning",
+            "based learning process",
+            "pay attention",
+            "added a twist",
+            "fighting our brains",
+            "natural reward",
+            "reward based"
+        ],
+        "start_time": 189.95999999999998,
+        "end_time": 200.72
+    },
+    {
+        "file": "Bad Habit_cleaned.json",
+        "segment_id": 32,
+        "text": "What if instead we just got really curious about what was happening in a momentary experience?",
+        "summary": "what if we just got really curious about what was happening in a momentary experience?",
+        "keywords": [
+            "momentary experience",
+            "experience",
+            "curious",
+            "happening",
+            "momentary"
+        ],
+        "start_time": 200.72,
+        "end_time": 204.44
+    },
+    {
+        "file": "Bad Habit_cleaned.json",
+        "segment_id": 33,
+        "text": "I'll give you an example.",
+        "summary": "i'll give you an example of a simple example . if you're looking for an example, click here for more .",
+        "keywords": [
+            "give"
+        ],
+        "start_time": 204.44,
+        "end_time": 206.8
+    },
+    {
+        "file": "Bad Habit_cleaned.json",
+        "segment_id": 34,
+        "text": "In my lab, we studied whether mindfulness training could help people quit smoking. Now just like trying to force myself to pay attention on my breath, they could try to  force themselves to quit smoking and the majority of them had tried this before and failed on  average six times.",
+        "summary": "mindfulness training could help people quit smoking . majority of people tried this before and failed on average six times .",
+        "keywords": [
+            "people quit smoking",
+            "studied whether mindfulness",
+            "mindfulness training",
+            "quit smoking",
+            "people quit",
+            "lab",
+            "quit",
+            "smoking"
+        ],
+        "start_time": 206.8,
+        "end_time": null
+    },
+    {
+        "file": "Bad Habit_cleaned.json",
+        "segment_id": 35,
+        "text": "Now with mindfulness training, we dropped a bit about forcing and instead focused on  being curious.",
+        "summary": "mindfulness training dropped a bit about forcing and instead focused on being curious . now with mindfulness training, we dropped some about forcing .",
+        "keywords": [
+            "mindfulness training",
+            "dropped a bit",
+            "bit about forcing",
+            "training",
+            "curious",
+            "mindfulness",
+            "dropped",
+            "bit"
+        ],
+        "start_time": 224.08,
+        "end_time": null
+    },
+    {
+        "file": "Bad Habit_cleaned.json",
+        "segment_id": 36,
+        "text": "In fact, we even told them to smoke.",
+        "summary": "in fact, we even told them to smoke . we also told them not to smoke, but to smoke.",
+        "keywords": [
+            "fact",
+            "smoke",
+            "told"
+        ],
+        "start_time": 228.84,
+        "end_time": 232.48000000000002
+    },
+    {
+        "file": "Bad Habit_cleaned.json",
+        "segment_id": 37,
+        "text": "What?",
+        "summary": "what? if you have a question? share it with us at cnn.com .",
+        "keywords": [],
+        "start_time": 232.48000000000002,
+        "end_time": 233.48000000000002
+    },
+    {
+        "file": "Bad Habit_cleaned.json",
+        "segment_id": 38,
+        "text": "Yeah, we said go ahead and smoke.",
+        "summary": "yeah, we said go ahead and smoke . i'm not sure if you're going to smoke a lot .",
+        "keywords": [
+            "Yeah",
+            "ahead and smoke",
+            "smoke",
+            "ahead"
+        ],
+        "start_time": 233.48000000000002,
+        "end_time": 235.0
+    },
+    {
+        "file": "Bad Habit_cleaned.json",
+        "segment_id": 39,
+        "text": "Just be really curious about what it's like when you do.",
+        "summary": "just be really curious about what it's like when you do . be really interested in what you're doing .",
+        "keywords": [
+            "curious"
+        ],
+        "start_time": 235.0,
+        "end_time": 238.48000000000002
+    },
+    {
+        "file": "Bad Habit_cleaned.json",
+        "segment_id": 40,
+        "text": "And what did they notice?",
+        "summary": "what did they notice? i.e., i'm not sure if it was a good thing to do?",
+        "keywords": [
+            "notice"
+        ],
+        "start_time": 238.48000000000002,
+        "end_time": 239.48000000000002
+    },
+    {
+        "file": "Bad Habit_cleaned.json",
+        "segment_id": 41,
+        "text": "Oh, here's an example from one of our smokers.",
+        "summary": "one of our smokers gave us an example of how to smoke a cigar . he's also a smoker who has smoked a lot .",
+        "keywords": [
+            "smokers"
+        ],
+        "start_time": 239.48000000000002,
+        "end_time": 242.88000000000002
+    },
+    {
+        "file": "Bad Habit_cleaned.json",
+        "segment_id": 42,
+        "text": "She said, mindful smoking smells like stinky cheese and tastes like chemicals.",
+        "summary": "mindful smoking smells like stinky cheese and tastes like chemicals, she said . mindful smoking is a great way to stop smoking .",
+        "keywords": [
+            "mindful smoking smells",
+            "mindful smoking",
+            "tastes like chemicals",
+            "smoking smells",
+            "smells like stinky",
+            "stinky cheese",
+            "cheese and tastes",
+            "mindful"
+        ],
+        "start_time": 242.88000000000002,
+        "end_time": 248.20000000000002
+    },
+    {
+        "file": "Bad Habit_cleaned.json",
+        "segment_id": 43,
+        "text": "Yuck.",
+        "summary": "Yuck - a u.s.-based company - is a company that has been a member of the uk .",
+        "keywords": [
+            "Yuck"
+        ],
+        "start_time": 248.20000000000002,
+        "end_time": 249.8
+    },
+    {
+        "file": "Bad Habit_cleaned.json",
+        "segment_id": 44,
+        "text": "Now she knew cognitively that smoking was bad for her.",
+        "summary": "she knew cognitively that smoking was bad for her . now she knew that she was smoking a bad thing .",
+        "keywords": [
+            "knew cognitively",
+            "cognitively that smoking",
+            "smoking was bad",
+            "knew",
+            "cognitively",
+            "smoking",
+            "bad"
+        ],
+        "start_time": 249.8,
+        "end_time": 253.4
+    },
+    {
+        "file": "Bad Habit_cleaned.json",
+        "segment_id": 45,
+        "text": "That's why she joined our program.",
+        "summary": "that's why she joined our program . she joined us on tuesday .",
+        "keywords": [
+            "joined our program",
+            "program",
+            "joined"
+        ],
+        "start_time": 253.4,
+        "end_time": 255.84
+    },
+    {
+        "file": "Bad Habit_cleaned.json",
+        "segment_id": 46,
+        "text": "What she discovered just by being curiously aware when she smoked was that smoking tastes  like shit.",
+        "summary": "smoking tastes like shit, she discovered just by being curiously aware when she smoked .",
+        "keywords": [
+            "tastes like shit",
+            "curiously aware",
+            "smoking tastes",
+            "shit",
+            "discovered",
+            "curiously",
+            "aware",
+            "smoked"
+        ],
+        "start_time": 255.84,
+        "end_time": null
+    },
+    {
+        "file": "Bad Habit_cleaned.json",
+        "segment_id": 47,
+        "text": "Now she moved from knowledge to wisdom.",
+        "summary": "she moved from knowledge to wisdom . now she has moved from wisdom to knowledge . she is now in the process of gaining knowledge and wisdom.",
+        "keywords": [
+            "knowledge to wisdom",
+            "moved from knowledge",
+            "wisdom",
+            "moved",
+            "knowledge"
+        ],
+        "start_time": 266.48,
+        "end_time": 270.6
+    },
+    {
+        "file": "Bad Habit_cleaned.json",
+        "segment_id": 48,
+        "text": "She moved from knowing in her head that smoking was bad for her to knowing it in her bones.",
+        "summary": "she moved from knowing in her head that smoking was bad for her to knowing it in her bones.",
+        "keywords": [
+            "head that smoking",
+            "smoking was bad",
+            "moved from knowing",
+            "knowing",
+            "bones",
+            "moved",
+            "head",
+            "smoking"
+        ],
+        "start_time": 270.6,
+        "end_time": 276.16
+    },
+    {
+        "file": "Bad Habit_cleaned.json",
+        "segment_id": 49,
+        "text": "And the spell of smoking was broken.",
+        "summary": "the spell of smoking was broken . cigarette smoking was a stumbling block in the air .",
+        "keywords": [
+            "smoking was broken",
+            "spell of smoking",
+            "broken",
+            "spell",
+            "smoking"
+        ],
+        "start_time": 276.16,
+        "end_time": 278.44
+    },
+    {
+        "file": "Bad Habit_cleaned.json",
+        "segment_id": 50,
+        "text": "She started to become disenchanted with her behavior.",
+        "summary": "she started to become disenchanted with her behavior . she began to become ill-behaved with her behaviour .",
+        "keywords": [
+            "behavior",
+            "started",
+            "disenchanted"
+        ],
+        "start_time": 278.44,
+        "end_time": 283.16
+    },
+    {
+        "file": "Bad Habit_cleaned.json",
+        "segment_id": 51,
+        "text": "The prefrontal cortex, that youngest part of our brain from an evolutionary perspective,  it understands on an intellectual level that we shouldn't smoke.",
+        "summary": "prefrontal cortex is the youngest part of our brain from an evolutionary perspective . it understands that we shouldn't smoke .",
+        "keywords": [
+            "prefrontal cortex",
+            "evolutionary perspective",
+            "youngest part",
+            "intellectual level",
+            "cortex",
+            "perspective",
+            "smoke",
+            "prefrontal"
+        ],
+        "start_time": 283.92,
+        "end_time": 292.92
+    },
+    {
+        "file": "Bad Habit_cleaned.json",
+        "segment_id": 52,
+        "text": "And it tries its hardest to help us change our behavior, to help us stop smoking, to  help us stop eating that second, that third, that fourth cookie.",
+        "summary": "it tries its hardest to help us change our behavior, to stop smoking . it helps us stop eating that second, that third, that fourth cookie .",
+        "keywords": [
+            "change our behavior",
+            "fourth cookie",
+            "stop smoking",
+            "stop eating",
+            "stop",
+            "behavior",
+            "smoking",
+            "cookie"
+        ],
+        "start_time": 292.92,
+        "end_time": 303.08000000000004
+    },
+    {
+        "file": "Bad Habit_cleaned.json",
+        "segment_id": 53,
+        "text": "We call this cognitive control. We're using cognition to control our behavior.",
+        "summary": "cognitive control is called cognitive control . we're using cognition to control our behavior .",
+        "keywords": [
+            "call this cognitive",
+            "cognitive control",
+            "control",
+            "call",
+            "cognitive",
+            "behavior",
+            "control our behavior",
+            "cognition"
+        ],
+        "start_time": 303.08000000000004,
+        "end_time": 307.56
+    },
+    {
+        "file": "Bad Habit_cleaned.json",
+        "segment_id": 54,
+        "text": "Unfortunately, this is also the first part of our brain that goes offline when we get  stressed out, which isn't that helpful.",
+        "summary": "this is the first part of our brain that goes offline when we get stressed out . this isn't that helpful .",
+        "keywords": [
+            "helpful",
+            "part",
+            "brain",
+            "offline",
+            "stressed"
+        ],
+        "start_time": 307.56,
+        "end_time": 314.56
+    },
+    {
+        "file": "Bad Habit_cleaned.json",
+        "segment_id": 55,
+        "text": "Now we can all relate to this in our own experience.",
+        "summary": "now we can all relate to this in our own experience . we are able to share our experiences with you in the same way.",
+        "keywords": [
+            "experience",
+            "relate"
+        ],
+        "start_time": 314.56,
+        "end_time": 317.08
+    },
+    {
+        "file": "Bad Habit_cleaned.json",
+        "segment_id": 56,
+        "text": "We're much more likely to do things like yell at our spouse or kids when we're stressed  out or tired even though we know it's not going to be helpful.",
+        "summary": "we're much more likely to do things like yell at our spouse or kids when stressed out or tired .",
+        "keywords": [
+            "things like yell",
+            "spouse or kids",
+            "helpful",
+            "things",
+            "yell",
+            "spouse",
+            "kids",
+            "stressed"
+        ],
+        "start_time": 317.08,
+        "end_time": 323.84000000000003
+    },
+    {
+        "file": "Bad Habit_cleaned.json",
+        "segment_id": 57,
+        "text": "We just can't help ourselves.",
+        "summary": "we just can't help ourselves . we just cannot help ourselves. we are able to do the same .",
+        "keywords": [],
+        "start_time": 323.84000000000003,
+        "end_time": 327.28000000000003
+    },
+    {
+        "file": "Bad Habit_cleaned.json",
+        "segment_id": 58,
+        "text": "Now when the prefrontal cortex goes offline, we fall back into our whole habits, which  is why this disenchantment is so important. Seeing what we get from our habits helps us understand them in an even level, to know  we're in our abode, so we don't have to force ourselves to hold back or restrain ourselves  with behavior.",
+        "summary": "when the prefrontal cortex goes offline, we fall back into our whole habits . seeing what we get from our habits helps us understand them in an even level, to know we're in our abode .",
+        "keywords": [
+            "cortex goes offline",
+            "prefrontal cortex",
+            "fall back",
+            "offline",
+            "important",
+            "hold back",
+            "back",
+            "habits"
+        ],
+        "start_time": 327.28000000000003,
+        "end_time": null
+    },
+    {
+        "file": "Bad Habit_cleaned.json",
+        "segment_id": 59,
+        "text": "We're just less interested in doing it in the first place.",
+        "summary": "we're just less interested in doing it in the first place . we've got a lot of interest in a second place in the world .",
+        "keywords": [
+            "place",
+            "interested"
+        ],
+        "start_time": 343.03999999999996,
+        "end_time": 346.4
+    },
+    {
+        "file": "Bad Habit_cleaned.json",
+        "segment_id": 60,
+        "text": "And this is what mindfulness is all about.",
+        "summary": "mindfulness is all about mindfulness . this is what mindfulness is about . if you are a mindfulness practitioner, you should be able to take a look at the benefits of mindfulness.",
+        "keywords": [
+            "mindfulness"
+        ],
+        "start_time": 346.4,
+        "end_time": 348.96
+    },
+    {
+        "file": "Bad Habit_cleaned.json",
+        "segment_id": 61,
+        "text": "Seeing really clearly what we get when we get caught up in our behaviors, becoming disenchanted  on a visceral level and from this disenchanted stance, naturally letting go.",
+        "summary": "Seeing really clearly what we get when we get caught up in our behaviors, becoming disenchanted on a visceral level, naturally letting go.",
+        "keywords": [
+            "naturally letting",
+            "disenchanted stance",
+            "visceral level",
+            "behaviors",
+            "stance",
+            "naturally",
+            "disenchanted",
+            "caught"
+        ],
+        "start_time": 348.96,
+        "end_time": 360.96
+    },
+    {
+        "file": "Bad Habit_cleaned.json",
+        "segment_id": 62,
+        "text": "This isn't to say that we magically quit smoking, but over time, as we learn to see more and  more clearly the results of our actions, we let go of old habits and form new ones.",
+        "summary": "over time, as we learn to see more clearly the results of our actions, we let go of old habits .",
+        "keywords": [
+            "magically quit smoking",
+            "quit smoking",
+            "magically quit",
+            "habits and form",
+            "smoking",
+            "time",
+            "actions",
+            "magically"
+        ],
+        "start_time": 360.96,
+        "end_time": 372.24
+    },
+    {
+        "file": "Bad Habit_cleaned.json",
+        "segment_id": 63,
+        "text": "The paradox here is that mindfulness is just about being really interested in getting close  and personal with what's actually happening in our bodies and minds from moment to moment.",
+        "summary": "mindfulness is just about being really interested in getting close and personal with what's actually happening in our bodies and minds from moment to moment.",
+        "keywords": [
+            "close and personal",
+            "bodies and minds",
+            "minds from moment",
+            "moment",
+            "paradox",
+            "mindfulness",
+            "interested",
+            "close"
+        ],
+        "start_time": 372.24,
+        "end_time": 382.08
+    },
+    {
+        "file": "Bad Habit_cleaned.json",
+        "segment_id": 64,
+        "text": "This willingness to turn toward our experience rather than trying to make unpleasant cravings  go away as quickly as possible. And this willingness to turn toward our experience is supported by curiosity, which is naturally  rewarding. Because curiosity feels like it feels great.",
+        "summary": "this willingness to turn toward our experience is supported by curiosity, which is naturally rewarding . because curiosity feels like it feels great .",
+        "keywords": [
+            "make unpleasant cravings",
+            "willingness to turn",
+            "make unpleasant",
+            "unpleasant cravings",
+            "willingness",
+            "turn",
+            "experience",
+            "make"
+        ],
+        "start_time": 382.08,
+        "end_time": 399.08000000000004
+    },
+    {
+        "file": "Bad Habit_cleaned.json",
+        "segment_id": 65,
+        "text": "And what happens when we get curious?",
+        "summary": "what happens when we get curious? . . what happens if we get . curious?",
+        "keywords": [
+            "curious"
+        ],
+        "start_time": 399.08000000000004,
+        "end_time": 401.44
+    },
+    {
+        "file": "Bad Habit_cleaned.json",
+        "segment_id": 66,
+        "text": "We start to notice that cravings are simply made up of body sensations.",
+        "summary": "cravings are made up of body sensations . we start to notice that cravings can be made up .",
+        "keywords": [
+            "body sensations",
+            "start to notice",
+            "notice that cravings",
+            "cravings are simply",
+            "simply made",
+            "sensations",
+            "start",
+            "notice"
+        ],
+        "start_time": 401.44,
+        "end_time": 404.84000000000003
+    },
+    {
+        "file": "Bad Habit_cleaned.json",
+        "segment_id": 67,
+        "text": "Oh, there's tightness, there's tension, there's restlessness, and that these body sensations  come and go.",
+        "summary": "there's tightness, tension, restlessness, and that these body sensations come and go .",
+        "keywords": [
+            "body sensations",
+            "tightness",
+            "tension",
+            "restlessness",
+            "body",
+            "sensations"
+        ],
+        "start_time": 404.84000000000003,
+        "end_time": null
+    },
+    {
+        "file": "Bad Habit_cleaned.json",
+        "segment_id": 68,
+        "text": "These are bite-sized pieces of experience that we can manage from moment to moment, rather  than getting clobbered by this huge, scary craving that we choke on.",
+        "summary": "these are bite-sized pieces of experience that we can manage from moment to moment, rather than getting clobbered by this huge, scary craving that we choke on.",
+        "keywords": [
+            "scary craving",
+            "bite-sized pieces",
+            "pieces of experience",
+            "manage from moment",
+            "huge",
+            "scary",
+            "moment",
+            "bite-sized"
+        ],
+        "start_time": 412.04,
+        "end_time": 422.64000000000004
+    },
+    {
+        "file": "Bad Habit_cleaned.json",
+        "segment_id": 69,
+        "text": "In other words, when we get curious, we step out of our old fear-based reactive habit patterns  and we step into being.",
+        "summary": "when we get curious, we step out of our old fear-based reactive habit patterns and we step into being .",
+        "keywords": [
+            "fear-based reactive habit",
+            "reactive habit patterns",
+            "fear-based reactive",
+            "reactive habit",
+            "habit patterns",
+            "step",
+            "words",
+            "curious"
+        ],
+        "start_time": 422.64,
+        "end_time": 432.15999999999997
+    },
+    {
+        "file": "Bad Habit_cleaned.json",
+        "segment_id": 70,
+        "text": "We become this inner scientist where we're eagerly awaiting that next data point.",
+        "summary": "we become this inner scientist where we're eagerly awaiting that next data point .",
+        "keywords": [
+            "data point",
+            "eagerly awaiting",
+            "point",
+            "scientist",
+            "eagerly",
+            "awaiting",
+            "data"
+        ],
+        "start_time": 432.15999999999997,
+        "end_time": 438.28
+    },
+    {
+        "file": "Bad Habit_cleaned.json",
+        "segment_id": 71,
+        "text": "Now this might sound too simplistic to affect behavior, but in one study we found that mindfulness  training was twice as good as gold standard therapy at helping people quit smoking.",
+        "summary": "mindfulness training was twice as good as gold standard therapy at helping people quit smoking . a study found that mindfulness training helped smokers quit smoking.",
+        "keywords": [
+            "people quit smoking",
+            "gold standard therapy",
+            "helping people quit",
+            "affect behavior",
+            "quit smoking",
+            "sound too simplistic",
+            "simplistic to affect",
+            "study we found"
+        ],
+        "start_time": 438.28,
+        "end_time": 448.68
+    },
+    {
+        "file": "Bad Habit_cleaned.json",
+        "segment_id": 72,
+        "text": "So it actually works.",
+        "summary": "so it actually works . so it really works - it's a good thing .",
+        "keywords": [
+            "works"
+        ],
+        "start_time": 448.68,
+        "end_time": 451.96
+    },
+    {
+        "file": "Bad Habit_cleaned.json",
+        "segment_id": 73,
+        "text": "And when we studied the brains of experienced meditators, we found that parts of a neural  network of self-referential processing called the default mode network were at play.",
+        "summary": "we studied the brains of experienced meditators . we found that parts of a neural network were at play .",
+        "keywords": [
+            "self-referential processing called",
+            "default mode network",
+            "experienced meditators",
+            "studied the brains",
+            "brains of experienced",
+            "found that parts",
+            "self-referential processing",
+            "processing called"
+        ],
+        "start_time": 451.96,
+        "end_time": 461.32
+    },
+    {
+        "file": "Bad Habit_cleaned.json",
+        "segment_id": 74,
+        "text": "Now one current hypothesis is that a region of this network called the posterior spural  cortex is activated not necessarily by craving itself, but when we get caught up in it and  get sucked in and it takes us for a ride.",
+        "summary": "posterior spural cortex is activated not necessarily by craving itself . it takes us for a ride when we get caught up in it and get sucked in .",
+        "keywords": [
+            "posterior spural cortex",
+            "current hypothesis",
+            "network called",
+            "called the posterior",
+            "posterior spural",
+            "spural cortex",
+            "cortex is activated",
+            "activated not necessarily"
+        ],
+        "start_time": 461.32,
+        "end_time": 473.76
+    },
+    {
+        "file": "Bad Habit_cleaned.json",
+        "segment_id": 75,
+        "text": "In contrast, when we let go, step out of the process just by being curiously aware of what's  happening, the same brain region quiets down.",
+        "summary": "when we let go, step out of the process just by being curiously aware of what's happening, the same brain region quiets down.",
+        "keywords": [
+            "brain region quiets",
+            "curiously aware",
+            "brain region",
+            "region quiets",
+            "contrast",
+            "step",
+            "happening",
+            "process"
+        ],
+        "start_time": 473.76,
+        "end_time": 483.48
+    },
+    {
+        "file": "Bad Habit_cleaned.json",
+        "segment_id": 76,
+        "text": "Now we're testing app and online-based mindfulness training programs that target these four mechanisms.",
+        "summary": "we're testing app and online-based mindfulness training programs that target these four mechanisms .",
+        "keywords": [
+            "online-based mindfulness training",
+            "mindfulness training programs",
+            "testing app",
+            "app and online-based",
+            "online-based mindfulness",
+            "mindfulness training",
+            "training programs",
+            "programs that target"
+        ],
+        "start_time": 483.48,
+        "end_time": 490.71999999999997
+    },
+    {
+        "file": "Bad Habit_cleaned.json",
+        "segment_id": 77,
+        "text": "And ironically, use the same technology that's driving us to distraction to help us step  out of our unhealthy habit patterns of smoking, of stress-eating, and other addictive behaviors.",
+        "summary": "use the same technology that's driving us to distraction to step out of our unhealthy habit patterns of smoking, stress-eating, and addictive behaviors.",
+        "keywords": [
+            "unhealthy habit patterns",
+            "patterns of smoking",
+            "addictive behaviors",
+            "technology that driving",
+            "unhealthy habit",
+            "habit patterns",
+            "ironically",
+            "smoking"
+        ],
+        "start_time": 490.71999999999997,
+        "end_time": 501.8
+    },
+    {
+        "file": "Bad Habit_cleaned.json",
+        "segment_id": 78,
+        "text": "Now remember that bit about context-dependent memory?",
+        "summary": "remember that bit about context-dependent memory . now remember the bit about context .dependent memory?",
+        "keywords": [
+            "context-dependent memory",
+            "remember that bit",
+            "bit about context-dependent",
+            "memory",
+            "remember",
+            "bit",
+            "context-dependent"
+        ],
+        "start_time": 501.8,
+        "end_time": 504.2
+    },
+    {
+        "file": "Bad Habit_cleaned.json",
+        "segment_id": 79,
+        "text": "We can deliver these tools to people's fingertips in the context that matter most.",
+        "summary": "we can deliver these tools to people's fingertips in the context that matter most . we can provide these tools for the people who matter most.",
+        "keywords": [
+            "deliver these tools",
+            "tools to people",
+            "people fingertips",
+            "context that matter",
+            "deliver",
+            "tools",
+            "people",
+            "fingertips"
+        ],
+        "start_time": 504.2,
+        "end_time": 509.59999999999997
+    },
+    {
+        "file": "Bad Habit_cleaned.json",
+        "segment_id": 80,
+        "text": "So we can help them tap into their inherent capacity to be curiously aware right when  that urge to smoke or stress-eat or whatever arises.",
+        "summary": "so we can help them tap into their inherent capacity to be curiously aware right when that urge to smoke or stress-eat arises .",
+        "keywords": [
+            "inherent capacity",
+            "curiously aware",
+            "urge to smoke",
+            "smoke or stress-eat",
+            "arises",
+            "tap",
+            "inherent",
+            "capacity"
+        ],
+        "start_time": 509.59999999999997,
+        "end_time": 518.72
+    },
+    {
+        "file": "Bad Habit_cleaned.json",
+        "segment_id": 81,
+        "text": "So if you don't smoke or stress-eat, maybe the next time you feel this urge to check  your email on your board or you're trying to distract yourself from work, or maybe to  compulsively respond to that text message when you're driving, see if you can tap into  this natural capacity, just be curiously aware of what's happening in your body and mind  in that moment.",
+        "summary": "the next time you feel this urge to check your email on your board or you're trying to distract yourself from work, or maybe to compulsively respond to that text message when driving, see if you can tap into this natural capacity .",
+        "keywords": [
+            "smoke or stress-eat",
+            "natural capacity",
+            "time you feel",
+            "feel this urge",
+            "urge to check",
+            "check your email",
+            "compulsively respond",
+            "text message"
+        ],
+        "start_time": 518.72,
+        "end_time": null
+    },
+    {
+        "file": "Bad Habit_cleaned.json",
+        "segment_id": 82,
+        "text": "It will just be another chance to perpetuate one of our endless and exhausted habitors,  or step out of it.",
+        "summary": "it will just be another chance to perpetuate one of our endless and exhausted habitors, or step out of it .",
+        "keywords": [
+            "exhausted habitors",
+            "chance to perpetuate",
+            "endless and exhausted",
+            "habitors",
+            "chance",
+            "perpetuate",
+            "endless",
+            "exhausted"
+        ],
+        "start_time": 539.36,
+        "end_time": null
+    },
+    {
+        "file": "Bad Habit_cleaned.json",
+        "segment_id": 83,
+        "text": "Instead of see text message, compulsively text back, feel a little bit better, notice  the urge, get curious, feel the joy of letting go, and repeat.",
+        "summary": "instead of see text message, compulsively text back, feel a little bit better, notice the urge, get curious, feel the joy of letting go, and repeat.",
+        "keywords": [
+            "compulsively text back",
+            "notice the urge",
+            "text message",
+            "compulsively text",
+            "text back",
+            "joy of letting",
+            "feel the joy",
+            "feel"
+        ],
+        "start_time": 546.48,
+        "end_time": 557.64
+    },
+    {
+        "file": "Bad Habit_cleaned.json",
+        "segment_id": 84,
+        "text": "Thank you.",
+        "summary": "thank you for your support. thank you if you have any questions? click here for all the latest .",
+        "keywords": [],
+        "start_time": 557.64,
+        "end_time": 557.9200000000001
+    }
+]

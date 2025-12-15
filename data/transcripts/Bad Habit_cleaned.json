@@ -1,0 +1,701 @@
+{
+    "audio_file": "data/processed\\Bad Habit_cleaned.wav",
+    "language": "en",
+    "segments": [
+        {
+            "start": 0.0,
+            "end": 16.76,
+            "text": " When I was first learning to meditate, the instruction was to simply pay attention to"
+        },
+        {
+            "start": 16.76,
+            "end": 20.92,
+            "text": " my breath and when my mind wandered to bring it back."
+        },
+        {
+            "start": 20.92,
+            "end": 27.36,
+            "text": " Sounded simple enough, yet I'd sit on these silent retreats, sweating through t-shirts"
+        },
+        {
+            "start": 27.36,
+            "end": 29.240000000000002,
+            "text": " in the middle of winter."
+        },
+        {
+            "start": 29.24,
+            "end": 32.64,
+            "text": " I'd take naps every chance I got because it was really hard work."
+        },
+        {
+            "start": 32.64,
+            "end": 35.48,
+            "text": " Actually, it was exhausting."
+        },
+        {
+            "start": 35.48,
+            "end": 40.4,
+            "text": " The instruction was simple enough, but I was missing something really important."
+        },
+        {
+            "start": 40.4,
+            "end": 43.2,
+            "text": " So why is it so hard to pay attention?"
+        },
+        {
+            "start": 43.2,
+            "end": 47.76,
+            "text": " Well studies show that even when we're really trying to pay attention to something, like"
+        },
+        {
+            "start": 47.76,
+            "end": 53.32,
+            "text": " maybe this talk, at some point about half of us will drift off into a daydream or have"
+        },
+        {
+            "start": 53.32,
+            "end": 56.44,
+            "text": " this urge to check our Twitter feed."
+        },
+        {
+            "start": 56.44,
+            "end": 59.16,
+            "text": " So what's going on here?"
+        },
+        {
+            "start": 59.16,
+            "end": 63.44,
+            "text": " It turns out that we're fighting one of the most evolutionarily conserved learning processes"
+        },
+        {
+            "start": 63.44,
+            "end": 69.16,
+            "text": " currently known in science, one that's conserved back to the most basic nervous systems in"
+        },
+        {
+            "start": 69.16,
+            "end": 70.16,
+            "text": " our demand."
+        },
+        {
+            "start": 70.16,
+            "end": 74.0,
+            "text": " This reward-based learning process is called positive and negative reinforcement and basically"
+        },
+        {
+            "start": 74.0,
+            "end": 76.32,
+            "text": " goes like this."
+        },
+        {
+            "start": 76.32,
+            "end": 80.72,
+            "text": " We see some food that looks good, our brain says, calories, survival."
+        },
+        {
+            "start": 80.72,
+            "end": 85.88,
+            "text": " We eat the food, we taste it, taste good, and especially with sugar, our body sends a signal"
+        },
+        {
+            "start": 85.88,
+            "end": 91.44,
+            "text": " to our brain that says, remember what you're eating and where you found it."
+        },
+        {
+            "start": 91.44,
+            "end": 96.67999999999999,
+            "text": " We lay down this context-dependent memory and learn to repeat the process next time."
+        },
+        {
+            "start": 96.67999999999999,
+            "end": 101.03999999999999,
+            "text": " See food, eat food, feel good, repeat."
+        },
+        {
+            "start": 101.03999999999999,
+            "end": 103.84,
+            "text": " Trigger behavior reward."
+        },
+        {
+            "start": 103.84,
+            "end": 104.84,
+            "text": " Simple right?"
+        },
+        {
+            "start": 104.84,
+            "end": 110.52,
+            "text": " Well after a while our creative brain say, you know what, you can use this for more than"
+        },
+        {
+            "start": 110.52,
+            "end": 112.28,
+            "text": " just remembering where food is."
+        },
+        {
+            "start": 113.0,
+            "end": 118.04,
+            "text": " You know next time you feel bad, why don't you try eating something good so you'll feel"
+        },
+        {
+            "start": 118.04,
+            "end": 119.84,
+            "text": " better?"
+        },
+        {
+            "start": 119.84,
+            "end": 121.92,
+            "text": " We thank our brains for the great idea."
+        },
+        {
+            "start": 121.92,
+            "end": 126.88,
+            "text": " Try this and quickly learn that if we eat chocolate or ice cream when we're mad or sad,"
+        },
+        {
+            "start": 126.88,
+            "end": 128.88,
+            "text": " we feel better."
+        },
+        {
+            "start": 128.88,
+            "end": 132.16,
+            "text": " Same process, just a different trigger."
+        },
+        {
+            "start": 132.16,
+            "end": 137.24,
+            "text": " Instead of this hunger signal coming from our stomach, this emotional feeling sad triggers"
+        },
+        {
+            "start": 137.24,
+            "end": 139.32,
+            "text": " that are just to eat."
+        },
+        {
+            "start": 139.35999999999999,
+            "end": 145.23999999999998,
+            "text": " Maybe in our teenage years, we were a nerd at school and we see those rebel kids outside"
+        },
+        {
+            "start": 145.23999999999998,
+            "end": 149.92,
+            "text": " smoking and they say, hey, I want to be cool so we start smoking."
+        },
+        {
+            "start": 149.92,
+            "end": 153.76,
+            "text": " The Marlboro man wasn't a dork and that was no accident."
+        },
+        {
+            "start": 153.76,
+            "end": 158.28,
+            "text": " See cool, smoke to be cool, feel good, repeat."
+        },
+        {
+            "start": 158.28,
+            "end": 160.84,
+            "text": " Trigger behavior reward."
+        },
+        {
+            "start": 160.84,
+            "end": 166.04,
+            "text": " And each time we do this, we learn to repeat the process and it becomes a habit."
+        },
+        {
+            "start": 166.04,
+            "end": 171.6,
+            "text": " So later, feeling stressed out triggers that urge to smoke a cigarette or to eat something"
+        },
+        {
+            "start": 171.6,
+            "end": 172.6,
+            "text": " sweet."
+        },
+        {
+            "start": 172.6,
+            "end": 178.64,
+            "text": " Now with these same brain processes, we've gone from learning to survive to literally"
+        },
+        {
+            "start": 178.64,
+            "end": 181.44,
+            "text": " killing ourselves with these habits."
+        },
+        {
+            "start": 181.44,
+            "end": 185.51999999999998,
+            "text": " Obesity and smoking are among the leading preventable causes of morbidity and brutality"
+        },
+        {
+            "start": 185.51999999999998,
+            "end": 187.6,
+            "text": " of the world."
+        },
+        {
+            "start": 187.6,
+            "end": 189.95999999999998,
+            "text": " So back to my breath."
+        },
+        {
+            "start": 189.95999999999998,
+            "end": 194.79999999999998,
+            "text": " What if instead of fighting our brains or trying to force ourselves to pay attention,"
+        },
+        {
+            "start": 194.8,
+            "end": 200.72,
+            "text": " we instead tapped into this natural reward based learning process but added a twist."
+        },
+        {
+            "start": 200.72,
+            "end": 204.44,
+            "text": " What if instead we just got really curious about what was happening in a momentary experience?"
+        },
+        {
+            "start": 204.44,
+            "end": 206.8,
+            "text": " I'll give you an example."
+        },
+        {
+            "start": 206.8,
+            "end": 211.32000000000002,
+            "text": " In my lab, we studied whether mindfulness training could help people quit smoking."
+        },
+        {
+            "start": 211.32000000000002,
+            "end": 215.92000000000002,
+            "text": " Now just like trying to force myself to pay attention on my breath, they could try to"
+        },
+        {
+            "start": 215.92000000000002,
+            "end": 221.36,
+            "text": " force themselves to quit smoking and the majority of them had tried this before and failed on"
+        },
+        {
+            "start": 221.36,
+            "end": 224.08,
+            "text": " average six times."
+        },
+        {
+            "start": 224.08,
+            "end": 227.84,
+            "text": " Now with mindfulness training, we dropped a bit about forcing and instead focused on"
+        },
+        {
+            "start": 227.84,
+            "end": 228.84,
+            "text": " being curious."
+        },
+        {
+            "start": 228.84,
+            "end": 232.48000000000002,
+            "text": " In fact, we even told them to smoke."
+        },
+        {
+            "start": 232.48000000000002,
+            "end": 233.48000000000002,
+            "text": " What?"
+        },
+        {
+            "start": 233.48000000000002,
+            "end": 235.0,
+            "text": " Yeah, we said go ahead and smoke."
+        },
+        {
+            "start": 235.0,
+            "end": 238.48000000000002,
+            "text": " Just be really curious about what it's like when you do."
+        },
+        {
+            "start": 238.48000000000002,
+            "end": 239.48000000000002,
+            "text": " And what did they notice?"
+        },
+        {
+            "start": 239.48000000000002,
+            "end": 242.88000000000002,
+            "text": " Oh, here's an example from one of our smokers."
+        },
+        {
+            "start": 242.88000000000002,
+            "end": 248.20000000000002,
+            "text": " She said, mindful smoking smells like stinky cheese and tastes like chemicals."
+        },
+        {
+            "start": 248.20000000000002,
+            "end": 249.8,
+            "text": " Yuck."
+        },
+        {
+            "start": 249.8,
+            "end": 253.4,
+            "text": " Now she knew cognitively that smoking was bad for her."
+        },
+        {
+            "start": 253.4,
+            "end": 255.84,
+            "text": " That's why she joined our program."
+        },
+        {
+            "start": 255.84,
+            "end": 262.08,
+            "text": " What she discovered just by being curiously aware when she smoked was that smoking tastes"
+        },
+        {
+            "start": 262.08,
+            "end": 266.48,
+            "text": " like shit."
+        },
+        {
+            "start": 266.48,
+            "end": 270.6,
+            "text": " Now she moved from knowledge to wisdom."
+        },
+        {
+            "start": 270.6,
+            "end": 276.16,
+            "text": " She moved from knowing in her head that smoking was bad for her to knowing it in her bones."
+        },
+        {
+            "start": 276.16,
+            "end": 278.44,
+            "text": " And the spell of smoking was broken."
+        },
+        {
+            "start": 278.44,
+            "end": 283.16,
+            "text": " She started to become disenchanted with her behavior."
+        },
+        {
+            "start": 283.92,
+            "end": 288.8,
+            "text": " The prefrontal cortex, that youngest part of our brain from an evolutionary perspective,"
+        },
+        {
+            "start": 288.8,
+            "end": 292.92,
+            "text": " it understands on an intellectual level that we shouldn't smoke."
+        },
+        {
+            "start": 292.92,
+            "end": 298.0,
+            "text": " And it tries its hardest to help us change our behavior, to help us stop smoking, to"
+        },
+        {
+            "start": 298.0,
+            "end": 303.08000000000004,
+            "text": " help us stop eating that second, that third, that fourth cookie."
+        },
+        {
+            "start": 303.08000000000004,
+            "end": 304.44000000000005,
+            "text": " We call this cognitive control."
+        },
+        {
+            "start": 304.44000000000005,
+            "end": 307.56,
+            "text": " We're using cognition to control our behavior."
+        },
+        {
+            "start": 307.56,
+            "end": 311.68,
+            "text": " Unfortunately, this is also the first part of our brain that goes offline when we get"
+        },
+        {
+            "start": 311.72,
+            "end": 314.56,
+            "text": " stressed out, which isn't that helpful."
+        },
+        {
+            "start": 314.56,
+            "end": 317.08,
+            "text": " Now we can all relate to this in our own experience."
+        },
+        {
+            "start": 317.08,
+            "end": 320.8,
+            "text": " We're much more likely to do things like yell at our spouse or kids when we're stressed"
+        },
+        {
+            "start": 320.8,
+            "end": 323.84000000000003,
+            "text": " out or tired even though we know it's not going to be helpful."
+        },
+        {
+            "start": 323.84000000000003,
+            "end": 327.28000000000003,
+            "text": " We just can't help ourselves."
+        },
+        {
+            "start": 327.28000000000003,
+            "end": 331.72,
+            "text": " Now when the prefrontal cortex goes offline, we fall back into our whole habits, which"
+        },
+        {
+            "start": 331.72,
+            "end": 334.6,
+            "text": " is why this disenchantment is so important."
+        },
+        {
+            "start": 334.6,
+            "end": 338.64,
+            "text": " Seeing what we get from our habits helps us understand them in an even level, to know"
+        },
+        {
+            "start": 338.71999999999997,
+            "end": 342.24,
+            "text": " we're in our abode, so we don't have to force ourselves to hold back or restrain ourselves"
+        },
+        {
+            "start": 342.24,
+            "end": 343.03999999999996,
+            "text": " with behavior."
+        },
+        {
+            "start": 343.03999999999996,
+            "end": 346.4,
+            "text": " We're just less interested in doing it in the first place."
+        },
+        {
+            "start": 346.4,
+            "end": 348.96,
+            "text": " And this is what mindfulness is all about."
+        },
+        {
+            "start": 348.96,
+            "end": 355.2,
+            "text": " Seeing really clearly what we get when we get caught up in our behaviors, becoming disenchanted"
+        },
+        {
+            "start": 355.2,
+            "end": 360.96,
+            "text": " on a visceral level and from this disenchanted stance, naturally letting go."
+        },
+        {
+            "start": 360.96,
+            "end": 366.2,
+            "text": " This isn't to say that we magically quit smoking, but over time, as we learn to see more and"
+        },
+        {
+            "start": 366.28,
+            "end": 372.24,
+            "text": " more clearly the results of our actions, we let go of old habits and form new ones."
+        },
+        {
+            "start": 372.24,
+            "end": 377.03999999999996,
+            "text": " The paradox here is that mindfulness is just about being really interested in getting close"
+        },
+        {
+            "start": 377.03999999999996,
+            "end": 382.08,
+            "text": " and personal with what's actually happening in our bodies and minds from moment to moment."
+        },
+        {
+            "start": 382.08,
+            "end": 386.12,
+            "text": " This willingness to turn toward our experience rather than trying to make unpleasant cravings"
+        },
+        {
+            "start": 386.12,
+            "end": 388.96,
+            "text": " go away as quickly as possible."
+        },
+        {
+            "start": 388.96,
+            "end": 394.24,
+            "text": " And this willingness to turn toward our experience is supported by curiosity, which is naturally"
+        },
+        {
+            "start": 394.24,
+            "end": 395.15999999999997,
+            "text": " rewarding."
+        },
+        {
+            "start": 395.24,
+            "end": 399.08000000000004,
+            "text": " Because curiosity feels like it feels great."
+        },
+        {
+            "start": 399.08000000000004,
+            "end": 401.44,
+            "text": " And what happens when we get curious?"
+        },
+        {
+            "start": 401.44,
+            "end": 404.84000000000003,
+            "text": " We start to notice that cravings are simply made up of body sensations."
+        },
+        {
+            "start": 404.84000000000003,
+            "end": 410.12,
+            "text": " Oh, there's tightness, there's tension, there's restlessness, and that these body sensations"
+        },
+        {
+            "start": 410.12,
+            "end": 412.04,
+            "text": " come and go."
+        },
+        {
+            "start": 412.04,
+            "end": 417.20000000000005,
+            "text": " These are bite-sized pieces of experience that we can manage from moment to moment, rather"
+        },
+        {
+            "start": 417.20000000000005,
+            "end": 422.64000000000004,
+            "text": " than getting clobbered by this huge, scary craving that we choke on."
+        },
+        {
+            "start": 422.64,
+            "end": 429.76,
+            "text": " In other words, when we get curious, we step out of our old fear-based reactive habit patterns"
+        },
+        {
+            "start": 429.76,
+            "end": 432.15999999999997,
+            "text": " and we step into being."
+        },
+        {
+            "start": 432.15999999999997,
+            "end": 438.28,
+            "text": " We become this inner scientist where we're eagerly awaiting that next data point."
+        },
+        {
+            "start": 438.28,
+            "end": 444.4,
+            "text": " Now this might sound too simplistic to affect behavior, but in one study we found that mindfulness"
+        },
+        {
+            "start": 444.4,
+            "end": 448.68,
+            "text": " training was twice as good as gold standard therapy at helping people quit smoking."
+        },
+        {
+            "start": 448.68,
+            "end": 451.96,
+            "text": " So it actually works."
+        },
+        {
+            "start": 451.96,
+            "end": 456.35999999999996,
+            "text": " And when we studied the brains of experienced meditators, we found that parts of a neural"
+        },
+        {
+            "start": 456.35999999999996,
+            "end": 461.32,
+            "text": " network of self-referential processing called the default mode network were at play."
+        },
+        {
+            "start": 461.32,
+            "end": 465.56,
+            "text": " Now one current hypothesis is that a region of this network called the posterior spural"
+        },
+        {
+            "start": 465.56,
+            "end": 470.88,
+            "text": " cortex is activated not necessarily by craving itself, but when we get caught up in it and"
+        },
+        {
+            "start": 470.88,
+            "end": 473.76,
+            "text": " get sucked in and it takes us for a ride."
+        },
+        {
+            "start": 473.76,
+            "end": 478.88,
+            "text": " In contrast, when we let go, step out of the process just by being curiously aware of what's"
+        },
+        {
+            "start": 478.88,
+            "end": 483.48,
+            "text": " happening, the same brain region quiets down."
+        },
+        {
+            "start": 483.48,
+            "end": 490.71999999999997,
+            "text": " Now we're testing app and online-based mindfulness training programs that target these four mechanisms."
+        },
+        {
+            "start": 490.71999999999997,
+            "end": 496.04,
+            "text": " And ironically, use the same technology that's driving us to distraction to help us step"
+        },
+        {
+            "start": 496.04,
+            "end": 501.8,
+            "text": " out of our unhealthy habit patterns of smoking, of stress-eating, and other addictive behaviors."
+        },
+        {
+            "start": 501.8,
+            "end": 504.2,
+            "text": " Now remember that bit about context-dependent memory?"
+        },
+        {
+            "start": 504.2,
+            "end": 509.59999999999997,
+            "text": " We can deliver these tools to people's fingertips in the context that matter most."
+        },
+        {
+            "start": 509.59999999999997,
+            "end": 514.2,
+            "text": " So we can help them tap into their inherent capacity to be curiously aware right when"
+        },
+        {
+            "start": 514.2,
+            "end": 518.72,
+            "text": " that urge to smoke or stress-eat or whatever arises."
+        },
+        {
+            "start": 518.72,
+            "end": 522.72,
+            "text": " So if you don't smoke or stress-eat, maybe the next time you feel this urge to check"
+        },
+        {
+            "start": 522.72,
+            "end": 526.8,
+            "text": " your email on your board or you're trying to distract yourself from work, or maybe to"
+        },
+        {
+            "start": 526.8,
+            "end": 533.36,
+            "text": " compulsively respond to that text message when you're driving, see if you can tap into"
+        },
+        {
+            "start": 533.36,
+            "end": 538.12,
+            "text": " this natural capacity, just be curiously aware of what's happening in your body and mind"
+        },
+        {
+            "start": 538.12,
+            "end": 539.36,
+            "text": " in that moment."
+        },
+        {
+            "start": 539.36,
+            "end": 544.48,
+            "text": " It will just be another chance to perpetuate one of our endless and exhausted habitors,"
+        },
+        {
+            "start": 544.48,
+            "end": 546.48,
+            "text": " or step out of it."
+        },
+        {
+            "start": 546.48,
+            "end": 551.04,
+            "text": " Instead of see text message, compulsively text back, feel a little bit better, notice"
+        },
+        {
+            "start": 551.04,
+            "end": 557.64,
+            "text": " the urge, get curious, feel the joy of letting go, and repeat."
+        },
+        {
+            "start": 557.64,
+            "end": 557.9200000000001,
+            "text": " Thank you."
+        }
+    ]
+}

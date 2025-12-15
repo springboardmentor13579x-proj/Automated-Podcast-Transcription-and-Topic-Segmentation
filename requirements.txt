@@ -1,7 +1,28 @@
+# --- Audio Processing ---
 librosa
 pydub
-numpy
-pandas
-streamlit
-plotly
 soundfile
+numpy
+
+# --- Data Handling ---
+pandas
+
+# --- Whisper ASR ---
+openai-whisper
+ffmpeg-python
+
+# --- Segmentation ---
+nltk
+sentence-transformers
+scikit-learn
+yake
+
+# --- Summarization ---
+transformers
+torch
+
+# --- Evaluation ---
+jiwer
+
+# --- Optional helpful utilities ---
+tqdm

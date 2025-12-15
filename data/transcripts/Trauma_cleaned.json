@@ -1,0 +1,951 @@
+{
+    "audio_file": "data/processed\\Trauma_cleaned.wav",
+    "language": "en",
+    "segments": [
+        {
+            "start": 0.0,
+            "end": 20.56,
+            "text": " In the mid-90s, the CDC and Kaiser Permanente discovered an exposure that dramatically increased"
+        },
+        {
+            "start": 20.56,
+            "end": 27.28,
+            "text": " the risk for 7 out of 10 of the leading costs of death in the United States."
+        },
+        {
+            "start": 27.28,
+            "end": 34.760000000000005,
+            "text": " In high doses, it affects brain development, the immune system, hormonal systems, and even"
+        },
+        {
+            "start": 34.760000000000005,
+            "end": 39.28,
+            "text": " the way our DNA is read and transcribed."
+        },
+        {
+            "start": 39.28,
+            "end": 45.0,
+            "text": " Folks who are exposed in very high doses have tripled the lifetime risk of heart disease"
+        },
+        {
+            "start": 45.0,
+            "end": 51.96,
+            "text": " and lung cancer, and a 20-year difference in life expectancy."
+        },
+        {
+            "start": 51.96,
+            "end": 57.4,
+            "text": " And yet doctors today are not trained in routine screening or treatment."
+        },
+        {
+            "start": 57.4,
+            "end": 64.0,
+            "text": " Now, the exposure I'm talking about is not a pesticide or a packaging chemical."
+        },
+        {
+            "start": 64.0,
+            "end": 66.0,
+            "text": " It's childhood trauma."
+        },
+        {
+            "start": 66.0,
+            "end": 69.6,
+            "text": " Okay, what kind of trauma am I talking about here?"
+        },
+        {
+            "start": 69.6,
+            "end": 74.0,
+            "text": " I'm not talking about failing a test or losing a basketball game."
+        },
+        {
+            "start": 74.0,
+            "end": 80.16,
+            "text": " I am talking about threats that are so severe or pervasive that they literally get under"
+        },
+        {
+            "start": 80.16,
+            "end": 83.44,
+            "text": " our skin and change our physiology."
+        },
+        {
+            "start": 83.44,
+            "end": 89.36,
+            "text": " Things like abuse or neglect or growing up with a parent who struggles with mental illness"
+        },
+        {
+            "start": 89.36,
+            "end": 92.03999999999999,
+            "text": " or substance dependence."
+        },
+        {
+            "start": 92.03999999999999,
+            "end": 96.88,
+            "text": " Now for a long time, I viewed these things in the way I was trained to do them, either"
+        },
+        {
+            "start": 96.88,
+            "end": 103.56,
+            "text": " as a social problem, refer to social services, or as a mental health problem, refer to mental"
+        },
+        {
+            "start": 103.56,
+            "end": 106.0,
+            "text": " health services."
+        },
+        {
+            "start": 106.0,
+            "end": 112.0,
+            "text": " And then something happened to make me rethink my entire approach."
+        },
+        {
+            "start": 112.0,
+            "end": 117.36,
+            "text": " When I finished my residency, I wanted to go someplace where I felt really needed, some"
+        },
+        {
+            "start": 117.36,
+            "end": 120.28,
+            "text": " place where I could make a difference."
+        },
+        {
+            "start": 120.28,
+            "end": 125.64,
+            "text": " So I came to work for California Pacific Medical Center, one of the best private hospitals"
+        },
+        {
+            "start": 125.64,
+            "end": 127.76,
+            "text": " in Northern California."
+        },
+        {
+            "start": 127.76,
+            "end": 133.8,
+            "text": " And together, we opened a clinic in Bayview Hunters Point, one of the poorest, most underserved"
+        },
+        {
+            "start": 133.8,
+            "end": 136.52,
+            "text": " neighborhoods in San Francisco."
+        },
+        {
+            "start": 136.52,
+            "end": 141.60000000000002,
+            "text": " Now prior to that point, there had been only one pediatrician in all of Bayview to serve"
+        },
+        {
+            "start": 141.60000000000002,
+            "end": 144.68,
+            "text": " more than 10,000 children."
+        },
+        {
+            "start": 144.68,
+            "end": 150.48000000000002,
+            "text": " So we hung a shingles and we were able to provide top quality care regardless of ability"
+        },
+        {
+            "start": 150.48000000000002,
+            "end": 151.60000000000002,
+            "text": " to pay."
+        },
+        {
+            "start": 151.60000000000002,
+            "end": 153.0,
+            "text": " It was so cool."
+        },
+        {
+            "start": 153.0,
+            "end": 158.44,
+            "text": " We targeted the typical health disparities, access to care, immunization rates, asthma"
+        },
+        {
+            "start": 158.44,
+            "end": 162.44,
+            "text": " hospitalization rates, and we hit all of our members."
+        },
+        {
+            "start": 162.44,
+            "end": 165.68,
+            "text": " We felt very proud of ourselves."
+        },
+        {
+            "start": 165.68,
+            "end": 168.72,
+            "text": " But then I started noticing a disturbing trend."
+        },
+        {
+            "start": 168.72,
+            "end": 175.76,
+            "text": " A lot of kids were being referred to me for ADHD or attention deficit hyperactivity disorder."
+        },
+        {
+            "start": 175.76,
+            "end": 182.24,
+            "text": " But when I actually did a thorough history and physical, what I found was that for most"
+        },
+        {
+            "start": 182.24,
+            "end": 187.72,
+            "text": " of my patients, I couldn't make a diagnosis of ADHD."
+        },
+        {
+            "start": 187.72,
+            "end": 194.72,
+            "text": " Most of the kids I was seeing had experienced such severe trauma that it felt like something"
+        },
+        {
+            "start": 194.72,
+            "end": 196.56,
+            "text": " else was going on."
+        },
+        {
+            "start": 196.56,
+            "end": 201.8,
+            "text": " Somehow, I was missing something important."
+        },
+        {
+            "start": 201.8,
+            "end": 205.64,
+            "text": " Now before I did my residency, I did a master's degree in public health."
+        },
+        {
+            "start": 205.64,
+            "end": 210.04,
+            "text": " And one of the things that they teach you in public health school is that if you're a doctor"
+        },
+        {
+            "start": 210.04,
+            "end": 217.64,
+            "text": " and you see 100 kids that all drink from the same well and 98 of them develop diarrhea,"
+        },
+        {
+            "start": 217.64,
+            "end": 224.2,
+            "text": " you can go ahead and write that prescription for dose after dose after dose of antibiotics"
+        },
+        {
+            "start": 224.2,
+            "end": 229.83999999999997,
+            "text": " or you can walk over and say, what the hell is in this well?"
+        },
+        {
+            "start": 229.83999999999997,
+            "end": 236.48,
+            "text": " So I began reading everything that I could get my hands on about how exposure to adversity"
+        },
+        {
+            "start": 236.48,
+            "end": 240.32,
+            "text": " affects the developing brains and bodies of children."
+        },
+        {
+            "start": 240.32,
+            "end": 246.56,
+            "text": " And then one day, my colleague walked into my office and he said, Dr. Burke, have you"
+        },
+        {
+            "start": 246.56,
+            "end": 249.08,
+            "text": " seen this?"
+        },
+        {
+            "start": 249.08,
+            "end": 256.92,
+            "text": " In his hand was a copy of a research study called the Adverse Childhood Experiences Study."
+        },
+        {
+            "start": 256.92,
+            "end": 264.28,
+            "text": " That day changed my clinical practice and ultimately my career."
+        },
+        {
+            "start": 264.28,
+            "end": 269.68,
+            "text": " The Adverse Childhood Experiences Study is something that everybody needs to know about."
+        },
+        {
+            "start": 269.68,
+            "end": 274.88,
+            "text": " It was done by Dr. Vince Feliti at Kaiser and Dr. Bob Onda at the CDC."
+        },
+        {
+            "start": 274.88,
+            "end": 284.48,
+            "text": " And together they asked 17,500 adults about their history of exposure to what they called"
+        },
+        {
+            "start": 284.48,
+            "end": 289.12,
+            "text": " Adverse Childhood Experiences or ACEs."
+        },
+        {
+            "start": 289.12,
+            "end": 295.4,
+            "text": " Those include physical, emotional or sexual abuse, physical or emotional neglect, parental"
+        },
+        {
+            "start": 295.4,
+            "end": 303.76,
+            "text": " mental illness, substance dependence, incarceration, parental separation or divorce, or domestic"
+        },
+        {
+            "start": 303.76,
+            "end": 305.15999999999997,
+            "text": " violence."
+        },
+        {
+            "start": 305.15999999999997,
+            "end": 309.8,
+            "text": " For every yes, you would get a point on your ACE score."
+        },
+        {
+            "start": 309.8,
+            "end": 317.2,
+            "text": " And then what they did was they correlated these ACE scores against health outcomes."
+        },
+        {
+            "start": 317.2,
+            "end": 320.24,
+            "text": " What they found was striking."
+        },
+        {
+            "start": 320.24,
+            "end": 321.24,
+            "text": " Two things."
+        },
+        {
+            "start": 321.24,
+            "end": 326.12,
+            "text": " Number one, ACEs are incredibly common."
+        },
+        {
+            "start": 326.12,
+            "end": 338.88,
+            "text": " 57% of the population had at least one ACE and 12.6%, one in eight had four or more ACEs."
+        },
+        {
+            "start": 338.88,
+            "end": 345.36,
+            "text": " The second thing that they found was that there was a dose-response relationship between"
+        },
+        {
+            "start": 345.36,
+            "end": 349.24,
+            "text": " ACEs and health outcomes."
+        },
+        {
+            "start": 349.24,
+            "end": 353.04,
+            "text": " The higher your ACE score, the worse your health outcomes."
+        },
+        {
+            "start": 353.04,
+            "end": 358.24,
+            "text": " For a person with an ACE score of four or more, their relative risk of chronic obstructive"
+        },
+        {
+            "start": 358.24,
+            "end": 365.04,
+            "text": " pulmonary disease was two and a half times that of someone with an ACE score of zero."
+        },
+        {
+            "start": 365.04,
+            "end": 368.32000000000005,
+            "text": " For hepatitis, it was also two and a half times."
+        },
+        {
+            "start": 368.32000000000005,
+            "end": 371.52000000000004,
+            "text": " For depression, it was four and a half times."
+        },
+        {
+            "start": 371.52000000000004,
+            "end": 375.68,
+            "text": " For suicidality, it was 12 times."
+        },
+        {
+            "start": 375.68,
+            "end": 382.8,
+            "text": " A person with an ACE score of seven or more had triple the lifetime risk of lung cancer"
+        },
+        {
+            "start": 382.8,
+            "end": 388.04,
+            "text": " and three and a half times the risk of ischemic heart disease, the number one killer in the"
+        },
+        {
+            "start": 388.04,
+            "end": 390.24,
+            "text": " United States of America."
+        },
+        {
+            "start": 390.24,
+            "end": 395.36,
+            "text": " Well, of course, this makes sense."
+        },
+        {
+            "start": 395.36,
+            "end": 399.64,
+            "text": " Some people look to this data and they said, come on."
+        },
+        {
+            "start": 399.64,
+            "end": 401.32,
+            "text": " You have a rough childhood."
+        },
+        {
+            "start": 401.32,
+            "end": 405.48,
+            "text": " You're more likely to drink and smoke and do all these things that are going to ruin"
+        },
+        {
+            "start": 405.48,
+            "end": 406.48,
+            "text": " your health."
+        },
+        {
+            "start": 406.48,
+            "end": 407.48,
+            "text": " This isn't science."
+        },
+        {
+            "start": 407.48,
+            "end": 410.92,
+            "text": " This is just bad behavior."
+        },
+        {
+            "start": 410.92,
+            "end": 415.88,
+            "text": " It turns out this is exactly where the science comes in."
+        },
+        {
+            "start": 415.88,
+            "end": 423.8,
+            "text": " We now understand better than we ever have before how exposure to early adversity affects"
+        },
+        {
+            "start": 423.8,
+            "end": 426.64000000000004,
+            "text": " the developing brains and bodies of children."
+        },
+        {
+            "start": 426.64000000000004,
+            "end": 432.0,
+            "text": " It affects areas like the nucleus accumbent, the pleasure and reward center of the brain"
+        },
+        {
+            "start": 432.0,
+            "end": 435.0,
+            "text": " that is implicated in substance accumbents."
+        },
+        {
+            "start": 435.0,
+            "end": 440.44,
+            "text": " It inhibits the prefrontal cortex, which is necessary for impulse control and executive"
+        },
+        {
+            "start": 440.44,
+            "end": 443.64,
+            "text": " function, a critical area for learning."
+        },
+        {
+            "start": 443.64,
+            "end": 450.72,
+            "text": " And on MRI scans, we see measurable differences in the amygdala, the brain's fear response"
+        },
+        {
+            "start": 450.72,
+            "end": 452.32,
+            "text": " center."
+        },
+        {
+            "start": 452.32,
+            "end": 459.6,
+            "text": " So there are real neurologic reasons why folks exposed to high doses of adversity are more"
+        },
+        {
+            "start": 459.6,
+            "end": 462.56,
+            "text": " likely to engage in high risk behavior."
+        },
+        {
+            "start": 462.56,
+            "end": 464.56,
+            "text": " And that's important to know."
+        },
+        {
+            "start": 464.56,
+            "end": 470.8,
+            "text": " But it turns out that even if you don't engage in any high risk behavior, you're still more"
+        },
+        {
+            "start": 470.8,
+            "end": 476.24,
+            "text": " likely to develop heart disease or cancer."
+        },
+        {
+            "start": 476.24,
+            "end": 483.68,
+            "text": " The reason for this has to do with the hypothalamic pituitary adrenal axis, the brains and body"
+        },
+        {
+            "start": 483.68,
+            "end": 489.72,
+            "text": " stress response system that governs our fight or slight response."
+        },
+        {
+            "start": 489.72,
+            "end": 490.72,
+            "text": " How does it work?"
+        },
+        {
+            "start": 491.32000000000005,
+            "end": 495.0,
+            "text": " Well, imagine you're walking in the forest and you see a bear."
+        },
+        {
+            "start": 495.0,
+            "end": 500.08000000000004,
+            "text": " Immediately, your hypothalamus sends a signal to your pituitary, which sends a signal to"
+        },
+        {
+            "start": 500.08000000000004,
+            "end": 505.72,
+            "text": " your adrenal gland that says, release stress hormones, adrenaline, cortisol."
+        },
+        {
+            "start": 505.72,
+            "end": 507.88000000000005,
+            "text": " And so your heart starts to pound."
+        },
+        {
+            "start": 507.88000000000005,
+            "end": 514.72,
+            "text": " Your pupils dilate, your airways open up, and you are ready to either fight that bear"
+        },
+        {
+            "start": 514.72,
+            "end": 516.64,
+            "text": " or run from the bear."
+        },
+        {
+            "start": 516.64,
+            "end": 519.0400000000001,
+            "text": " And that is wonderful."
+        },
+        {
+            "start": 519.04,
+            "end": 524.76,
+            "text": " If you're in a forest and there's a bear."
+        },
+        {
+            "start": 524.76,
+            "end": 530.36,
+            "text": " But the problem is what happens when the bear comes home every night."
+        },
+        {
+            "start": 530.36,
+            "end": 536.24,
+            "text": " And this system is activated over and over and over again."
+        },
+        {
+            "start": 536.24,
+            "end": 544.9599999999999,
+            "text": " And it goes from being adaptive or life saving to maladaptive or health damaging."
+        },
+        {
+            "start": 545.08,
+            "end": 552.5,
+            "text": " Very much"
+        },
+        {
+            "start": 552.6600000000001,
+            "end": 560.88,
+            "text": " \uc654 \u041d legitimately safe to say about spun."
+        },
+        {
+            "start": 561.0400000000001,
+            "end": 566.0600000000001,
+            "text": " And what will come will end Tail's survival."
+        },
+        {
+            "start": 566.0600000000001,
+            "end": 570.84,
+            "text": " Well, imagine a face that's just X axis"
+        },
+        {
+            "start": 570.84,
+            "end": 578.2800000000001,
+            "text": " So for me, this information threw my old training out the window, because when we understand"
+        },
+        {
+            "start": 578.2800000000001,
+            "end": 585.12,
+            "text": " the mechanism of a disease, when we know not only which pathways are disrupted, but how,"
+        },
+        {
+            "start": 585.12,
+            "end": 593.12,
+            "text": " then as doctors, it is our job to use this science for prevention and treatment."
+        },
+        {
+            "start": 593.12,
+            "end": 594.9200000000001,
+            "text": " That's what we do."
+        },
+        {
+            "start": 594.92,
+            "end": 600.92,
+            "text": " So in San Francisco, we created the Center for Youth Wellness to prevent, screen, and"
+        },
+        {
+            "start": 600.92,
+            "end": 604.8,
+            "text": " heal the impacts of ACEs and toxic stress."
+        },
+        {
+            "start": 604.8,
+            "end": 610.56,
+            "text": " We started simply with routine screening of every one of our kids at their regular physical,"
+        },
+        {
+            "start": 610.56,
+            "end": 616.1999999999999,
+            "text": " because I know that if my patient has an ACE score of four, she's two and a half times"
+        },
+        {
+            "start": 616.1999999999999,
+            "end": 619.8399999999999,
+            "text": " as likely to develop hepatitis or COPD."
+        },
+        {
+            "start": 619.8399999999999,
+            "end": 624.4399999999999,
+            "text": " She's four and a half times as likely to become depressed, and she's 12 times as likely to"
+        },
+        {
+            "start": 624.44,
+            "end": 628.6800000000001,
+            "text": " attempt to take her own life as my patient with zero ACEs."
+        },
+        {
+            "start": 628.6800000000001,
+            "end": 632.2,
+            "text": " I know that when she's in my exam room."
+        },
+        {
+            "start": 632.2,
+            "end": 637.5600000000001,
+            "text": " For our patients who do screen positive, we have a multidisciplinary treatment team that"
+        },
+        {
+            "start": 637.5600000000001,
+            "end": 643.5200000000001,
+            "text": " works to reduce the dose of adversity and treat symptoms using best practices, including"
+        },
+        {
+            "start": 643.5200000000001,
+            "end": 651.7600000000001,
+            "text": " home visits, care coordination, mental health care, nutrition, holistic interventions, and"
+        },
+        {
+            "start": 651.76,
+            "end": 654.68,
+            "text": " yes, medication when necessary."
+        },
+        {
+            "start": 654.68,
+            "end": 660.4399999999999,
+            "text": " But we also educate parents about the impact of ACEs and toxic stress the same way you"
+        },
+        {
+            "start": 660.4399999999999,
+            "end": 665.08,
+            "text": " would for covering electrical outlets or lead poisoning."
+        },
+        {
+            "start": 665.08,
+            "end": 670.88,
+            "text": " And we tailor the care of our asthmatics and our diabetics in a way that recognizes that"
+        },
+        {
+            "start": 670.88,
+            "end": 678.12,
+            "text": " they may need more aggressive treatment given the changes to their hormonal and immune systems."
+        },
+        {
+            "start": 678.12,
+            "end": 682.5600000000001,
+            "text": " So the other thing that happens when you understand this science is that you want to"
+        },
+        {
+            "start": 682.5600000000001,
+            "end": 689.36,
+            "text": " shout it from the rooftops because this isn't just an issue for kids in baby."
+        },
+        {
+            "start": 689.36,
+            "end": 694.52,
+            "text": " I figured the minute that everybody else heard about this, it would be routine screening,"
+        },
+        {
+            "start": 694.52,
+            "end": 699.16,
+            "text": " multidisciplinary treatment teams, and it would be a race to the most effective clinical"
+        },
+        {
+            "start": 699.16,
+            "end": 700.96,
+            "text": " treatment protocols."
+        },
+        {
+            "start": 700.96,
+            "end": 705.2,
+            "text": " Yeah, that did not happen."
+        },
+        {
+            "start": 705.2,
+            "end": 708.04,
+            "text": " And that was a huge learning for me."
+        },
+        {
+            "start": 708.04,
+            "end": 717.36,
+            "text": " What I had thought of as simply best clinical practice, I now understand to be a movement."
+        },
+        {
+            "start": 717.36,
+            "end": 723.4,
+            "text": " In the words of Dr. Robert Block, the former president of the American Academy of Pediatrics,"
+        },
+        {
+            "start": 723.4,
+            "end": 731.04,
+            "text": " adverse childhood experiences are the single greatest unaddressed public health threat"
+        },
+        {
+            "start": 731.04,
+            "end": 733.76,
+            "text": " facing our nation today."
+        },
+        {
+            "start": 733.76,
+            "end": 737.88,
+            "text": " And for a lot of people, that's a terrifying prospect."
+        },
+        {
+            "start": 737.88,
+            "end": 743.96,
+            "text": " The scope and scale of the problem seems so large that it feels overwhelming to think"
+        },
+        {
+            "start": 743.96,
+            "end": 746.36,
+            "text": " about how we might approach it."
+        },
+        {
+            "start": 746.36,
+            "end": 751.16,
+            "text": " But for me, that's actually where the hope lies."
+        },
+        {
+            "start": 751.16,
+            "end": 757.48,
+            "text": " Because when we have the right framework, when we recognize this to be a public health"
+        },
+        {
+            "start": 757.48,
+            "end": 764.16,
+            "text": " crisis, then we can begin to use the right toolkit to come up with solutions."
+        },
+        {
+            "start": 764.16,
+            "end": 770.8399999999999,
+            "text": " From tobacco to lead poisoning to HIV AIDS, the United States actually has quite a strong"
+        },
+        {
+            "start": 770.8399999999999,
+            "end": 775.8399999999999,
+            "text": " track record with addressing public health problems."
+        },
+        {
+            "start": 775.8399999999999,
+            "end": 783.76,
+            "text": " But replicating those successes with ACEs and toxic stress is going to take determination"
+        },
+        {
+            "start": 783.76,
+            "end": 784.76,
+            "text": " and commitment."
+        },
+        {
+            "start": 784.76,
+            "end": 792.68,
+            "text": " And when I look at what our nation's response has been so far, I wonder, why haven't we"
+        },
+        {
+            "start": 792.68,
+            "end": 794.28,
+            "text": " taken this more seriously?"
+        },
+        {
+            "start": 794.28,
+            "end": 800.88,
+            "text": " You know, at first, I thought that we marginalized the issue because it doesn't apply to us,"
+        },
+        {
+            "start": 800.88,
+            "end": 801.88,
+            "text": " right?"
+        },
+        {
+            "start": 801.88,
+            "end": 806.5999999999999,
+            "text": " That's an issue for those kids in those neighborhoods, which is weird because the data doesn't pair"
+        },
+        {
+            "start": 806.5999999999999,
+            "end": 808.5999999999999,
+            "text": " that out."
+        },
+        {
+            "start": 808.5999999999999,
+            "end": 818.1999999999999,
+            "text": " The original ACE study was done in a population that was 70% Caucasian, 70% college educated."
+        },
+        {
+            "start": 818.2,
+            "end": 827.36,
+            "text": " And then, the more I talk to folks, I'm beginning to think that maybe I had it completely backwards."
+        },
+        {
+            "start": 827.36,
+            "end": 835.36,
+            "text": " If I were to ask how many people in this room grew up with a family member who suffered from"
+        },
+        {
+            "start": 835.36,
+            "end": 840.32,
+            "text": " mental illness, I bet a few hands would go up."
+        },
+        {
+            "start": 840.32,
+            "end": 846.44,
+            "text": " And then if I were to ask how many folks had a parent who maybe drank too much or who really"
+        },
+        {
+            "start": 846.44,
+            "end": 852.5600000000001,
+            "text": " believed that if you spare the rod, you spoiled the child, I bet a few more hands would go"
+        },
+        {
+            "start": 852.5600000000001,
+            "end": 854.7600000000001,
+            "text": " up."
+        },
+        {
+            "start": 854.7600000000001,
+            "end": 859.24,
+            "text": " Even in this room, this is an issue that touches many of us."
+        },
+        {
+            "start": 859.24,
+            "end": 865.6400000000001,
+            "text": " And I'm beginning to believe that we marginalized the issue because it does apply to us."
+        },
+        {
+            "start": 865.6400000000001,
+            "end": 870.84,
+            "text": " Maybe it's easier to see in other zip codes because we don't want to look at it."
+        },
+        {
+            "start": 870.84,
+            "end": 873.6400000000001,
+            "text": " We'd rather be sick."
+        },
+        {
+            "start": 873.84,
+            "end": 883.52,
+            "text": " Fortunately, scientific advances and frankly, economic realities make that option less viable"
+        },
+        {
+            "start": 883.52,
+            "end": 885.52,
+            "text": " every day."
+        },
+        {
+            "start": 885.52,
+            "end": 887.92,
+            "text": " The science is clear."
+        },
+        {
+            "start": 887.92,
+            "end": 893.84,
+            "text": " Early adversity dramatically affects health across the lifetime."
+        },
+        {
+            "start": 893.84,
+            "end": 900.2,
+            "text": " Today, we are beginning to understand how to interrupt the progression from early adversity"
+        },
+        {
+            "start": 900.2800000000001,
+            "end": 903.0400000000001,
+            "text": " to disease and early death."
+        },
+        {
+            "start": 903.0400000000001,
+            "end": 909.1600000000001,
+            "text": " And 30 years from now, the child who has a high ACE score and whose behavioral symptoms"
+        },
+        {
+            "start": 909.1600000000001,
+            "end": 915.48,
+            "text": " go unrecognized, whose asthma management is not connected and who goes on to develop"
+        },
+        {
+            "start": 915.48,
+            "end": 922.0400000000001,
+            "text": " high blood pressure and early heart disease or cancer, will be just as anomalous as a"
+        },
+        {
+            "start": 922.0400000000001,
+            "end": 925.24,
+            "text": " six-month mortality from HIV-AIDS."
+        },
+        {
+            "start": 925.28,
+            "end": 930.5600000000001,
+            "text": " And so, we'll look at that situation and say, what the heck happened there?"
+        },
+        {
+            "start": 930.5600000000001,
+            "end": 932.64,
+            "text": " This is treatable."
+        },
+        {
+            "start": 932.64,
+            "end": 935.36,
+            "text": " This is beatable."
+        },
+        {
+            "start": 935.36,
+            "end": 941.96,
+            "text": " The single most important thing that we need today is the courage to look this problem"
+        },
+        {
+            "start": 941.96,
+            "end": 948.2,
+            "text": " in the face and say, this is real and this is all of us."
+        },
+        {
+            "start": 948.2,
+            "end": 953.04,
+            "text": " I believe that we are the movement."
+        },
+        {
+            "start": 953.04,
+            "end": 954.04,
+            "text": " Thank you."
+        }
+    ]
+}

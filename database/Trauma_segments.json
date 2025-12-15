@@ -1,0 +1,1778 @@
+[
+    {
+        "file": "Trauma_cleaned.json",
+        "segment_id": 1,
+        "text": "In the mid-90s, the CDC and Kaiser Permanente discovered an exposure that dramatically increased  the risk for 7 out of 10 of the leading costs of death in the United States.",
+        "summary": "in the mid-90s, the CDC and Kaiser Permanente discovered an exposure that dramatically increased the risk for 7 out of 10 of the leading costs of death in the united states.",
+        "keywords": [
+            "Kaiser Permanente discovered",
+            "United States",
+            "CDC and Kaiser",
+            "Kaiser Permanente",
+            "Permanente discovered",
+            "discovered an exposure",
+            "exposure that dramatically",
+            "dramatically increased"
+        ],
+        "start_time": 0.0,
+        "end_time": 27.28
+    },
+    {
+        "file": "Trauma_cleaned.json",
+        "segment_id": 2,
+        "text": "In high doses, it affects brain development, the immune system, hormonal systems, and even  the way our DNA is read and transcribed.",
+        "summary": "in high doses, it affects brain development, the immune system, hormonal systems, and even the way our DNA is read and transcribed.",
+        "keywords": [
+            "affects brain development",
+            "hormonal systems",
+            "DNA is read",
+            "high doses",
+            "brain development",
+            "read and transcribed",
+            "immune system",
+            "affects brain"
+        ],
+        "start_time": 27.28,
+        "end_time": 39.28
+    },
+    {
+        "file": "Trauma_cleaned.json",
+        "segment_id": 3,
+        "text": "Folks who are exposed in very high doses have tripled the lifetime risk of heart disease  and lung cancer, and a 20-year difference in life expectancy.",
+        "summary": "people exposed in very high doses triple the lifetime risk of heart disease and lung cancer . 20-year difference in life expectancy .",
+        "keywords": [
+            "lung cancer",
+            "difference in life",
+            "life expectancy",
+            "high doses",
+            "doses have tripled",
+            "tripled the lifetime",
+            "lifetime risk",
+            "risk of heart"
+        ],
+        "start_time": 39.28,
+        "end_time": 51.96
+    },
+    {
+        "file": "Trauma_cleaned.json",
+        "segment_id": 4,
+        "text": "And yet doctors today are not trained in routine screening or treatment.",
+        "summary": "doctors today are not trained in routine screening or treatment . but doctors are not training in routine treatment or screening .",
+        "keywords": [
+            "screening or treatment",
+            "doctors today",
+            "trained in routine",
+            "routine screening",
+            "treatment",
+            "doctors",
+            "today",
+            "trained"
+        ],
+        "start_time": 51.96,
+        "end_time": 57.4
+    },
+    {
+        "file": "Trauma_cleaned.json",
+        "segment_id": 5,
+        "text": "Now, the exposure I'm talking about is not a pesticide or a packaging chemical.",
+        "summary": "the exposure I'm talking about is not a pesticide or a packaging chemical .",
+        "keywords": [
+            "packaging chemical",
+            "exposure I talking",
+            "chemical",
+            "exposure",
+            "talking",
+            "pesticide",
+            "packaging"
+        ],
+        "start_time": 57.4,
+        "end_time": 64.0
+    },
+    {
+        "file": "Trauma_cleaned.json",
+        "segment_id": 6,
+        "text": "It's childhood trauma. Okay, what kind of trauma am I talking about here?",
+        "summary": "it's childhood trauma . what kind of trauma am I talking about here? .",
+        "keywords": [
+            "childhood trauma",
+            "trauma",
+            "childhood",
+            "kind",
+            "talking",
+            "kind of trauma"
+        ],
+        "start_time": 64.0,
+        "end_time": 69.6
+    },
+    {
+        "file": "Trauma_cleaned.json",
+        "segment_id": 7,
+        "text": "I'm not talking about failing a test or losing a basketball game.",
+        "summary": "i'm not talking about failing a test or losing a basketball game .",
+        "keywords": [
+            "basketball game",
+            "talking about failing",
+            "failing a test",
+            "test or losing",
+            "losing a basketball",
+            "game",
+            "talking",
+            "failing"
+        ],
+        "start_time": 69.6,
+        "end_time": 74.0
+    },
+    {
+        "file": "Trauma_cleaned.json",
+        "segment_id": 8,
+        "text": "I am talking about threats that are so severe or pervasive that they literally get under  our skin and change our physiology.",
+        "summary": "threats that are so severe or pervasive that they literally get under our skin and change our physiology.",
+        "keywords": [
+            "change our physiology",
+            "talking about threats",
+            "severe or pervasive",
+            "skin and change",
+            "physiology",
+            "talking",
+            "threats",
+            "severe"
+        ],
+        "start_time": 74.0,
+        "end_time": 83.44
+    },
+    {
+        "file": "Trauma_cleaned.json",
+        "segment_id": 9,
+        "text": "Things like abuse or neglect or growing up with a parent who struggles with mental illness  or substance dependence.",
+        "summary": "things like abuse or neglect or growing up with a parent who struggles with mental illness or substance dependence .",
+        "keywords": [
+            "Things like abuse",
+            "substance dependence",
+            "abuse or neglect",
+            "neglect or growing",
+            "parent who struggles",
+            "struggles with mental",
+            "mental illness",
+            "illness or substance"
+        ],
+        "start_time": 83.44,
+        "end_time": 92.03999999999999
+    },
+    {
+        "file": "Trauma_cleaned.json",
+        "segment_id": 10,
+        "text": "Now for a long time, I viewed these things in the way I was trained to do them, either  as a social problem, refer to social services, or as a mental health problem, refer to mental  health services.",
+        "summary": "for a long time, I viewed these things in the way I was trained to do them . either as a social problem, refer to social services, or as mental health services .",
+        "keywords": [
+            "mental health problem",
+            "mental health services",
+            "mental health",
+            "long time",
+            "health problem",
+            "health services",
+            "viewed these things",
+            "social problem"
+        ],
+        "start_time": 92.03999999999999,
+        "end_time": null
+    },
+    {
+        "file": "Trauma_cleaned.json",
+        "segment_id": 11,
+        "text": "And then something happened to make me rethink my entire approach.",
+        "summary": "something happened to make me rethink my entire approach . i think it's a good idea to think about it .",
+        "keywords": [
+            "entire approach",
+            "happened to make",
+            "make me rethink",
+            "rethink my entire",
+            "approach",
+            "happened",
+            "make",
+            "rethink"
+        ],
+        "start_time": 106.0,
+        "end_time": 112.0
+    },
+    {
+        "file": "Trauma_cleaned.json",
+        "segment_id": 12,
+        "text": "When I finished my residency, I wanted to go someplace where I felt really needed, some  place where I could make a difference.",
+        "summary": "when I finished my residency, I wanted to go someplace where I felt really needed, some place where I could make a difference .",
+        "keywords": [
+            "finished my residency",
+            "felt really needed",
+            "make a difference",
+            "residency",
+            "needed",
+            "difference",
+            "finished",
+            "wanted"
+        ],
+        "start_time": 112.0,
+        "end_time": 120.28
+    },
+    {
+        "file": "Trauma_cleaned.json",
+        "segment_id": 13,
+        "text": "So I came to work for California Pacific Medical Center, one of the best private hospitals  in Northern California.",
+        "summary": "I came to work for California Pacific Medical Center, one of the best private hospitals in Northern California .",
+        "keywords": [
+            "Pacific Medical Center",
+            "California Pacific Medical",
+            "Medical Center",
+            "Pacific Medical",
+            "California Pacific",
+            "Northern California",
+            "hospitals in Northern",
+            "private hospitals"
+        ],
+        "start_time": 120.28,
+        "end_time": 127.76
+    },
+    {
+        "file": "Trauma_cleaned.json",
+        "segment_id": 14,
+        "text": "And together, we opened a clinic in Bayview Hunters Point, one of the poorest, most underserved  neighborhoods in San Francisco.",
+        "summary": "we opened a clinic in Bayview Hunters Point, one of the poorest, most underserved neighborhoods in San Francisco .",
+        "keywords": [
+            "Bayview Hunters Point",
+            "Hunters Point",
+            "San Francisco",
+            "Bayview Hunters",
+            "clinic in Bayview",
+            "neighborhoods in San",
+            "opened a clinic",
+            "underserved neighborhoods"
+        ],
+        "start_time": 127.76,
+        "end_time": 136.52
+    },
+    {
+        "file": "Trauma_cleaned.json",
+        "segment_id": 15,
+        "text": "Now prior to that point, there had been only one pediatrician in all of Bayview to serve  more than 10,000 children.",
+        "summary": "there had been only one pediatrician in all of Bayview to serve more than 10,000 children .",
+        "keywords": [
+            "Bayview to serve",
+            "children",
+            "Bayview",
+            "point",
+            "prior",
+            "pediatrician",
+            "serve"
+        ],
+        "start_time": 136.52,
+        "end_time": 144.68
+    },
+    {
+        "file": "Trauma_cleaned.json",
+        "segment_id": 16,
+        "text": "So we hung a shingles and we were able to provide top quality care regardless of ability  to pay.",
+        "summary": "we hung a shingles and were able to provide top quality care regardless of ability to pay .",
+        "keywords": [
+            "provide top quality",
+            "top quality care",
+            "ability to pay",
+            "hung a shingles",
+            "provide top",
+            "top quality",
+            "quality care",
+            "pay"
+        ],
+        "start_time": 144.68,
+        "end_time": null
+    },
+    {
+        "file": "Trauma_cleaned.json",
+        "segment_id": 17,
+        "text": "It was so cool.",
+        "summary": "it was so cool . it was a blast . It was cool and so cool.",
+        "keywords": [
+            "cool"
+        ],
+        "start_time": 151.60000000000002,
+        "end_time": 153.0
+    },
+    {
+        "file": "Trauma_cleaned.json",
+        "segment_id": 18,
+        "text": "We targeted the typical health disparities, access to care, immunization rates, asthma  hospitalization rates, and we hit all of our members.",
+        "summary": "we targeted the typical health disparities, access to care, immunization rates, asthma hospitalization rates .",
+        "keywords": [
+            "asthma hospitalization rates",
+            "typical health disparities",
+            "access to care",
+            "immunization rates",
+            "health disparities",
+            "asthma hospitalization",
+            "hospitalization rates",
+            "targeted the typical"
+        ],
+        "start_time": 153.0,
+        "end_time": 162.44
+    },
+    {
+        "file": "Trauma_cleaned.json",
+        "segment_id": 19,
+        "text": "We felt very proud of ourselves.",
+        "summary": "'we felt very proud of ourselves', says a friend of mine . 'i'm a big fan of the world'.",
+        "keywords": [
+            "felt very proud",
+            "felt",
+            "proud"
+        ],
+        "start_time": 162.44,
+        "end_time": 165.68
+    },
+    {
+        "file": "Trauma_cleaned.json",
+        "segment_id": 20,
+        "text": "But then I started noticing a disturbing trend.",
+        "summary": "I started noticing a disturbing trend . but then I started to notice a trend.",
+        "keywords": [
+            "disturbing trend",
+            "started noticing",
+            "noticing a disturbing",
+            "trend",
+            "started",
+            "noticing",
+            "disturbing"
+        ],
+        "start_time": 165.68,
+        "end_time": 168.72
+    },
+    {
+        "file": "Trauma_cleaned.json",
+        "segment_id": 21,
+        "text": "A lot of kids were being referred to me for ADHD or attention deficit hyperactivity disorder. But when I actually did a thorough history and physical, what I found was that for most  of my patients, I couldn't make a diagnosis of ADHD.",
+        "summary": "a lot of kids were being referred to me for ADHD or attention deficit hyperactivity disorder . for most of my patients, I couldn't make a diagnosis of ADHD .",
+        "keywords": [
+            "deficit hyperactivity disorder",
+            "attention deficit hyperactivity",
+            "hyperactivity disorder",
+            "lot of kids",
+            "attention deficit",
+            "deficit hyperactivity",
+            "ADHD or attention",
+            "ADHD"
+        ],
+        "start_time": 168.72,
+        "end_time": 187.72
+    },
+    {
+        "file": "Trauma_cleaned.json",
+        "segment_id": 22,
+        "text": "Most of the kids I was seeing had experienced such severe trauma that it felt like something  else was going on.",
+        "summary": "most of the kids I was seeing had experienced such severe trauma that it felt like something else was going on .",
+        "keywords": [
+            "experienced such severe",
+            "severe trauma",
+            "kids",
+            "experienced",
+            "severe",
+            "trauma",
+            "felt"
+        ],
+        "start_time": 187.72,
+        "end_time": null
+    },
+    {
+        "file": "Trauma_cleaned.json",
+        "segment_id": 23,
+        "text": "Somehow, I was missing something important.",
+        "summary": "i was missing something important . somehow, I was missing a few things .",
+        "keywords": [
+            "missing something important",
+            "important",
+            "missing"
+        ],
+        "start_time": 196.56,
+        "end_time": 201.8
+    },
+    {
+        "file": "Trauma_cleaned.json",
+        "segment_id": 24,
+        "text": "Now before I did my residency, I did a master's degree in public health.",
+        "summary": "i did a master's degree in public health before I did my residency .",
+        "keywords": [
+            "public health",
+            "master degree",
+            "degree in public",
+            "residency",
+            "health",
+            "master",
+            "degree",
+            "public"
+        ],
+        "start_time": 201.8,
+        "end_time": 205.64
+    },
+    {
+        "file": "Trauma_cleaned.json",
+        "segment_id": 25,
+        "text": "And one of the things that they teach you in public health school is that if you're a doctor  and you see 100 kids that all drink from the same well and 98 of them develop diarrhea,  you can go ahead and write that prescription for dose after dose after dose of antibiotics  or you can walk over and say, what the hell is in this well?",
+        "summary": "if you're a doctor and you see 100 kids that all drink from the same well and 98 of them develop diarrhea, you can go ahead and write that prescription for dose after dose of antibiotics or walk over and say, what the hell is in this well?",
+        "keywords": [
+            "public health school",
+            "develop diarrhea",
+            "public health",
+            "health school",
+            "ahead and write",
+            "write that prescription",
+            "dose after dose",
+            "dose"
+        ],
+        "start_time": 205.64,
+        "end_time": 229.83999999999997
+    },
+    {
+        "file": "Trauma_cleaned.json",
+        "segment_id": 26,
+        "text": "So I began reading everything that I could get my hands on about how exposure to adversity  affects the developing brains and bodies of children.",
+        "summary": "exposure to adversity affects the developing brains and bodies of children . so I began reading everything that I could get my hands on .",
+        "keywords": [
+            "bodies of children",
+            "began reading",
+            "exposure to adversity",
+            "adversity affects",
+            "affects the developing",
+            "developing brains",
+            "brains and bodies",
+            "children"
+        ],
+        "start_time": 229.83999999999997,
+        "end_time": 426.64000000000004
+    },
+    {
+        "file": "Trauma_cleaned.json",
+        "segment_id": 27,
+        "text": "And then one day, my colleague walked into my office and he said, Dr. Burke, have you  seen this?",
+        "summary": "one day, my colleague walked into my office and he said, Dr. Burke, have you seen this?",
+        "keywords": [
+            "colleague walked",
+            "Burke",
+            "day",
+            "colleague",
+            "walked",
+            "office"
+        ],
+        "start_time": 240.32,
+        "end_time": null
+    },
+    {
+        "file": "Trauma_cleaned.json",
+        "segment_id": 28,
+        "text": "In his hand was a copy of a research study called the Adverse Childhood Experiences Study.",
+        "summary": "in his hand was a copy of a research study called the Adverse Childhood Experiences Study .",
+        "keywords": [
+            "Adverse Childhood Experiences",
+            "Childhood Experiences Study",
+            "research study called",
+            "Adverse Childhood",
+            "Childhood Experiences",
+            "Experiences Study",
+            "called the Adverse",
+            "research study"
+        ],
+        "start_time": 249.08,
+        "end_time": 256.92
+    },
+    {
+        "file": "Trauma_cleaned.json",
+        "segment_id": 29,
+        "text": "That day changed my clinical practice and ultimately my career.",
+        "summary": "that day changed my clinical practice and ultimately my career . that day I changed my practice and my career.",
+        "keywords": [
+            "ultimately my career",
+            "day changed",
+            "changed my clinical",
+            "clinical practice",
+            "practice and ultimately",
+            "career",
+            "day",
+            "changed"
+        ],
+        "start_time": 256.92,
+        "end_time": 264.28
+    },
+    {
+        "file": "Trauma_cleaned.json",
+        "segment_id": 30,
+        "text": "The Adverse Childhood Experiences Study is something that everybody needs to know about.",
+        "summary": "the Adverse Childhood Experiences Study is something that everybody needs to know about . the study is based on the adverse childhood experiences study .",
+        "keywords": [
+            "Adverse Childhood Experiences",
+            "Childhood Experiences Study",
+            "Adverse Childhood",
+            "Childhood Experiences",
+            "Experiences Study",
+            "Adverse",
+            "Childhood",
+            "Experiences"
+        ],
+        "start_time": 264.28,
+        "end_time": 269.68
+    },
+    {
+        "file": "Trauma_cleaned.json",
+        "segment_id": 31,
+        "text": "It was done by Dr. Vince Feliti at Kaiser and Dr. Bob Onda at the CDC.",
+        "summary": "it was done by Dr. Vince Feliti and Dr. Bob Onda at the CDC .",
+        "keywords": [
+            "Vince Feliti",
+            "Feliti at Kaiser",
+            "Bob Onda",
+            "CDC",
+            "Vince",
+            "Feliti",
+            "Kaiser",
+            "Bob"
+        ],
+        "start_time": 269.68,
+        "end_time": 274.88
+    },
+    {
+        "file": "Trauma_cleaned.json",
+        "segment_id": 32,
+        "text": "And together they asked 17,500 adults about their history of exposure to what they called  Adverse Childhood Experiences or ACEs.",
+        "summary": "together they asked 17,500 adults about their history of exposure to what they called Adverse Childhood Experiences or ACEs.",
+        "keywords": [
+            "Adverse Childhood Experiences",
+            "called Adverse Childhood",
+            "Adverse Childhood",
+            "Childhood Experiences",
+            "Experiences or ACEs",
+            "called Adverse",
+            "history of exposure",
+            "Adverse"
+        ],
+        "start_time": 274.88,
+        "end_time": 289.12
+    },
+    {
+        "file": "Trauma_cleaned.json",
+        "segment_id": 33,
+        "text": "Those include physical, emotional or sexual abuse, physical or emotional neglect, parental  mental illness, substance dependence, incarceration, parental separation or divorce, or domestic  violence.",
+        "summary": "those include physical, emotional or sexual abuse, physical or emotional neglect, parental mental illness, substance dependence, incarceration, parental separation or divorce .",
+        "keywords": [
+            "parental mental illness",
+            "substance dependence",
+            "sexual abuse",
+            "mental illness",
+            "separation or divorce",
+            "domestic violence",
+            "parental mental",
+            "parental separation"
+        ],
+        "start_time": 289.12,
+        "end_time": null
+    },
+    {
+        "file": "Trauma_cleaned.json",
+        "segment_id": 34,
+        "text": "For every yes, you would get a point on your ACE score.",
+        "summary": "for every yes, you would get a point on your ACE score . if you were a yes, it would be a good idea to score a ACE point .",
+        "keywords": [
+            "ACE score",
+            "ACE",
+            "score",
+            "point"
+        ],
+        "start_time": 305.15999999999997,
+        "end_time": 309.8
+    },
+    {
+        "file": "Trauma_cleaned.json",
+        "segment_id": 35,
+        "text": "And then what they did was they correlated these ACE scores against health outcomes.",
+        "summary": "ACE scores correlated health outcomes with health outcomes . they did this by comparing the ACE score to health outcomes.",
+        "keywords": [
+            "correlated these ACE",
+            "ACE scores",
+            "health outcomes",
+            "scores against health",
+            "ACE",
+            "outcomes",
+            "correlated",
+            "scores"
+        ],
+        "start_time": 309.8,
+        "end_time": 317.2
+    },
+    {
+        "file": "Trauma_cleaned.json",
+        "segment_id": 36,
+        "text": "What they found was striking.",
+        "summary": "what they found was striking . they found a stifling image of a man who was able to find a killer .",
+        "keywords": [
+            "found was striking",
+            "striking",
+            "found"
+        ],
+        "start_time": 317.2,
+        "end_time": 320.24
+    },
+    {
+        "file": "Trauma_cleaned.json",
+        "segment_id": 37,
+        "text": "Two things.",
+        "summary": "two things: a few things: one thing: two things . the other one is a little bit a bit more .",
+        "keywords": [
+            "things"
+        ],
+        "start_time": 320.24,
+        "end_time": 321.24
+    },
+    {
+        "file": "Trauma_cleaned.json",
+        "segment_id": 38,
+        "text": "Number one, ACEs are incredibly common. 57% of the population had at least one ACE and 12.6%, one in eight had four or more ACEs.",
+        "summary": "57% of the population had at least one ACE and 12.6%, one in eight had four or more ACEs .",
+        "keywords": [
+            "incredibly common",
+            "Number",
+            "common",
+            "ACEs",
+            "ACEs are incredibly",
+            "incredibly",
+            "ACE",
+            "population"
+        ],
+        "start_time": 321.24,
+        "end_time": 338.88
+    },
+    {
+        "file": "Trauma_cleaned.json",
+        "segment_id": 39,
+        "text": "The second thing that they found was that there was a dose-response relationship between  ACEs and health outcomes.",
+        "summary": "ACEs and health outcomes had a dose-response relationship .",
+        "keywords": [
+            "health outcomes",
+            "dose-response relationship",
+            "relationship between ACEs",
+            "ACEs and health",
+            "outcomes",
+            "thing",
+            "found",
+            "dose-response"
+        ],
+        "start_time": 338.88,
+        "end_time": 349.24
+    },
+    {
+        "file": "Trauma_cleaned.json",
+        "segment_id": 40,
+        "text": "The higher your ACE score, the worse your health outcomes. For a person with an ACE score of four or more, their relative risk of chronic obstructive  pulmonary disease was two and a half times that of someone with an ACE score of zero.",
+        "summary": "a person with an ACE score of four or more was twice the risk of chronic obstructive pulmonary disease . the higher your score, the worse your health outcomes .",
+        "keywords": [
+            "ACE score",
+            "health outcomes",
+            "worse your health",
+            "ACE",
+            "score",
+            "higher your ACE",
+            "chronic obstructive pulmonary",
+            "obstructive pulmonary disease"
+        ],
+        "start_time": 349.24,
+        "end_time": 365.04
+    },
+    {
+        "file": "Trauma_cleaned.json",
+        "segment_id": 41,
+        "text": "For hepatitis, it was also two and a half times.",
+        "summary": "hepatitis was also two and a half times more than heptis .",
+        "keywords": [
+            "half times",
+            "hepatitis",
+            "times",
+            "half"
+        ],
+        "start_time": 365.04,
+        "end_time": 368.32000000000005
+    },
+    {
+        "file": "Trauma_cleaned.json",
+        "segment_id": 42,
+        "text": "For depression, it was four and a half times. For suicidality, it was 12 times.",
+        "summary": "for depression, it was four and a half times . for suicidality it was 12 times.",
+        "keywords": [
+            "half times",
+            "times",
+            "depression",
+            "half",
+            "suicidality"
+        ],
+        "start_time": 368.32000000000005,
+        "end_time": 375.68
+    },
+    {
+        "file": "Trauma_cleaned.json",
+        "segment_id": 43,
+        "text": "A person with an ACE score of seven or more had triple the lifetime risk of lung cancer  and three and a half times the risk of ischemic heart disease, the number one killer in the  United States of America.",
+        "summary": "a person with an ACE score of seven or more had triple the lifetime risk of lung cancer and three and a half times the risk of ischemic heart disease .",
+        "keywords": [
+            "ischemic heart disease",
+            "States of America",
+            "United States",
+            "ACE score",
+            "heart disease",
+            "lifetime risk",
+            "risk of lung",
+            "risk of ischemic"
+        ],
+        "start_time": 375.68,
+        "end_time": 390.24
+    },
+    {
+        "file": "Trauma_cleaned.json",
+        "segment_id": 44,
+        "text": "Well, of course, this makes sense.",
+        "summary": "this makes sense. of course, it makes sense . if you're a fan of this book, it's a good idea .",
+        "keywords": [
+            "makes sense",
+            "sense",
+            "makes"
+        ],
+        "start_time": 390.24,
+        "end_time": 395.36
+    },
+    {
+        "file": "Trauma_cleaned.json",
+        "segment_id": 45,
+        "text": "Some people look to this data and they said, come on.",
+        "summary": "some people look to this data and they said, come on . some people looked at this data .",
+        "keywords": [
+            "people",
+            "data"
+        ],
+        "start_time": 395.36,
+        "end_time": 399.64
+    },
+    {
+        "file": "Trauma_cleaned.json",
+        "segment_id": 46,
+        "text": "You have a rough childhood.",
+        "summary": "you have a rough childhood . you have an amazing childhood - and a good childhood.",
+        "keywords": [
+            "rough childhood",
+            "childhood",
+            "rough"
+        ],
+        "start_time": 399.64,
+        "end_time": 401.32
+    },
+    {
+        "file": "Trauma_cleaned.json",
+        "segment_id": 47,
+        "text": "You're more likely to drink and smoke and do all these things that are going to ruin  your health.",
+        "summary": "you're more likely to drink and smoke and do all these things that are going to ruin your health .",
+        "keywords": [
+            "ruin your health",
+            "drink and smoke",
+            "health",
+            "drink",
+            "smoke",
+            "things",
+            "ruin"
+        ],
+        "start_time": 401.32,
+        "end_time": null
+    },
+    {
+        "file": "Trauma_cleaned.json",
+        "segment_id": 48,
+        "text": "This isn't science.",
+        "summary": "this isn't science . it's not a science - but it is a 'science'",
+        "keywords": [
+            "science"
+        ],
+        "start_time": 406.48,
+        "end_time": 407.48
+    },
+    {
+        "file": "Trauma_cleaned.json",
+        "segment_id": 49,
+        "text": "This is just bad behavior.",
+        "summary": "this is just bad behavior . a bad behavior is causing a lot of problems .",
+        "keywords": [
+            "bad behavior",
+            "behavior",
+            "bad"
+        ],
+        "start_time": 407.48,
+        "end_time": 410.92
+    },
+    {
+        "file": "Trauma_cleaned.json",
+        "segment_id": 50,
+        "text": "It turns out this is exactly where the science comes in.",
+        "summary": "this is exactly where the science comes in . it turns out this is the exact point in the science .",
+        "keywords": [
+            "turns",
+            "science"
+        ],
+        "start_time": 410.92,
+        "end_time": 415.88
+    },
+    {
+        "file": "Trauma_cleaned.json",
+        "segment_id": 51,
+        "text": "We now understand better than we ever have before how exposure to early adversity affects  the developing brains and bodies of children.",
+        "summary": "exposure to early adversity affects the developing brains and bodies of children .",
+        "keywords": [
+            "early adversity affects",
+            "bodies of children",
+            "exposure to early",
+            "early adversity",
+            "adversity affects",
+            "affects the developing",
+            "developing brains",
+            "brains and bodies"
+        ],
+        "start_time": 415.88,
+        "end_time": 426.64000000000004
+    },
+    {
+        "file": "Trauma_cleaned.json",
+        "segment_id": 52,
+        "text": "It affects areas like the nucleus accumbent, the pleasure and reward center of the brain  that is implicated in substance accumbents.",
+        "summary": "it affects areas like the nucleus accumbent, pleasure and reward center of the brain .",
+        "keywords": [
+            "nucleus accumbent",
+            "substance accumbents",
+            "affects areas",
+            "pleasure and reward",
+            "reward center",
+            "implicated in substance",
+            "accumbent",
+            "accumbents"
+        ],
+        "start_time": 426.64000000000004,
+        "end_time": 435.0
+    },
+    {
+        "file": "Trauma_cleaned.json",
+        "segment_id": 53,
+        "text": "It inhibits the prefrontal cortex, which is necessary for impulse control and executive  function, a critical area for learning.",
+        "summary": "it inhibits the prefrontal cortex, a critical area for learning . it is necessary for impulse control and executive function .",
+        "keywords": [
+            "prefrontal cortex",
+            "executive function",
+            "area for learning",
+            "inhibits the prefrontal",
+            "impulse control",
+            "control and executive",
+            "critical area",
+            "cortex"
+        ],
+        "start_time": 435.0,
+        "end_time": 443.64
+    },
+    {
+        "file": "Trauma_cleaned.json",
+        "segment_id": 54,
+        "text": "And on MRI scans, we see measurable differences in the amygdala, the brain's fear response  center.",
+        "summary": "on MRI scans, we see measurable differences in the amygdala .",
+        "keywords": [
+            "fear response center",
+            "brain fear response",
+            "MRI scans",
+            "response center",
+            "measurable differences",
+            "brain fear",
+            "fear response",
+            "MRI"
+        ],
+        "start_time": 443.64,
+        "end_time": null
+    },
+    {
+        "file": "Trauma_cleaned.json",
+        "segment_id": 55,
+        "text": "So there are real neurologic reasons why folks exposed to high doses of adversity are more  likely to engage in high risk behavior.",
+        "summary": "folks exposed to high doses of adversity are more likely to engage in high risk behavior .",
+        "keywords": [
+            "high risk behavior",
+            "real neurologic reasons",
+            "risk behavior",
+            "real neurologic",
+            "neurologic reasons",
+            "reasons why folks",
+            "folks exposed",
+            "doses of adversity"
+        ],
+        "start_time": 452.32,
+        "end_time": 462.56
+    },
+    {
+        "file": "Trauma_cleaned.json",
+        "segment_id": 56,
+        "text": "And that's important to know.",
+        "summary": "that's important to know, he's a good guy . he is a great guy, and he has a lot to offer.",
+        "keywords": [
+            "important"
+        ],
+        "start_time": 462.56,
+        "end_time": 464.56
+    },
+    {
+        "file": "Trauma_cleaned.json",
+        "segment_id": 57,
+        "text": "But it turns out that even if you don't engage in any high risk behavior, you're still more  likely to develop heart disease or cancer.",
+        "summary": "heart disease or cancer are more likely to develop . if you don't engage in high risk behavior, you're more likely .",
+        "keywords": [
+            "high risk behavior",
+            "develop heart disease",
+            "risk behavior",
+            "disease or cancer",
+            "high risk",
+            "develop heart",
+            "heart disease",
+            "behavior"
+        ],
+        "start_time": 464.56,
+        "end_time": 476.24
+    },
+    {
+        "file": "Trauma_cleaned.json",
+        "segment_id": 58,
+        "text": "The reason for this has to do with the hypothalamic pituitary adrenal axis, the brains and body  stress response system that governs our fight or slight response.",
+        "summary": "the hypothalamic pituitary adrenal axis governs our fight or slight response .",
+        "keywords": [
+            "pituitary adrenal axis",
+            "hypothalamic pituitary adrenal",
+            "body stress response",
+            "stress response system",
+            "adrenal axis",
+            "hypothalamic pituitary",
+            "pituitary adrenal",
+            "brains and body"
+        ],
+        "start_time": 476.24,
+        "end_time": 489.72
+    },
+    {
+        "file": "Trauma_cleaned.json",
+        "segment_id": 59,
+        "text": "How does it work?",
+        "summary": "how does it work? how do it work . how does the work work? if you have a problem, it will work.",
+        "keywords": [
+            "work"
+        ],
+        "start_time": 489.72,
+        "end_time": 490.72
+    },
+    {
+        "file": "Trauma_cleaned.json",
+        "segment_id": 60,
+        "text": "Well, imagine you're walking in the forest and you see a bear.",
+        "summary": "imagine you're walking in the forest and you see a bear . the bear was spotted in a forest in the middle of the forest .",
+        "keywords": [
+            "imagine you walking",
+            "imagine",
+            "bear",
+            "walking",
+            "forest"
+        ],
+        "start_time": 491.32000000000005,
+        "end_time": 495.0
+    },
+    {
+        "file": "Trauma_cleaned.json",
+        "segment_id": 61,
+        "text": "Immediately, your hypothalamus sends a signal to your pituitary, which sends a signal to  your adrenal gland that says, release stress hormones, adrenaline, cortisol.",
+        "summary": "your hypothalamus sends a signal to your pituitary . it says, release stress hormones, adrenaline, cortisol .",
+        "keywords": [
+            "release stress hormones",
+            "sends a signal",
+            "release stress",
+            "stress hormones",
+            "adrenal gland",
+            "hypothalamus sends",
+            "signal",
+            "Immediately"
+        ],
+        "start_time": 495.0,
+        "end_time": 505.72
+    },
+    {
+        "file": "Trauma_cleaned.json",
+        "segment_id": 62,
+        "text": "And so your heart starts to pound.",
+        "summary": "so your heart starts to pound . if you have a heart, it's up to you .",
+        "keywords": [
+            "starts to pound",
+            "heart starts",
+            "pound",
+            "heart",
+            "starts"
+        ],
+        "start_time": 505.72,
+        "end_time": 507.88000000000005
+    },
+    {
+        "file": "Trauma_cleaned.json",
+        "segment_id": 63,
+        "text": "Your pupils dilate, your airways open up, and you are ready to either fight that bear  or run from the bear.",
+        "summary": "your pupils dilate, your airways open up, and you are ready to either fight that bear or run from the bear.",
+        "keywords": [
+            "pupils dilate",
+            "airways open",
+            "fight that bear",
+            "bear or run",
+            "dilate",
+            "bear",
+            "pupils",
+            "airways"
+        ],
+        "start_time": 507.88000000000005,
+        "end_time": 516.64
+    },
+    {
+        "file": "Trauma_cleaned.json",
+        "segment_id": 64,
+        "text": "And that is wonderful.",
+        "summary": "and that is wonderful, and that's a wonderful thing. I'm not a big fan of a tad .",
+        "keywords": [
+            "wonderful"
+        ],
+        "start_time": 516.64,
+        "end_time": 519.0400000000001
+    },
+    {
+        "file": "Trauma_cleaned.json",
+        "segment_id": 65,
+        "text": "If you're in a forest and there's a bear. But the problem is what happens when the bear comes home every night.",
+        "summary": "if you're in a forest and there's a bear, the problem is what happens when the bear comes home every night .",
+        "keywords": [
+            "bear",
+            "forest",
+            "home every night",
+            "night",
+            "problem",
+            "home",
+            "bear comes home"
+        ],
+        "start_time": 519.04,
+        "end_time": 530.36
+    },
+    {
+        "file": "Trauma_cleaned.json",
+        "segment_id": 66,
+        "text": "And this system is activated over and over and over again.",
+        "summary": "this system is activated over and over again . the system is also activated .",
+        "keywords": [
+            "system is activated",
+            "system",
+            "activated"
+        ],
+        "start_time": 530.36,
+        "end_time": 536.24
+    },
+    {
+        "file": "Trauma_cleaned.json",
+        "segment_id": 67,
+        "text": "And it goes from being adaptive or life saving to maladaptive or health damaging.",
+        "summary": "it goes from being adaptive or life saving to maladaptive or health damaging . if you have a problem, you may be able to do it yourself .",
+        "keywords": [
+            "health damaging",
+            "adaptive or life",
+            "life saving",
+            "saving to maladaptive",
+            "maladaptive or health",
+            "damaging",
+            "adaptive",
+            "life"
+        ],
+        "start_time": 536.24,
+        "end_time": 544.9599999999999
+    },
+    {
+        "file": "Trauma_cleaned.json",
+        "segment_id": 68,
+        "text": "Very much  \uc654 \u041d legitimately safe to say about spun.",
+        "summary": "very much   legitimately safe to say about spun . spun is a 'stupidly safe' way to say .",
+        "keywords": [
+            "legitimately safe",
+            "spun",
+            "legitimately",
+            "safe"
+        ],
+        "start_time": null,
+        "end_time": 560.88
+    },
+    {
+        "file": "Trauma_cleaned.json",
+        "segment_id": 69,
+        "text": "And what will come will end Tail's survival.",
+        "summary": "what will come will end Tail's survival . it will be a long-term goal for Tail .",
+        "keywords": [
+            "end Tail survival",
+            "Tail survival",
+            "end Tail",
+            "Tail",
+            "survival",
+            "end"
+        ],
+        "start_time": 561.0400000000001,
+        "end_time": 566.0600000000001
+    },
+    {
+        "file": "Trauma_cleaned.json",
+        "segment_id": 70,
+        "text": "Well, imagine a face that's just X axis  So for me, this information threw my old training out the window, because when we understand  the mechanism of a disease, when we know not only which pathways are disrupted, but how,  then as doctors, it is our job to use this science for prevention and treatment.",
+        "summary": "this information threw my old training out the window . when we understand the mechanism of a disease, when we know not only which pathways are disrupted, but how, then as doctors, it is our job to use this science for prevention and treatment.",
+        "keywords": [
+            "imagine a face",
+            "pathways are disrupted",
+            "prevention and treatment",
+            "information threw",
+            "understand the mechanism",
+            "science for prevention",
+            "imagine",
+            "window"
+        ],
+        "start_time": 566.0600000000001,
+        "end_time": 593.12
+    },
+    {
+        "file": "Trauma_cleaned.json",
+        "segment_id": 71,
+        "text": "That's what we do.",
+        "summary": "that's what we do . we do it all the time . it's a good thing to do it.",
+        "keywords": [],
+        "start_time": 593.12,
+        "end_time": 594.9200000000001
+    },
+    {
+        "file": "Trauma_cleaned.json",
+        "segment_id": 72,
+        "text": "So in San Francisco, we created the Center for Youth Wellness to prevent, screen, and  heal the impacts of ACEs and toxic stress.",
+        "summary": "in San Francisco, we created the Center for Youth Wellness to prevent, screen, and heal the impacts of ACEs and toxic stress.",
+        "keywords": [
+            "San Francisco",
+            "Center for Youth",
+            "Youth Wellness",
+            "Wellness to prevent",
+            "created the Center",
+            "toxic stress",
+            "heal the impacts",
+            "impacts of ACEs"
+        ],
+        "start_time": 594.92,
+        "end_time": 604.8
+    },
+    {
+        "file": "Trauma_cleaned.json",
+        "segment_id": 73,
+        "text": "We started simply with routine screening of every one of our kids at their regular physical,  because I know that if my patient has an ACE score of four, she's two and a half times  as likely to develop hepatitis or COPD.",
+        "summary": "if my patient has an ACE score of four, she's two and a half times as likely to develop hepatitis or COPD .",
+        "keywords": [
+            "hepatitis or COPD",
+            "ACE score",
+            "regular physical",
+            "started simply",
+            "simply with routine",
+            "routine screening",
+            "half times",
+            "develop hepatitis"
+        ],
+        "start_time": 604.8,
+        "end_time": 619.8399999999999
+    },
+    {
+        "file": "Trauma_cleaned.json",
+        "segment_id": 74,
+        "text": "She's four and a half times as likely to become depressed, and she's 12 times as likely to  attempt to take her own life as my patient with zero ACEs.",
+        "summary": "she's four and a half times as likely to become depressed . she'll attempt to take her own life as my patient with zero ACEs .",
+        "keywords": [
+            "half times",
+            "times",
+            "depressed",
+            "ACEs",
+            "half",
+            "attempt",
+            "life",
+            "patient"
+        ],
+        "start_time": 619.8399999999999,
+        "end_time": 628.6800000000001
+    },
+    {
+        "file": "Trauma_cleaned.json",
+        "segment_id": 75,
+        "text": "I know that when she's in my exam room.",
+        "summary": "I know that when she's in my exam room she'll be in her exam room .",
+        "keywords": [
+            "exam room",
+            "room",
+            "exam"
+        ],
+        "start_time": 628.6800000000001,
+        "end_time": 632.2
+    },
+    {
+        "file": "Trauma_cleaned.json",
+        "segment_id": 76,
+        "text": "For our patients who do screen positive, we have a multidisciplinary treatment team that  works to reduce the dose of adversity and treat symptoms using best practices, including  home visits, care coordination, mental health care, nutrition, holistic interventions, and  yes, medication when necessary.",
+        "summary": "multidisciplinary treatment team works to reduce the dose of adversity and treat symptoms using best practices . home visits, care coordination, mental health care, nutrition, holistic interventions, and yes, medication when necessary .",
+        "keywords": [
+            "including home visits",
+            "mental health care",
+            "multidisciplinary treatment team",
+            "holistic interventions",
+            "screen positive",
+            "including home",
+            "home visits",
+            "mental health"
+        ],
+        "start_time": 632.2,
+        "end_time": 654.68
+    },
+    {
+        "file": "Trauma_cleaned.json",
+        "segment_id": 77,
+        "text": "But we also educate parents about the impact of ACEs and toxic stress the same way you  would for covering electrical outlets or lead poisoning.",
+        "summary": "we educate parents about the impact of ACEs and toxic stress the same way you would for covering electrical outlets or lead poisoning.",
+        "keywords": [
+            "covering electrical outlets",
+            "lead poisoning",
+            "educate parents",
+            "impact of ACEs",
+            "ACEs and toxic",
+            "toxic stress",
+            "covering electrical",
+            "electrical outlets"
+        ],
+        "start_time": 654.68,
+        "end_time": 665.08
+    },
+    {
+        "file": "Trauma_cleaned.json",
+        "segment_id": 78,
+        "text": "And we tailor the care of our asthmatics and our diabetics in a way that recognizes that  they may need more aggressive treatment given the changes to their hormonal and immune systems.",
+        "summary": "asthmatics and diabetics may need more aggressive treatment given the changes to their hormonal and immune systems .",
+        "keywords": [
+            "immune systems",
+            "tailor the care",
+            "aggressive treatment",
+            "hormonal and immune",
+            "systems",
+            "tailor",
+            "care",
+            "asthmatics"
+        ],
+        "start_time": 665.08,
+        "end_time": 678.12
+    },
+    {
+        "file": "Trauma_cleaned.json",
+        "segment_id": 79,
+        "text": "So the other thing that happens when you understand this science is that you want to  shout it from the rooftops because this isn't just an issue for kids in baby.",
+        "summary": "you want to shout it from the rooftops because this isn't just an issue for kids in baby .",
+        "keywords": [
+            "kids in baby",
+            "understand this science",
+            "issue for kids",
+            "baby",
+            "thing",
+            "understand",
+            "science",
+            "shout"
+        ],
+        "start_time": 678.12,
+        "end_time": 689.36
+    },
+    {
+        "file": "Trauma_cleaned.json",
+        "segment_id": 80,
+        "text": "I figured the minute that everybody else heard about this, it would be routine screening,  multidisciplinary treatment teams, and it would be a race to the most effective clinical  treatment protocols.",
+        "summary": "the minute everyone else heard about this, it would be routine screening, multidisciplinary treatment teams, and a race to the most effective clinical treatment protocols.",
+        "keywords": [
+            "multidisciplinary treatment teams",
+            "clinical treatment protocols",
+            "effective clinical treatment",
+            "routine screening",
+            "multidisciplinary treatment",
+            "treatment teams",
+            "treatment protocols",
+            "figured the minute"
+        ],
+        "start_time": 689.36,
+        "end_time": 700.96
+    },
+    {
+        "file": "Trauma_cleaned.json",
+        "segment_id": 81,
+        "text": "Yeah, that did not happen.",
+        "summary": "yeah, that didn't happen . yeah, it did not happen. i don't know if it happened .",
+        "keywords": [
+            "Yeah",
+            "happen"
+        ],
+        "start_time": 700.96,
+        "end_time": 705.2
+    },
+    {
+        "file": "Trauma_cleaned.json",
+        "segment_id": 82,
+        "text": "And that was a huge learning for me.",
+        "summary": "that was a huge learning for me, and that was also a learning experience for me.",
+        "keywords": [
+            "huge learning",
+            "huge",
+            "learning"
+        ],
+        "start_time": 705.2,
+        "end_time": 708.04
+    },
+    {
+        "file": "Trauma_cleaned.json",
+        "segment_id": 83,
+        "text": "What I had thought of as simply best clinical practice, I now understand to be a movement.",
+        "summary": "what I had thought of as simply best clinical practice, I now understand to be a movement.",
+        "keywords": [
+            "clinical practice",
+            "simply best clinical",
+            "practice",
+            "movement",
+            "thought",
+            "simply",
+            "clinical",
+            "understand"
+        ],
+        "start_time": 708.04,
+        "end_time": 717.36
+    },
+    {
+        "file": "Trauma_cleaned.json",
+        "segment_id": 84,
+        "text": "In the words of Dr. Robert Block, the former president of the American Academy of Pediatrics,  adverse childhood experiences are the single greatest unaddressed public health threat  facing our nation today.",
+        "summary": "adverse childhood experiences are the single greatest unaddressed public health threat facing our nation today . in the words of Dr. Robert Block, the former president of the American Academy of Pediatrics .",
+        "keywords": [
+            "adverse childhood experiences",
+            "single greatest unaddressed",
+            "greatest unaddressed public",
+            "unaddressed public health",
+            "public health threat",
+            "health threat facing",
+            "Robert Block",
+            "Academy of Pediatrics"
+        ],
+        "start_time": 717.36,
+        "end_time": 733.76
+    },
+    {
+        "file": "Trauma_cleaned.json",
+        "segment_id": 85,
+        "text": "And for a lot of people, that's a terrifying prospect.",
+        "summary": "for a lot of people, that's a terrifying prospect . it's scary for many people .",
+        "keywords": [
+            "lot of people",
+            "terrifying prospect",
+            "people",
+            "prospect",
+            "lot",
+            "terrifying"
+        ],
+        "start_time": 733.76,
+        "end_time": 737.88
+    },
+    {
+        "file": "Trauma_cleaned.json",
+        "segment_id": 86,
+        "text": "The scope and scale of the problem seems so large that it feels overwhelming to think  about how we might approach it.",
+        "summary": "the scope and scale of the problem seems so large that it feels overwhelming to think about how we might approach it .",
+        "keywords": [
+            "scope and scale",
+            "feels overwhelming",
+            "scope",
+            "scale",
+            "problem",
+            "large",
+            "feels",
+            "overwhelming"
+        ],
+        "start_time": 737.88,
+        "end_time": 746.36
+    },
+    {
+        "file": "Trauma_cleaned.json",
+        "segment_id": 87,
+        "text": "But for me, that's actually where the hope lies.",
+        "summary": "for me, that's where the hope lies for me . it's actually where the hopes lie .",
+        "keywords": [
+            "hope lies",
+            "lies",
+            "hope"
+        ],
+        "start_time": 746.36,
+        "end_time": 751.16
+    },
+    {
+        "file": "Trauma_cleaned.json",
+        "segment_id": 88,
+        "text": "Because when we have the right framework, when we recognize this to be a public health  crisis, then we can begin to use the right toolkit to come up with solutions.",
+        "summary": "when we have the right framework, when we recognize this to be a public health crisis, then we can begin to use the right toolkit to come up with solutions.",
+        "keywords": [
+            "public health crisis",
+            "health crisis",
+            "public health",
+            "framework",
+            "crisis",
+            "solutions",
+            "recognize",
+            "public"
+        ],
+        "start_time": 751.16,
+        "end_time": 764.16
+    },
+    {
+        "file": "Trauma_cleaned.json",
+        "segment_id": 89,
+        "text": "From tobacco to lead poisoning to HIV AIDS, the United States actually has quite a strong  track record with addressing public health problems.",
+        "summary": "the u.s. has a strong track record with addressing public health problems . from tobacco to lead poisoning to HIV AIDS .",
+        "keywords": [
+            "public health problems",
+            "strong track record",
+            "addressing public health",
+            "HIV AIDS",
+            "United States",
+            "poisoning to HIV",
+            "health problems",
+            "tobacco to lead"
+        ],
+        "start_time": 764.16,
+        "end_time": 775.8399999999999
+    },
+    {
+        "file": "Trauma_cleaned.json",
+        "segment_id": 90,
+        "text": "But replicating those successes with ACEs and toxic stress is going to take determination  and commitment.",
+        "summary": "replicating those successes with ACEs and toxic stress is going to take determination and commitment .",
+        "keywords": [
+            "determination and commitment",
+            "replicating those successes",
+            "successes with ACEs",
+            "ACEs and toxic",
+            "toxic stress",
+            "commitment",
+            "replicating",
+            "successes"
+        ],
+        "start_time": 775.8399999999999,
+        "end_time": null
+    },
+    {
+        "file": "Trauma_cleaned.json",
+        "segment_id": 91,
+        "text": "And when I look at what our nation's response has been so far, I wonder, why haven't we  taken this more seriously?",
+        "summary": "when i look at what our nation's response has been so far, I wonder, why haven't we taken this more seriously?",
+        "keywords": [
+            "nation response",
+            "nation",
+            "response"
+        ],
+        "start_time": 784.76,
+        "end_time": 794.28
+    },
+    {
+        "file": "Trauma_cleaned.json",
+        "segment_id": 92,
+        "text": "You know, at first, I thought that we marginalized the issue because it doesn't apply to us,  right?",
+        "summary": "we marginalized the issue because it doesn't apply to us, right? I thought that we should have marginalized it because it didn't .",
+        "keywords": [
+            "marginalized the issue",
+            "thought",
+            "marginalized",
+            "issue",
+            "apply"
+        ],
+        "start_time": 794.28,
+        "end_time": null
+    },
+    {
+        "file": "Trauma_cleaned.json",
+        "segment_id": 93,
+        "text": "That's an issue for those kids in those neighborhoods, which is weird because the data doesn't pair  that out.",
+        "summary": "that's an issue for those kids in those neighborhoods . the data doesn't pair that out .",
+        "keywords": [
+            "neighborhoods",
+            "issue",
+            "kids",
+            "weird",
+            "data",
+            "pair"
+        ],
+        "start_time": 801.88,
+        "end_time": null
+    },
+    {
+        "file": "Trauma_cleaned.json",
+        "segment_id": 94,
+        "text": "The original ACE study was done in a population that was 70% Caucasian, 70% college educated.",
+        "summary": "original ACE study was done in a population that was 70% Caucasian, 70% college educated .",
+        "keywords": [
+            "original ACE study",
+            "college educated",
+            "original ACE",
+            "ACE study",
+            "Caucasian",
+            "ACE",
+            "college",
+            "educated"
+        ],
+        "start_time": 808.5999999999999,
+        "end_time": 818.1999999999999
+    },
+    {
+        "file": "Trauma_cleaned.json",
+        "segment_id": 95,
+        "text": "And then, the more I talk to folks, I'm beginning to think that maybe I had it completely backwards.",
+        "summary": "the more I talk to folks, I'm beginning to think that maybe I had it completely backwards.",
+        "keywords": [
+            "talk to folks",
+            "completely backwards",
+            "folks",
+            "backwards",
+            "talk",
+            "beginning",
+            "completely"
+        ],
+        "start_time": 818.2,
+        "end_time": 827.36
+    },
+    {
+        "file": "Trauma_cleaned.json",
+        "segment_id": 96,
+        "text": "If I were to ask how many people in this room grew up with a family member who suffered from  mental illness, I bet a few hands would go up.",
+        "summary": "if i asked how many people in this room grew up with a family member who suffered from mental illness, I bet a few hands would go up .",
+        "keywords": [
+            "mental illness",
+            "room grew",
+            "family member",
+            "member who suffered",
+            "suffered from mental",
+            "illness",
+            "people",
+            "room"
+        ],
+        "start_time": 827.36,
+        "end_time": 840.32
+    },
+    {
+        "file": "Trauma_cleaned.json",
+        "segment_id": 97,
+        "text": "And then if I were to ask how many folks had a parent who maybe drank too much or who really  believed that if you spare the rod, you spoiled the child, I bet a few more hands would go  up.",
+        "summary": "if you ask how many folks had a parent who maybe drank too much, you spoiled the child, I bet a few more hands would go up .",
+        "keywords": [
+            "spare the rod",
+            "spoiled the child",
+            "rod",
+            "child",
+            "folks",
+            "parent",
+            "drank",
+            "believed"
+        ],
+        "start_time": 840.32,
+        "end_time": null
+    },
+    {
+        "file": "Trauma_cleaned.json",
+        "segment_id": 98,
+        "text": "Even in this room, this is an issue that touches many of us.",
+        "summary": "this is an issue that touches many of us . the u.s. has a lot to say about .",
+        "keywords": [
+            "issue that touches",
+            "room",
+            "issue",
+            "touches"
+        ],
+        "start_time": 854.7600000000001,
+        "end_time": 859.24
+    },
+    {
+        "file": "Trauma_cleaned.json",
+        "segment_id": 99,
+        "text": "And I'm beginning to believe that we marginalized the issue because it does apply to us.",
+        "summary": "I'm beginning to believe that we marginalized the issue because it does apply to us.",
+        "keywords": [
+            "marginalized the issue",
+            "beginning",
+            "marginalized",
+            "issue",
+            "apply"
+        ],
+        "start_time": 859.24,
+        "end_time": 865.6400000000001
+    },
+    {
+        "file": "Trauma_cleaned.json",
+        "segment_id": 100,
+        "text": "Maybe it's easier to see in other zip codes because we don't want to look at it.",
+        "summary": "maybe it's easier to see in other zip codes because we don't want to look at it .",
+        "keywords": [
+            "zip codes",
+            "easier",
+            "zip",
+            "codes"
+        ],
+        "start_time": 865.6400000000001,
+        "end_time": 870.84
+    },
+    {
+        "file": "Trauma_cleaned.json",
+        "segment_id": 101,
+        "text": "We'd rather be sick.",
+        "summary": "we'd rather be sick if we're sick . 'we'd be sick'",
+        "keywords": [
+            "sick"
+        ],
+        "start_time": 870.84,
+        "end_time": 873.6400000000001
+    },
+    {
+        "file": "Trauma_cleaned.json",
+        "segment_id": 102,
+        "text": "Fortunately, scientific advances and frankly, economic realities make that option less viable  every day.",
+        "summary": "scientific advances and frankly, economic realities make that option less viable every day . fortunately, scientific advances make scientific advances less viable .",
+        "keywords": [
+            "economic realities make",
+            "Fortunately",
+            "scientific advances",
+            "advances and frankly",
+            "economic realities",
+            "viable every day",
+            "realities make",
+            "make that option"
+        ],
+        "start_time": 873.84,
+        "end_time": null
+    },
+    {
+        "file": "Trauma_cleaned.json",
+        "segment_id": 103,
+        "text": "The science is clear.",
+        "summary": "the science is clear . the science has been uncovered in the u.s. .",
+        "keywords": [
+            "science is clear",
+            "clear",
+            "science"
+        ],
+        "start_time": 885.52,
+        "end_time": 887.92
+    },
+    {
+        "file": "Trauma_cleaned.json",
+        "segment_id": 104,
+        "text": "Early adversity dramatically affects health across the lifetime. Today, we are beginning to understand how to interrupt the progression from early adversity  to disease and early death.",
+        "summary": "we are beginning to understand how to interrupt the progression from early adversity to disease and early death .",
+        "keywords": [
+            "dramatically affects health",
+            "adversity dramatically affects",
+            "Early adversity dramatically",
+            "dramatically affects",
+            "affects health",
+            "adversity dramatically",
+            "Early adversity",
+            "Early"
+        ],
+        "start_time": 887.92,
+        "end_time": 903.0400000000001
+    },
+    {
+        "file": "Trauma_cleaned.json",
+        "segment_id": 105,
+        "text": "And 30 years from now, the child who has a high ACE score and whose behavioral symptoms  go unrecognized, whose asthma management is not connected and who goes on to develop  high blood pressure and early heart disease or cancer, will be just as anomalous as a  six-month mortality from HIV-AIDS.",
+        "summary": "the child who has a high ACE score and whose behavioral symptoms go unrecognized will be as anomalous as a six-month mortality from HIV-AIDS .",
+        "keywords": [
+            "high ACE score",
+            "early heart disease",
+            "develop high blood",
+            "high blood pressure",
+            "mortality from HIV-AIDS",
+            "ACE score",
+            "high ACE",
+            "symptoms go unrecognized"
+        ],
+        "start_time": 903.0400000000001,
+        "end_time": 925.24
+    },
+    {
+        "file": "Trauma_cleaned.json",
+        "segment_id": 106,
+        "text": "And so, we'll look at that situation and say, what the heck happened there?",
+        "summary": "we'll look at that situation and say, what the heck happened there? we're going to look at the situation .",
+        "keywords": [
+            "heck happened",
+            "situation",
+            "heck",
+            "happened"
+        ],
+        "start_time": 925.28,
+        "end_time": 930.5600000000001
+    },
+    {
+        "file": "Trauma_cleaned.json",
+        "segment_id": 107,
+        "text": "This is treatable.",
+        "summary": "this is treatable . it is a treatable treat . if you have a question, please contact us .",
+        "keywords": [
+            "treatable"
+        ],
+        "start_time": 930.5600000000001,
+        "end_time": 932.64
+    },
+    {
+        "file": "Trauma_cleaned.json",
+        "segment_id": 108,
+        "text": "This is beatable.",
+        "summary": "this is beatable . this is a win-win situation . if you are a fan of this game, click here for all the latest .",
+        "keywords": [
+            "beatable"
+        ],
+        "start_time": 932.64,
+        "end_time": 935.36
+    },
+    {
+        "file": "Trauma_cleaned.json",
+        "segment_id": 109,
+        "text": "The single most important thing that we need today is the courage to look this problem  in the face and say, this is real and this is all of us.",
+        "summary": "the single most important thing that we need today is the courage to look this problem in the face and say, this is real and this is all of us.",
+        "keywords": [
+            "single most important",
+            "important thing",
+            "single",
+            "important",
+            "thing",
+            "today",
+            "courage",
+            "problem"
+        ],
+        "start_time": 935.36,
+        "end_time": 948.2
+    },
+    {
+        "file": "Trauma_cleaned.json",
+        "segment_id": 110,
+        "text": "I believe that we are the movement.",
+        "summary": "i believe that we are the movement . we are a movement that is moving forward .",
+        "keywords": [
+            "movement"
+        ],
+        "start_time": 948.2,
+        "end_time": 953.04
+    },
+    {
+        "file": "Trauma_cleaned.json",
+        "segment_id": 111,
+        "text": "Thank you.",
+        "summary": "thank you for your support. thank you if you have any questions? click here for all the latest .",
+        "keywords": [],
+        "start_time": 953.04,
+        "end_time": 954.04
+    }
+]
