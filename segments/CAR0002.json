@@ -1,0 +1,84 @@
+{
+    "segments": [
+        {
+            "segment_id": 1,
+            "segment_label": "D: what brings you in here today? P: Yeah, I ",
+            "segment_summary": "D: what brings you in here today? P: Yeah, I have this pain in my chest. D: Okay, and where is the pain exactly? P? It's just right over on the left side. D. Okay, what is the right side of the chest? D: Right, and when did this pain start? P. It started just 30 minutes ago. D; Okay, when did it just come on randomly D: or were you doing something strenuous? I was just shuttling the driveway and it came on and it was just a little bit more intense D: D: okay, and has that pain been getting worse at all D: over the last hour and a half an hour or something like that? P.: No, it just came on suddenly and it's... D: Sorry, yeah, the pain has been there this whole time",
+            "start_time": "00:00.00",
+            "end_time": "00:49.64",
+            "segment_text": "D: what brings you in here today? P: Yeah, I have this pain in my chest. D: Okay, and where is the pain exactly? P: It's just right over on the left side. D: Okay, and when did this pain start? P: It started just 30 minutes ago. D: Okay, and did it just come on randomly D: or were you doing something strenuous? P: I was just shuttling the driveway and it came on. D: Okay, and has that pain been getting worse at all D: over the last hour and a half an hour? P: No, it just came on suddenly and it's... D: Sorry, yeah, the pain has been there this whole time"
+        },
+        {
+            "segment_id": 2,
+            "segment_label": "P: and it's gotten worse ever since it starte",
+            "segment_summary": "P: and it's gotten worse ever since it started. D: Okay, and how would you describe the pain? P: Is it kind of like an aching pain or is it a sharp D: or tightness kind of pain? D: How would you explain it? P. It feels dull. D. I feel like there's a lot of pressure on my chest. P: okay, and what would you rate the pain right now D: on a scale of zero to 10, P: zero being the least amount of pain you've felt D: in your life, 10 being the worst, D: seven being the most painful pain you have ever felt P: P: I've never had any chest pain before D: D: I don't know, I've always had chest pain.",
+            "start_time": "00:49.64",
+            "end_time": "01:27.64",
+            "segment_text": "P: and it's gotten worse ever since it started. D: Okay, and how would you describe the pain? P: Is it kind of like an aching pain or is it a sharp D: or tightness kind of pain? D: How would you describe it? P: It feels dull. D: I feel like there's a lot of pressure on my chest. P: Okay, and how would you rate the pain right now D: on a scale of zero to 10, P: zero being the least amount of pain you've felt D: in your life, 10 being the worst? P: Seven. D: Seven, okay. D: Have you had any similar episodes before? P: No, I've never had any chest pain before."
+        },
+        {
+            "segment_id": 3,
+            "segment_label": "D: Okay, and is the pain just staying in the ",
+            "segment_summary": "D: Okay, and is the pain just staying in the region, P: the left chest area that you mentioned, D: or is it traveling to any other part of your body? P: No, I'm kind of just feeling it right here on the left side. D: Okay. Is there anything that you do that makes the pain D: either get worse or go away or get better? P. I think it's a bit worse if I'm moving around D: and when I was walking in here, P's moving around a bit more, and D: but nothing seemed to make it any better P: since it's starting to get worse D: I don't know if it's going to get better or not, but it seems like it's getting worse, I think the pain is just getting worse and getting worse. P: Yeah, it seems to be getting worse P: Since it's continuing to get more and more worse.",
+            "start_time": "01:27.64",
+            "end_time": "02:07.28",
+            "segment_text": "D: Okay, and is the pain just staying in the region, P: the left chest area that you mentioned, D: or is it traveling to any other part of your body? P: No, I'm kind of just feeling it right here on the left side. D: Okay, is there anything that you do that makes the pain D: either get worse or go away or get better? P: I think it's a bit worse if I'm moving around D: or when I was walking in here, P: I think it made it a bit worse, D: but nothing seemed to make it any better P: since it's starting. D: Okay, and does it change at all from you changing positions"
+        },
+        {
+            "segment_id": 4,
+            "segment_label": "P: like if you're standing up versus sitting ",
+            "segment_summary": "P: like if you're standing up versus sitting down D: or laying down? P: I think it's a little bit worse when I'm laying down. D: Okay, and other than the pain that you've been having, P: any other symptoms like a cough or difficulty breathing D: and any pain when you're breathing in or out? P (laughing) D: D: Yeah, I don't have any symptoms like that, D: but I do have a cough and difficulty breathing. P: Any other symptoms when you've felt a lot short of breath D: like having difficulty breathing since yesterday, P; or sorry, since the pain started, D",
+            "start_time": "02:07.28",
+            "end_time": "03:03.68",
+            "segment_text": "P: like if you're standing up versus sitting down D: or laying down? P: I think it's a little bit worse when I'm laying down. D: Okay, and other than the pain that you've been having, P: any other symptoms like a cough or difficulty breathing D: or any pain when you're breathing in or out? P: I've felt a little bit short of breath D: or having difficulty breathing since yesterday, P: or sorry, since the pain started, D: but just the difficulty breathing. P: Okay, and have you recently injured your chest D: or surrounding area at all, D: like from fall or anything like that? P: I do play rugby and was tackled by another player yesterday,"
+        },
+        {
+            "segment_id": 5,
+            "segment_label": "D: but my chest felt fine after that. P: Okay",
+            "segment_summary": "D: but my chest felt fine after that. P: Okay, but the pain just started hopping out, I'll go. D: Yeah, D: okay, have you been traveling at all recently? P: No, been at home. I don't have any symptoms D: like nausea or vomiting or any fevers or chills D: but I do feel a little bit hot today. P.: I did, and it was 38 degrees. D. Okay, have any kind of swelling D: in your legs or feet D: D: No swelling in my legs.",
+            "start_time": "03:05.76",
+            "end_time": "04:10.16",
+            "segment_text": "D: but my chest felt fine after that. P: Okay, but the pain just started hopping out, I'll go. D: Yeah. D: Okay, have you been traveling at all recently? P: No, been at home. D: Okay, has anyone around you been sick at all? P: No. D: Okay, have you been having any symptoms D: like nausea or vomiting or any fevers or chills? P: No nausea or vomiting, D: but I do feel a little bit hot today. D: Okay, have you measured your temperature at all? P: I did, and it was 38 degrees. D: Okay, and have you been having any kind of swelling D: in your legs or feet? P: No swelling in my legs."
+        },
+        {
+            "segment_id": 6,
+            "segment_label": "D: Okay, have you been feeling tired at all, ",
+            "segment_summary": "D: Okay, have you been feeling tired at all, D: like increasingly fatigued? P: No, my energy has been good. D: Okay. have you have any kind of thumping P: or palpitations or feel like your heart D: has been racing at all. P: It does feel like it's beating faster right now. D. Okay, and have you noticed any changes D: in your skin D: or any rashes D: P: Any rashes? D: D: No rashes, P: I don't know, I just haven't noticed any change in my skin at all in the past month D: since I've been in the hospital. D.: Okay, any changes in your hair at all P: any changes P: no rashes or rashes. DOTO Okay, has you had any cough or runny nose P: and sore throat, any kindof those symptoms D: IN the past 12 months? A few weeks ago, my nose was a little runny,",
+            "start_time": "04:10.16",
+            "end_time": "04:58.56",
+            "segment_text": "D: Okay, have you been feeling tired at all, D: like increasingly fatigued? P: No, my energy has been good. D: Okay, have you been having any kind of thumping P: or palpitations or feel like your heart D: has been racing at all? P: It does feel like it's beating faster right now. D: It usually only feels like this when I'm playing sports. P: Okay, and have you noticed any changes D: in your skin at all, any rashes? P: No rashes. D: Okay, have you had any cough or runny nose P: or sore throat, any kind of those symptoms D: in the past month? P: A few weeks ago, my nose was a little runny,"
+        },
+        {
+            "segment_id": 7,
+            "segment_label": "D: but that went away on its own. P: I haven'",
+            "segment_summary": "D: but that went away on its own. P: I haven't had any cough. D: Okay, and have you been feeling dizzy at all D: or have you fainted? P: No dizziness and no, I haven\u2019t fainted at all. D. Okay, just a few more questions. P. Have you had any diagnosis made by any physician D:or anything like diabetes or high blood pressure? P. Yeah, I've been told I have high cholesterol D: and high blood Pressure. I have a multivitamin D: D: okay, and do you take any medications for these things? P? I do take medications for both blood pressure D:and cholesterol, resubastatin and P: lacetaprol and I take a multiivitamin and I don't take any other medications for either blood pressure or cholesterol.",
+            "start_time": "04:58.56",
+            "end_time": "06:05.26",
+            "segment_text": "D: but that went away on its own. P: I haven't had any cough. D: Okay, and have you been feeling dizzy at all D: or have you fainted? P: No dizziness and no, I haven't fainted at all. D: Okay, just a few more questions. P: Have you had any diagnosis made by any physician D: or anything like diabetes or high blood pressure? P: Yeah, I've been told I have high cholesterol D: and high blood pressure. D: Okay, and do you take any medications for these things? P: I do take medications for both blood pressure D: and cholesterol, resubastatin and P: lacetaprol and I take a multivitamin. D: Okay, and do you have any allergies"
+        },
+        {
+            "segment_id": 8,
+            "segment_label": "D: to any medications at all? P: No allergies",
+            "segment_summary": "D: to any medications at all? P: No allergies. D: Okay, have you at all in the past D: been hospitalized for any reason? P? No hospitalizations, D: Any previous surgeries or any other surgeries? D: D: And within your family, has anyone passed away P: from a heart attack or any cancers D: or any diseases D: that weren't in the family? A: No. D. No, okay. D",
+            "start_time": "06:05.26",
+            "end_time": "07:00.92",
+            "segment_text": "D: to any medications at all? P: No allergies. D: Okay, have you at all in the past D: been hospitalized for any reason? P: No hospitalizations. D: Any previous surgeries? P: No. D: And within your family, has anyone passed away P: from a heart attack or any cancers D: that weren't in the family? P: No. D: No, okay. D: And currently right now, do you live alone? D: Do you live with someone and where do you live? D: Like an apartment, house? P: I live in a house with my parents. D: Okay, and do you currently work? P: Yeah, I drive a bus for the city. D: Okay, and in your daily routine,"
+        },
+        {
+            "segment_id": 9,
+            "segment_label": "D: would you say you get enough exercise thro",
+            "segment_summary": "D: would you say you get enough exercise throughout the week? P: Yeah, usually on Sundays I'll go for a run. D: Okay, and how about your diet? D: How's your diet like just regularly? A: I don't feel like I'm eating too much. P: Usually I feel like it's fairly balanced overall. But D: I might eat out a little bit too often P: but try to eat as many vegetables as I can. D",
+            "start_time": "07:01.18",
+            "end_time": "07:59.76",
+            "segment_text": "D: would you say you get enough exercise throughout the week? P: Yeah, usually on Sundays I'll go for a run. D: Okay, and how about your diet? D: How's your diet like just regularly? P: Usually I feel like it's fairly balanced overall. D: I might eat out a little bit too often P: but try to eat as many vegetables as I can. D: Okay, and do you smoke cigarettes at all? P: I do, yes. D: I've been smoking for the last 20 years roughly. D: Okay, how much do you smoke on an average day? P: About a half a pack to a pack a day. D: Okay, and do you drink? P: No alcohol."
+        },
+        {
+            "segment_id": 10,
+            "segment_label": "D: Okay, and any recreational drugs like mari",
+            "segment_summary": "D: Okay, and any recreational drugs like marijuana? P: No marijuana but I have used crystal meth in the past. D: Okay. and when was the last time D: that you used Crystal meth? P? Six days ago. D? Six day ago, okay. P: And how often do you use crystal meth? D: A couple of times a month, okay, and how often D: have you been using crystal meth for the last seven years? P (D: Seven years, okay.) D: All right, and D: D: Do you have crystal meth or crystal meth, and for how long D: do you think you have been using Crystal meth or have you not been using it? P. For the last 7 years. D. Seven years. okay. D",
+            "start_time": "08:00.78",
+            "end_time": "08:50.28",
+            "segment_text": "D: Okay, and any recreational drugs like marijuana? P: No marijuana but I have used crystal meth in the past. D: Okay, and when was the last time D: that you used crystal meth? P: Six days ago. D: Six days ago, okay. D: And how often do you use crystal meth? P: A couple of times a month. D: A couple of times a month, okay. P: All right, and for how long D: have you been using crystal meth? P: For the last seven years. D: Seven years, okay. P: All right, thank you."
+        }
+    ]
+}

@@ -1,0 +1,145 @@
+{
+    "source_file": "CAR0002.json",
+    "segments": [
+        {
+            "segment_id": 1,
+            "segment_label": "D: what brings you in here today? P: Yeah, I ",
+            "keywords": [
+                "pain",
+                "chest",
+                "just",
+                "driveway",
+                "suddenly",
+                "started",
+                "came",
+                "did"
+            ]
+        },
+        {
+            "segment_id": 2,
+            "segment_label": "P: and it's gotten worse ever since it starte",
+            "keywords": [
+                "chest",
+                "pain",
+                "aching",
+                "feels",
+                "feel",
+                "felt",
+                "pressure",
+                "tightness"
+            ]
+        },
+        {
+            "segment_id": 3,
+            "segment_label": "D: Okay, and is the pain just staying in the ",
+            "keywords": [
+                "chest",
+                "pain",
+                "feeling",
+                "moving",
+                "left",
+                "positions",
+                "walking",
+                "staying"
+            ]
+        },
+        {
+            "segment_id": 4,
+            "segment_label": "P: like if you're standing up versus sitting ",
+            "keywords": [
+                "breathing",
+                "breath",
+                "symptoms",
+                "pain",
+                "sitting",
+                "laying",
+                "injured",
+                "chest"
+            ]
+        },
+        {
+            "segment_id": 5,
+            "segment_label": "D: but my chest felt fine after that. P: Okay",
+            "keywords": [
+                "symptoms",
+                "swelling",
+                "fevers",
+                "sick",
+                "nausea",
+                "vomiting",
+                "pain",
+                "hot"
+            ]
+        },
+        {
+            "segment_id": 6,
+            "segment_label": "D: Okay, have you been feeling tired at all, ",
+            "keywords": [
+                "symptoms",
+                "fatigued",
+                "tired",
+                "palpitations",
+                "runny",
+                "throat",
+                "feeling",
+                "nose"
+            ]
+        },
+        {
+            "segment_id": 7,
+            "segment_label": "D: but that went away on its own. P: I haven'",
+            "keywords": [
+                "dizziness",
+                "dizzy",
+                "cholesterol",
+                "fainted",
+                "allergies",
+                "medications",
+                "diagnosis",
+                "multivitamin"
+            ]
+        },
+        {
+            "segment_id": 8,
+            "segment_label": "D: to any medications at all? P: No allergies",
+            "keywords": [
+                "hospitalizations",
+                "hospitalized",
+                "allergies",
+                "medications",
+                "family",
+                "bus",
+                "daily",
+                "cancers"
+            ]
+        },
+        {
+            "segment_id": 9,
+            "segment_label": "D: would you say you get enough exercise thro",
+            "keywords": [
+                "diet",
+                "smoking",
+                "exercise",
+                "cigarettes",
+                "regularly",
+                "eat",
+                "smoke",
+                "run"
+            ]
+        },
+        {
+            "segment_id": 10,
+            "segment_label": "D: Okay, and any recreational drugs like mari",
+            "keywords": [
+                "meth",
+                "marijuana",
+                "drugs",
+                "crystal",
+                "recreational",
+                "days",
+                "years",
+                "use"
+            ]
+        }
+    ]
+}

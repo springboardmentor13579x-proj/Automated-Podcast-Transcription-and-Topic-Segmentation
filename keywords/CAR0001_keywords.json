@@ -1,0 +1,145 @@
+{
+    "source_file": "CAR0001.json",
+    "segments": [
+        {
+            "segment_id": 1,
+            "segment_label": "D: brought you in today? Sure, I'm just havin",
+            "keywords": [
+                "chest",
+                "pain",
+                "today",
+                "checked",
+                "started",
+                "male",
+                "left",
+                "gender"
+            ]
+        },
+        {
+            "segment_id": 2,
+            "segment_label": "D: maybe like eight. Okay has it been constan",
+            "keywords": [
+                "pain",
+                "laying",
+                "burning",
+                "sharp",
+                "worse",
+                "night",
+                "words",
+                "better"
+            ]
+        },
+        {
+            "segment_id": 3,
+            "segment_label": "D: laying down? Not that I've noticed, no. Ok",
+            "keywords": [
+                "pain",
+                "hurt",
+                "laying",
+                "feel",
+                "severe",
+                "breath",
+                "deep",
+                "didn"
+            ]
+        },
+        {
+            "segment_id": 4,
+            "segment_label": "D: worst pain you've ever felt, how severe wo",
+            "keywords": [
+                "symptoms",
+                "pain",
+                "breathing",
+                "severe",
+                "experiencing",
+                "feel",
+                "felt",
+                "sweaty"
+            ]
+        },
+        {
+            "segment_id": 5,
+            "segment_label": "D: you like have been immobilized or you have",
+            "keywords": [
+                "symptoms",
+                "breathing",
+                "vomiting",
+                "nausea",
+                "fevers",
+                "immobilized",
+                "breath",
+                "sick"
+            ]
+        },
+        {
+            "segment_id": 6,
+            "segment_label": "P: No, well I guess if when I'm really having",
+            "keywords": [
+                "neck",
+                "breathing",
+                "swollen",
+                "chest",
+                "sweats",
+                "trauma",
+                "pain",
+                "accident"
+            ]
+        },
+        {
+            "segment_id": 7,
+            "segment_label": "D: or or back? No. Okay so just in regards to",
+            "keywords": [
+                "medical",
+                "living",
+                "hospitalizations",
+                "accountant",
+                "surgeries",
+                "apartment",
+                "medications",
+                "live"
+            ]
+        },
+        {
+            "segment_id": 8,
+            "segment_label": "D: Okay sounds like a pretty stressful job or",
+            "keywords": [
+                "smoking",
+                "cigarettes",
+                "marijuana",
+                "cannabis",
+                "smoke",
+                "stressful",
+                "drugs",
+                "recreational"
+            ]
+        },
+        {
+            "segment_id": 9,
+            "segment_label": "P: I'd say I have like one or two drinks a da",
+            "keywords": [
+                "diet",
+                "diets",
+                "exercise",
+                "healthy",
+                "drinks",
+                "eat",
+                "heart",
+                "lunches"
+            ]
+        },
+        {
+            "segment_id": 10,
+            "segment_label": "P: Um actually yes my father had a heart atta",
+            "keywords": [
+                "cholesterol",
+                "stroke",
+                "cancers",
+                "history",
+                "heart",
+                "strokes",
+                "family",
+                "father"
+            ]
+        }
+    ]
+}

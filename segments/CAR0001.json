@@ -1,0 +1,84 @@
+{
+    "segments": [
+        {
+            "segment_id": 1,
+            "segment_label": "D: brought you in today? Sure, I'm just havin",
+            "segment_summary": "D: brought you in today? Sure, I'm just having a lot of chest pain and so I thought I should get it D: checked out. Okay and before we start could you remind me of your gender and age? Sure. I'm a male. D: Okay and so when did this chest pain start? It started last night but it's becoming sharper. I guess it's getting sharper D: I don't know how long it's been going on D: it's located on the left side of my chest D: can you tell me where it started? D: is it going on for more than a couple hours? Okay and how long have you been having chest pain? I can tell I'm having chest pains. So I guess I would be a couple hour now,",
+            "start_time": "00:00.00",
+            "end_time": "00:59.48",
+            "segment_text": "D: brought you in today? Sure, I'm just having a lot of chest pain and so I thought I should get it D: checked out. Okay and before we start could you remind me of your gender and age? Sure, 39, I'm a male. D: Okay and so when did this chest pain start? It started last night but it's becoming sharper. D: Okay and where is this pain located? It's located on the left side of my chest. Okay and so how long D: has it been going on for than if it started last night? So I guess it would be a couple hours now,"
+        },
+        {
+            "segment_id": 2,
+            "segment_label": "D: maybe like eight. Okay has it been constan",
+            "segment_summary": "D: maybe like eight. Okay has it been constant throughout that time or changing? I would say D: it's been pretty constant, yeah. Okay and how would you describe the pain? People will use P: words sometimes like sharp, burning, achy. I'd say it's pretty sharp, yeah, Sharp, okay. Anything D: that you have tried since last night that's made the pain better? Not laying down helps. D: Okay so do you find laying down makes the pain worse? Yes, definitely. Okay do you think that the D: pain is radiating anywhere? No. Okay what is there anything else that makes the Pain worse besides",
+            "start_time": "00:59.48",
+            "end_time": "02:04.76",
+            "segment_text": "D: maybe like eight. Okay has it been constant throughout that time or changing? I would say D: it's been pretty constant, yeah. Okay and how would you describe the pain? People will use P: words sometimes like sharp, burning, achy. I'd say it's pretty sharp, yeah. Sharp, okay. Anything D: that you have tried since last night that's made the pain better? Not laying down helps. D: Okay so do you find laying down makes the pain worse? Yes, definitely. Okay do you find that the D: pain is radiating anywhere? No. Okay and is there anything else that makes the pain worse besides"
+        },
+        {
+            "segment_id": 3,
+            "segment_label": "D: laying down? Not that I've noticed, no. Ok",
+            "segment_summary": "D: laying down? Not that I've noticed, no. Okay so not like taking a deep breath or anything like that? P: Maybe taking a long breath, yeah. Okay and when the pain started could you D: tell me, could you think of anything that you were doing at the time? P. I mean I was moving some furniture around but that I hadn't done that before? Okay so you didn't feel D: like you hurt yourself when you were do that? No. Okay. Okay let's see what the pain is P: in regards to how severe the pain, P: on a scale of one to ten, ten being the",
+            "start_time": "02:05.56",
+            "end_time": "02:56.28",
+            "segment_text": "D: laying down? Not that I've noticed, no. Okay so not like taking a deep breath or anything like that? P: Maybe taking a deep breath, yeah. Okay and when the pain started could you D: tell me, could you think of anything that you were doing at the time? P: I mean I was moving some furniture around but that I've done that before. Okay so you didn't feel D: like you hurt yourself when you were doing that? No. Okay and in regards to how severe the pain is P: in regards to how severe the pain is on a scale of one to ten, ten being the"
+        },
+        {
+            "segment_id": 4,
+            "segment_label": "D: worst pain you've ever felt, how severe wo",
+            "segment_summary": "D: worst pain you've ever felt, how severe would you say the pain is? I'd say it's like a seven or eight. D: It's pretty bad. Okay and with the pain do you have any other associated symptoms? P: I feel a little light-headed and I'm having some trouble breathing. Don't have any loss of consciousness? No. Okay have you been experiencing any D: like racing of the heart? A little bit, yeah. Okay, have you had any other symptoms of the pain? D: No. P: Just from the short, just from having issues breathing. Okay has you been having issues D: breathing since the pain started? Yes. Okay are you having any other problems with your breathing? No, no.",
+            "start_time": "02:57.48",
+            "end_time": "04:12.28",
+            "segment_text": "D: worst pain you've ever felt, how severe would you say the pain is? I'd say it's like a seven or eight. D: It's pretty bad. Okay and with the pain do you have any other associated symptoms? P: I feel a little light-headed and I'm having some trouble breathing. D: Okay have you had any loss of consciousness? No. Okay have you been experiencing any D: like racing of the heart? A little bit, yeah. Okay and have you been sweaty at all? P: Just from the short, just from having issues breathing. Okay have you been having issues D: breathing since the pain started? Yes. Okay and recently have you had any periods of time where"
+        },
+        {
+            "segment_id": 5,
+            "segment_label": "D: you like have been immobilized or you have",
+            "segment_summary": "D: you like have been immobilized or you haven't been like able to move around a lot? No, no. Okay D: and have you been feeling sick at all, any infectious symptoms? No. Okay have you had D: any nausea or vomiting? no. Any fevers or chills? No and no. No. Any D: anything else that you've been feeling like you have been feeling, any abdominal pain? No or any D: urinary problems? No., no. Or bowel problems? Okay has you had a cough? No; Okay you have not brought up D: or any blood or any other blood. No, not that I've heard. D: Okay any changes to the like breath sounds at all like any noisy breathing?",
+            "start_time": "04:12.28",
+            "end_time": "05:19.24",
+            "segment_text": "D: you like have been immobilized or you haven't been like able to move around a lot? No, no. Okay D: and have you been feeling sick at all, any infectious symptoms? No. Okay have you had D: any nausea or vomiting? No. Any fevers or chills? No. Okay how about any abdominal pain? No. Any D: urinary problems? No. Or bowel problems? Okay have you had a cough? No. Okay you haven't brought up D: any blood? No. Okay have you had a wheeze with your difficulty breathing? No, not that I've heard. D: Okay any changes to the like breath sounds at all like any noisy breathing?"
+        },
+        {
+            "segment_id": 6,
+            "segment_label": "P: No, well I guess if when I'm really having",
+            "segment_summary": "P: No, well I guess if when I'm really having trouble breathing yeah. Okay has anything like this ever D: happened to you before? No. No okay and have you have you had any night sweats or anything like that? All right and D: then how about any rashes or skin changes? No rashes but I guess like my neck seems to be a little D: swollen. Okay do you have any neck pain or anything where you really jerked your neck? Yes. Okay D: have you ever had any like accidents like a like a car D: accident or anything else where you had a really jerking your neck. No. Okay any any trauma at all to the chest",
+            "start_time": "05:20.28",
+            "end_time": "06:16.04",
+            "segment_text": "P: No, well I guess if when I'm really having trouble breathing yeah. Okay has anything like this ever D: happened to you before? No. No okay and have you have you had any night sweats? No. All right and D: then how about any rashes or skin changes? No rashes but I guess like my neck seems to be a little D: swollen. Okay do you have any neck pain? No. Okay have you had any like accidents like a like a car D: accident or anything where you really jerked your neck? No. Okay any any trauma at all to the chest"
+        },
+        {
+            "segment_id": 7,
+            "segment_label": "D: or or back? No. Okay so just in regards to",
+            "segment_summary": "D: or or back? No. Okay so just in regards to past medical history do you have any prior medical D: conditions? no. Okay any recent hospitalizations? No, Okay any prior surgeries or any recent surgeries? Yes. Okay do you D: take any medications regularly? Are they prescribed or over the counter? No? All right how about any D: allergies to medications? None. All right any immunizations or are they up to date? They're all P: up todate. Excellent all right and could you tell me a little bit about your living situation D: currently? Sure I live in an apartment by myself. D: Yep that's about it. Okay and how do you support yourself financially? I'm an accountant.",
+            "start_time": "06:16.04",
+            "end_time": "07:30.84",
+            "segment_text": "D: or or back? No. Okay so just in regards to past medical history do you have any prior medical D: conditions? No. Okay any recent hospitalizations? No. Okay any prior surgeries? No. Okay do you D: take any medications regularly? Are they prescribed or over the counter? No. All right how about any D: allergies to medications? None. All right any immunizations or are they up to date? They're all P: up to date. Excellent all right and could you tell me a little bit about your living situation D: currently? Sure I live in an apartment by myself. D: Yep that's about it. Okay and how do you support yourself financially? I'm an accountant."
+        },
+        {
+            "segment_id": 8,
+            "segment_label": "D: Okay sounds like a pretty stressful job or",
+            "segment_summary": "D: Okay sounds like a pretty stressful job or that it can be. Do you smoke cigarettes? I do. Okay and how D: much do you smoke? I smoke about a pack a day. Okay how long have you been smoking for? For the past D: 10 to 15 years. Okay. How much marijuana would you smoke D: per week? Per week? Maybe about five milligrams not that much. Okay do you use any other D: recreational drugs like cocaine, crystal meth, opioids? No. Okay have you used IV drugs before? D: No and do you drink alcohol? I don\u2019t drink alcohol D: About",
+            "start_time": "07:31.32",
+            "end_time": "08:42.76",
+            "segment_text": "D: Okay sounds like a pretty stressful job or that it can be. Do you smoke cigarettes? I do. Okay and how D: much do you smoke? I smoke about a pack a day. Okay how long have you been smoking for? For the past D: 10 to 15 years. Okay and do you smoke cannabis? Sometimes. How much marijuana would you smoke D: per week? Per week? Maybe about five milligrams not that much. Okay and do you use any other D: recreational drugs like cocaine, crystal meth, opioids? No. Okay have you used IV drugs before? D: No. Okay and do you drink alcohol? I do. Okay how much alcohol do you drink each week? About"
+        },
+        {
+            "segment_id": 9,
+            "segment_label": "P: I'd say I have like one or two drinks a da",
+            "segment_summary": "P: I'd say I have like one or two drinks a day so about 10 drinks a week. Okay and D: and then briefly could you tell me a little bit about your like diet and exercise? Sure I try to P: eat healthy for dinner at least but most of my lunches are I eat out and then in terms of D: exercise I try and exercise every other day. I run for about half an hour. Okay oh that's great that P: you've been working on the activity and the diets as well. So has anything like this happened in D: your family before? No. Okay has anybody in the family had a heart attack before?",
+            "start_time": "08:43.48",
+            "end_time": "09:38.76",
+            "segment_text": "P: I'd say I have like one or two drinks a day so about 10 drinks a week. Okay and D: and then briefly could you tell me a little bit about your like diet and exercise? Sure I try to P: eat healthy for dinner at least but most of my lunches are I eat out and then in terms of D: exercise I try to exercise every other day. I run for about half an hour. Okay oh that's great that P: you've been working on the activity and the diets as well. So has anything like this happened in D: your family before? No. Okay has anybody in the family had a heart attack before?"
+        },
+        {
+            "segment_id": 10,
+            "segment_label": "P: Um actually yes my father had a heart atta",
+            "segment_summary": "P: Um actually yes my father had a heart attack when he was 45. Okay and anybody in the family have D: uh cholesterol problems? I think my father did. I see okay and how about everybody in the house? No D: stroke? No strokes. Okay, then any cancers in the blood? No. Okay um D: was there anything else that you wanted to um tell me about today that that I on on history? P: Uh no I don't think so I think you asked me everything.",
+            "start_time": "09:40.36",
+            "end_time": "10:25.48",
+            "segment_text": "P: Um actually yes my father had a heart attack when he was 45. Okay and anybody in the family have D: uh cholesterol problems? I think my father did. I see okay and how about anybody in the family have D: stroke? No strokes. Okay and then any cancers in the family? No. Okay um D: was there anything else that you wanted to um tell me about today that that I on on history? P: Uh no I don't think so I think you asked me everything."
+        }
+    ]
+}
