@@ -1,267 +1,192 @@
-# Automated-Podcast-Transcription-and-Topic-Segmentation
 
-*A Springboard Internship Program Project*
+# Automated Medical Podcast Transcription and Topic Segmentation
 
+## Project Overview
 
-## **Project Overview**
+Medical podcasts contain valuable discussions on diseases, treatments, research findings, and clinical experiences. However, these podcasts are often long and difficult to navigate.
 
-The **Automated Podcast Transcription & Topic Segmentation** project aims to build an end-to-end AI system that can:
+This project aims to build an AI-powered system that automatically transcribes medical podcast audio, detects topic boundaries, and segments the content into meaningful medical topics with summaries and keywords.
 
-* Convert podcast audio into accurate transcripts
-* Detect topic boundaries automatically
-* Segment the transcript into meaningful chapters
-* Extract keywords and summaries for each topic
-* Provide a UI to navigate the podcast episode by topics & timestamps
-* Display segment-level visual analytics
+The system helps students, researchers, and healthcare professionals quickly access relevant medical information without listening to the entire podcast episode.
 
-This project focuses on applying **AI, Speech Processing, NLP, and ML engineering** to create a practical real-world audio intelligence tool.
+---
 
+## Use Case (Medical Domain)
 
-##  **Project Objectives**
+This project is designed specifically for medical podcasts, including:
 
-### 1. **Transcription (Speech-to-Text)**
+- Clinical discussions  
+- Disease awareness talks  
+- Medical education podcasts  
+- Expert interviews and panel discussions  
+- Public health awareness programs  
 
-* Convert long podcast audio files into text using ASR models
-* Support noisy, multi-speaker, real-world audio
-* Produce timestamps for each transcribed segment
+### Benefits
+- Quickly locate discussions about specific diseases or treatments  
+- Navigate podcasts using topic-wise chapters  
+- Understand content through summaries and keywords  
+- Save time for medical students and professionals  
 
-### 2. **Topic Segmentation**
+---
 
-* Detect shifts in content and break the transcript into chapters
-* Use NLP techniques such as:
+## Project Objectives
 
-  * TextTiling
-  * Embedding similarity (BERT / Sentence Transformers)
-  * Change-point detection methods
+### 1. Transcription (Speech-to-Text)
+- Convert long medical podcast audio into text using ASR models  
+- Handle noisy, real-world medical audio  
+- Generate timestamps for each transcribed segment  
 
-### 3. **Summarization & Keyword Extraction**
+---
 
-* Generate per-topic:
+### 2. Topic Segmentation
+- Detect topic shifts in medical discussions  
+- Segment transcripts into meaningful medical chapters  
+- Use NLP techniques such as:
+  - TextTiling  
+  - Embedding similarity (Sentence Transformers / BERT)  
+  - Change-point detection methods  
 
-  * Short summaries
-  * Bullet-point notes
-  * Keywords
+---
 
-### 4. **UI for Navigation**
+### 3. Summarization and Keyword Extraction
+For each medical topic segment:
+- Generate short summaries  
+- Produce bullet-point notes  
+- Extract important medical keywords  
 
-* Show transcript & segment list
-* Allow clicking a segment → jump to timestamp
-* Provide playback & visualizations
+---
 
+### 4. UI for Navigation
+- Display transcripts with topic-wise segmentation  
+- Enable click-to-jump using timestamps  
+- Provide audio playback and visual insights  
 
-## **System Architecture**
+---
 
-```
-Audio Input → Preprocessing → Transcription (ASR) → Transcript Cleaning
-             ↓
-    Embedding Model → Topic Segmentation → Segment Summaries & Keywords
-             ↓
-          Indexing → UI (Search, Playback, Visualization)
-```
-
-
-##  **Tech Stack**
-
-### **Core**
-
-* Python 3.9+
-* Whisper (OpenAI) / Faster Whisper / Google Speech-to-Text
-* Librosa, PyDub, ffmpeg
-
-### **NLP**
-
-* NLTK / SpaCy
-* HuggingFace Transformers
-* Sentence Transformers
-* YAKE / RAKE / KeyBERT
-
-### **Visualization & UI**
-
-* Streamlit / Flask
-* Plotly, Matplotlib
-
-### **Storage**
-
-* JSON / CSV / SQLite for metadata
-* FAISS / vector DB (optional) for topic search
-
-
-## **Recommended Folder Structure**
+## System Architecture
 
 ```
-project/
-│── audio_raw/
-│── audio_processed/
-│── transcripts/
-│── segments/
-│── notebooks/
-│── src/
+
+Audio Input
+↓
+Audio Preprocessing
+↓
+Medical Speech-to-Text (ASR)
+↓
+Transcript Cleaning
+↓
+Embedding Model
+↓
+Topic Segmentation
+↓
+Medical Summaries and Keywords
+↓
+Indexing
+↓
+UI (Search, Playback, Visualization)
+
+```
+
+---
+
+## Tech Stack
+
+### Core Technologies
+- Python 3.9+
+- Whisper (OpenAI) / Faster-Whisper
+- Librosa, PyDub, FFmpeg
+
+### NLP and Machine Learning
+- NLTK
+- SpaCy
+- HuggingFace Transformers
+- Sentence Transformers
+- KeyBERT / YAKE / RAKE
+
+### Visualization and UI
+- Streamlit / Flask
+- Plotly
+- Matplotlib
+
+### Storage
+- JSON / CSV for metadata
+- SQLite (optional)
+- FAISS / Vector Database (optional)
+
+---
+
+## Project Folder Structure
+
+```
+
+Automated-Podcast-Transcription-and-Topic-Segmentation/
+│
+├── backend/               # Backend logic (optional)
+├── data/                  # Dataset references (not committed)
+├── notebooks/             # Experiments and analysis
+├── src/
 │   ├── preprocessing.py
 │   ├── transcription.py
 │   ├── segmentation.py
 │   ├── summarization.py
 │   ├── keyword_extraction.py
-│   ├── ui_app.py
-│── docs/
-│── tests/
-│── README.md
-│── requirements.txt
-│── LICENSE
+│
+├── README.md
+├── requirements.txt
+├── LICENSE
+
 ```
 
 ---
 
-## **Getting Started**
+## Milestone-wise Implementation
 
-### **Steps Interns Should Follow**
+### Milestone 1: Audio Preprocessing and Transcription
+- Audio cleaning and normalization  
+- Medical podcast transcription using ASR  
 
-- **Step 1 — Clone the repository**
+### Milestone 2: Topic Segmentation and Keyword Extraction
+- Detection of topic boundaries  
+- Medical keyword extraction  
+- Initial summaries  
 
-```bash
-git clone https://github.com/mentor/project-repo.git
-cd project-repo
-```
+### Milestone 3: Visualization and Enhancements
+- Topic timelines  
+- Keyword clouds  
+- Improved summaries  
 
-- **Step 2 — Create their branch**
+### Milestone 4: Documentation and Final Delivery
+- Technical documentation  
+- Final presentation and demo  
 
-```bash
-git checkout -b intern-<name>
-```
+---
 
-Example:
+## Data and Privacy Considerations
+- Raw audio and sensitive data are not committed to GitHub  
+- API keys are stored securely using `.env`  
+- Only source code and metadata are version-controlled  
 
-```bash
-git checkout -b intern-goutham
-```
+---
 
-- **Step 3 — Make changes**
+## Future Enhancements
+- Medical entity recognition (diseases, drugs)  
+- Speaker diarization  
+- Semantic medical search  
+- Online deployment  
+- Multi-language support  
 
-Work on code, notebooks, documentation, etc.
+---
 
-- **Step 4 — Add files**
+## Intended Users
+- Medical students  
+- Healthcare professionals  
+- Researchers  
+- Podcast listeners  
+- Medical educators  
 
-```bash
-git add .
-```
+---
 
-- **Step 5 — Commit with message**
-
-```bash
-git commit -m "Completed milestone 1 data preprocessing"
-```
-
-- **Step 6 — Push to their branch**
-
-```bash
-git push origin intern-goutham
-```
-
-
-## **Milestone Plan (8 Weeks)**
-
-### **Week 1**
-
-* Dataset download
-* Basic audio preprocessing
-* Whisper installation + test transcription
-
-### **Week 2**
-
-* Build baseline transcription pipeline
-* Start transcript cleaning
-
-### **Week 3**
-
-* Implement topic segmentation (TextTiling + embedding-based)
-
-### **Week 4**
-
-* Segment evaluation
-* Summaries & keywords generation
-
-### **Week 5**
-
-* Build initial UI (Streamlit)
-* Integrate audio + transcript + segments
-
-### **Week 6**
-
-* Add visualization:
-
-  * Topic timeline
-  * Word clouds
-  * Sentiment trends
-
-### **Week 7**
-
-* Testing & refinements
-* Improve segmentation accuracy
-
-### **Week 8**
-
-* Final project report
-* Demo presentation
-* GitHub cleanup & documentation
-
-## **Evaluation Criteria**
-
-Interns will be evaluated on:
-
-* Technical accuracy of ASR & segmentation
-* Commit frequency & GitHub hygiene
-* Code clarity & modular design
-* Documentation quality
-* Final demo performance
-* Completion of milestones
-
-
-## **Future Enhancements (Optional)**
-
-* Multi-speaker diarization
-* Semantic search across segments
-* Embedding-based recommendation
-* Podcast summarization at episode level
-* Deploy UI online (Streamlit Cloud / Render)
-
-
-## **Intern Work Guidelines**
-
-Each intern must:
-
-* Work **individually** on their own GitHub branch
-* Commit regularly
-* Maintain clean code + folder structure
-* Follow milestone timelines
-* Attend mentor sessions (Mon–Fri)
-* Participate in final demo
-
-Intern pre-cautions,
-
-* **🚫 Don’t upload large files (datasets > 50 MB)**
-
-- Use Google Drive + link instead.
-
-* **🚫 Don’t create multiple branches unnecessarily**
-
-- Use only **one branch per intern**.
-
-* **🚫 Don’t work directly on the main branch**
-
-* **🚫 Don’t push zipped files**
-
-- Push notebooks, scripts, and markdown files.
-
-
-# **License**
-
-This project uses the **MIT License**.
-Create a `LICENSE` file from GitHub’s license picker.
-
-
-
-# **Contact**
-
-For questions or doubts:
-[springboardmentor13579x@gmail.com](mailto:springboardmentor13579x@gmail.com) (official mentor email)
+## License
+This project is licensed under the MIT License.
 
 
