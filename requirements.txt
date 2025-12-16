@@ -1,0 +1,33 @@
+# Core Python Libraries
+numpy
+pandas
+
+# Audio Processing
+librosa
+pydub
+ffmpeg-python
+
+# Speech-to-Text
+openai-whisper
+faster-whisper
+
+# NLP & Text Processing
+nltk
+spacy
+transformers
+sentence-transformers
+
+# Keyword Extraction
+keybert
+yake
+rake-nltk
+
+# Visualization (optional / UI support)
+matplotlib
+plotly
+streamlit
+flask
+
+# Utilities
+python-dotenv
+tqdm
