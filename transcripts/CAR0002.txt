@@ -1,0 +1,147 @@
+[00:00.00 - 00:01.40] D: what brings you in here today?
+[00:02.66 - 00:05.60] P: Yeah, I have this pain in my chest.
+[00:07.06 - 00:09.66] D: Okay, and where is the pain exactly?
+[00:10.50 - 00:13.18] P: It's just right over on the left side.
+[00:14.46 - 00:17.12] D: Okay, and when did this pain start?
+[00:18.62 - 00:20.42] P: It started just 30 minutes ago.
+[00:21.42 - 00:24.26] D: Okay, and did it just come on randomly
+[00:24.26 - 00:27.10] D: or were you doing something strenuous?
+[00:27.48 - 00:32.00] P: I was just shuttling the driveway and it came on.
+[00:33.28 - 00:39.00] D: Okay, and has that pain been getting worse at all
+[00:39.00 - 00:41.00] D: over the last hour and a half an hour?
+[00:41.92 - 00:44.68] P: No, it just came on suddenly and it's...
+[00:47.56 - 00:49.64] D: Sorry, yeah, the pain has been there this whole time
+[00:49.64 - 00:52.28] P: and it's gotten worse ever since it started.
+[00:53.24 - 00:55.84] D: Okay, and how would you describe the pain?
+[00:55.86 - 00:58.82] P: Is it kind of like an aching pain or is it a sharp
+[00:58.82 - 01:00.62] D: or tightness kind of pain?
+[01:00.62 - 01:02.10] D: How would you describe it?
+[01:02.10 - 01:02.98] P: It feels dull.
+[01:02.98 - 01:07.46] D: I feel like there's a lot of pressure on my chest.
+[01:08.34 - 01:10.98] P: Okay, and how would you rate the pain right now
+[01:10.98 - 01:12.82] D: on a scale of zero to 10,
+[01:12.82 - 01:14.50] P: zero being the least amount of pain you've felt
+[01:14.50 - 01:16.18] D: in your life, 10 being the worst?
+[01:18.22 - 01:19.66] P: Seven.
+[01:19.66 - 01:21.10] D: Seven, okay.
+[01:21.10 - 01:24.70] D: Have you had any similar episodes before?
+[01:24.76 - 01:27.64] P: No, I've never had any chest pain before.
+[01:27.64 - 01:31.12] D: Okay, and is the pain just staying in the region,
+[01:31.12 - 01:32.96] P: the left chest area that you mentioned,
+[01:32.96 - 01:35.60] D: or is it traveling to any other part of your body?
+[01:36.56 - 01:40.00] P: No, I'm kind of just feeling it right here on the left side.
+[01:40.00 - 01:45.00] D: Okay, is there anything that you do that makes the pain
+[01:45.16 - 01:48.48] D: either get worse or go away or get better?
+[01:50.52 - 01:53.90] P: I think it's a bit worse if I'm moving around
+[01:54.52 - 01:55.68] D: or when I was walking in here,
+[01:55.68 - 01:58.12] P: I think it made it a bit worse,
+[01:58.12 - 02:01.32] D: but nothing seemed to make it any better
+[02:01.32 - 02:03.16] P: since it's starting.
+[02:03.16 - 02:07.28] D: Okay, and does it change at all from you changing positions
+[02:07.28 - 02:09.54] P: like if you're standing up versus sitting down
+[02:09.54 - 02:10.46] D: or laying down?
+[02:12.36 - 02:15.80] P: I think it's a little bit worse when I'm laying down.
+[02:16.70 - 02:20.72] D: Okay, and other than the pain that you've been having,
+[02:21.30 - 02:25.86] P: any other symptoms like a cough or difficulty breathing
+[02:25.86 - 02:28.90] D: or any pain when you're breathing in or out?
+[02:31.66 - 02:35.50] P: I've felt a little bit short of breath
+[02:35.50 - 02:38.98] D: or having difficulty breathing since yesterday,
+[02:38.98 - 02:41.78] P: or sorry, since the pain started,
+[02:41.78 - 02:45.78] D: but just the difficulty breathing.
+[02:46.76 - 02:51.76] P: Okay, and have you recently injured your chest
+[02:52.32 - 02:54.56] D: or surrounding area at all,
+[02:54.56 - 02:56.96] D: like from fall or anything like that?
+[02:58.68 - 03:03.68] P: I do play rugby and was tackled by another player yesterday,
+[03:05.76 - 03:10.60] D: but my chest felt fine after that.
+[03:11.48 - 03:14.16] P: Okay, but the pain just started hopping out, I'll go.
+[03:14.16 - 03:15.60] D: Yeah.
+[03:16.54 - 03:20.74] D: Okay, have you been traveling at all recently?
+[03:21.74 - 03:23.70] P: No, been at home.
+[03:23.70 - 03:26.48] D: Okay, has anyone around you been sick at all?
+[03:28.46 - 03:29.30] P: No.
+[03:30.62 - 03:32.54] D: Okay, have you been having any symptoms
+[03:32.54 - 03:35.74] D: like nausea or vomiting or any fevers or chills?
+[03:37.74 - 03:39.42] P: No nausea or vomiting,
+[03:39.42 - 03:43.66] D: but I do feel a little bit hot today.
+[03:44.64 - 03:47.32] D: Okay, have you measured your temperature at all?
+[03:51.76 - 03:56.76] P: I did, and it was 38 degrees.
+[03:57.04 - 04:01.96] D: Okay, and have you been having any kind of swelling
+[04:01.96 - 04:03.40] D: in your legs or feet?
+[04:07.08 - 04:10.16] P: No swelling in my legs.
+[04:10.16 - 04:13.16] D: Okay, have you been feeling tired at all,
+[04:13.34 - 04:15.14] D: like increasingly fatigued?
+[04:16.38 - 04:18.70] P: No, my energy has been good.
+[04:18.70 - 04:21.50] D: Okay, have you been having any kind of thumping
+[04:21.50 - 04:23.94] P: or palpitations or feel like your heart
+[04:23.94 - 04:25.14] D: has been racing at all?
+[04:28.62 - 04:30.58] P: It does feel like it's beating faster right now.
+[04:30.58 - 04:34.56] D: It usually only feels like this when I'm playing sports.
+[04:35.48 - 04:39.10] P: Okay, and have you noticed any changes
+[04:39.10 - 04:42.66] D: in your skin at all, any rashes?
+[04:42.88 - 04:43.96] P: No rashes.
+[04:44.96 - 04:48.40] D: Okay, have you had any cough or runny nose
+[04:48.40 - 04:50.92] P: or sore throat, any kind of those symptoms
+[04:50.92 - 04:52.56] D: in the past month?
+[04:53.76 - 04:58.56] P: A few weeks ago, my nose was a little runny,
+[04:58.56 - 05:01.54] D: but that went away on its own.
+[05:01.54 - 05:02.80] P: I haven't had any cough.
+[05:03.68 - 05:07.08] D: Okay, and have you been feeling dizzy at all
+[05:07.08 - 05:08.20] D: or have you fainted?
+[05:08.82 - 05:13.82] P: No dizziness and no, I haven't fainted at all.
+[05:15.26 - 05:18.14] D: Okay, just a few more questions.
+[05:18.14 - 05:22.22] P: Have you had any diagnosis made by any physician
+[05:22.22 - 05:26.40] D: or anything like diabetes or high blood pressure?
+[05:27.54 - 05:31.26] P: Yeah, I've been told I have high cholesterol
+[05:31.26 - 05:33.66] D: and high blood pressure.
+[05:34.78 - 05:37.74] D: Okay, and do you take any medications for these things?
+[05:39.14 - 05:44.14] P: I do take medications for both blood pressure
+[05:45.58 - 05:50.46] D: and cholesterol, resubastatin and
+[05:57.30 - 06:01.84] P: lacetaprol and I take a multivitamin.
+[06:02.90 - 06:05.26] D: Okay, and do you have any allergies
+[06:05.26 - 06:06.52] D: to any medications at all?
+[06:07.46 - 06:08.82] P: No allergies.
+[06:09.70 - 06:12.22] D: Okay, have you at all in the past
+[06:12.22 - 06:13.98] D: been hospitalized for any reason?
+[06:15.46 - 06:17.86] P: No hospitalizations.
+[06:17.86 - 06:19.90] D: Any previous surgeries?
+[06:19.90 - 06:20.74] P: No.
+[06:22.10 - 06:25.66] D: And within your family, has anyone passed away
+[06:25.66 - 06:28.54] P: from a heart attack or any cancers
+[06:28.54 - 06:29.90] D: that weren't in the family?
+[06:30.86 - 06:31.70] P: No.
+[06:32.00 - 06:33.40] D: No, okay.
+[06:33.40 - 06:36.76] D: And currently right now, do you live alone?
+[06:36.76 - 06:38.56] D: Do you live with someone and where do you live?
+[06:38.56 - 06:40.22] D: Like an apartment, house?
+[06:41.96 - 06:45.96] P: I live in a house with my parents.
+[06:48.86 - 06:51.08] D: Okay, and do you currently work?
+[06:52.16 - 06:54.96] P: Yeah, I drive a bus for the city.
+[06:55.92 - 07:00.92] D: Okay, and in your daily routine,
+[07:01.18 - 07:04.58] D: would you say you get enough exercise throughout the week?
+[07:06.42 - 07:09.54] P: Yeah, usually on Sundays I'll go for a run.
+[07:09.54 - 07:12.90] D: Okay, and how about your diet?
+[07:12.90 - 07:15.52] D: How's your diet like just regularly?
+[07:20.30 - 07:25.30] P: Usually I feel like it's fairly balanced overall.
+[07:26.20 - 07:31.20] D: I might eat out a little bit too often
+[07:31.24 - 07:35.20] P: but try to eat as many vegetables as I can.
+[07:35.20 - 07:39.14] D: Okay, and do you smoke cigarettes at all?
+[07:40.64 - 07:42.52] P: I do, yes.
+[07:42.52 - 07:45.62] D: I've been smoking for the last 20 years roughly.
+[07:46.76 - 07:49.60] D: Okay, how much do you smoke on an average day?
+[07:51.80 - 07:54.60] P: About a half a pack to a pack a day.
+[07:54.62 - 07:57.16] D: Okay, and do you drink?
+[07:58.78 - 07:59.76] P: No alcohol.
+[08:00.78 - 08:04.56] D: Okay, and any recreational drugs like marijuana?
+[08:07.82 - 08:12.82] P: No marijuana but I have used crystal meth in the past.
+[08:14.62 - 08:17.54] D: Okay, and when was the last time
+[08:17.54 - 08:18.84] D: that you used crystal meth?
+[08:21.78 - 08:22.78] P: Six days ago.
+[08:23.64 - 08:25.56] D: Six days ago, okay.
+[08:25.56 - 08:27.56] D: And how often do you use crystal meth?
+[08:32.68 - 08:34.00] P: A couple of times a month.
+[08:34.88 - 08:37.20] D: A couple of times a month, okay.
+[08:37.20 - 08:39.00] P: All right, and for how long
+[08:39.00 - 08:40.64] D: have you been using crystal meth?
+[08:42.12 - 08:46.80] P: For the last seven years.
+[08:46.80 - 08:49.16] D: Seven years, okay.
+[08:49.16 - 08:50.28] P: All right, thank you.
