@@ -1,5 +1,11 @@
 import os
 import whisper
+from dotenv import load_dotenv
+
+# -----------------------------
+# LOAD ENV VARIABLES
+# -----------------------------
+load_dotenv()
 
 # -----------------------------
 # 1. MODEL SELECTION
@@ -11,10 +17,10 @@ model = whisper.load_model(MODEL_NAME)
 print("Model loaded successfully!")
 
 # -----------------------------
-# 2. FOLDER PATHS
+# 2. FOLDER PATHS (FROM .env)
 # -----------------------------
-INPUT_FOLDER = r"C:\Users\Venka\OneDrive\Desktop\MedicalPodcastAI\Data\audio_processed"
-OUTPUT_FOLDER = r"C:\Users\Venka\OneDrive\Desktop\MedicalPodcastAI\transcripts"
+INPUT_FOLDER = os.getenv("AUDIO_PROCESSED_DIR")
+OUTPUT_FOLDER = os.getenv("TRANSCRIPTS_DIR")
 
 os.makedirs(OUTPUT_FOLDER, exist_ok=True)
 

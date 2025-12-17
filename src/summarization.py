@@ -1,15 +1,21 @@
 import os
 import pandas as pd
 import matplotlib.pyplot as plt
+from dotenv import load_dotenv
 
-# Path to evaluation file
-EVAL_FILE = r"C:\Users\venka\OneDrive\Desktop\MedicalPodcastAI\final_evaluation.xlsx"
+# -----------------------------
+# LOAD ENV VARIABLES
+# -----------------------------
+load_dotenv()
 
-# Folder to save graphs
-GRAPH_FOLDER = r"C:\Users\venka\OneDrive\Desktop\MedicalPodcastAI\graphs"
+# -----------------------------
+# PATHS FROM .env
+# -----------------------------
+EVAL_FILE = os.getenv("EVALUATION_OUTPUT_FILE")
+GRAPH_FOLDER = os.getenv("GRAPHS_DIR")
 
 def summarize_results():
-    
+
     # Create folder if not exists
     os.makedirs(GRAPH_FOLDER, exist_ok=True)
 
@@ -40,7 +46,7 @@ def summarize_results():
 
     # -------- Graph 1: Bar Chart --------
     plt.figure(figsize=(8, 5))
-    plt.bar(summary_df["Metric"], summary_df["Values"], color="skyblue")
+    plt.bar(summary_df["Metric"], summary_df["Values"])
     plt.title("Average Evaluation Metrics")
     plt.ylabel("Percentage")
     plt.savefig(os.path.join(GRAPH_FOLDER, "Summary_Metrics.png"))
@@ -48,7 +54,7 @@ def summarize_results():
 
     # -------- Graph 2: Histogram --------
     plt.figure(figsize=(10, 5))
-    plt.hist(df["Final Accuracy Score (%)"], bins=20, edgecolor="black")
+    plt.hist(df["Final Accuracy Score (%)"], bins=20)
     plt.title("Accuracy Score Distribution Across Files")
     plt.xlabel("Accuracy (%)")
     plt.ylabel("File Count")
@@ -61,8 +67,12 @@ def summarize_results():
     low = len(df[df["Final Accuracy Score (%)"] < 70])
 
     plt.figure(figsize=(6, 6))
-    plt.pie([good, moderate, low], labels=["High Quality", "Moderate", "Low"],
-            autopct="%1.1f%%", startangle=140)
+    plt.pie(
+        [good, moderate, low],
+        labels=["High Quality", "Moderate", "Low"],
+        autopct="%1.1f%%",
+        startangle=140
+    )
     plt.title("Transcript Quality Classification")
     plt.savefig(os.path.join(GRAPH_FOLDER, "Quality_Classification.png"))
     plt.close()

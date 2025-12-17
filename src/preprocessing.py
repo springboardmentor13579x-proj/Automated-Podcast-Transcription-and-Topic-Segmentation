@@ -2,12 +2,18 @@ import os
 import librosa
 import soundfile as sf
 import numpy as np
+from dotenv import load_dotenv
 
 # -----------------------------
-# Project Folder Paths
+# LOAD ENV VARIABLES
 # -----------------------------
-INPUT_FOLDER = r"C:\Users\venka\OneDrive\Desktop\MedicalPodcastAI\Data\audio_raw"
-OUTPUT_FOLDER = r"C:\Users\venka\OneDrive\Desktop\MedicalPodcastAI\Data\audio_processed"
+load_dotenv()
+
+# -----------------------------
+# Project Folder Paths (FROM .env)
+# -----------------------------
+INPUT_FOLDER = os.getenv("RAW_DATA_DIR")
+OUTPUT_FOLDER = os.getenv("AUDIO_PROCESSED_DIR")
 
 os.makedirs(OUTPUT_FOLDER, exist_ok=True)
 
@@ -60,4 +66,4 @@ def main():
 # Run
 # -----------------------------
 if __name__ == "__main__":
-    main() 
+    main()

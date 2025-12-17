@@ -3,6 +3,12 @@ import json
 import pandas as pd
 from keybert import KeyBERT
 from sentence_transformers import SentenceTransformer
+from dotenv import load_dotenv
+
+# ---------------------------------------------------------
+# 0. LOAD ENV VARIABLES
+# ---------------------------------------------------------
+load_dotenv()
 
 # ---------------------------------------------------------
 # 1. LOAD KEYBERT MODEL
@@ -39,14 +45,12 @@ def process_keywords(json_folder, keyword_folder, excel_output):
         for seg in data["segments"]:
             keywords = extract_keywords(seg["segment_text"])
 
-            # ---- Save per-segment keywords in JSON ----
             keyword_data["segments"].append({
                 "segment_id": seg["segment_id"],
                 "segment_label": seg["segment_label"],
                 "keywords": keywords
             })
 
-            # ---- Collect rows for Excel ----
             rows.append({
                 "File": file,
                 "Segment ID": seg["segment_id"],
@@ -55,7 +59,6 @@ def process_keywords(json_folder, keyword_folder, excel_output):
                 "Keywords": ", ".join(keywords)
             })
 
-        # ---- Save keyword JSON per file ----
         json_out = os.path.join(
             keyword_folder,
             file.replace(".json", "_keywords.json")
@@ -66,7 +69,6 @@ def process_keywords(json_folder, keyword_folder, excel_output):
 
         print(f"Saved keywords JSON: {json_out}")
 
-    # ---- Save combined Excel ----
     df = pd.DataFrame(rows)
     df.to_excel(excel_output, index=False)
 
@@ -77,9 +79,9 @@ def process_keywords(json_folder, keyword_folder, excel_output):
 # ---------------------------------------------------------
 def main():
 
-    segments_folder = r"C:\Users\venka\OneDrive\Desktop\MedicalPodcastAI\segments"
-    keyword_folder = r"C:\Users\venka\OneDrive\Desktop\MedicalPodcastAI\keywords"
-    excel_output = r"C:\Users\venka\OneDrive\Desktop\MedicalPodcastAI\keywords.xlsx"
+    segments_folder = os.getenv("SEGMENTS_DIR")
+    keyword_folder = os.getenv("KEYWORDS_DIR")
+    excel_output = os.getenv("KEYWORDS_EXCEL")
 
     process_keywords(segments_folder, keyword_folder, excel_output)
 

@@ -3,14 +3,20 @@ import json
 import re
 from nltk.tokenize import sent_tokenize
 from transformers import pipeline
+from dotenv import load_dotenv
+
+# ---------------------------------------------------------
+# LOAD ENV VARIABLES
+# ---------------------------------------------------------
+load_dotenv()
 
 # ---------------------------------------------------------
 # 1. LOAD VALID & STABLE SUMMARIZATION MODEL
 # ---------------------------------------------------------
 summarizer = pipeline(
     "summarization",
-    model="facebook/bart-base",   # VALID MODEL
-    device=-1                    # CPU (Python 3.13 safe)
+    model="facebook/bart-base",
+    device=-1
 )
 
 # ---------------------------------------------------------
@@ -21,9 +27,6 @@ timestamp_pattern = re.compile(
 )
 
 def parse_transcript(text):
-    """
-    Extracts start_time, end_time, and sentence text
-    """
     parsed = []
     for line in text.splitlines():
         match = timestamp_pattern.match(line)
@@ -37,7 +40,7 @@ def parse_transcript(text):
     return parsed
 
 # ---------------------------------------------------------
-# 3. SENTENCE-BASED SEGMENTATION (USING NLTK)
+# 3. SENTENCE-BASED SEGMENTATION
 # ---------------------------------------------------------
 def segment_sentences(sentences, max_words=120):
     segments = []
@@ -73,10 +76,10 @@ def segment_sentences(sentences, max_words=120):
     return segments
 
 # ---------------------------------------------------------
-# 4. SAFE SUMMARIZATION FUNCTION
+# 4. SAFE SUMMARIZATION
 # ---------------------------------------------------------
 def summarise(text):
-    text = text[:800]  # HARD LIMIT to avoid model crash
+    text = text[:800]
     result = summarizer(
         text,
         max_length=40,
@@ -89,13 +92,10 @@ def summarise(text):
 # 5. FULL SEGMENTATION PIPELINE
 # ---------------------------------------------------------
 def generate_segmentation(raw_text):
-
     parsed_sentences = parse_transcript(raw_text)
     segments = segment_sentences(parsed_sentences)
 
-    output = {
-        "segments": []
-    }
+    output = {"segments": []}
 
     for idx, seg in enumerate(segments, start=1):
         summary = summarise(seg["text"])
@@ -116,8 +116,8 @@ def generate_segmentation(raw_text):
 # ---------------------------------------------------------
 def main():
 
-    transcripts_dir = r"C:\Users\venka\OneDrive\Desktop\MedicalPodcastAI\transcripts"
-    output_dir = r"C:\Users\venka\OneDrive\Desktop\MedicalPodcastAI\segments"
+    transcripts_dir = os.getenv("TRANSCRIPTS_DIR")
+    output_dir = os.getenv("SEGMENTS_DIR")
 
     os.makedirs(output_dir, exist_ok=True)
 

@@ -3,13 +3,19 @@ import re
 import pandas as pd
 from jiwer import wer, cer
 from sentence_transformers import SentenceTransformer, util
+from dotenv import load_dotenv
 
 # -----------------------------
-# 1. FILE PATHS
+# 0. LOAD ENV VARIABLES
 # -----------------------------
-REFERENCE_FOLDER = r"C:\Users\venka\OneDrive\Desktop\MedicalPodcastAI\Clean_Transcripts"
-TRANSCRIPTS_FOLDER = r"C:\Users\venka\OneDrive\Desktop\MedicalPodcastAI\transcripts"
-OUTPUT_FILE = r"C:\Users\venka\OneDrive\Desktop\MedicalPodcastAI\final_evaluation.xlsx"
+load_dotenv()
+
+# -----------------------------
+# 1. FILE PATHS (FROM .env)
+# -----------------------------
+REFERENCE_FOLDER = os.getenv("REFERENCE_DIR")
+TRANSCRIPTS_FOLDER = os.getenv("TRANSCRIPTS_DIR")
+OUTPUT_FILE = os.getenv("EVALUATION_OUTPUT_FILE")
 
 # -----------------------------
 # 2. LOAD MODEL
@@ -93,7 +99,7 @@ def evaluate_transcripts():
     df.to_excel(OUTPUT_FILE, index=False)
 
     print(
-        f"\n Transcript evaluation completed.\n"
+        f"\nTranscript evaluation completed.\n"
         f"Results saved to:\n{OUTPUT_FILE}\n"
     )
 
