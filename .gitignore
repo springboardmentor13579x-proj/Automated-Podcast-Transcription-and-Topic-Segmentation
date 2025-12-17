@@ -1,0 +1,37 @@
+# -------------------------------
+# Python cache
+# -------------------------------
+__pycache__/
+*.pyc
+
+# -------------------------------
+# Jupyter notebook checkpoints
+# -------------------------------
+.ipynb_checkpoints/
+
+# -------------------------------
+# Large raw & processed audio
+# -------------------------------
+Data/raw/
+Data/audio_raw/
+Data/audio_original/
+Data/audio_processed/
+
+# -------------------------------
+# Auto-generated evaluation & graphs
+# -------------------------------
+Data/graphs/
+Data/evaluation_outputs/
+
+# -------------------------------
+# Model & cache files (Whisper / NLP)
+# -------------------------------
+.cache/
+models/
+*.pt
+*.bin
+
+# -------------------------------
+# Environment & secrets
+# -------------------------------
+.env
