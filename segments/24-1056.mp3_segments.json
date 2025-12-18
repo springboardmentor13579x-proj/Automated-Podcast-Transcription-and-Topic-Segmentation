@@ -1,0 +1,5912 @@
+[
+    {
+        "start": 0.0,
+        "end": 17.32,
+        "text": " We'll hear argument first this morning in case 24, 1056, RICO versus the United States.  Mr. Unikowski?  Mr. Chief Justice, and may it please the Court.  The question in this case is not whether, but instead how, to hold people accountable",
+        "sentence_count": 4,
+        "keywords": [
+            "United States",
+            "RICO versus",
+            "hear argument",
+            "RICO",
+            "States",
+            "United",
+            "Chief Justice",
+            "Unikowski",
+            "hear",
+            "argument"
+        ]
+    },
+    {
+        "start": 17.32,
+        "end": 35.6,
+        "text": " for absconding from supervised release.  The text and history of the Sentencing Reform Act establish that Congress intended  for revocation, not fugitive tolling, to be the means of addressing abscondment.  To begin with the text, the effect of the government's position is that Ms. RICO was",
+        "sentence_count": 4,
+        "keywords": [
+            "supervised release",
+            "Sentencing Reform",
+            "Reform Act",
+            "Act establish",
+            "Congress intended",
+            "release",
+            "fugitive tolling",
+            "addressing abscondment",
+            "absconding",
+            "supervised"
+        ]
+    },
+    {
+        "start": 35.6,
+        "end": 56.080000000000005,
+        "text": " subject to the conditions of supervised release for a period exceeding the time specified  in her judgment, and there's no textual support for that result.  The government claims that Ms. RICO wasn't serving her sentence at all during the period  of the abscondment, but that argument cannot be squared with the government's simultaneous",
+        "sentence_count": 4,
+        "keywords": [
+            "supervised release",
+            "textual support",
+            "period exceeding",
+            "subject",
+            "judgment",
+            "result",
+            "government claims",
+            "government simultaneous",
+            "conditions",
+            "supervised"
+        ]
+    },
+    {
+        "start": 56.080000000000005,
+        "end": 72.88000000000001,
+        "text": " contention that Ms. RICO violated the conditions of supervised release during that period warranting  an increased sentence.  History supports Ms. RICO's position.  Contrary to the government's contention, there is no common law tradition of fugitive",
+        "sentence_count": 4,
+        "keywords": [
+            "RICO",
+            "RICO violated",
+            "RICO position",
+            "contention",
+            "increased sentence",
+            "sentence",
+            "supervised release",
+            "period warranting",
+            "History",
+            "History supports"
+        ]
+    },
+    {
+        "start": 72.88000000000001,
+        "end": 97.52000000000001,
+        "text": " tolling for parole.  But fugitive tolling for parole came to exist via a 1976 statute and a 1983 implementing regulation.  But in the Sentencing Reform Act, Congress prospectively repealed that statute and enacted  nothing in its stead for supervised release while leaving it intact for legacy parole cases",
+        "sentence_count": 4,
+        "keywords": [
+            "Reform Act",
+            "Sentencing Reform",
+            "parole",
+            "fugitive tolling",
+            "tolling",
+            "implementing regulation",
+            "Congress prospectively",
+            "parole cases",
+            "statute",
+            "legacy parole"
+        ]
+    },
+    {
+        "start": 97.52000000000001,
+        "end": 112.6,
+        "text": " and it remains intact today.  As a result, Congress has created a two-track scheme, parole with fugitive tolling and supervised  release without it, and we ask the court to adhere to that dichotomy.  I welcome the court's questions.",
+        "sentence_count": 4,
+        "keywords": [
+            "intact today",
+            "remains intact",
+            "today",
+            "two-track scheme",
+            "remains",
+            "intact",
+            "Congress",
+            "court",
+            "court questions",
+            "fugitive tolling"
+        ]
+    },
+    {
+        "start": 112.6,
+        "end": 135.79999999999998,
+        "text": " Well, Mr. Unikowski, the government seems to be arguing, making a simple point.  How can it be considered supervised release when the absconder is not being supervised?  Your Honor, I completely understand the intuitive force of the government's argument that the  essence of supervised release is being supervised, and if a person absconds, they're just serving",
+        "sentence_count": 4,
+        "keywords": [
+            "simple point",
+            "Unikowski",
+            "supervised release",
+            "supervised",
+            "arguing",
+            "making",
+            "point",
+            "government",
+            "simple",
+            "release"
+        ]
+    },
+    {
+        "start": 135.79999999999998,
+        "end": 148.84,
+        "text": " the sentence at all in the same way as a prison escapee isn't serving the sentence  at all.  But ultimately, although I understand the intuitive force of that argument at first  blush, I don't think it carries the day because the government's argument has",
+        "sentence_count": 4,
+        "keywords": [
+            "prison escapee",
+            "sentence",
+            "government argument",
+            "intuitive force",
+            "prison",
+            "escapee",
+            "serving",
+            "argument",
+            "ultimately",
+            "blush"
+        ]
+    },
+    {
+        "start": 148.84,
+        "end": 165.56,
+        "text": " a counterintuitive component of its own, which is that it requires believing that  not only was Ms. Rico subject to the conditions of supervised release during the entire  abscaman period, but she actually violated those very conditions during that period,  warranting her increased sentence.",
+        "sentence_count": 4,
+        "keywords": [
+            "counterintuitive component",
+            "requires believing",
+            "period",
+            "abscaman period",
+            "Rico subject",
+            "increased sentence",
+            "counterintuitive",
+            "component",
+            "requires",
+            "believing"
+        ]
+    },
+    {
+        "start": 165.56,
+        "end": 183.56,
+        "text": " So it just seems to me almost tautologically if Ms. Rico violated the conditions of  supervised release, she must have been serving the very sentence that imposed those  conditions of supervised release.  I do understand the intuition underlying the government's argument today that it just",
+        "sentence_count": 4,
+        "keywords": [
+            "supervised release",
+            "release",
+            "supervised",
+            "Rico violated",
+            "tautologically",
+            "conditions",
+            "Rico",
+            "intuition underlying",
+            "government argument",
+            "argument today"
+        ]
+    },
+    {
+        "start": 183.56,
+        "end": 201.56,
+        "text": " doesn't really make sense that a person should get credit when they've absconded.  I get that, but I think that one point that really blunts the intuitive force of the  government's position is that both parties agree that ultimately the absconder should  be deprived of credit for the time spent absconding.",
+        "sentence_count": 4,
+        "keywords": [
+            "make sense",
+            "spent absconding",
+            "absconded",
+            "credit",
+            "intuitive force",
+            "government position",
+            "parties agree",
+            "time spent",
+            "make",
+            "sense"
+        ]
+    },
+    {
+        "start": 201.56,
+        "end": 218.92000000000002,
+        "text": " The sole question between the parties today is very narrow.  In other words, how that deprivation of credit should be effectuated.  So the way we understand the Sentencing Reform Act, if a warrant, as issues based on the  abscondment, as occurred in this case, then once the person is apprehended, even after",
+        "sentence_count": 4,
+        "keywords": [
+            "sole question",
+            "parties today",
+            "Reform Act",
+            "Sentencing Reform",
+            "narrow",
+            "sole",
+            "question",
+            "parties",
+            "today",
+            "issues based"
+        ]
+    },
+    {
+        "start": 218.92000000000002,
+        "end": 233.92000000000002,
+        "text": " the term expires, the person can be brought before the sentencing court and then  the judge revokes supervised release and strips the person of all credit for time  served during the absconding period.  So essentially the judge, rather than stopping the clock, the clock keeps going and",
+        "sentence_count": 4,
+        "keywords": [
+            "term expires",
+            "absconding period",
+            "sentencing court",
+            "revokes supervised",
+            "supervised release",
+            "time served",
+            "judge revokes",
+            "person",
+            "judge",
+            "expires"
+        ]
+    },
+    {
+        "start": 233.92000000000002,
+        "end": 247.36,
+        "text": " then the clock is rewound back to the beginning.  But is it really a credit system, Mr. Junokowski?  I guess I was a little confused by the government's suggestion, even at the  beginning of its brief, that what's happening in the supervised release world",
+        "sentence_count": 4,
+        "keywords": [
+            "rewound back",
+            "credit system",
+            "beginning",
+            "clock",
+            "rewound",
+            "back",
+            "Junokowski",
+            "government suggestion",
+            "release world",
+            "supervised release"
+        ]
+    },
+    {
+        "start": 247.36,
+        "end": 267.44,
+        "text": " is that the court is depriving the individual of credit for supervised release.  My understanding is that even when there's a revocation, the person is not  being deemed as giving credit.  In other words, when supervised release is revoked and the court sends the person",
+        "sentence_count": 4,
+        "keywords": [
+            "supervised release",
+            "giving credit",
+            "credit",
+            "court",
+            "supervised",
+            "release",
+            "depriving",
+            "individual",
+            "person",
+            "court sends"
+        ]
+    },
+    {
+        "start": 267.44,
+        "end": 283.72,
+        "text": " back to prison and perhaps imposes another period of supervised release, they  don't calculate how much supervised release they're going to give based on how  much was already served.  You had a three-year period, you absconded after one, so now only two",
+        "sentence_count": 4,
+        "keywords": [
+            "supervised release",
+            "give based",
+            "supervised",
+            "release",
+            "back",
+            "served",
+            "period",
+            "prison",
+            "imposes",
+            "calculate"
+        ]
+    },
+    {
+        "start": 283.72,
+        "end": 293.68,
+        "text": " is available.  Really, credit doesn't seem like the right framework to understand what's  even happening in supervised release.  I agree with what you said, Your Honor, 100%.",
+        "sentence_count": 4,
+        "keywords": [
+            "supervised release",
+            "Honor",
+            "credit",
+            "release",
+            "framework",
+            "understand",
+            "happening",
+            "supervised",
+            "agree"
+        ]
+    },
+    {
+        "start": 293.68,
+        "end": 307.84000000000003,
+        "text": " At the revocation hearing, whatever the person has left to serve just sort of  goes away and the court imposes a whole new sentence of imprisonment and an  additional period of supervised release based on the court's assessment of the  defendant at that time.",
+        "sentence_count": 4,
+        "keywords": [
+            "revocation hearing",
+            "court imposes",
+            "court assessment",
+            "additional period",
+            "supervised release",
+            "release based",
+            "court",
+            "hearing",
+            "time",
+            "revocation"
+        ]
+    },
+    {
+        "start": 307.84000000000003,
+        "end": 320.32000000000005,
+        "text": " Of the needs, right?  I mean, the reason why supervised release is sort of fundamentally  different than parole or probation or imprisonment is because it's not  imposed for punishment.",
+        "sentence_count": 4,
+        "keywords": [
+            "supervised release",
+            "punishment",
+            "reason",
+            "supervised",
+            "release",
+            "sort",
+            "fundamentally",
+            "parole",
+            "probation",
+            "imprisonment"
+        ]
+    },
+    {
+        "start": 320.32000000000005,
+        "end": 338.28000000000003,
+        "text": " It's supposed to be about helping this person reintegrate into society and the  amount of time that is necessary to do that is evaluated based on who that  person is and what they've done, but not based on how much time they've  previously served in supervised release.",
+        "sentence_count": 4,
+        "keywords": [
+            "supervised release",
+            "previously served",
+            "evaluated based",
+            "person reintegrate",
+            "based",
+            "person",
+            "time",
+            "release",
+            "supposed",
+            "helping"
+        ]
+    },
+    {
+        "start": 338.28000000000003,
+        "end": 349.92,
+        "text": " Yes, that's correct.  So the government's suggestion in its brief that because she absconded  for 37 months, she has 37 months left to go, doesn't actually capture  what happened in this case because those 37 months just went away.",
+        "sentence_count": 4,
+        "keywords": [
+            "months",
+            "correct",
+            "months left",
+            "government suggestion",
+            "government",
+            "suggestion",
+            "absconded",
+            "left",
+            "capture",
+            "happened"
+        ]
+    },
+    {
+        "start": 349.92,
+        "end": 362.44,
+        "text": " After the new revocation hearing, the judge imposed whatever sentence  the judge felt was appropriate.  The effect of the question presented in this case actually is to consider  the time spent during abscondment as still subject to the conditions",
+        "sentence_count": 4,
+        "keywords": [
+            "judge imposed",
+            "judge felt",
+            "revocation hearing",
+            "judge",
+            "hearing",
+            "question presented",
+            "time spent",
+            "revocation",
+            "imposed",
+            "sentence"
+        ]
+    },
+    {
+        "start": 362.44,
+        "end": 380.08,
+        "text": " of supervised release, which allowed the government to argue that a  crime committed during that period but after the term expired was a  violation of supervised release resulting in a heightened guidelines.  Mr. Unikasky, you said that the problem here results from the Sentencing",
+        "sentence_count": 4,
+        "keywords": [
+            "supervised release",
+            "heightened guidelines",
+            "release resulting",
+            "crime committed",
+            "term expired",
+            "supervised",
+            "release",
+            "guidelines",
+            "allowed",
+            "government"
+        ]
+    },
+    {
+        "start": 380.08,
+        "end": 395.96,
+        "text": " Reform Act, but I wonder and I may be misunderstanding things, so you'll  correct me if the problem here is not entirely one created by the  Sentencing Guidelines.  Suppose the Sentencing Guidelines were not in the picture.",
+        "sentence_count": 4,
+        "keywords": [
+            "Reform Act",
+            "Sentencing Guidelines",
+            "misunderstanding things",
+            "Sentencing",
+            "Act",
+            "Guidelines",
+            "Reform",
+            "things",
+            "misunderstanding",
+            "correct"
+        ]
+    },
+    {
+        "start": 395.96,
+        "end": 407.84000000000003,
+        "text": " So your client abscons, therefore she's violated the terms of  supervised release.  Therefore, her supervised release is revoked.  Then the judge has to decide what to do.",
+        "sentence_count": 4,
+        "keywords": [
+            "client abscons",
+            "supervised release",
+            "abscons",
+            "supervised",
+            "release",
+            "client",
+            "violated",
+            "terms",
+            "revoked",
+            "judge"
+        ]
+    },
+    {
+        "start": 407.84000000000003,
+        "end": 435.72,
+        "text": " Send her back to prison, impose an additional term of supervised release.  The statute sets out the factors that are relevant to that consideration.  We went through those factors last term and it doesn't seem to me that  what she did after the expiration of the 37 months is any less relevant  to those determinations than what she did before the expiration of the 37 months.",
+        "sentence_count": 5,
+        "keywords": [
+            "supervised release",
+            "additional term",
+            "Send",
+            "prison",
+            "impose",
+            "release",
+            "back",
+            "additional",
+            "supervised",
+            "term"
+        ]
+    },
+    {
+        "start": 435.72,
+        "end": 454.12,
+        "text": " So that becomes important, the 37 month point becomes important only  because the guidelines grade, assign a grade to the nature of the  offenses that occurred.  Am I right in all this?",
+        "sentence_count": 4,
+        "keywords": [
+            "month point",
+            "guidelines grade",
+            "important",
+            "grade",
+            "month",
+            "assign",
+            "occurred",
+            "point",
+            "guidelines",
+            "nature"
+        ]
+    },
+    {
+        "start": 454.12,
+        "end": 466.68,
+        "text": " Yes, I agree with everything you said, Your Honor.  So we believe that the Sentencing Court does have the authority to  consider the crime she committed after that time expired as part of the  discretionary decision as to what sentence she should get after the",
+        "sentence_count": 4,
+        "keywords": [
+            "Sentencing Court",
+            "Honor",
+            "time expired",
+            "discretionary decision",
+            "agree",
+            "Sentencing",
+            "Court",
+            "authority",
+            "crime",
+            "committed"
+        ]
+    },
+    {
+        "start": 466.68,
+        "end": 483.36,
+        "text": " resencing.  So I don't disagree with anything that Your Honor has said.  So the only thing that's really at stake here is whether the court will  consider whether to depart upward from the range that results from the",
+        "sentence_count": 4,
+        "keywords": [
+            "resencing",
+            "Honor",
+            "depart upward",
+            "disagree",
+            "thing",
+            "stake",
+            "court",
+            "depart",
+            "upward",
+            "range"
+        ]
+    },
+    {
+        "start": 483.36,
+        "end": 504.12,
+        "text": " grade of the violations that occurred before the 37 months or  considers whether to depart downward from the grade that would apply if  the post 37 months violations were occurred, right?  And all the court has to do is to give respectful consideration to those",
+        "sentence_count": 4,
+        "keywords": [
+            "months violations",
+            "depart downward",
+            "months",
+            "grade",
+            "violations",
+            "occurred",
+            "post",
+            "depart",
+            "downward",
+            "apply"
+        ]
+    },
+    {
+        "start": 504.12,
+        "end": 507.92,
+        "text": " guidelines.  That's really all that's involved here.  Am I right?  On the fact of this case, yes.",
+        "sentence_count": 4,
+        "keywords": [
+            "guidelines",
+            "involved",
+            "case",
+            "fact"
+        ]
+    },
+    {
+        "start": 507.92,
+        "end": 516.08,
+        "text": " There are other cases in which fugitive tolling matters for other  reasons.  But on the facts of this case, you have accurately characterized the  dispute between the parties.",
+        "sentence_count": 4,
+        "keywords": [
+            "fugitive tolling",
+            "tolling matters",
+            "reasons",
+            "fugitive",
+            "tolling",
+            "matters",
+            "accurately characterized",
+            "parties",
+            "cases",
+            "case"
+        ]
+    },
+    {
+        "start": 516.08,
+        "end": 519.88,
+        "text": " Mr. I'm sorry.  I'm sorry.  I'm finished.  Done?",
+        "sentence_count": 4,
+        "keywords": [
+            "finished"
+        ]
+    },
+    {
+        "start": 519.88,
+        "end": 530.44,
+        "text": " Yes.  All right.  The government worries that, OK, there is tolling if you get a warrant  within the period that's still before the clock runs, before the 37",
+        "sentence_count": 4,
+        "keywords": [
+            "clock runs",
+            "government worries",
+            "runs",
+            "government",
+            "worries",
+            "tolling",
+            "warrant",
+            "period",
+            "clock"
+        ]
+    },
+    {
+        "start": 530.44,
+        "end": 540.0400000000001,
+        "text": " months is out.  You effectively get tolling under I.  But they worry that there are going to be some cases where as a  practical matter they can't get a warrant in time and the period",
+        "sentence_count": 4,
+        "keywords": [
+            "months",
+            "period",
+            "effectively",
+            "tolling",
+            "practical matter",
+            "worry",
+            "cases",
+            "practical",
+            "matter",
+            "warrant"
+        ]
+    },
+    {
+        "start": 540.0400000000001,
+        "end": 547.52,
+        "text": " will expire.  Do you have any thoughts or reactions to that?  Yes.  I understand that there is a concern that it may be that a",
+        "sentence_count": 4,
+        "keywords": [
+            "expire",
+            "thoughts",
+            "reactions",
+            "understand",
+            "concern"
+        ]
+    },
+    {
+        "start": 547.52,
+        "end": 559.6,
+        "text": " violation occurs at the very end of the term and it goes undetected and  the warrant doesn't issue in time.  But I think fugitive tolling is both too broad and too narrow a  solution to the problem that you've identified.",
+        "sentence_count": 4,
+        "keywords": [
+            "violation occurs",
+            "violation",
+            "time",
+            "fugitive tolling",
+            "occurs",
+            "end",
+            "term",
+            "undetected",
+            "warrant",
+            "issue"
+        ]
+    },
+    {
+        "start": 559.6,
+        "end": 571.28,
+        "text": " So first of all, I think it's too narrow because that is a  problem that can arise with any violation late in the term,  committing a crime, possession of drugs, anything else.  May escape detection, you're saying?",
+        "sentence_count": 4,
+        "keywords": [
+            "violation late",
+            "term",
+            "committing",
+            "crime",
+            "possession",
+            "drugs",
+            "escape detection",
+            "narrow",
+            "problem",
+            "arise"
+        ]
+    },
+    {
+        "start": 571.3199999999999,
+        "end": 580.8399999999999,
+        "text": " Yes, in fact, in some ways, abscolon is the easiest type of  violation to detect.  To identify.  Right, because the abscolon supervisor doesn't answer a",
+        "sentence_count": 4,
+        "keywords": [
+            "easiest type",
+            "fact",
+            "detect",
+            "easiest",
+            "type",
+            "violation",
+            "abscolon",
+            "identify",
+            "abscolon supervisor",
+            "supervisor"
+        ]
+    },
+    {
+        "start": 580.8399999999999,
+        "end": 590.9599999999999,
+        "text": " cell phone and so the probation officer can get a warrant  right away.  So if we're concerned about the problem of late in term  violations, it seems ought to focus only on the one type of",
+        "sentence_count": 4,
+        "keywords": [
+            "cell phone",
+            "probation officer",
+            "cell",
+            "term violations",
+            "phone",
+            "probation",
+            "officer",
+            "warrant",
+            "violations",
+            "concerned"
+        ]
+    },
+    {
+        "start": 590.9599999999999,
+        "end": 601.84,
+        "text": " violation that's easiest to detect.  I also think fugitive tolling is too broad because it  applies to supervisors who commit, who abscolon anytime  in the term and it causes the conditions to essentially",
+        "sentence_count": 4,
+        "keywords": [
+            "violation",
+            "detect",
+            "easiest",
+            "fugitive tolling",
+            "abscolon anytime",
+            "commit",
+            "essentially",
+            "fugitive",
+            "tolling",
+            "broad"
+        ]
+    },
+    {
+        "start": 601.84,
+        "end": 615.44,
+        "text": " last forever after the term until the person is apprehended.  There's also an amicus brief by NACDL, which walks through  empirically that abscolons tend to occur early in the term.  So I'm not sure the concern the government identifies has a",
+        "sentence_count": 4,
+        "keywords": [
+            "term",
+            "apprehended",
+            "forever",
+            "person",
+            "abscolons tend",
+            "occur early",
+            "NACDL",
+            "government identifies",
+            "amicus",
+            "walks"
+        ]
+    },
+    {
+        "start": 615.44,
+        "end": 624.2,
+        "text": " lot of real-world force.  What about the situation where the person who's on  supervised release is imprisoned for a state  offense?",
+        "sentence_count": 4,
+        "keywords": [
+            "real-world force",
+            "lot",
+            "force",
+            "state offense",
+            "real-world",
+            "supervised release",
+            "offense",
+            "situation",
+            "person",
+            "supervised"
+        ]
+    },
+    {
+        "start": 624.2,
+        "end": 639.88,
+        "text": " So the supervised release term is told during that period  and then when the person is released, the state authorities  may not notify the federal court that the person has been  released so no warrant would issue.",
+        "sentence_count": 4,
+        "keywords": [
+            "supervised release",
+            "release term",
+            "state authorities",
+            "federal court",
+            "person",
+            "released",
+            "issue",
+            "supervised",
+            "release",
+            "term"
+        ]
+    },
+    {
+        "start": 639.88,
+        "end": 648.88,
+        "text": " Right, so that is the facts of the SWIC case, which is  currently pending on certiorary to this court.  As far as I know, that's the only time that's come up  since 1984.",
+        "sentence_count": 4,
+        "keywords": [
+            "SWIC case",
+            "SWIC",
+            "case",
+            "court",
+            "facts",
+            "pending",
+            "certiorary",
+            "time"
+        ]
+    },
+    {
+        "start": 648.88,
+        "end": 657.44,
+        "text": " I've looked around, haven't found any other cases with  that fact pattern.  So it's an unusual case.  I think ultimately it's a good idea for federal probation",
+        "sentence_count": 4,
+        "keywords": [
+            "fact pattern",
+            "pattern",
+            "looked",
+            "found",
+            "fact",
+            "unusual case",
+            "federal probation",
+            "cases",
+            "case",
+            "probation"
+        ]
+    },
+    {
+        "start": 657.44,
+        "end": 668.0,
+        "text": " officers to maintain contact with state authorities as to  when the person is released from state prison.  But I don't think that one singular rather unusual fact  pattern is a basis to establish fugitive tolling",
+        "sentence_count": 4,
+        "keywords": [
+            "state prison",
+            "maintain contact",
+            "state authorities",
+            "state",
+            "officers",
+            "prison",
+            "fugitive tolling",
+            "maintain",
+            "contact",
+            "authorities"
+        ]
+    },
+    {
+        "start": 668.0,
+        "end": 685.36,
+        "text": " across the board for all supervisees.  I'd like to make a point, if I may, about another reason.  In the end, it really doesn't matter if they commit a  new crime, they're subject to arrest and persecution for",
+        "sentence_count": 4,
+        "keywords": [
+            "supervisees",
+            "board",
+            "point",
+            "reason",
+            "end",
+            "crime",
+            "make",
+            "matter",
+            "commit",
+            "subject"
+        ]
+    },
+    {
+        "start": 685.36,
+        "end": 694.5600000000001,
+        "text": " that new crime, correct?  Yes, in this very case, Ms. Rico was convicted of a drug  offense in state court and was sentenced to prison time.  So she was held accountable for that action.",
+        "sentence_count": 4,
+        "keywords": [
+            "correct",
+            "crime",
+            "prison time",
+            "case",
+            "drug offense",
+            "state court",
+            "Rico",
+            "time",
+            "action",
+            "held accountable"
+        ]
+    },
+    {
+        "start": 694.5600000000001,
+        "end": 705.96,
+        "text": " And as Justice Alito stated, that can also be considered as  part of the discretionary revocation sentencing.  It's only a very narrow question of whether that  offense increases her guidelines range.",
+        "sentence_count": 4,
+        "keywords": [
+            "Justice Alito",
+            "Alito stated",
+            "revocation sentencing",
+            "discretionary revocation",
+            "Justice",
+            "Alito",
+            "stated",
+            "sentencing",
+            "guidelines range",
+            "considered"
+        ]
+    },
+    {
+        "start": 705.96,
+        "end": 717.4000000000001,
+        "text": " Mr. Unikowsky, it seems that part of the dispute here  between you and the government has to do with what it  means to be on a term of supervised release, where  you say it means being subject to a certain set of",
+        "sentence_count": 4,
+        "keywords": [
+            "supervised release",
+            "Unikowsky",
+            "release",
+            "part",
+            "dispute",
+            "government",
+            "term",
+            "supervised",
+            "subject",
+            "set"
+        ]
+    },
+    {
+        "start": 717.4000000000001,
+        "end": 725.32,
+        "text": " conditions.  And the government says, well, it means that, but it also  means something else.  It means that you're being supervised, that you're",
+        "sentence_count": 4,
+        "keywords": [
+            "conditions",
+            "supervised",
+            "government"
+        ]
+    },
+    {
+        "start": 725.32,
+        "end": 739.72,
+        "text": " being monitored in some way, which does not happen  when the person has absconded.  So what do you think of that?  That the idea of supervised release contemplates a",
+        "sentence_count": 4,
+        "keywords": [
+            "absconded",
+            "monitored",
+            "happen",
+            "person",
+            "supervised release",
+            "release contemplates",
+            "idea",
+            "supervised",
+            "release",
+            "contemplates"
+        ]
+    },
+    {
+        "start": 739.72,
+        "end": 753.4399999999999,
+        "text": " level of supervision above and beyond the  particular conditions of the term.  I respectfully disagree with the government's argument on  that score, because I think it improperly decouples the",
+        "sentence_count": 4,
+        "keywords": [
+            "level",
+            "term",
+            "respectfully disagree",
+            "government argument",
+            "improperly decouples",
+            "supervision",
+            "conditions",
+            "score",
+            "respectfully",
+            "disagree"
+        ]
+    },
+    {
+        "start": 753.4399999999999,
+        "end": 764.1999999999999,
+        "text": " burdens imposed by the sentence with how to determine  whether the person is serving the sentence.  Ordinarily, those two are flip sides of the same coin,  like the government talks about the prison case.",
+        "sentence_count": 4,
+        "keywords": [
+            "burdens imposed",
+            "sentence",
+            "prison case",
+            "burdens",
+            "flip sides",
+            "government talks",
+            "imposed",
+            "determine",
+            "person",
+            "serving"
+        ]
+    },
+    {
+        "start": 764.1999999999999,
+        "end": 772.4399999999999,
+        "text": " So the burden imposed by the sentence is you have  to be in prison, and you determine if the person  satisfying the sentence by checking if the person has  been in prison.",
+        "sentence_count": 4,
+        "keywords": [
+            "person satisfying",
+            "burden imposed",
+            "prison",
+            "sentence",
+            "person",
+            "burden",
+            "imposed",
+            "determine",
+            "satisfying",
+            "checking"
+        ]
+    },
+    {
+        "start": 772.44,
+        "end": 783.12,
+        "text": " But in this case, the burdens imposed by the sentence  are the conditions in the judgment.  But the government contends that when determined if it  one satisfies the sentence based on this concept of",
+        "sentence_count": 4,
+        "keywords": [
+            "burdens imposed",
+            "sentence based",
+            "sentence",
+            "case",
+            "judgment",
+            "government contends",
+            "burdens",
+            "imposed",
+            "conditions",
+            "government"
+        ]
+    },
+    {
+        "start": 783.12,
+        "end": 791.7600000000001,
+        "text": " supervision, which doesn't correspond to any particular  supervised release condition.  And because of that decoupling, you have the  unusual fact pattern in this case, where the",
+        "sentence_count": 4,
+        "keywords": [
+            "release condition",
+            "supervised release",
+            "supervision",
+            "condition",
+            "correspond",
+            "supervised",
+            "release",
+            "unusual fact",
+            "fact pattern",
+            "decoupling"
+        ]
+    },
+    {
+        "start": 791.7600000000001,
+        "end": 800.72,
+        "text": " government contends that Ms. Rico violated the  conditions of supervised release while not  serving that sentence.  I think the court should follow the ordinary practice",
+        "sentence_count": 4,
+        "keywords": [
+            "government contends",
+            "government",
+            "Rico violated",
+            "contends",
+            "supervised release",
+            "ordinary practice",
+            "Rico",
+            "sentence",
+            "practice",
+            "violated"
+        ]
+    },
+    {
+        "start": 800.72,
+        "end": 813.5600000000001,
+        "text": " of saying that one determines if one is serving the  sentence by looking at the binding effect of the sentence.  I would like to also talk about some additional  statutory clues that I think militate in Ms. Rico's favor.",
+        "sentence_count": 4,
+        "keywords": [
+            "binding effect",
+            "sentence",
+            "determines",
+            "serving",
+            "binding",
+            "effect",
+            "Rico favor",
+            "additional statutory",
+            "statutory clues",
+            "Rico"
+        ]
+    },
+    {
+        "start": 813.5600000000001,
+        "end": 824.6,
+        "text": " First, I think it's a relevant fact that there's no  statutory definition of abscondment.  And I think it's, and in fact, that's a difficult  concept to define at the margins.",
+        "sentence_count": 4,
+        "keywords": [
+            "statutory definition",
+            "relevant fact",
+            "abscondment",
+            "fact",
+            "relevant",
+            "statutory",
+            "definition",
+            "difficult concept",
+            "margins",
+            "difficult"
+        ]
+    },
+    {
+        "start": 824.6,
+        "end": 837.08,
+        "text": " There's two amicus briefs, the NACDL amicus brief  and the NAFD amicus brief, that talk in some detail about  the difficulties courts have had in deciding questions  like when a violation of supervised release rises to",
+        "sentence_count": 4,
+        "keywords": [
+            "NACDL amicus",
+            "NAFD amicus",
+            "difficulties courts",
+            "deciding questions",
+            "supervised release",
+            "release rises",
+            "amicus",
+            "NACDL",
+            "NAFD",
+            "talk"
+        ]
+    },
+    {
+        "start": 837.08,
+        "end": 849.92,
+        "text": " the level of an abscondment and also when the clock on the  abscondment period starts.  And it does seem unlikely from our perspective that  Congress would have intended the very basic question of",
+        "sentence_count": 4,
+        "keywords": [
+            "period starts",
+            "abscondment period",
+            "abscondment",
+            "starts",
+            "level",
+            "clock",
+            "period",
+            "basic question",
+            "Congress",
+            "perspective"
+        ]
+    },
+    {
+        "start": 849.92,
+        "end": 861.32,
+        "text": " when a supervised release term ends to be governed by  this nebulous and non-statutory abscondment  standard with judges essentially figuring out the  answer to these questions on the fly without any",
+        "sentence_count": 4,
+        "keywords": [
+            "supervised release",
+            "release term",
+            "term ends",
+            "non-statutory abscondment",
+            "abscondment standard",
+            "judges essentially",
+            "essentially figuring",
+            "supervised",
+            "release",
+            "term"
+        ]
+    },
+    {
+        "start": 861.32,
+        "end": 870.9200000000001,
+        "text": " statutory anchor.  It just seems more likely from our perspective that  Congress intended the regime to operate this way.  The clock keeps going unless it's told under the",
+        "sentence_count": 4,
+        "keywords": [
+            "statutory anchor",
+            "Congress intended",
+            "statutory",
+            "anchor",
+            "Congress",
+            "perspective",
+            "intended",
+            "regime",
+            "operate",
+            "clock"
+        ]
+    },
+    {
+        "start": 870.9200000000001,
+        "end": 880.72,
+        "text": " explicit language of section 3624 or until there's a  revocation hearing.  At that point, the judge can recognize that it's  necessary to turn the clock back to the beginning to",
+        "sentence_count": 4,
+        "keywords": [
+            "explicit language",
+            "revocation hearing",
+            "explicit",
+            "section",
+            "hearing",
+            "language",
+            "revocation",
+            "clock back",
+            "point",
+            "judge"
+        ]
+    },
+    {
+        "start": 880.72,
+        "end": 893.48,
+        "text": " ensure the person actually serves the full term of  supervised release in contact with the probation officer  that the court contemplated.  I'd like to say a few words about history as well.",
+        "sentence_count": 4,
+        "keywords": [
+            "court contemplated",
+            "full term",
+            "supervised release",
+            "probation officer",
+            "ensure",
+            "contemplated",
+            "person",
+            "serves",
+            "full",
+            "term"
+        ]
+    },
+    {
+        "start": 893.48,
+        "end": 902.36,
+        "text": " I think the historical evidence is quite strongly in  our favor.  The government makes the point that there is a strong  historical tradition that when someone escapes from",
+        "sentence_count": 4,
+        "keywords": [
+            "historical evidence",
+            "favor",
+            "strong historical",
+            "historical tradition",
+            "historical",
+            "evidence",
+            "strongly",
+            "government makes",
+            "government",
+            "makes"
+        ]
+    },
+    {
+        "start": 902.36,
+        "end": 912.08,
+        "text": " prison, that stops the clock on their sentence, and then  the clock resumes when they are returned to prison.  I think that makes sense.  20 years in prison, you have to actually be 20 years",
+        "sentence_count": 4,
+        "keywords": [
+            "clock resumes",
+            "clock",
+            "prison",
+            "sentence",
+            "stops",
+            "resumes",
+            "returned",
+            "years",
+            "makes sense",
+            "sense"
+        ]
+    },
+    {
+        "start": 912.08,
+        "end": 922.32,
+        "text": " physically in prison.  But I think that the historical evidence really runs the  other way in terms of fugitive tolling.  The federal parole statute was first enacted in 1910, and",
+        "sentence_count": 4,
+        "keywords": [
+            "physically",
+            "prison",
+            "fugitive tolling",
+            "historical evidence",
+            "tolling",
+            "federal parole",
+            "parole statute",
+            "historical",
+            "evidence",
+            "runs"
+        ]
+    },
+    {
+        "start": 922.32,
+        "end": 934.52,
+        "text": " then parole was abolished prospectively in 1984.  And neither we nor the government can come up with  any cases ever in which the government's fugitive  tolling rule was applied in the manner the government",
+        "sentence_count": 4,
+        "keywords": [
+            "abolished prospectively",
+            "government",
+            "parole",
+            "abolished",
+            "prospectively",
+            "government fugitive",
+            "fugitive tolling",
+            "tolling rule",
+            "cases",
+            "fugitive"
+        ]
+    },
+    {
+        "start": 934.52,
+        "end": 949.3199999999999,
+        "text": " proposes today in which the conditions of parole  extended after the scheduled expiration of the term.  And it's not just the absence of evidence of fugitive  tolling, there's also evidence of absence in the form of",
+        "sentence_count": 4,
+        "keywords": [
+            "proposes today",
+            "parole extended",
+            "scheduled expiration",
+            "proposes",
+            "term",
+            "fugitive tolling",
+            "today",
+            "conditions",
+            "parole",
+            "extended"
+        ]
+    },
+    {
+        "start": 949.3199999999999,
+        "end": 964.76,
+        "text": " this 1983 regulation that we cite in the brief.  So that regulation said that prospectively, based on this  1976 statute, there will be fugitive tolling of exactly  the same form that the government advocates in this",
+        "sentence_count": 4,
+        "keywords": [
+            "regulation",
+            "cite",
+            "fugitive tolling",
+            "government advocates",
+            "statute",
+            "prospectively",
+            "based",
+            "fugitive",
+            "tolling",
+            "form"
+        ]
+    },
+    {
+        "start": 964.76,
+        "end": 970.8,
+        "text": " case.  So in a couple of ways, I think that regulation  rebuts the notion that there's a tradition of  fugitive tolling.",
+        "sentence_count": 4,
+        "keywords": [
+            "case",
+            "fugitive tolling",
+            "regulation rebuts",
+            "tolling",
+            "couple",
+            "regulation",
+            "rebuts",
+            "notion",
+            "tradition",
+            "fugitive"
+        ]
+    },
+    {
+        "start": 970.8000000000001,
+        "end": 981.6400000000001,
+        "text": " One, it's premised on this 1976 statute, not this  longstanding common law tradition.  Two, it's perspective only implying that the rule  didn't previously exist.",
+        "sentence_count": 4,
+        "keywords": [
+            "law tradition",
+            "longstanding common",
+            "common law",
+            "statute",
+            "tradition",
+            "previously exist",
+            "premised",
+            "longstanding",
+            "common",
+            "law"
+        ]
+    },
+    {
+        "start": 981.6400000000001,
+        "end": 992.44,
+        "text": " And third, it's not clear why the parole commission would  have enacted such a rule if the tradition already existed  in advance.  So I think that provides pretty strong evidence that",
+        "sentence_count": 4,
+        "keywords": [
+            "parole commission",
+            "advance",
+            "clear",
+            "parole",
+            "commission",
+            "enacted",
+            "rule",
+            "tradition",
+            "existed",
+            "pretty strong"
+        ]
+    },
+    {
+        "start": 992.44,
+        "end": 1003.12,
+        "text": " this just wasn't thing that parole boards were doing  until 1983.  And then in the Sentencing Reform Act in 1984,  Congress repeals the statute on which this provision was",
+        "sentence_count": 4,
+        "keywords": [
+            "parole boards",
+            "Sentencing Reform",
+            "Reform Act",
+            "Congress repeals",
+            "Congress",
+            "thing",
+            "parole",
+            "boards",
+            "Sentencing",
+            "Reform"
+        ]
+    },
+    {
+        "start": 1003.12,
+        "end": 1015.32,
+        "text": " based, 4210C.  It enacts no replacement provision.  And meanwhile, Section 4210C is immediately adjacent to  this other statute, 4210B, which enacts a version of",
+        "sentence_count": 4,
+        "keywords": [
+            "based",
+            "Section",
+            "enacts",
+            "replacement provision",
+            "provision",
+            "statute",
+            "replacement",
+            "immediately",
+            "adjacent",
+            "version"
+        ]
+    },
+    {
+        "start": 1015.32,
+        "end": 1022.88,
+        "text": " prisoner tolling.  And Congress does reenact that in the Sentencing Reform  Act.  Well, before the abolition of parole with the Sentencing",
+        "sentence_count": 4,
+        "keywords": [
+            "prisoner tolling",
+            "Reform Act",
+            "Sentencing Reform",
+            "Sentencing",
+            "prisoner",
+            "tolling",
+            "Act",
+            "Congress",
+            "Reform",
+            "reenact"
+        ]
+    },
+    {
+        "start": 1022.88,
+        "end": 1037.8,
+        "text": " Reform Act, there were no sentencing guidelines.  So it's not clear to me why it would be relevant, why  court would be concerned about whether the parolee  committed offenses during the period when the parolee was",
+        "sentence_count": 4,
+        "keywords": [
+            "Reform Act",
+            "sentencing guidelines",
+            "Act",
+            "Reform",
+            "guidelines",
+            "sentencing",
+            "parolee",
+            "parolee committed",
+            "committed offenses",
+            "relevant"
+        ]
+    },
+    {
+        "start": 1037.8,
+        "end": 1051.64,
+        "text": " supposed to be on parole after the expiration of the  parole term or not.  The parolee violates the terms of parole.  When the parolee is apprehended, the court",
+        "sentence_count": 4,
+        "keywords": [
+            "parole term",
+            "parole",
+            "supposed",
+            "expiration",
+            "parolee",
+            "parolee violates",
+            "term",
+            "terms",
+            "violates",
+            "apprehended"
+        ]
+    },
+    {
+        "start": 1051.64,
+        "end": 1061.96,
+        "text": " would revoke parole and then decide what to do.  So why would it be relevant?  Suppose your client were on parole.  Why would it be relevant to determine whether the",
+        "sentence_count": 4,
+        "keywords": [
+            "revoke parole",
+            "revoke",
+            "decide",
+            "parole",
+            "relevant",
+            "Suppose",
+            "client",
+            "determine"
+        ]
+    },
+    {
+        "start": 1061.96,
+        "end": 1074.3999999999999,
+        "text": " additional things that she did while out on parole  occurred before or after the 37 months?  I mean, the 1983 regulation explicitly says that if you  commit the violation after the schedule ending, it will be",
+        "sentence_count": 4,
+        "keywords": [
+            "additional things",
+            "parole occurred",
+            "months",
+            "additional",
+            "regulation explicitly",
+            "schedule ending",
+            "things",
+            "parole",
+            "occurred",
+            "regulation"
+        ]
+    },
+    {
+        "start": 1074.3999999999999,
+        "end": 1084.1599999999999,
+        "text": " considered a violation of parole.  So it's hard to reconstruct exactly what they were  thinking, but presumably it was felt that this was  important enough to encode it in a regulation.",
+        "sentence_count": 4,
+        "keywords": [
+            "considered",
+            "parole",
+            "violation",
+            "thinking",
+            "regulation",
+            "hard",
+            "reconstruct",
+            "felt",
+            "important",
+            "encode"
+        ]
+    },
+    {
+        "start": 1084.1599999999999,
+        "end": 1097.1599999999999,
+        "text": " And so Congress had that regulation on its desk.  It was enacted just a year before the Sentencing Reform  Act, and Congress eschewed it in the Sentencing Reform Act.  So I just think that that's at least some amount of",
+        "sentence_count": 4,
+        "keywords": [
+            "Reform Act",
+            "Sentencing Reform",
+            "Act",
+            "Sentencing",
+            "Reform",
+            "Congress",
+            "Congress eschewed",
+            "desk",
+            "regulation",
+            "enacted"
+        ]
+    },
+    {
+        "start": 1097.1599999999999,
+        "end": 1106.12,
+        "text": " historical consideration is warranted here, especially  since I think what this case boils down to are these  competing intuitions.  The government has this intuition on its side of the",
+        "sentence_count": 4,
+        "keywords": [
+            "historical consideration",
+            "case boils",
+            "competing intuitions",
+            "historical",
+            "consideration",
+            "warranted",
+            "case",
+            "boils",
+            "competing",
+            "intuitions"
+        ]
+    },
+    {
+        "start": 1106.12,
+        "end": 1114.2,
+        "text": " House that it doesn't make sense to say that a person  who isn't supervised is serving a sentence of  supervised release.  And then we have the intuition on our side of the",
+        "sentence_count": 4,
+        "keywords": [
+            "supervised release",
+            "make sense",
+            "House",
+            "release",
+            "supervised",
+            "make",
+            "sense",
+            "person",
+            "serving",
+            "sentence"
+        ]
+    },
+    {
+        "start": 1114.2,
+        "end": 1123.8799999999999,
+        "text": " House that it doesn't make sense to say that someone  could have violated the conditions of supervised  release when they're not on supervised release.  And ultimately it's the Court's job in this case to cut",
+        "sentence_count": 4,
+        "keywords": [
+            "supervised release",
+            "make sense",
+            "supervised",
+            "release",
+            "House",
+            "Court job",
+            "make",
+            "sense",
+            "violated",
+            "conditions"
+        ]
+    },
+    {
+        "start": 1123.8799999999999,
+        "end": 1133.3999999999999,
+        "text": " through that Gordian knot.  And I think rather than kind of wrestling with these  competing intuitions, I think it's wise to look at the  historical tradition here where we see that this just",
+        "sentence_count": 4,
+        "keywords": [
+            "Gordian knot",
+            "Gordian",
+            "knot",
+            "competing intuitions",
+            "historical tradition",
+            "intuitions",
+            "kind",
+            "wrestling",
+            "competing",
+            "wise"
+        ]
+    },
+    {
+        "start": 1133.3999999999999,
+        "end": 1141.32,
+        "text": " wasn't happening for the entire history of the  parole statute.  And so the proposition the government claims in this  brief is very obvious, didn't occur to the",
+        "sentence_count": 4,
+        "keywords": [
+            "parole statute",
+            "entire history",
+            "statute",
+            "government claims",
+            "happening",
+            "entire",
+            "history",
+            "parole",
+            "obvious",
+            "proposition"
+        ]
+    },
+    {
+        "start": 1141.32,
+        "end": 1149.96,
+        "text": " Parole Commission at the time.  And so I think the Court should carry that  tradition forward at least.  Do you respond to the other point that the government",
+        "sentence_count": 4,
+        "keywords": [
+            "Parole Commission",
+            "Commission",
+            "Parole",
+            "time",
+            "tradition forward",
+            "Court",
+            "carry",
+            "tradition",
+            "forward",
+            "government"
+        ]
+    },
+    {
+        "start": 1149.96,
+        "end": 1162.76,
+        "text": " makes, the thrust of it being that the Court has  ordered this person to serve, let's say, three year  period of supervised release and they didn't do so?  Why should they get the benefit of running away",
+        "sentence_count": 4,
+        "keywords": [
+            "year period",
+            "supervised release",
+            "makes",
+            "Court",
+            "serve",
+            "thrust",
+            "ordered",
+            "person",
+            "year",
+            "period"
+        ]
+    },
+    {
+        "start": 1162.76,
+        "end": 1172.64,
+        "text": " or absconding and not having to comply with the  Court's order?  Well, in some way they just shouldn't because at  the revocation hearing the judge is empowered to",
+        "sentence_count": 4,
+        "keywords": [
+            "Court order",
+            "Court",
+            "order",
+            "absconding",
+            "comply",
+            "revocation hearing",
+            "revocation",
+            "hearing",
+            "judge",
+            "empowered"
+        ]
+    },
+    {
+        "start": 1172.64,
+        "end": 1179.8400000000001,
+        "text": " rewind the clock and require the person to start  all over again.  So we think there's an alignment between how  abscommon is handled and other types of violations.",
+        "sentence_count": 4,
+        "keywords": [
+            "rewind",
+            "clock",
+            "require",
+            "person",
+            "start",
+            "violations",
+            "alignment",
+            "abscommon",
+            "handled",
+            "types"
+        ]
+    },
+    {
+        "start": 1179.8400000000001,
+        "end": 1190.52,
+        "text": " You mean that you envision Congress saying for the  absconder the revocation remedy is what we are  imposing here?  That's exactly right.",
+        "sentence_count": 4,
+        "keywords": [
+            "envision Congress",
+            "revocation remedy",
+            "Congress",
+            "envision",
+            "absconder",
+            "revocation",
+            "remedy",
+            "imposing"
+        ]
+    },
+    {
+        "start": 1190.52,
+        "end": 1201.1200000000001,
+        "text": " And that's how it works with other types of violations.  Like it's true that part of the essence of supervised  release is supervision, but part of the essence of  supervised release is also complying with the law.",
+        "sentence_count": 4,
+        "keywords": [
+            "supervised release",
+            "violations",
+            "essence",
+            "supervised",
+            "release",
+            "works",
+            "types",
+            "part",
+            "supervision",
+            "law"
+        ]
+    },
+    {
+        "start": 1201.1200000000001,
+        "end": 1212.0,
+        "text": " And yet if a person isn't a conspiracy, say for one  year during the supervised release period, that's  obviously plainly contrary to the spirit and the  letter of supervised release, but the government",
+        "sentence_count": 4,
+        "keywords": [
+            "supervised release",
+            "release period",
+            "plainly contrary",
+            "supervised",
+            "release",
+            "conspiracy",
+            "period",
+            "government",
+            "person",
+            "year"
+        ]
+    },
+    {
+        "start": 1212.0,
+        "end": 1219.52,
+        "text": " does not claim that that stops the clock for the  year.  Instead what happens is a warrant issues, the  person comes to the sentencing court and then",
+        "sentence_count": 4,
+        "keywords": [
+            "year",
+            "warrant issues",
+            "sentencing court",
+            "claim",
+            "stops",
+            "clock",
+            "issues",
+            "warrant",
+            "person",
+            "sentencing"
+        ]
+    },
+    {
+        "start": 1219.52,
+        "end": 1228.96,
+        "text": " supervised release is revoked, the person goes  back to federal prison and then back on  supervised release and so effectively the person is  stripped of credit for that year but it's done",
+        "sentence_count": 4,
+        "keywords": [
+            "supervised release",
+            "federal prison",
+            "supervised",
+            "release",
+            "person",
+            "revoked",
+            "back",
+            "federal",
+            "prison",
+            "effectively"
+        ]
+    },
+    {
+        "start": 1228.96,
+        "end": 1238.0,
+        "text": " through the mechanism of revocation and all we're  saying in this case is that the same thing should  happen to abscondment, which after all is just a  different type of violation of the conditions of",
+        "sentence_count": 4,
+        "keywords": [
+            "abscondment",
+            "mechanism",
+            "revocation",
+            "case",
+            "thing",
+            "happen",
+            "type",
+            "violation",
+            "conditions"
+        ]
+    },
+    {
+        "start": 1238.0,
+        "end": 1247.88,
+        "text": " supervised release.  Council, that earlier case, SWIFT I think you  said was the name?  Yes, SWIFT from the Fifth Circuit.",
+        "sentence_count": 4,
+        "keywords": [
+            "supervised release",
+            "SWIFT",
+            "supervised",
+            "release",
+            "Council",
+            "Circuit",
+            "earlier case",
+            "case",
+            "earlier"
+        ]
+    },
+    {
+        "start": 1247.88,
+        "end": 1258.76,
+        "text": " I haven't read it, so I don't know anything  about it, but it's not an issue of keeping in  touch with the state authorities.  The warrant of absconding could have been",
+        "sentence_count": 4,
+        "keywords": [
+            "state authorities",
+            "authorities",
+            "read",
+            "issue",
+            "keeping",
+            "touch",
+            "state",
+            "warrant",
+            "absconding"
+        ]
+    },
+    {
+        "start": 1259.72,
+        "end": 1270.04,
+        "text": " issued or a warrant should have issued the  moment they learned of the state law conviction,  correct?  Yes, so that case involved a very",
+        "sentence_count": 4,
+        "keywords": [
+            "law conviction",
+            "state law",
+            "correct",
+            "conviction",
+            "issued",
+            "warrant",
+            "moment",
+            "learned",
+            "state",
+            "law"
+        ]
+    },
+    {
+        "start": 1270.04,
+        "end": 1279.16,
+        "text": " idiosyncratic fact pattern of a person who  served a federal prison sentence and then served  a state prison sentence for many years and then  was released and actually did report to his",
+        "sentence_count": 4,
+        "keywords": [
+            "prison sentence",
+            "idiosyncratic fact",
+            "fact pattern",
+            "federal prison",
+            "state prison",
+            "served",
+            "prison",
+            "sentence",
+            "idiosyncratic",
+            "fact"
+        ]
+    },
+    {
+        "start": 1279.16,
+        "end": 1287.24,
+        "text": " state probation officer and apparently he  didn't realize and the federal government  didn't realize that he also had to  simultaneously start this term, a federal",
+        "sentence_count": 4,
+        "keywords": [
+            "state probation",
+            "probation officer",
+            "simultaneously start",
+            "federal government",
+            "realize",
+            "state",
+            "term",
+            "federal",
+            "probation",
+            "officer"
+        ]
+    },
+    {
+        "start": 1287.24,
+        "end": 1295.16,
+        "text": " supervised release, and apparently no one  from the federal...  Oh, that really is idiosyncratic.  So yeah, so there haven't, I mean, that is just",
+        "sentence_count": 4,
+        "keywords": [
+            "supervised release",
+            "supervised",
+            "release",
+            "federal",
+            "apparently",
+            "idiosyncratic",
+            "yeah"
+        ]
+    },
+    {
+        "start": 1295.16,
+        "end": 1302.72,
+        "text": " an unusual case, it happens to be pending  on certioraria right now, but we haven't  found any cases like that since 1984 other  than this one, so, you know, and the",
+        "sentence_count": 4,
+        "keywords": [
+            "unusual case",
+            "unusual",
+            "pending",
+            "certioraria",
+            "found",
+            "case",
+            "cases"
+        ]
+    },
+    {
+        "start": 1302.72,
+        "end": 1310.72,
+        "text": " government cites other exotic fact  patterns where a warrant wouldn't issue  during the term, such as if there's an  administrative error in obtaining the",
+        "sentence_count": 4,
+        "keywords": [
+            "government cites",
+            "exotic fact",
+            "fact patterns",
+            "administrative error",
+            "government",
+            "term",
+            "cites",
+            "exotic",
+            "fact",
+            "patterns"
+        ]
+    },
+    {
+        "start": 1310.72,
+        "end": 1318.8,
+        "text": " abscondment warrant, and yes, theoretically  that could happen, but, you know, it  doesn't happen very often and in the  ordinary case, like this one, it's",
+        "sentence_count": 4,
+        "keywords": [
+            "abscondment warrant",
+            "ordinary case",
+            "abscondment",
+            "warrant",
+            "theoretically",
+            "case",
+            "happen",
+            "ordinary"
+        ]
+    },
+    {
+        "start": 1318.8,
+        "end": 1325.4,
+        "text": " perfectly appropriate for the probation  officer to get a warrant.  In that swift case, you have to deal  with the language of the statute, which",
+        "sentence_count": 4,
+        "keywords": [
+            "probation officer",
+            "perfectly",
+            "warrant",
+            "swift case",
+            "probation",
+            "officer",
+            "case",
+            "statute",
+            "swift",
+            "deal"
+        ]
+    },
+    {
+        "start": 1325.4,
+        "end": 1334.3600000000001,
+        "text": " requires a warrant to have issued before  the expiration of the date.  Exactly, but in this case, a warrant did  issue based on the abscondment, and so",
+        "sentence_count": 4,
+        "keywords": [
+            "requires",
+            "date",
+            "warrant",
+            "issued",
+            "expiration",
+            "issue based",
+            "case",
+            "abscondment",
+            "issue",
+            "based"
+        ]
+    },
+    {
+        "start": 1334.3600000000001,
+        "end": 1339.68,
+        "text": " we agree the sentencing board absolutely  had the jurisdiction after the  expiration.  All right, thank you, Councillor.",
+        "sentence_count": 4,
+        "keywords": [
+            "sentencing board",
+            "board absolutely",
+            "expiration",
+            "Councillor",
+            "agree",
+            "sentencing",
+            "board",
+            "absolutely",
+            "jurisdiction"
+        ]
+    },
+    {
+        "start": 1339.68,
+        "end": 1347.2,
+        "text": " But, okay, yes.  So let me just make one other point  about the structure of the statute  that I think supports our position.",
+        "sentence_count": 4,
+        "keywords": [
+            "position",
+            "make",
+            "point",
+            "structure",
+            "statute",
+            "supports"
+        ]
+    },
+    {
+        "start": 1347.2,
+        "end": 1355.8400000000001,
+        "text": " That's rooted in section 3583i, the towing  provision we just talked about.  So that's not only about abscondment,  but absconding is one common scenario",
+        "sentence_count": 4,
+        "keywords": [
+            "towing provision",
+            "section",
+            "common scenario",
+            "rooted",
+            "towing",
+            "provision",
+            "talked",
+            "abscondment",
+            "scenario",
+            "absconding"
+        ]
+    },
+    {
+        "start": 1355.8400000000001,
+        "end": 1364.3600000000001,
+        "text": " in which that statute would arise,  because the statute says that if a warrant  issues during the term, then the  sentencing court retains jurisdiction",
+        "sentence_count": 4,
+        "keywords": [
+            "retains jurisdiction",
+            "warrant issues",
+            "sentencing court",
+            "court retains",
+            "statute",
+            "arise",
+            "term",
+            "jurisdiction",
+            "warrant",
+            "issues"
+        ]
+    },
+    {
+        "start": 1364.3600000000001,
+        "end": 1371.68,
+        "text": " after the expiration of the term to  revoke supervised release.  So ordinarily, you wouldn't have the  situation where the warrant issues",
+        "sentence_count": 4,
+        "keywords": [
+            "supervised release",
+            "revoke supervised",
+            "release",
+            "warrant issues",
+            "expiration",
+            "term",
+            "revoke",
+            "supervised",
+            "ordinarily",
+            "issues"
+        ]
+    },
+    {
+        "start": 1371.68,
+        "end": 1379.8,
+        "text": " during the term, but the hearing  happens after the term because the  probation officer knows where the  supervisee lives, so the warrant can",
+        "sentence_count": 4,
+        "keywords": [
+            "supervisee lives",
+            "probation officer",
+            "term",
+            "lives",
+            "hearing",
+            "probation",
+            "officer",
+            "supervisee",
+            "warrant"
+        ]
+    },
+    {
+        "start": 1379.8,
+        "end": 1385.96,
+        "text": " be executed very swiftly.  But one situation in which it couldn't  be executed swiftly is when the  person has absconded.",
+        "sentence_count": 4,
+        "keywords": [
+            "executed",
+            "swiftly",
+            "executed swiftly",
+            "absconded",
+            "situation",
+            "person"
+        ]
+    },
+    {
+        "start": 1385.96,
+        "end": 1392.4,
+        "text": " So the warrant issues during the  term, but they can't find the person  until after the term expires.  And yet even in that context, the",
+        "sentence_count": 4,
+        "keywords": [
+            "term expires",
+            "warrant issues",
+            "term",
+            "expires",
+            "warrant",
+            "issues",
+            "find",
+            "person",
+            "context"
+        ]
+    },
+    {
+        "start": 1392.4,
+        "end": 1402.6399999999999,
+        "text": " way that section 3583i is set up is  it assumes that the term is going  to end, and then after the  expiration of the term, there will",
+        "sentence_count": 4,
+        "keywords": [
+            "term",
+            "section",
+            "end",
+            "set",
+            "assumes",
+            "expiration"
+        ]
+    },
+    {
+        "start": 1402.68,
+        "end": 1409.72,
+        "text": " be this revocation hearing that  rewinds the clock to the beginning.  And I do think that's inconsistent  with how the government is looking",
+        "sentence_count": 4,
+        "keywords": [
+            "revocation hearing",
+            "beginning",
+            "revocation",
+            "hearing",
+            "rewinds",
+            "clock",
+            "inconsistent",
+            "government"
+        ]
+    },
+    {
+        "start": 1409.72,
+        "end": 1415.76,
+        "text": " at things, which is that the term  never ends once the abscondment  occurs.  And so, you know, that's just an",
+        "sentence_count": 4,
+        "keywords": [
+            "abscondment occurs",
+            "things",
+            "occurs",
+            "term",
+            "ends",
+            "abscondment"
+        ]
+    },
+    {
+        "start": 1415.76,
+        "end": 1422.68,
+        "text": " additional piece of structural  support in the statute that I do  think militates in favor of our  position.",
+        "sentence_count": 4,
+        "keywords": [
+            "additional piece",
+            "structural support",
+            "additional",
+            "position",
+            "piece",
+            "structural",
+            "support",
+            "statute",
+            "militates",
+            "favor"
+        ]
+    },
+    {
+        "start": 1422.68,
+        "end": 1429.0,
+        "text": " If there's no further questions,  I'm...  Justice Thomas, any further?  Justice Sotomayor?",
+        "sentence_count": 4,
+        "keywords": [
+            "Justice Thomas",
+            "Justice Sotomayor",
+            "questions",
+            "Thomas",
+            "Justice",
+            "Sotomayor"
+        ]
+    },
+    {
+        "start": 1429.0,
+        "end": 1436.0,
+        "text": " Justice Capron?  Jackson?  Thank you, counsel.  Thank you.",
+        "sentence_count": 4,
+        "keywords": [
+            "Justice Capron",
+            "Capron",
+            "Justice",
+            "Jackson",
+            "counsel"
+        ]
+    },
+    {
+        "start": 1438.0,
+        "end": 1443.0,
+        "text": " Mr. Handel?  Mr. Chief Justice, and may it  please the court.  A supervisee is not discharging",
+        "sentence_count": 4,
+        "keywords": [
+            "Chief Justice",
+            "Handel",
+            "Justice",
+            "Chief",
+            "court",
+            "discharging",
+            "supervisee"
+        ]
+    },
+    {
+        "start": 1443.0,
+        "end": 1449.0,
+        "text": " her term of supervised release  while she is absconding from  supervision.  That common sense intuition is",
+        "sentence_count": 4,
+        "keywords": [
+            "supervised release",
+            "supervision",
+            "term",
+            "supervised",
+            "release",
+            "absconding",
+            "common sense",
+            "sense intuition",
+            "common",
+            "sense"
+        ]
+    },
+    {
+        "start": 1449.0,
+        "end": 1454.0,
+        "text": " consistent with the modern  statutory text, with this  court's precedents interpreting  it, and with the uniform",
+        "sentence_count": 4,
+        "keywords": [
+            "statutory text",
+            "modern statutory",
+            "court precedents",
+            "precedents interpreting",
+            "consistent",
+            "text",
+            "uniform",
+            "modern",
+            "statutory",
+            "court"
+        ]
+    },
+    {
+        "start": 1454.0,
+        "end": 1462.0,
+        "text": " decisional law preceding it.  The supervised release statutes  require that a supervisee shall  be supervised by a probation",
+        "sentence_count": 4,
+        "keywords": [
+            "decisional law",
+            "law preceding",
+            "decisional",
+            "law",
+            "preceding",
+            "supervised",
+            "release statutes",
+            "statutes require",
+            "probation",
+            "supervised release"
+        ]
+    },
+    {
+        "start": 1462.0,
+        "end": 1468.0,
+        "text": " officer following her release  from confinement, and they  detail how that active and  ongoing supervision must",
+        "sentence_count": 4,
+        "keywords": [
+            "ongoing supervision",
+            "officer",
+            "confinement",
+            "release",
+            "detail",
+            "active",
+            "ongoing",
+            "supervision"
+        ]
+    },
+    {
+        "start": 1468.0,
+        "end": 1474.0,
+        "text": " proceed.  This court has accordingly  recognized that supervised  release is a system of both",
+        "sentence_count": 4,
+        "keywords": [
+            "proceed",
+            "court",
+            "recognized",
+            "supervised",
+            "release",
+            "system",
+            "supervised release"
+        ]
+    },
+    {
+        "start": 1474.0,
+        "end": 1480.0,
+        "text": " post-confinement monitoring and  post-confinement assistance,  neither of which is possible  when the supervisee's whereabouts",
+        "sentence_count": 4,
+        "keywords": [
+            "supervisee whereabouts",
+            "post-confinement assistance",
+            "post-confinement monitoring",
+            "assistance",
+            "whereabouts",
+            "post-confinement",
+            "monitoring",
+            "supervisee"
+        ]
+    },
+    {
+        "start": 1480.0,
+        "end": 1486.0,
+        "text": " are unknown because she has  been absconded.  A fugitive who deliberately  and successfully evades",
+        "sentence_count": 4,
+        "keywords": [
+            "absconded",
+            "unknown",
+            "successfully evades",
+            "evades",
+            "fugitive",
+            "deliberately",
+            "successfully"
+        ]
+    },
+    {
+        "start": 1486.0,
+        "end": 1493.0,
+        "text": " supervision, depriving the  court of any information as to  her conduct, condition, and  compliance, is not being",
+        "sentence_count": 4,
+        "keywords": [
+            "supervision",
+            "condition",
+            "depriving",
+            "conduct",
+            "compliance",
+            "court",
+            "information"
+        ]
+    },
+    {
+        "start": 1493.0,
+        "end": 1501.0,
+        "text": " supervised in any sense that  lawyers, legislators, or laymen  would understand that word.  Petitioner's theory that she",
+        "sentence_count": 4,
+        "keywords": [
+            "legislators",
+            "supervised",
+            "lawyers",
+            "word",
+            "Petitioner theory",
+            "sense",
+            "laymen",
+            "understand",
+            "Petitioner",
+            "theory"
+        ]
+    },
+    {
+        "start": 1501.0,
+        "end": 1507.0,
+        "text": " was discharging the supervision  component of her judgment  despite being entirely  unsupervised because her",
+        "sentence_count": 4,
+        "keywords": [
+            "supervision component",
+            "discharging",
+            "supervision",
+            "component",
+            "judgment",
+            "unsupervised"
+        ]
+    },
+    {
+        "start": 1507.0,
+        "end": 1513.0,
+        "text": " abscondment did not  automatically terminate her  release conditions, misunderstands  the nature of supervised release.",
+        "sentence_count": 4,
+        "keywords": [
+            "release conditions",
+            "automatically terminate",
+            "supervised release",
+            "abscondment",
+            "conditions",
+            "misunderstands",
+            "release",
+            "automatically",
+            "terminate",
+            "nature"
+        ]
+    },
+    {
+        "start": 1513.0,
+        "end": 1519.0,
+        "text": " To discharge her term of  supervised release, a supervisee  must be both under the  supervision of a probation",
+        "sentence_count": 4,
+        "keywords": [
+            "supervised release",
+            "release",
+            "probation",
+            "discharge",
+            "term",
+            "supervised",
+            "supervisee",
+            "supervision"
+        ]
+    },
+    {
+        "start": 1519.0,
+        "end": 1526.0,
+        "text": " officer and subject to release  conditions, but her defiance  as to the former does not  relieve her obligations as to",
+        "sentence_count": 4,
+        "keywords": [
+            "release conditions",
+            "officer",
+            "conditions",
+            "subject",
+            "release",
+            "defiance",
+            "relieve",
+            "obligations"
+        ]
+    },
+    {
+        "start": 1526.0,
+        "end": 1532.0,
+        "text": " the latter.  Just as nothing in the  supervised release statutes  authorizes a supervisee to",
+        "sentence_count": 4,
+        "keywords": [
+            "supervised release",
+            "release statutes",
+            "statutes authorizes",
+            "supervised",
+            "release",
+            "statutes",
+            "authorizes",
+            "supervisee"
+        ]
+    },
+    {
+        "start": 1532.0,
+        "end": 1539.0,
+        "text": " earn credit for time spent as  an unsupervised fugitive,  nothing permits her by  means of abscondment to take",
+        "sentence_count": 4,
+        "keywords": [
+            "earn credit",
+            "unsupervised fugitive",
+            "time spent",
+            "earn",
+            "fugitive",
+            "credit",
+            "time",
+            "spent",
+            "unsupervised",
+            "permits"
+        ]
+    },
+    {
+        "start": 1539.0,
+        "end": 1545.0,
+        "text": " a vacation from her court  in order conditions whenever  they prove inconvenient.  Those two intuitive principles",
+        "sentence_count": 4,
+        "keywords": [
+            "prove inconvenient",
+            "order conditions",
+            "inconvenient",
+            "vacation",
+            "court",
+            "order",
+            "conditions",
+            "prove",
+            "intuitive principles",
+            "principles"
+        ]
+    },
+    {
+        "start": 1545.0,
+        "end": 1552.0,
+        "text": " resolve this case.  I welcome the court's questions.  You suggest that without the  tolling, she would",
+        "sentence_count": 4,
+        "keywords": [
+            "resolve",
+            "case",
+            "court questions",
+            "questions",
+            "tolling",
+            "court",
+            "suggest"
+        ]
+    },
+    {
+        "start": 1552.0,
+        "end": 1560.0,
+        "text": " receive an unwarranted benefit.  What exactly is that benefit?  Yes, so I think there are  a couple of possible benefits",
+        "sentence_count": 4,
+        "keywords": [
+            "unwarranted benefit",
+            "receive",
+            "benefit",
+            "unwarranted",
+            "benefits",
+            "couple"
+        ]
+    },
+    {
+        "start": 1560.0,
+        "end": 1567.0,
+        "text": " that a supervisee would receive  from a period of fugitivity  if you did not apply the  fugitive tolling doctrine.",
+        "sentence_count": 4,
+        "keywords": [
+            "tolling doctrine",
+            "fugitive tolling",
+            "doctrine",
+            "supervisee",
+            "receive",
+            "period",
+            "fugitivity",
+            "apply",
+            "fugitive",
+            "tolling"
+        ]
+    },
+    {
+        "start": 1567.0,
+        "end": 1575.0,
+        "text": " So it does not apply to  this case, but the most obvious  and most serious benefit  that a fugitive could receive",
+        "sentence_count": 4,
+        "keywords": [
+            "case",
+            "receive",
+            "apply",
+            "obvious",
+            "benefit",
+            "fugitive"
+        ]
+    },
+    {
+        "start": 1575.0,
+        "end": 1582.0,
+        "text": " would be the ability  to just run out the term of  supervised release while she is  absconded.",
+        "sentence_count": 4,
+        "keywords": [
+            "supervised release",
+            "absconded",
+            "ability",
+            "run",
+            "term",
+            "supervised",
+            "release"
+        ]
+    },
+    {
+        "start": 1582.0,
+        "end": 1588.0,
+        "text": " So in this case, what is the  benefit?  So in this case, the benefit  is essentially that she",
+        "sentence_count": 4,
+        "keywords": [
+            "case",
+            "benefit",
+            "essentially"
+        ]
+    },
+    {
+        "start": 1588.0,
+        "end": 1596.0,
+        "text": " avoided the post-confinement  monitoring and surveillance.  So if you have revocation  as a sanction for that,",
+        "sentence_count": 4,
+        "keywords": [
+            "post-confinement monitoring",
+            "avoided",
+            "surveillance",
+            "post-confinement",
+            "monitoring",
+            "revocation",
+            "sanction"
+        ]
+    },
+    {
+        "start": 1596.0,
+        "end": 1604.0,
+        "text": " what is this case about?  Right, so this case, as I believe  Justice Alito pointed out, this case  really boils down to just a disagreement",
+        "sentence_count": 4,
+        "keywords": [
+            "Justice Alito",
+            "case",
+            "Alito pointed",
+            "Justice",
+            "Alito",
+            "disagreement",
+            "pointed",
+            "boils"
+        ]
+    },
+    {
+        "start": 1604.0,
+        "end": 1612.0,
+        "text": " about the sentencing guidelines.  And candidly, especially given  petitioners' concession that  the court at the",
+        "sentence_count": 4,
+        "keywords": [
+            "sentencing guidelines",
+            "guidelines",
+            "sentencing",
+            "petitioners' concession",
+            "candidly",
+            "petitioners'",
+            "concession",
+            "court"
+        ]
+    },
+    {
+        "start": 1612.0,
+        "end": 1620.0,
+        "text": " revocation hearing can consider  the full range of conduct  post-dating the abscondment,  we don't think that in the real",
+        "sentence_count": 4,
+        "keywords": [
+            "revocation hearing",
+            "full range",
+            "conduct post-dating",
+            "revocation",
+            "abscondment",
+            "real",
+            "hearing",
+            "full",
+            "range",
+            "conduct"
+        ]
+    },
+    {
+        "start": 1620.0,
+        "end": 1628.0,
+        "text": " world this is going to shake out  to that much of a difference when it  comes to the actual revocation  in the real world.",
+        "sentence_count": 4,
+        "keywords": [
+            "actual revocation",
+            "real world",
+            "world",
+            "shake",
+            "difference",
+            "actual",
+            "revocation",
+            "real"
+        ]
+    },
+    {
+        "start": 1628.0,
+        "end": 1636.0,
+        "text": " In the real world, there is  no benefit unless she runs  out the clock before the government gets  a warrant, I think.",
+        "sentence_count": 4,
+        "keywords": [
+            "real world",
+            "world",
+            "warrant",
+            "real",
+            "benefit",
+            "runs",
+            "clock",
+            "government"
+        ]
+    },
+    {
+        "start": 1636.0,
+        "end": 1642.0,
+        "text": " Is that right?  I think that is the situation that we  are mostly concerned about.  And if that's the situation you're",
+        "sentence_count": 4,
+        "keywords": [
+            "situation",
+            "concerned"
+        ]
+    },
+    {
+        "start": 1642.0,
+        "end": 1650.0,
+        "text": " concerned about,  it seems to me that it's a very  unlikely scenario to arise,  except for as Mr.",
+        "sentence_count": 4,
+        "keywords": [
+            "concerned",
+            "arise",
+            "scenario"
+        ]
+    },
+    {
+        "start": 1650.0,
+        "end": 1658.0,
+        "text": " Unikowski says, if the violation  occurs at the very end of  the supervised release period,  it might escape detection.",
+        "sentence_count": 4,
+        "keywords": [
+            "release period",
+            "escape detection",
+            "violation occurs",
+            "supervised release",
+            "Unikowski",
+            "period",
+            "detection",
+            "violation",
+            "occurs",
+            "end"
+        ]
+    },
+    {
+        "start": 1658.0,
+        "end": 1666.0,
+        "text": " And similarly, though that's  true with anything,  a supervised release individual  might do any crime here she",
+        "sentence_count": 4,
+        "keywords": [
+            "supervised release",
+            "release individual",
+            "similarly",
+            "true",
+            "supervised",
+            "release",
+            "individual",
+            "crime"
+        ]
+    },
+    {
+        "start": 1666.0,
+        "end": 1674.0,
+        "text": " might commit, might escape  detection at the end of  that period.  So respectfully, Justice",
+        "sentence_count": 4,
+        "keywords": [
+            "escape detection",
+            "Justice",
+            "commit",
+            "period",
+            "escape",
+            "detection",
+            "end",
+            "respectfully"
+        ]
+    },
+    {
+        "start": 1674.0,
+        "end": 1682.0,
+        "text": " Gorsuch, I disagree about the  likelihood of the 3583  I mechanism failing, so I think  as has been discussed, we have",
+        "sentence_count": 4,
+        "keywords": [
+            "mechanism failing",
+            "Gorsuch",
+            "failing",
+            "discussed",
+            "disagree",
+            "likelihood",
+            "mechanism"
+        ]
+    },
+    {
+        "start": 1682.0,
+        "end": 1690.0,
+        "text": " a case out of the fifth circuit  where a defendant was serving  a state term of imprisonment and  then did not report to her federal",
+        "sentence_count": 4,
+        "keywords": [
+            "state term",
+            "federal",
+            "case",
+            "circuit",
+            "defendant",
+            "serving",
+            "state",
+            "term",
+            "imprisonment",
+            "report"
+        ]
+    },
+    {
+        "start": 1690.0,
+        "end": 1698.0,
+        "text": " probation officer as she was directed.  There's the crane case out of the  ninth circuit where a supervisee was  in a residential treatment program",
+        "sentence_count": 4,
+        "keywords": [
+            "probation officer",
+            "probation",
+            "directed",
+            "treatment program",
+            "officer",
+            "crane case",
+            "ninth circuit",
+            "residential treatment",
+            "program",
+            "crane"
+        ]
+    },
+    {
+        "start": 1698.0,
+        "end": 1706.0,
+        "text": " left early and that was not  reported to the probation officer.  But it's also possible a probation  officer will miss other crimes",
+        "sentence_count": 4,
+        "keywords": [
+            "left early",
+            "probation officer",
+            "left",
+            "probation",
+            "officer",
+            "early",
+            "reported",
+            "crimes",
+            "miss"
+        ]
+    },
+    {
+        "start": 1706.0,
+        "end": 1714.0,
+        "text": " at the very end of a period.  Absolutely, these were not right  but there are several...  If the government has a problem getting warrants",
+        "sentence_count": 4,
+        "keywords": [
+            "period",
+            "Absolutely",
+            "end",
+            "warrants",
+            "government",
+            "problem"
+        ]
+    },
+    {
+        "start": 1714.0,
+        "end": 1722.0,
+        "text": " maybe the government ought to go to  Congress and ask for I to be amended  as it already has once.  Thoughts?",
+        "sentence_count": 4,
+        "keywords": [
+            "Congress",
+            "government",
+            "amended",
+            "Thoughts"
+        ]
+    },
+    {
+        "start": 1722.0,
+        "end": 1730.0,
+        "text": " Well, Your Honor, I know  that the government occasionally comes in here  and pleads like resource  constraints and administrative...",
+        "sentence_count": 4,
+        "keywords": [
+            "government occasionally",
+            "resource constraints",
+            "Honor",
+            "administrative",
+            "government",
+            "occasionally",
+            "pleads",
+            "resource",
+            "constraints"
+        ]
+    },
+    {
+        "start": 1730.0,
+        "end": 1738.0,
+        "text": " That's what this one sounds like to me.  Let me just say with all respect  this process is completely between  the probation office and the",
+        "sentence_count": 4,
+        "keywords": [
+            "sounds",
+            "probation office",
+            "respect",
+            "process",
+            "completely",
+            "probation",
+            "office"
+        ]
+    },
+    {
+        "start": 1738.0,
+        "end": 1746.0,
+        "text": " IZ the government does not get involved  in the adjudication stage.  Hold on, the probation officer  isn't a government employee?",
+        "sentence_count": 4,
+        "keywords": [
+            "adjudication stage",
+            "stage",
+            "government employee",
+            "government",
+            "involved",
+            "adjudication",
+            "probation officer",
+            "Hold",
+            "employee",
+            "probation"
+        ]
+    },
+    {
+        "start": 1746.0,
+        "end": 1754.0,
+        "text": " The probation officer is a  member of the judicial branch.  I understand that but you're pleading  constraints for the government",
+        "sentence_count": 4,
+        "keywords": [
+            "judicial branch",
+            "probation officer",
+            "branch",
+            "probation",
+            "officer",
+            "member",
+            "judicial",
+            "pleading constraints",
+            "government",
+            "understand"
+        ]
+    },
+    {
+        "start": 1754.0,
+        "end": 1762.0,
+        "text": " in whatever form it may be.  And I appreciate those constraints  but the government's always been able  to go to Congress and in fact did",
+        "sentence_count": 4,
+        "keywords": [
+            "form",
+            "Congress",
+            "constraints",
+            "government",
+            "fact"
+        ]
+    },
+    {
+        "start": 1762.0,
+        "end": 1770.0,
+        "text": " to amend I once already  Congress has proven pretty solicitous  and alternative is for us to create  a fugitive tolling doctrine",
+        "sentence_count": 4,
+        "keywords": [
+            "tolling doctrine",
+            "proven pretty",
+            "pretty solicitous",
+            "fugitive tolling",
+            "Congress",
+            "doctrine",
+            "amend",
+            "proven",
+            "pretty",
+            "solicitous"
+        ]
+    },
+    {
+        "start": 1770.0,
+        "end": 1778.0,
+        "text": " pretty whole cloth and there appear to be  at least two circuit splits.  One about what is required to  abscond. Is it just not showing up",
+        "sentence_count": 4,
+        "keywords": [
+            "circuit splits",
+            "pretty",
+            "splits",
+            "cloth",
+            "circuit",
+            "abscond",
+            "required",
+            "showing"
+        ]
+    },
+    {
+        "start": 1778.0,
+        "end": 1786.0,
+        "text": " or is it actually being  completely unavailable for supervision?  Another circuit split  over what it means",
+        "sentence_count": 4,
+        "keywords": [
+            "completely unavailable",
+            "supervision",
+            "completely",
+            "unavailable",
+            "circuit split",
+            "circuit",
+            "split"
+        ]
+    },
+    {
+        "start": 1786.0,
+        "end": 1794.0,
+        "text": " to be an absconder.  Does it start when the status arises?  Does it start later?  And so we're going to have to come up",
+        "sentence_count": 4,
+        "keywords": [
+            "absconder",
+            "start",
+            "status arises",
+            "arises",
+            "status"
+        ]
+    },
+    {
+        "start": 1794.0,
+        "end": 1802.0,
+        "text": " with a full common law doctrine here  to supplement what I already says.  Thoughts about that?  Well, Justice Gorsuch, I disagree",
+        "sentence_count": 4,
+        "keywords": [
+            "full common",
+            "common law",
+            "law doctrine",
+            "Justice Gorsuch",
+            "full",
+            "common",
+            "law",
+            "doctrine",
+            "supplement",
+            "Justice"
+        ]
+    },
+    {
+        "start": 1802.0,
+        "end": 1810.0,
+        "text": " on the circuit case law  on what constitutes abscondment.  I think that the courts of appeals  that have adopted are...",
+        "sentence_count": 4,
+        "keywords": [
+            "constitutes abscondment",
+            "circuit case",
+            "case law",
+            "abscondment",
+            "circuit",
+            "case",
+            "law",
+            "constitutes",
+            "courts",
+            "appeals"
+        ]
+    },
+    {
+        "start": 1810.0,
+        "end": 1818.0,
+        "text": " I thought the Ninth Circuit said it's  merely failing to appear in the Fourth Circuit  says you have to act in a way that precludes  the government from supervising.",
+        "sentence_count": 4,
+        "keywords": [
+            "Ninth Circuit",
+            "Fourth Circuit",
+            "Circuit",
+            "Ninth",
+            "Fourth",
+            "supervising",
+            "thought",
+            "failing",
+            "act",
+            "precludes"
+        ]
+    },
+    {
+        "start": 1818.0,
+        "end": 1826.0,
+        "text": " So I think 20 years ago the Ninth Circuit had  one case that said that it could be  anything that violated a release condition.  Since then they have clarified",
+        "sentence_count": 4,
+        "keywords": [
+            "Ninth Circuit",
+            "years ago",
+            "release condition",
+            "Ninth",
+            "Circuit",
+            "years",
+            "condition",
+            "ago",
+            "case",
+            "violated"
+        ]
+    },
+    {
+        "start": 1826.0,
+        "end": 1834.0,
+        "text": " in Ignacio Juarez that it is actually  a  pattern of conduct that  prevents supervision, that precludes",
+        "sentence_count": 4,
+        "keywords": [
+            "Ignacio Juarez",
+            "prevents supervision",
+            "Ignacio",
+            "Juarez",
+            "supervision",
+            "precludes",
+            "pattern",
+            "conduct",
+            "prevents"
+        ]
+    },
+    {
+        "start": 1834.0,
+        "end": 1842.0,
+        "text": " supervision, and I think that is  fully consistent with what the Fifth Circuit  said in SWIC and the Fourth Circuit said in Thompson.  That's one court's view.",
+        "sentence_count": 4,
+        "keywords": [
+            "Fourth Circuit",
+            "Circuit",
+            "fully consistent",
+            "supervision",
+            "Thompson",
+            "SWIC",
+            "Fourth",
+            "fully",
+            "consistent",
+            "court view"
+        ]
+    },
+    {
+        "start": 1842.0,
+        "end": 1850.0,
+        "text": " I think the point that Justice Gorsuch  is making is that  we would have to decide  as a matter of common law",
+        "sentence_count": 4,
+        "keywords": [
+            "Justice Gorsuch",
+            "common law",
+            "Justice",
+            "Gorsuch",
+            "law",
+            "point",
+            "making",
+            "decide",
+            "matter",
+            "common"
+        ]
+    },
+    {
+        "start": 1850.0,
+        "end": 1858.0,
+        "text": " which of those approaches is right.  Well, Justice Sotomayor,  the only point that I'm making is that  I believe there is actually a consensus",
+        "sentence_count": 4,
+        "keywords": [
+            "Justice Sotomayor",
+            "approaches",
+            "Justice",
+            "Sotomayor",
+            "consensus",
+            "point",
+            "making"
+        ]
+    },
+    {
+        "start": 1858.0,
+        "end": 1866.0,
+        "text": " on what constitutes abscondment in the  courts of appeals that have adopted  our view of how this statutory scale works.  Counsel, statutorily,",
+        "sentence_count": 4,
+        "keywords": [
+            "scale works",
+            "constitutes abscondment",
+            "statutory scale",
+            "works",
+            "Counsel",
+            "statutorily",
+            "constitutes",
+            "abscondment",
+            "courts",
+            "appeals"
+        ]
+    },
+    {
+        "start": 1866.0,
+        "end": 1874.0,
+        "text": " supervised release can't go on  for more than five years.  Under your theory of this case,  you're saying",
+        "sentence_count": 4,
+        "keywords": [
+            "supervised release",
+            "supervised",
+            "years",
+            "release",
+            "case",
+            "theory"
+        ]
+    },
+    {
+        "start": 1874.0,
+        "end": 1882.0,
+        "text": " supervised release in part  continues during the time  of abscondment because they're  subject to the",
+        "sentence_count": 4,
+        "keywords": [
+            "supervised release",
+            "part continues",
+            "supervised",
+            "release",
+            "part",
+            "continues",
+            "time",
+            "abscondment",
+            "subject"
+        ]
+    },
+    {
+        "start": 1882.0,
+        "end": 1890.0,
+        "text": " terms that they  violated, and yet  it doesn't run out.  Isn't that us",
+        "sentence_count": 4,
+        "keywords": [
+            "terms",
+            "violated",
+            "run"
+        ]
+    },
+    {
+        "start": 1890.0,
+        "end": 1898.0,
+        "text": " by common law extending  a period of punishment?  No, Your Honor.  Tell me how not.",
+        "sentence_count": 4,
+        "keywords": [
+            "common law",
+            "law extending",
+            "punishment",
+            "Honor",
+            "common",
+            "law",
+            "extending",
+            "period"
+        ]
+    },
+    {
+        "start": 1898.0,
+        "end": 1906.0,
+        "text": " If during the  five years  you violate those terms,  you're still under supervised release terms,",
+        "sentence_count": 4,
+        "keywords": [
+            "release terms",
+            "supervised release",
+            "terms",
+            "years",
+            "violate",
+            "supervised",
+            "release"
+        ]
+    },
+    {
+        "start": 1906.0,
+        "end": 1914.0,
+        "text": " if you violate them,  you're claiming  that violation subjects  you to",
+        "sentence_count": 4,
+        "keywords": [
+            "violation subjects",
+            "violate",
+            "claiming",
+            "violation",
+            "subjects"
+        ]
+    },
+    {
+        "start": 1914.0,
+        "end": 1922.0,
+        "text": " a new warrant.  How  are we not extending the period?  Justice Sotomayor, a term of",
+        "sentence_count": 4,
+        "keywords": [
+            "warrant",
+            "Justice Sotomayor",
+            "Sotomayor",
+            "period",
+            "Justice",
+            "extending",
+            "term"
+        ]
+    },
+    {
+        "start": 1922.0,
+        "end": 1930.0,
+        "text": " supervised release requires that  the supervisee is both  subject to the conditions.  In fact, it doesn't.",
+        "sentence_count": 4,
+        "keywords": [
+            "supervised release",
+            "release requires",
+            "supervised",
+            "conditions",
+            "release",
+            "requires",
+            "supervisee",
+            "subject",
+            "fact"
+        ]
+    },
+    {
+        "start": 1930.0,
+        "end": 1938.0,
+        "text": " The way the statute is written,  it's up to the sentencing judge  to consider actual supervision  by the probation department's necessary.",
+        "sentence_count": 4,
+        "keywords": [
+            "sentencing judge",
+            "actual supervision",
+            "probation department",
+            "written",
+            "statute",
+            "sentencing",
+            "judge",
+            "actual",
+            "supervision",
+            "probation"
+        ]
+    },
+    {
+        "start": 1938.0,
+        "end": 1946.0,
+        "text": " I grant you that I think  in virtually all cases,  most judges require it,  but it's not legally required.",
+        "sentence_count": 4,
+        "keywords": [
+            "legally required",
+            "judges require",
+            "cases",
+            "required",
+            "grant",
+            "virtually",
+            "judges",
+            "require",
+            "legally"
+        ]
+    },
+    {
+        "start": 1946.0,
+        "end": 1954.0,
+        "text": " Your Honor, I think if we read  supervision out of  supervised release that  essentially renders 18 USC",
+        "sentence_count": 4,
+        "keywords": [
+            "USC",
+            "essentially renders",
+            "Honor",
+            "read supervision",
+            "supervised release",
+            "renders",
+            "read",
+            "supervision",
+            "supervised",
+            "release"
+        ]
+    },
+    {
+        "start": 1954.0,
+        "end": 1962.0,
+        "text": " 36.01 and 36.03  but then  what happens to the defendant  who is reporting",
+        "sentence_count": 4,
+        "keywords": [
+            "reporting",
+            "defendant"
+        ]
+    },
+    {
+        "start": 1962.0,
+        "end": 1970.0,
+        "text": " this week  doing what he  is supposed to do in terms of reporting  to the agent, but is out there",
+        "sentence_count": 4,
+        "keywords": [
+            "agent",
+            "week",
+            "supposed",
+            "terms",
+            "reporting"
+        ]
+    },
+    {
+        "start": 1970.0,
+        "end": 1978.0,
+        "text": " running a criminal enterprise  every single day.  That person in my judgment  is not being adequately supervised.",
+        "sentence_count": 4,
+        "keywords": [
+            "single day",
+            "criminal enterprise",
+            "running",
+            "day",
+            "criminal",
+            "enterprise",
+            "single",
+            "adequately supervised",
+            "supervised",
+            "person"
+        ]
+    },
+    {
+        "start": 1978.0,
+        "end": 1986.0,
+        "text": " That person  is violating the essence  of the supervision,  and yet",
+        "sentence_count": 4,
+        "keywords": [
+            "supervision",
+            "person",
+            "violating",
+            "essence"
+        ]
+    },
+    {
+        "start": 1986.0,
+        "end": 1994.0,
+        "text": " you would claim he has an upscounded.  Yes,  he is certainly violating his release conditions,  and I want to be very clear",
+        "sentence_count": 4,
+        "keywords": [
+            "upscounded",
+            "release conditions",
+            "claim",
+            "conditions",
+            "clear",
+            "violating",
+            "release"
+        ]
+    },
+    {
+        "start": 1994.0,
+        "end": 2002.0,
+        "text": " that we do not view...  That person could be  not  evading the entire",
+        "sentence_count": 4,
+        "keywords": [
+            "view",
+            "entire",
+            "person",
+            "evading"
+        ]
+    },
+    {
+        "start": 2002.0,
+        "end": 2010.0,
+        "text": " spirit of supervised release,  but that doesn't subject them  to an extended period  of supervised release, does it?",
+        "sentence_count": 4,
+        "keywords": [
+            "supervised release",
+            "extended period",
+            "release",
+            "supervised",
+            "spirit",
+            "subject",
+            "extended",
+            "period"
+        ]
+    },
+    {
+        "start": 2010.0,
+        "end": 2018.0,
+        "text": " I think the distinction there is that  if that person is actually being supervised,  if their whereabouts are known  to their probation officer,",
+        "sentence_count": 4,
+        "keywords": [
+            "probation officer",
+            "supervised",
+            "officer",
+            "distinction",
+            "person",
+            "whereabouts",
+            "probation"
+        ]
+    },
+    {
+        "start": 2018.0,
+        "end": 2026.0,
+        "text": " as required by the terms  of their supervision, then  their violative conduct is much  likelier to actually be detected",
+        "sentence_count": 4,
+        "keywords": [
+            "violative conduct",
+            "supervision",
+            "detected",
+            "required",
+            "terms",
+            "violative",
+            "conduct",
+            "likelier"
+        ]
+    },
+    {
+        "start": 2026.0,
+        "end": 2034.0,
+        "text": " and to result in a revocation  hearing and a new sanction.  The reality is that it really is.  I don't know, I mean,",
+        "sentence_count": 4,
+        "keywords": [
+            "revocation hearing",
+            "sanction",
+            "result",
+            "revocation",
+            "hearing",
+            "reality"
+        ]
+    },
+    {
+        "start": 2034.0,
+        "end": 2042.0,
+        "text": " failing to show up is a pretty obvious way  to detect a violation, seems to me,  more so than a lot of other criminal  enterprises that might be going on.",
+        "sentence_count": 4,
+        "keywords": [
+            "pretty obvious",
+            "criminal enterprises",
+            "failing",
+            "violation",
+            "show",
+            "pretty",
+            "obvious",
+            "detect",
+            "lot",
+            "criminal"
+        ]
+    },
+    {
+        "start": 2042.0,
+        "end": 2050.0,
+        "text": " I dutifully show up, but I'm running a  murder and mayhem ink  over here. You just don't find it.  That's hard to find.",
+        "sentence_count": 4,
+        "keywords": [
+            "dutifully show",
+            "mayhem ink",
+            "dutifully",
+            "show",
+            "running",
+            "murder",
+            "mayhem",
+            "ink",
+            "find",
+            "hard"
+        ]
+    },
+    {
+        "start": 2050.0,
+        "end": 2058.0,
+        "text": " You got to go find that.  Somebody that doesn't show up, I notice.  Yes, I agree with that  Justice Gorsuch, but I think",
+        "sentence_count": 4,
+        "keywords": [
+            "Justice Gorsuch",
+            "find",
+            "Gorsuch",
+            "notice",
+            "Justice",
+            "show",
+            "agree"
+        ]
+    },
+    {
+        "start": 2058.0,
+        "end": 2066.0,
+        "text": " that not showing up  to a meeting is going to get you  maybe a grade C violation  at the most, probably",
+        "sentence_count": 4,
+        "keywords": [
+            "showing",
+            "meeting",
+            "grade",
+            "violation"
+        ]
+    },
+    {
+        "start": 2066.0,
+        "end": 2074.0,
+        "text": " in most instances will not even be  reported to the district court.  If you are out there running  murder, mayhem ink, or",
+        "sentence_count": 4,
+        "keywords": [
+            "district court",
+            "court",
+            "mayhem ink",
+            "instances",
+            "reported",
+            "district",
+            "running murder",
+            "murder",
+            "mayhem",
+            "ink"
+        ]
+    },
+    {
+        "start": 2074.0,
+        "end": 2082.0,
+        "text": " something like that, I mean, that is obviously  much more serious, egregious  misconduct that we think  if you are actually checking in",
+        "sentence_count": 4,
+        "keywords": [
+            "egregious misconduct",
+            "egregious",
+            "misconduct",
+            "checking"
+        ]
+    },
+    {
+        "start": 2082.0,
+        "end": 2090.0,
+        "text": " with your probation officer, if your probation officer  knows where you live and where you work  and is able to conduct  warrantless searches, as is one of",
+        "sentence_count": 4,
+        "keywords": [
+            "probation officer",
+            "warrantless searches",
+            "conduct warrantless",
+            "probation",
+            "officer",
+            "searches",
+            "live",
+            "work",
+            "conduct",
+            "warrantless"
+        ]
+    },
+    {
+        "start": 2090.0,
+        "end": 2098.0,
+        "text": " the standard conditions  of supervised release, that is much  likelier for the probation officer  to actually detect that misconduct,",
+        "sentence_count": 4,
+        "keywords": [
+            "supervised release",
+            "standard conditions",
+            "probation officer",
+            "release",
+            "misconduct",
+            "standard",
+            "conditions",
+            "supervised",
+            "likelier",
+            "probation"
+        ]
+    },
+    {
+        "start": 2098.0,
+        "end": 2106.0,
+        "text": " report it to the district court,  and for that to result in a revocation.  Mr.  Counsel, you say when she",
+        "sentence_count": 4,
+        "keywords": [
+            "district court",
+            "report",
+            "court",
+            "revocation",
+            "Counsel",
+            "district",
+            "result"
+        ]
+    },
+    {
+        "start": 2106.0,
+        "end": 2114.0,
+        "text": " absconds, Ms. Rico  supervision  term doesn't run, but she's still subject  to the requirements and can violate",
+        "sentence_count": 4,
+        "keywords": [
+            "absconds",
+            "Rico supervision",
+            "Rico",
+            "run",
+            "violate",
+            "supervision",
+            "term",
+            "subject",
+            "requirements",
+            "supervision term"
+        ]
+    },
+    {
+        "start": 2114.0,
+        "end": 2122.0,
+        "text": " requirements such as that she has  to report. Now, why isn't  that just like a prisoner  who escapes, and you",
+        "sentence_count": 4,
+        "keywords": [
+            "requirements",
+            "report",
+            "escapes",
+            "prisoner"
+        ]
+    },
+    {
+        "start": 2122.0,
+        "end": 2130.0,
+        "text": " would say, okay, he's going to be  not get the prison sentence time  during that period, but  he also violated the rule about",
+        "sentence_count": 4,
+        "keywords": [
+            "prison sentence",
+            "sentence time",
+            "period",
+            "prison",
+            "sentence",
+            "time",
+            "violated",
+            "rule"
+        ]
+    },
+    {
+        "start": 2130.0,
+        "end": 2138.0,
+        "text": " prison inmates can only wear a particular  type of clothing. It seems to me  that is sort of a double  counting. Well, I don't",
+        "sentence_count": 4,
+        "keywords": [
+            "prison inmates",
+            "prison",
+            "clothing",
+            "double counting",
+            "inmates",
+            "wear",
+            "type",
+            "counting",
+            "sort",
+            "double"
+        ]
+    },
+    {
+        "start": 2138.0,
+        "end": 2146.0,
+        "text": " think so, Mr. Chief Justice. I mean, I would  point out that when  prisoners escape, whether it's  from, you know, a physical",
+        "sentence_count": 4,
+        "keywords": [
+            "Chief Justice",
+            "Justice",
+            "Chief",
+            "prisoners escape",
+            "escape",
+            "physical",
+            "point",
+            "prisoners"
+        ]
+    },
+    {
+        "start": 2146.0,
+        "end": 2154.0,
+        "text": " BOP institution or  from one of these other forms  of confinement that  BOP has developed like home",
+        "sentence_count": 4,
+        "keywords": [
+            "BOP institution",
+            "BOP",
+            "home",
+            "institution",
+            "forms",
+            "confinement",
+            "developed"
+        ]
+    },
+    {
+        "start": 2154.0,
+        "end": 2162.0,
+        "text": " confinement, furlough, halfway house,  something like that, they can  be obviously at the moment  of their escape, the clock",
+        "sentence_count": 4,
+        "keywords": [
+            "halfway house",
+            "confinement",
+            "furlough",
+            "halfway",
+            "house",
+            "escape",
+            "clock",
+            "moment"
+        ]
+    },
+    {
+        "start": 2162.0,
+        "end": 2170.0,
+        "text": " stops on service of their term, and  they will have to fulfill  the undischarged portion  of the term when they are recaptured,",
+        "sentence_count": 4,
+        "keywords": [
+            "undischarged portion",
+            "stops",
+            "recaptured",
+            "term",
+            "service",
+            "fulfill",
+            "undischarged",
+            "portion"
+        ]
+    },
+    {
+        "start": 2170.0,
+        "end": 2178.0,
+        "text": " but they can also face institutional consequences  for the behavior  that they engage in when they  are on escape",
+        "sentence_count": 4,
+        "keywords": [
+            "face institutional",
+            "institutional consequences",
+            "escape",
+            "face",
+            "institutional",
+            "consequences",
+            "behavior",
+            "engage"
+        ]
+    },
+    {
+        "start": 2178.0,
+        "end": 2186.0,
+        "text": " status. I think that... I ask you  and not for the same reason.  I mean, I think both  Justice Sotomayor",
+        "sentence_count": 4,
+        "keywords": [
+            "status",
+            "Justice Sotomayor",
+            "Sotomayor",
+            "Justice",
+            "reason"
+        ]
+    },
+    {
+        "start": 2186.0,
+        "end": 2194.0,
+        "text": " and the Chief might be  pointing out that what you  are suggesting is not really a  tolling rule, because",
+        "sentence_count": 4,
+        "keywords": [
+            "tolling rule",
+            "Chief",
+            "rule",
+            "pointing",
+            "suggesting",
+            "tolling"
+        ]
+    },
+    {
+        "start": 2194.0,
+        "end": 2202.0,
+        "text": " the traditional tolling is that  the clock stops with respect  to the obligation when  you run away, and it picks up again",
+        "sentence_count": 4,
+        "keywords": [
+            "traditional tolling",
+            "clock stops",
+            "traditional",
+            "tolling",
+            "clock",
+            "stops",
+            "respect",
+            "obligation",
+            "run",
+            "picks"
+        ]
+    },
+    {
+        "start": 2202.0,
+        "end": 2210.0,
+        "text": " when you're found again, and what happens  in between, you can't be  held liable for under that  same framework because the clock has stopped.",
+        "sentence_count": 4,
+        "keywords": [
+            "held liable",
+            "stopped",
+            "found",
+            "held",
+            "liable",
+            "framework",
+            "clock"
+        ]
+    },
+    {
+        "start": 2210.0,
+        "end": 2218.0,
+        "text": " So it seems to me that what you're  actually asking for is an extension  rule, one that allows for the  obligations to occur throughout",
+        "sentence_count": 4,
+        "keywords": [
+            "extension rule",
+            "rule",
+            "extension",
+            "obligations",
+            "occur"
+        ]
+    },
+    {
+        "start": 2218.0,
+        "end": 2226.0,
+        "text": " the whole period. When  you're away, when you've  absconded, you say she's still  held to account for",
+        "sentence_count": 4,
+        "keywords": [
+            "period",
+            "absconded",
+            "held",
+            "account"
+        ]
+    },
+    {
+        "start": 2226.0,
+        "end": 2234.0,
+        "text": " what happens in the context of  supervised release. So that means those  conditions are extending, not  told, right?",
+        "sentence_count": 4,
+        "keywords": [
+            "supervised release",
+            "release",
+            "context",
+            "supervised",
+            "extending",
+            "told",
+            "conditions"
+        ]
+    },
+    {
+        "start": 2234.0,
+        "end": 2242.0,
+        "text": " So, respectfully, Justice Jackson,  I disagree with that characterization  of it as an extension rule. I think that tolling  in every circumstance is about",
+        "sentence_count": 4,
+        "keywords": [
+            "Justice Jackson",
+            "extension rule",
+            "respectfully",
+            "Justice",
+            "Jackson",
+            "rule",
+            "disagree",
+            "characterization",
+            "extension",
+            "tolling"
+        ]
+    },
+    {
+        "start": 2242.0,
+        "end": 2250.0,
+        "text": " stopping the clock, but tolling has  never guaranteed an immediate...  You're not asking for stopping the clock. That's my point.  You're saying the clock is still going,",
+        "sentence_count": 4,
+        "keywords": [
+            "clock",
+            "stopping",
+            "tolling",
+            "guaranteed",
+            "point"
+        ]
+    },
+    {
+        "start": 2250.0,
+        "end": 2258.0,
+        "text": " because that's what allows you to hold her  accountable for the things that happen  during the period when she's away.  We're saying that the clock stops",
+        "sentence_count": 4,
+        "keywords": [
+            "clock stops",
+            "hold",
+            "accountable",
+            "things",
+            "happen",
+            "period",
+            "stops",
+            "clock"
+        ]
+    },
+    {
+        "start": 2258.0,
+        "end": 2266.0,
+        "text": " on service of the term, on  discharging the term of supervised release,  but tolling has never meant an immediate  cessation of any",
+        "sentence_count": 4,
+        "keywords": [
+            "supervised release",
+            "term",
+            "release",
+            "service",
+            "discharging",
+            "supervised",
+            "tolling",
+            "meant",
+            "cessation"
+        ]
+    },
+    {
+        "start": 2266.0,
+        "end": 2274.0,
+        "text": " attendant disabilities or restrictions  that run with the sentence, right?  One big difference is that  you're a fugitive prisoner from",
+        "sentence_count": 4,
+        "keywords": [
+            "attendant disabilities",
+            "attendant",
+            "sentence",
+            "disabilities",
+            "restrictions",
+            "run",
+            "big difference",
+            "fugitive prisoner",
+            "big",
+            "difference"
+        ]
+    },
+    {
+        "start": 2274.0,
+        "end": 2282.0,
+        "text": " BOP on the Lam,  he might commit a crime, and if he commits  a crime, he's going to get a jury  and a trial.",
+        "sentence_count": 4,
+        "keywords": [
+            "crime",
+            "BOP",
+            "Lam",
+            "trial",
+            "jury",
+            "commit",
+            "commits"
+        ]
+    },
+    {
+        "start": 2282.0,
+        "end": 2290.0,
+        "text": " Whereas if on  supervised release in the abscondment  scenario, your government would assert  the right for a judge",
+        "sentence_count": 4,
+        "keywords": [
+            "abscondment scenario",
+            "supervised release",
+            "scenario",
+            "judge",
+            "supervised",
+            "release",
+            "abscondment",
+            "government",
+            "assert"
+        ]
+    },
+    {
+        "start": 2290.0,
+        "end": 2298.0,
+        "text": " rather than a jury and under  preponderance of the evidence standard  rather than under reasonable doubt standard  address any misconduct during that",
+        "sentence_count": 4,
+        "keywords": [
+            "reasonable doubt",
+            "evidence standard",
+            "doubt standard",
+            "standard address",
+            "standard",
+            "jury",
+            "preponderance",
+            "evidence",
+            "reasonable",
+            "doubt"
+        ]
+    },
+    {
+        "start": 2298.0,
+        "end": 2306.0,
+        "text": " period, correct?  Not quite, Justice Gorsuch.  Obviously you are  correct that anytime someone commits",
+        "sentence_count": 4,
+        "keywords": [
+            "Justice Gorsuch",
+            "period",
+            "Justice",
+            "Gorsuch",
+            "correct",
+            "commits",
+            "anytime"
+        ]
+    },
+    {
+        "start": 2306.0,
+        "end": 2314.0,
+        "text": " a new crime, if they are going to be  tried for that crime, they get  a jury and all of the  attendant protections of the 6th",
+        "sentence_count": 4,
+        "keywords": [
+            "attendant protections",
+            "crime",
+            "jury",
+            "attendant",
+            "protections"
+        ]
+    },
+    {
+        "start": 2314.0,
+        "end": 2322.0,
+        "text": " and 7th Amendments, but I think  with the example of the  BOP prisoner who's out on the  Lam, to the extent we are applying",
+        "sentence_count": 4,
+        "keywords": [
+            "BOP prisoner",
+            "Amendments",
+            "Lam",
+            "BOP",
+            "applying",
+            "prisoner",
+            "extent"
+        ]
+    },
+    {
+        "start": 2322.0,
+        "end": 2330.0,
+        "text": " BOP institutional consequences  for the behavior that he's  committed, the point is that's separate  from the tolling rule",
+        "sentence_count": 4,
+        "keywords": [
+            "BOP institutional",
+            "tolling rule",
+            "institutional consequences",
+            "BOP",
+            "committed",
+            "rule",
+            "institutional",
+            "consequences",
+            "behavior",
+            "point"
+        ]
+    },
+    {
+        "start": 2330.0,
+        "end": 2338.0,
+        "text": " that we apply to prisoners  who are on the Lam.  That's separate.  I think we view it as",
+        "sentence_count": 4,
+        "keywords": [
+            "Lam",
+            "apply",
+            "prisoners",
+            "separate",
+            "view"
+        ]
+    },
+    {
+        "start": 2338.0,
+        "end": 2346.0,
+        "text": " there is the tolling rule.  There is some apparent in the supervised release power  that you say continues but doesn't continue.  I think it's the same thing.",
+        "sentence_count": 4,
+        "keywords": [
+            "tolling rule",
+            "rule",
+            "tolling",
+            "supervised release",
+            "release power",
+            "thing",
+            "apparent",
+            "supervised",
+            "release",
+            "power"
+        ]
+    },
+    {
+        "start": 2346.0,
+        "end": 2354.0,
+        "text": " I think we are tolling the  service of the term, but there still  may be additional consequences  that attach for the behavior that occurs",
+        "sentence_count": 4,
+        "keywords": [
+            "additional consequences",
+            "term",
+            "occurs",
+            "tolling",
+            "service",
+            "additional",
+            "consequences",
+            "attach",
+            "behavior"
+        ]
+    },
+    {
+        "start": 2354.0,
+        "end": 2362.0,
+        "text": " and I'm sorry  Justice Salido.  Well I was just going to ask whether  you think that",
+        "sentence_count": 4,
+        "keywords": [
+            "Justice Salido",
+            "Salido",
+            "Justice"
+        ]
+    },
+    {
+        "start": 2364.0,
+        "end": 2372.0,
+        "text": " the petitioner's argument  is inconsistent with or at least  in tension with our decision  last term in Asteris",
+        "sentence_count": 4,
+        "keywords": [
+            "petitioner argument",
+            "Asteris",
+            "petitioner",
+            "argument",
+            "inconsistent",
+            "tension",
+            "decision",
+            "term"
+        ]
+    },
+    {
+        "start": 2372.0,
+        "end": 2380.0,
+        "text": " which discussed the factors  that are relevant in deciding  whether to  revoke supervised release",
+        "sentence_count": 4,
+        "keywords": [
+            "supervised release",
+            "revoke supervised",
+            "release",
+            "discussed",
+            "factors",
+            "relevant",
+            "deciding",
+            "revoke",
+            "supervised"
+        ]
+    },
+    {
+        "start": 2380.0,
+        "end": 2388.0,
+        "text": " and what to do if supervised release  is revoked.  Now I recognize  the factors are discretionary",
+        "sentence_count": 4,
+        "keywords": [
+            "supervised release",
+            "revoked",
+            "supervised",
+            "release",
+            "discretionary",
+            "recognize",
+            "factors"
+        ]
+    },
+    {
+        "start": 2388.0,
+        "end": 2396.0,
+        "text": " but still  the petitioner's argument is  that what occurred  after the 37 months",
+        "sentence_count": 4,
+        "keywords": [
+            "petitioner argument",
+            "months",
+            "petitioner",
+            "argument",
+            "occurred"
+        ]
+    },
+    {
+        "start": 2396.0,
+        "end": 2404.0,
+        "text": " is off the table  and I don't understand  where it is of lesser  significance. It can be taken into account",
+        "sentence_count": 4,
+        "keywords": [
+            "lesser significance",
+            "significance",
+            "table",
+            "understand",
+            "lesser",
+            "account"
+        ]
+    },
+    {
+        "start": 2404.0,
+        "end": 2412.0,
+        "text": " only through the mechanism  of a departure.  But I don't see what  happened after 37 months",
+        "sentence_count": 4,
+        "keywords": [
+            "months",
+            "departure",
+            "mechanism",
+            "happened"
+        ]
+    },
+    {
+        "start": 2412.0,
+        "end": 2420.0,
+        "text": " is any less relevant than what happened  before 37 months.  I agree Justice Salido and I think  that what this court said in Asteris",
+        "sentence_count": 4,
+        "keywords": [
+            "months",
+            "Justice Salido",
+            "agree Justice",
+            "Asteris",
+            "relevant",
+            "happened",
+            "Justice",
+            "Salido",
+            "agree",
+            "court"
+        ]
+    },
+    {
+        "start": 2420.0,
+        "end": 2428.0,
+        "text": " is that courts  at a supervised release revocation  hearing can and should take into  account all of the forward looking",
+        "sentence_count": 4,
+        "keywords": [
+            "supervised release",
+            "release revocation",
+            "revocation hearing",
+            "courts",
+            "supervised",
+            "release",
+            "revocation",
+            "hearing",
+            "account",
+            "forward"
+        ]
+    },
+    {
+        "start": 2428.0,
+        "end": 2436.0,
+        "text": " interests that  criminal sentences serve which includes  deterrence, incapacitation,  things like that. I think that",
+        "sentence_count": 4,
+        "keywords": [
+            "includes deterrence",
+            "criminal sentences",
+            "sentences serve",
+            "incapacitation",
+            "interests",
+            "deterrence",
+            "things",
+            "criminal",
+            "sentences",
+            "serve"
+        ]
+    },
+    {
+        "start": 2436.0,
+        "end": 2444.0,
+        "text": " giving supervised release the effect  that Congress wanted meaning that  it is actually  supervision, that it is",
+        "sentence_count": 4,
+        "keywords": [
+            "Congress wanted",
+            "giving supervised",
+            "supervised release",
+            "wanted meaning",
+            "Congress",
+            "giving",
+            "supervision",
+            "supervised",
+            "release",
+            "effect"
+        ]
+    },
+    {
+        "start": 2444.0,
+        "end": 2452.0,
+        "text": " the kind of post confinement monitoring  and post confinement assistance that this court  recognized and Cornell Johnson  and Roy Lee Johnson serves those",
+        "sentence_count": 4,
+        "keywords": [
+            "Roy Lee",
+            "Cornell Johnson",
+            "Lee Johnson",
+            "post confinement",
+            "Johnson serves",
+            "court recognized",
+            "confinement monitoring",
+            "confinement assistance",
+            "Johnson",
+            "post"
+        ]
+    },
+    {
+        "start": 2452.0,
+        "end": 2460.0,
+        "text": " interests that the court recognized in  Asteris and I don't  quite understand. I think  there is certainly some tension",
+        "sentence_count": 4,
+        "keywords": [
+            "court recognized",
+            "Asteris",
+            "interests",
+            "understand",
+            "court",
+            "recognized",
+            "tension"
+        ]
+    },
+    {
+        "start": 2460.0,
+        "end": 2468.0,
+        "text": " in the idea that  a person who violates their  supervised release by absconding  is going to be subject to",
+        "sentence_count": 4,
+        "keywords": [
+            "supervised release",
+            "idea",
+            "person",
+            "violates",
+            "supervised",
+            "release",
+            "absconding",
+            "subject"
+        ]
+    },
+    {
+        "start": 2468.0,
+        "end": 2476.0,
+        "text": " a sanction  derived from the full breath  of their conduct post-abscondment  but that the guidelines are limited to",
+        "sentence_count": 4,
+        "keywords": [
+            "sanction derived",
+            "full breath",
+            "conduct post-abscondment",
+            "sanction",
+            "derived",
+            "full",
+            "breath",
+            "conduct",
+            "post-abscondment",
+            "guidelines"
+        ]
+    },
+    {
+        "start": 2476.0,
+        "end": 2484.0,
+        "text": " just a substance.  What that suggests to me is that this is really  that tolling is a misnomer.  If this were purely tolling",
+        "sentence_count": 4,
+        "keywords": [
+            "substance",
+            "tolling",
+            "misnomer",
+            "purely tolling",
+            "suggests",
+            "purely"
+        ]
+    },
+    {
+        "start": 2484.0,
+        "end": 2492.0,
+        "text": " by analogy to the fugitive tolling  role  Petitioner would not have been  on supervised release at all",
+        "sentence_count": 4,
+        "keywords": [
+            "role Petitioner",
+            "fugitive tolling",
+            "tolling role",
+            "supervised release",
+            "Petitioner",
+            "analogy",
+            "fugitive",
+            "tolling",
+            "role",
+            "supervised"
+        ]
+    },
+    {
+        "start": 2492.0,
+        "end": 2500.0,
+        "text": " during the whole period  when she was  absconding but that  she wouldn't be",
+        "sentence_count": 4,
+        "keywords": [
+            "period",
+            "absconding"
+        ]
+    },
+    {
+        "start": 2500.0,
+        "end": 2508.0,
+        "text": " satisfying her terms, she also wouldn't be  subject to the terms of supervised release  but you don't want that role.  So this doesn't seem to me to be really about tolling",
+        "sentence_count": 4,
+        "keywords": [
+            "supervised release",
+            "terms",
+            "satisfying",
+            "role",
+            "subject",
+            "supervised",
+            "release",
+            "tolling"
+        ]
+    },
+    {
+        "start": 2508.0,
+        "end": 2516.0,
+        "text": " at all. Neither party  really wants a pure tolling  role. It's about what is relevant  what should inform",
+        "sentence_count": 4,
+        "keywords": [
+            "tolling role",
+            "pure tolling",
+            "role",
+            "inform",
+            "party",
+            "pure",
+            "tolling",
+            "relevant"
+        ]
+    },
+    {
+        "start": 2516.0,
+        "end": 2524.0,
+        "text": " the decision about what should be done  when there is a revocation.  We think that that is a  distant second best rule.",
+        "sentence_count": 4,
+        "keywords": [
+            "revocation",
+            "decision",
+            "rule",
+            "distant"
+        ]
+    },
+    {
+        "start": 2524.0,
+        "end": 2532.0,
+        "text": " We would prefer that rule to a rule  of no tolling at all because  as I was discussing I believe with  Justice Gorsuch earlier, our primary",
+        "sentence_count": 4,
+        "keywords": [
+            "Justice Gorsuch",
+            "Gorsuch earlier",
+            "Justice",
+            "Gorsuch",
+            "earlier",
+            "primary",
+            "rule",
+            "prefer",
+            "tolling",
+            "discussing"
+        ]
+    },
+    {
+        "start": 2532.0,
+        "end": 2540.0,
+        "text": " concern here is the idea that  defendants will be able to  abscond from supervision, wait out  the expiration date of their term",
+        "sentence_count": 4,
+        "keywords": [
+            "expiration date",
+            "concern",
+            "supervision",
+            "wait",
+            "term",
+            "idea",
+            "defendants",
+            "abscond",
+            "expiration",
+            "date"
+        ]
+    },
+    {
+        "start": 2540.0,
+        "end": 2548.0,
+        "text": " and if warrant or summons does not  issue under 3583 I  they will be able to render the  supervision component of their judgment",
+        "sentence_count": 4,
+        "keywords": [
+            "supervision component",
+            "judgment",
+            "warrant",
+            "summons",
+            "issue",
+            "render",
+            "supervision",
+            "component"
+        ]
+    },
+    {
+        "start": 2548.0,
+        "end": 2556.0,
+        "text": " annulity. That is the worst  outcome here. That does not  serve the system that Congress  enacted. But is that not exactly what",
+        "sentence_count": 4,
+        "keywords": [
+            "annulity",
+            "Congress enacted",
+            "worst outcome",
+            "Congress",
+            "worst",
+            "outcome",
+            "enacted",
+            "serve",
+            "system"
+        ]
+    },
+    {
+        "start": 2556.0,
+        "end": 2564.0,
+        "text": " Congress wanted?  The reason why we have  I think is because Congress  suggests that it's only",
+        "sentence_count": 4,
+        "keywords": [
+            "Congress wanted",
+            "wanted",
+            "Congress",
+            "Congress suggests",
+            "reason",
+            "suggests"
+        ]
+    },
+    {
+        "start": 2564.0,
+        "end": 2572.0,
+        "text": " in the situation in which a warrant does  issue under those  circumstances that the court's  authority can extend to allow",
+        "sentence_count": 4,
+        "keywords": [
+            "court authority",
+            "situation",
+            "warrant",
+            "issue",
+            "circumstances",
+            "court",
+            "authority",
+            "extend"
+        ]
+    },
+    {
+        "start": 2572.0,
+        "end": 2580.0,
+        "text": " for a revocation.  So I think what you're asking for  seems diametrically opposed to the  policy choice that Congress has made",
+        "sentence_count": 4,
+        "keywords": [
+            "revocation",
+            "Congress",
+            "diametrically opposed",
+            "policy choice",
+            "made",
+            "diametrically",
+            "opposed",
+            "policy",
+            "choice"
+        ]
+    },
+    {
+        "start": 2580.0,
+        "end": 2588.0,
+        "text": " about the circumstances under which  the person can be held accountable  for something.  I think I part ways with you",
+        "sentence_count": 4,
+        "keywords": [
+            "held accountable",
+            "circumstances",
+            "person",
+            "held",
+            "accountable",
+            "part"
+        ]
+    },
+    {
+        "start": 2588.0,
+        "end": 2596.0,
+        "text": " on the history and purpose  of subsection I.  Petitioner puts a lot of marbles  in the 3583 I",
+        "sentence_count": 4,
+        "keywords": [
+            "Petitioner puts",
+            "history",
+            "purpose",
+            "subsection",
+            "Petitioner",
+            "puts",
+            "lot",
+            "marbles"
+        ]
+    },
+    {
+        "start": 2596.0,
+        "end": 2604.0,
+        "text": " bucket because that is  essentially the only way that she's  able to get around this  idea that somebody has made out.",
+        "sentence_count": 4,
+        "keywords": [
+            "bucket",
+            "essentially",
+            "idea",
+            "made"
+        ]
+    },
+    {
+        "start": 2604.0,
+        "end": 2612.0,
+        "text": " That's what Congress says about when  it's extended, when the power  can be extended to hold her accountable.  Well, I would point out just as a",
+        "sentence_count": 4,
+        "keywords": [
+            "Congress",
+            "accountable",
+            "extended",
+            "power",
+            "hold",
+            "point"
+        ]
+    },
+    {
+        "start": 2612.0,
+        "end": 2620.0,
+        "text": " matter of history that subsection I  was not enacted until a decade after  the Sentencing Reform Act. So in  order to buy into her view,",
+        "sentence_count": 4,
+        "keywords": [
+            "Reform Act",
+            "Sentencing Reform",
+            "Act",
+            "Sentencing",
+            "Reform",
+            "matter",
+            "history",
+            "subsection",
+            "enacted",
+            "decade"
+        ]
+    },
+    {
+        "start": 2620.0,
+        "end": 2628.0,
+        "text": " you have to accept the idea that  the Congress that enacted the  Sentencing Reform Act wanted  supervisors to be able to entirely",
+        "sentence_count": 4,
+        "keywords": [
+            "Sentencing Reform",
+            "Reform Act",
+            "Act wanted",
+            "wanted supervisors",
+            "Congress",
+            "Sentencing",
+            "Reform",
+            "Act",
+            "accept",
+            "idea"
+        ]
+    },
+    {
+        "start": 2628.0,
+        "end": 2636.0,
+        "text": " defeat the supervision component  of their judgment through fugitivity  and waiting out the expiration date  of what they did was",
+        "sentence_count": 4,
+        "keywords": [
+            "supervision component",
+            "expiration date",
+            "defeat",
+            "supervision",
+            "component",
+            "judgment",
+            "fugitivity",
+            "waiting",
+            "expiration",
+            "date"
+        ]
+    },
+    {
+        "start": 2636.0,
+        "end": 2644.0,
+        "text": " they put the burden on the government  or the probation office to  alert the court and get a warrant  during the time when the person absconded.",
+        "sentence_count": 4,
+        "keywords": [
+            "person absconded",
+            "probation office",
+            "absconded",
+            "put",
+            "burden",
+            "government",
+            "probation",
+            "office",
+            "alert",
+            "court"
+        ]
+    },
+    {
+        "start": 2644.0,
+        "end": 2652.0,
+        "text": " But Justice Jackson, there was no 3583  I at that time.  There was no 3583 I, there was no  warrant or summons extension mechanism",
+        "sentence_count": 4,
+        "keywords": [
+            "Justice Jackson",
+            "Jackson",
+            "Justice",
+            "time",
+            "extension mechanism",
+            "summons extension",
+            "mechanism",
+            "warrant",
+            "summons",
+            "extension"
+        ]
+    },
+    {
+        "start": 2652.0,
+        "end": 2660.0,
+        "text": " for the first 10 years that  the Sentencing Reform Act was in effect.  That was not enacted until 1994.  And your conclusion is then that we have to",
+        "sentence_count": 4,
+        "keywords": [
+            "Sentencing Reform",
+            "Reform Act",
+            "Sentencing",
+            "Reform",
+            "Act",
+            "years",
+            "effect",
+            "enacted",
+            "conclusion"
+        ]
+    },
+    {
+        "start": 2660.0,
+        "end": 2668.0,
+        "text": " now that 3583 I  misinterpret it consistent  with the pre-existing state of affairs.  Well, I have additional reasons",
+        "sentence_count": 4,
+        "keywords": [
+            "pre-existing state",
+            "affairs",
+            "additional reasons",
+            "misinterpret",
+            "consistent",
+            "pre-existing",
+            "state",
+            "reasons",
+            "additional"
+        ]
+    },
+    {
+        "start": 2668.0,
+        "end": 2676.0,
+        "text": " that I think 3583 I  is insufficient, but I do think it's important  to look at the history and think about  what the Congress that enacted the",
+        "sentence_count": 4,
+        "keywords": [
+            "Congress",
+            "insufficient",
+            "important",
+            "history",
+            "enacted"
+        ]
+    },
+    {
+        "start": 2676.0,
+        "end": 2684.0,
+        "text": " Sentencing Reform Act was trying to do.  And I think, you know, if  Congress gave district courts for  the first 10 years of the",
+        "sentence_count": 4,
+        "keywords": [
+            "Reform Act",
+            "Sentencing Reform",
+            "Reform",
+            "Act",
+            "Sentencing",
+            "Congress gave",
+            "Congress",
+            "gave district",
+            "district courts",
+            "years"
+        ]
+    },
+    {
+        "start": 2684.0,
+        "end": 2692.0,
+        "text": " supervised release system, gave district courts  no tools whatsoever  to go after  responding supervisors who were",
+        "sentence_count": 4,
+        "keywords": [
+            "supervised release",
+            "release system",
+            "gave district",
+            "district courts",
+            "tools whatsoever",
+            "responding supervisors",
+            "supervised",
+            "system",
+            "gave",
+            "release"
+        ]
+    },
+    {
+        "start": 2692.0,
+        "end": 2700.0,
+        "text": " able to wait out the expiration date  of their term, I think that that is  very strong evidence that Congress  anticipated that traditional ideas",
+        "sentence_count": 4,
+        "keywords": [
+            "Congress anticipated",
+            "traditional ideas",
+            "expiration date",
+            "strong evidence",
+            "Congress",
+            "term",
+            "ideas",
+            "wait",
+            "expiration",
+            "date"
+        ]
+    },
+    {
+        "start": 2700.0,
+        "end": 2708.0,
+        "text": " of fugitive tolling would be incorporated  into the new supervised release system  that they were enacting. But  in terms of, you know, what",
+        "sentence_count": 4,
+        "keywords": [
+            "fugitive tolling",
+            "supervised release",
+            "release system",
+            "enacting",
+            "fugitive",
+            "tolling",
+            "incorporated",
+            "supervised",
+            "release",
+            "system"
+        ]
+    },
+    {
+        "start": 2708.0,
+        "end": 2716.0,
+        "text": " I think 3583 I was  going after, I mean  as I think Patricia acknowledged  on page six of her opening brief",
+        "sentence_count": 4,
+        "keywords": [
+            "Patricia acknowledged",
+            "Patricia",
+            "acknowledged",
+            "page",
+            "opening"
+        ]
+    },
+    {
+        "start": 2716.0,
+        "end": 2724.0,
+        "text": " and as the second circuit recognized  the Jean Vieille case, this was  really about a very  narrow subset of late breaking",
+        "sentence_count": 4,
+        "keywords": [
+            "Jean Vieille",
+            "Vieille case",
+            "late breaking",
+            "circuit recognized",
+            "narrow subset",
+            "Jean",
+            "Vieille",
+            "case",
+            "breaking",
+            "circuit"
+        ]
+    },
+    {
+        "start": 2724.0,
+        "end": 2732.0,
+        "text": " violations where there was not  time left on the clock for the district  court to conduct the  revocation hearing required by",
+        "sentence_count": 4,
+        "keywords": [
+            "time left",
+            "district court",
+            "revocation hearing",
+            "hearing required",
+            "violations",
+            "time",
+            "left",
+            "clock",
+            "district",
+            "court"
+        ]
+    },
+    {
+        "start": 2732.0,
+        "end": 2740.0,
+        "text": " rule 32.1. Every  court to have passed on 3583 I  has talked about this as  being a provision",
+        "sentence_count": 4,
+        "keywords": [
+            "rule",
+            "provision",
+            "court",
+            "passed",
+            "talked"
+        ]
+    },
+    {
+        "start": 2740.0,
+        "end": 2748.0,
+        "text": " that is designed just for those very  late end of term  violations. It is not a general  fugitive tolling",
+        "sentence_count": 4,
+        "keywords": [
+            "term violations",
+            "late end",
+            "violations",
+            "fugitive tolling",
+            "designed",
+            "late",
+            "end",
+            "term",
+            "general fugitive",
+            "tolling"
+        ]
+    },
+    {
+        "start": 2748.0,
+        "end": 2756.0,
+        "text": " provision. I guess Mr.  Handel, though the question to you  is in what provision do you  put your marbles? I mean",
+        "sentence_count": 4,
+        "keywords": [
+            "Handel",
+            "provision",
+            "marbles",
+            "guess",
+            "question",
+            "put"
+        ]
+    },
+    {
+        "start": 2756.0,
+        "end": 2764.0,
+        "text": " in addition to 3583  I, Mr.  Unikowski would say back to you  look, there is no fugitive tolling",
+        "sentence_count": 4,
+        "keywords": [
+            "fugitive tolling",
+            "Unikowski",
+            "tolling",
+            "addition",
+            "back",
+            "fugitive"
+        ]
+    },
+    {
+        "start": 2764.0,
+        "end": 2772.0,
+        "text": " provision in this statute of the  kinds that the government wants.  There is tolling  provision in the statute. It applies to",
+        "sentence_count": 4,
+        "keywords": [
+            "provision",
+            "statute",
+            "tolling provision",
+            "kinds",
+            "government",
+            "tolling",
+            "applies"
+        ]
+    },
+    {
+        "start": 2772.0,
+        "end": 2780.0,
+        "text": " prisoners. It does not apply  to prisoners. There is  in addition a fairly granular  detailed",
+        "sentence_count": 4,
+        "keywords": [
+            "prisoners",
+            "detailed",
+            "granular detailed",
+            "apply",
+            "addition",
+            "fairly",
+            "granular",
+            "fairly granular"
+        ]
+    },
+    {
+        "start": 2780.0,
+        "end": 2788.0,
+        "text": " instructions about what  to do with a person  like the petitioner  here. In other",
+        "sentence_count": 4,
+        "keywords": [
+            "instructions",
+            "person",
+            "petitioner"
+        ]
+    },
+    {
+        "start": 2788.0,
+        "end": 2796.0,
+        "text": " words there should be a revocation.  There should be a new sentence of  imprisonment with a term of  supervised release attached to it.",
+        "sentence_count": 4,
+        "keywords": [
+            "words",
+            "revocation",
+            "supervised release",
+            "release attached",
+            "sentence",
+            "imprisonment",
+            "term",
+            "supervised",
+            "release",
+            "attached"
+        ]
+    },
+    {
+        "start": 2796.0,
+        "end": 2804.0,
+        "text": " The statute offers a solution  for what to do with prisoners  like Ms. Rico.  Are you supposed to look in the statute",
+        "sentence_count": 4,
+        "keywords": [
+            "statute offers",
+            "Rico",
+            "statute",
+            "offers",
+            "solution",
+            "prisoners",
+            "supposed"
+        ]
+    },
+    {
+        "start": 2804.0,
+        "end": 2812.0,
+        "text": " for your solution?  I think there are a couple of analytical  questions based into this case.  The first one is just are you serving",
+        "sentence_count": 4,
+        "keywords": [
+            "solution",
+            "analytical questions",
+            "questions based",
+            "case",
+            "serving",
+            "couple",
+            "analytical",
+            "questions",
+            "based"
+        ]
+    },
+    {
+        "start": 2812.0,
+        "end": 2820.0,
+        "text": " a term of supervised release  when you are unsupervised? If you agree  with us on that, that is just about  the basic fundamental",
+        "sentence_count": 4,
+        "keywords": [
+            "supervised release",
+            "unsupervised",
+            "basic fundamental",
+            "term",
+            "supervised",
+            "release",
+            "fundamental",
+            "agree",
+            "basic"
+        ]
+    },
+    {
+        "start": 2820.0,
+        "end": 2828.0,
+        "text": " essence of supervised release  looking at the full range of statutes  that Congress enacted here  3601, 3603, 3624e",
+        "sentence_count": 4,
+        "keywords": [
+            "Congress enacted",
+            "supervised release",
+            "full range",
+            "Congress",
+            "essence",
+            "supervised",
+            "release",
+            "full",
+            "range",
+            "statutes"
+        ]
+    },
+    {
+        "start": 2828.0,
+        "end": 2836.0,
+        "text": " and saying  Congress anticipated that when someone  is sentenced to a term of supervised release  they will actually be supervised",
+        "sentence_count": 4,
+        "keywords": [
+            "Congress anticipated",
+            "supervised release",
+            "Congress",
+            "supervised",
+            "anticipated",
+            "sentenced",
+            "term",
+            "release"
+        ]
+    },
+    {
+        "start": 2836.0,
+        "end": 2844.0,
+        "text": " by a probation officer. If you agree  with us that you have to actually be  supervised to be discharging  a term of supervised release, then you've already",
+        "sentence_count": 4,
+        "keywords": [
+            "probation officer",
+            "officer",
+            "probation",
+            "supervised release",
+            "supervised",
+            "release",
+            "agree",
+            "discharging",
+            "term"
+        ]
+    },
+    {
+        "start": 2844.0,
+        "end": 2852.0,
+        "text": " disagreed with petitioner's position  and then we just get to the secondary  question of, okay what do we do  with these release conditions after",
+        "sentence_count": 4,
+        "keywords": [
+            "petitioner position",
+            "secondary question",
+            "release conditions",
+            "disagreed",
+            "petitioner",
+            "position",
+            "secondary",
+            "question",
+            "release",
+            "conditions"
+        ]
+    },
+    {
+        "start": 2852.0,
+        "end": 2860.0,
+        "text": " abscondment? I'm happy to talk about that  and why I think that abscondment should not  If I take your argument right, that suggests  that the only statutory provision you're",
+        "sentence_count": 4,
+        "keywords": [
+            "abscondment",
+            "statutory provision",
+            "happy",
+            "talk",
+            "argument",
+            "suggests",
+            "statutory",
+            "provision"
+        ]
+    },
+    {
+        "start": 2860.0,
+        "end": 2868.0,
+        "text": " pointing to is the one that identifies  the person who actually does  the supervision. Is that correct?  I think 3601 imposes",
+        "sentence_count": 4,
+        "keywords": [
+            "pointing",
+            "supervision",
+            "identifies",
+            "person",
+            "imposes",
+            "correct"
+        ]
+    },
+    {
+        "start": 2868.0,
+        "end": 2876.0,
+        "text": " an obligation on  a supervisee to be  supervised and 3603 imposes  an obligation on the probation officer",
+        "sentence_count": 4,
+        "keywords": [
+            "probation officer",
+            "obligation",
+            "imposes",
+            "officer",
+            "supervisee",
+            "supervised",
+            "probation"
+        ]
+    },
+    {
+        "start": 2876.0,
+        "end": 2884.0,
+        "text": " to supervise. I think those work together.  It's pretty  bare bones, yeah?  You know, respectfully I disagree",
+        "sentence_count": 4,
+        "keywords": [
+            "supervise",
+            "yeah",
+            "bare bones",
+            "bones",
+            "work",
+            "respectfully",
+            "disagree",
+            "pretty bare",
+            "pretty",
+            "bare"
+        ]
+    },
+    {
+        "start": 2884.0,
+        "end": 2892.0,
+        "text": " with that characterization Justice Kagan  and I think  I will acknowledge that  there is not an explicit",
+        "sentence_count": 4,
+        "keywords": [
+            "Justice Kagan",
+            "characterization Justice",
+            "Justice",
+            "Kagan",
+            "explicit",
+            "characterization",
+            "acknowledge"
+        ]
+    },
+    {
+        "start": 2892.0,
+        "end": 2900.0,
+        "text": " fugitive tolling  provision in the Sentencing  Reform Act or any of the amendments  akin to the carceral tolling",
+        "sentence_count": 4,
+        "keywords": [
+            "Sentencing Reform",
+            "Reform Act",
+            "fugitive tolling",
+            "amendments akin",
+            "tolling provision",
+            "carceral tolling",
+            "Sentencing",
+            "Reform",
+            "Act",
+            "tolling"
+        ]
+    },
+    {
+        "start": 2900.0,
+        "end": 2908.0,
+        "text": " There's a lot of detail about what the supervision  looks like, so to the extent that  you're putting all your marbles in this idea  of supervision, I mean the statute",
+        "sentence_count": 4,
+        "keywords": [
+            "supervision",
+            "statute",
+            "lot",
+            "detail",
+            "extent",
+            "putting",
+            "marbles",
+            "idea"
+        ]
+    },
+    {
+        "start": 2908.0,
+        "end": 2916.0,
+        "text": " basically says go get supervised.  I mean I think 18 USC  3603 actually puts some meat on the bones  of what supervision should look like.",
+        "sentence_count": 4,
+        "keywords": [
+            "USC",
+            "basically",
+            "supervised",
+            "puts",
+            "meat",
+            "bones",
+            "supervision"
+        ]
+    },
+    {
+        "start": 2916.0,
+        "end": 2924.0,
+        "text": " I grant that that is  oriented toward probation officers  rather than the supervisee  herself, but I think that that tells",
+        "sentence_count": 4,
+        "keywords": [
+            "probation officers",
+            "grant",
+            "oriented",
+            "probation",
+            "officers",
+            "supervisee"
+        ]
+    },
+    {
+        "start": 2924.0,
+        "end": 2932.0,
+        "text": " us what Congress thought  supervision would look like in practice  and what kinds of requirements  for monitoring, reporting,",
+        "sentence_count": 4,
+        "keywords": [
+            "Congress thought",
+            "thought supervision",
+            "reporting",
+            "Congress",
+            "monitoring",
+            "thought",
+            "supervision",
+            "practice",
+            "kinds",
+            "requirements"
+        ]
+    },
+    {
+        "start": 2932.0,
+        "end": 2940.0,
+        "text": " assistance, Congress was trying to  bake into this system.  Just to get to the  3624e carceral tolling provision",
+        "sentence_count": 4,
+        "keywords": [
+            "Congress",
+            "assistance",
+            "system",
+            "carceral tolling",
+            "tolling provision",
+            "bake",
+            "carceral",
+            "provision",
+            "tolling"
+        ]
+    },
+    {
+        "start": 2940.0,
+        "end": 2948.0,
+        "text": " I think as we pointed out in our brief  Congress had a very good reason  for explicitly addressing  that and it's because there was a",
+        "sentence_count": 4,
+        "keywords": [
+            "good reason",
+            "explicitly addressing",
+            "Congress",
+            "pointed",
+            "good",
+            "reason",
+            "explicitly",
+            "addressing"
+        ]
+    },
+    {
+        "start": 2948.0,
+        "end": 2956.0,
+        "text": " disagreement in the case law as to  whether you would  toll for terms of  incarceration that arose",
+        "sentence_count": 4,
+        "keywords": [
+            "case law",
+            "disagreement",
+            "arose",
+            "case",
+            "law",
+            "toll",
+            "terms",
+            "incarceration"
+        ]
+    },
+    {
+        "start": 2956.0,
+        "end": 2964.0,
+        "text": " during a period of supervision  but were based on conduct that predated  the term of supervision  so they couldn't quite be",
+        "sentence_count": 4,
+        "keywords": [
+            "supervision",
+            "period",
+            "based",
+            "conduct",
+            "predated",
+            "term"
+        ]
+    },
+    {
+        "start": 2964.0,
+        "end": 2972.0,
+        "text": " tethered to a violation of supervision  in the way that this court  treated  the interruption in Anderson",
+        "sentence_count": 4,
+        "keywords": [
+            "court treated",
+            "Anderson",
+            "tethered",
+            "violation",
+            "supervision",
+            "court",
+            "treated",
+            "interruption"
+        ]
+    },
+    {
+        "start": 2972.0,
+        "end": 2980.0,
+        "text": " vs. Corral and Zerps vs. Kidwell  Congress resolved that judicial  disagreement in favor of more tolling  I don't think that that tells",
+        "sentence_count": 4,
+        "keywords": [
+            "Kidwell Congress",
+            "Congress resolved",
+            "judicial disagreement",
+            "Corral",
+            "Zerps",
+            "Kidwell",
+            "Congress",
+            "resolved",
+            "judicial",
+            "disagreement"
+        ]
+    },
+    {
+        "start": 2980.0,
+        "end": 2988.0,
+        "text": " us much of anything about  what they thought about fugitive tolling  certainly it doesn't foreclose  the existence of fugitive tolling in the",
+        "sentence_count": 4,
+        "keywords": [
+            "fugitive tolling",
+            "fugitive",
+            "tolling",
+            "thought",
+            "foreclose",
+            "existence"
+        ]
+    },
+    {
+        "start": 2988.0,
+        "end": 2996.0,
+        "text": " sentencing reform act.  Just ask you one quick question about your  supervision issue. Suppose we have a defendant  who's in a coma.",
+        "sentence_count": 4,
+        "keywords": [
+            "sentencing reform",
+            "reform act",
+            "sentencing",
+            "act",
+            "supervision issue",
+            "reform",
+            "quick question",
+            "issue",
+            "Suppose",
+            "coma"
+        ]
+    },
+    {
+        "start": 2996.0,
+        "end": 3004.0,
+        "text": " Are they being supervised?  Does the sub-scan meant the only thing  that triggers your argument that  the person is not being supervised?",
+        "sentence_count": 4,
+        "keywords": [
+            "supervised",
+            "sub-scan meant",
+            "sub-scan",
+            "meant",
+            "thing",
+            "triggers",
+            "argument",
+            "person"
+        ]
+    },
+    {
+        "start": 3004.0,
+        "end": 3012.0,
+        "text": " I think there are any number of situations  we could imagine  a comatose supervisee  a lazy or incompetent probation",
+        "sentence_count": 4,
+        "keywords": [
+            "incompetent probation",
+            "comatose supervisee",
+            "probation",
+            "number",
+            "situations",
+            "imagine",
+            "comatose",
+            "supervisee",
+            "lazy",
+            "incompetent"
+        ]
+    },
+    {
+        "start": 3012.0,
+        "end": 3020.0,
+        "text": " officer, anything like this  where supervision is not occurring  in the way that Congress  would warrant",
+        "sentence_count": 4,
+        "keywords": [
+            "officer",
+            "Congress",
+            "warrant",
+            "supervision",
+            "occurring"
+        ]
+    },
+    {
+        "start": 3020.0,
+        "end": 3028.0,
+        "text": " an extension of the supervised release.  No, Your Honor.  I do think  I think the text gets us 98%",
+        "sentence_count": 4,
+        "keywords": [
+            "supervised release",
+            "release",
+            "Honor",
+            "extension",
+            "supervised",
+            "text"
+        ]
+    },
+    {
+        "start": 3028.0,
+        "end": 3036.0,
+        "text": " of the way it gets us to the  two-yard line in terms of what counts  as supervision or not and then  the last couple of yards",
+        "sentence_count": 4,
+        "keywords": [
+            "two-yard line",
+            "yards",
+            "two-yard",
+            "line",
+            "terms",
+            "counts",
+            "supervision",
+            "couple"
+        ]
+    },
+    {
+        "start": 3036.0,
+        "end": 3044.0,
+        "text": " have to incorporate background  principles from the  pre-existing case law and there  I think you would look at",
+        "sentence_count": 4,
+        "keywords": [
+            "incorporate background",
+            "background principles",
+            "pre-existing case",
+            "case law",
+            "incorporate",
+            "background",
+            "principles",
+            "pre-existing",
+            "case",
+            "law"
+        ]
+    },
+    {
+        "start": 3044.0,
+        "end": 3052.0,
+        "text": " against whom do we tax this  failure of supervision. We recognize  that this is not the system operating  as Congress designed it. Maybe the probation",
+        "sentence_count": 4,
+        "keywords": [
+            "supervision",
+            "Congress designed",
+            "tax",
+            "failure",
+            "Congress",
+            "system operating",
+            "probation",
+            "recognize",
+            "system",
+            "operating"
+        ]
+    },
+    {
+        "start": 3052.0,
+        "end": 3060.0,
+        "text": " officer is not meeting the  duties imposed on him in  3603. Maybe the supervisee  is not doing what she's technically",
+        "sentence_count": 4,
+        "keywords": [
+            "duties imposed",
+            "officer",
+            "meeting",
+            "duties",
+            "imposed",
+            "technically",
+            "supervisee"
+        ]
+    },
+    {
+        "start": 3060.0,
+        "end": 3068.0,
+        "text": " required to do under the terms of the judgment  but how do we tax that failure?  And I think that the  lower courts that have adopted our view",
+        "sentence_count": 4,
+        "keywords": [
+            "required",
+            "failure",
+            "terms",
+            "judgment",
+            "tax",
+            "lower courts",
+            "view",
+            "lower",
+            "courts",
+            "adopted"
+        ]
+    },
+    {
+        "start": 3068.0,
+        "end": 3076.0,
+        "text": " of this statutory scheme have gotten  it right when they've said  that a supervisee  obsconds, that a supervisee",
+        "sentence_count": 4,
+        "keywords": [
+            "supervisee obsconds",
+            "statutory scheme",
+            "supervisee",
+            "obsconds",
+            "statutory",
+            "scheme"
+        ]
+    },
+    {
+        "start": 3076.0,
+        "end": 3084.0,
+        "text": " is told for her  undischarged term of supervised release  when she deliberately renders supervision  at all. You would not be able to",
+        "sentence_count": 4,
+        "keywords": [
+            "undischarged term",
+            "supervised release",
+            "deliberately renders",
+            "renders supervision",
+            "told",
+            "undischarged",
+            "term",
+            "supervised",
+            "release",
+            "deliberately"
+        ]
+    },
+    {
+        "start": 3084.0,
+        "end": 3092.0,
+        "text": " satisfy the mens rea requirement  as to a comatose supervisee  or as to any situation in which  the probation officer rather than the",
+        "sentence_count": 4,
+        "keywords": [
+            "mens rea",
+            "rea requirement",
+            "comatose supervisee",
+            "probation officer",
+            "satisfy",
+            "mens",
+            "rea",
+            "requirement",
+            "comatose",
+            "supervisee"
+        ]
+    },
+    {
+        "start": 3092.0,
+        "end": 3100.0,
+        "text": " supervisee was at fault for the lack  of supervision. Thank you.  Thank you council.  Anything further?",
+        "sentence_count": 4,
+        "keywords": [
+            "supervisee",
+            "supervision",
+            "fault",
+            "lack",
+            "council"
+        ]
+    },
+    {
+        "start": 3100.0,
+        "end": 3110.0,
+        "text": " Thank you.  Thank you. Unikowski, rebuttal.  Thank you Mr. Chief Justice.  I first want to address Justice",
+        "sentence_count": 4,
+        "keywords": [
+            "Chief Justice",
+            "Justice",
+            "address Justice",
+            "Unikowski",
+            "rebuttal",
+            "Chief",
+            "address"
+        ]
+    },
+    {
+        "start": 3110.0,
+        "end": 3118.0,
+        "text": " Alito's question about the possibility  of true tolling under which  during the abscommon period the person wouldn't  be subject to the conditions at all.",
+        "sentence_count": 4,
+        "keywords": [
+            "Alito question",
+            "true tolling",
+            "abscommon period",
+            "Alito",
+            "question",
+            "possibility",
+            "true",
+            "tolling",
+            "abscommon",
+            "period"
+        ]
+    },
+    {
+        "start": 3118.0,
+        "end": 3126.0,
+        "text": " First of all, if that were the rule then  Ms. Rico would prevail in this case because  the government's case hinges on Ms. Rico  having violated the conditions of",
+        "sentence_count": 4,
+        "keywords": [
+            "Rico",
+            "rule",
+            "case",
+            "government case",
+            "case hinges",
+            "prevail",
+            "government",
+            "hinges",
+            "violated",
+            "conditions"
+        ]
+    },
+    {
+        "start": 3126.0,
+        "end": 3134.0,
+        "text": " supervised release during that period.  But second, we respectfully disagree with that rule  as inconsistent with the judgment. The judgment  does say that when the sentence",
+        "sentence_count": 4,
+        "keywords": [
+            "supervised release",
+            "supervised",
+            "period",
+            "release",
+            "judgment",
+            "respectfully disagree",
+            "sentence",
+            "respectfully",
+            "disagree",
+            "rule"
+        ]
+    },
+    {
+        "start": 3134.0,
+        "end": 3142.0,
+        "text": " expires Ms. Rico will be subject  to X number of months of supervised release.  I think what that means is that when Ms.  Rico was released from prison she serves",
+        "sentence_count": 4,
+        "keywords": [
+            "expires",
+            "Rico",
+            "supervised release",
+            "release",
+            "subject",
+            "number",
+            "months",
+            "supervised",
+            "serves",
+            "released"
+        ]
+    },
+    {
+        "start": 3142.0,
+        "end": 3150.0,
+        "text": " X number of months of supervised release  and that doesn't stop because Ms.  Rico makes the unilateral decision to  abscond.",
+        "sentence_count": 4,
+        "keywords": [
+            "supervised release",
+            "Rico makes",
+            "number",
+            "months",
+            "supervised",
+            "release",
+            "stop",
+            "unilateral decision",
+            "Rico",
+            "abscond"
+        ]
+    },
+    {
+        "start": 3150.0,
+        "end": 3158.0,
+        "text": " I'd like to talk about Section 3583 I.  As council mentioned that statute was  enacted in 1994 and the  reason it was enacted is that there were",
+        "sentence_count": 4,
+        "keywords": [
+            "Section",
+            "talk",
+            "enacted",
+            "council mentioned",
+            "council",
+            "mentioned",
+            "statute",
+            "reason"
+        ]
+    },
+    {
+        "start": 3158.0,
+        "end": 3166.0,
+        "text": " administration problems prior to the  enactment of that statute. Several courts  invented these judge made rules to try  to get around them. Finally Congress",
+        "sentence_count": 4,
+        "keywords": [
+            "administration problems",
+            "problems prior",
+            "Finally Congress",
+            "administration",
+            "statute",
+            "problems",
+            "prior",
+            "enactment",
+            "courts invented",
+            "judge made"
+        ]
+    },
+    {
+        "start": 3166.0,
+        "end": 3174.0,
+        "text": " solved the problem of Section 3583 I  but I think it's notable that  Congress enacted the statute with a very  reticulated language that self-consciously",
+        "sentence_count": 4,
+        "keywords": [
+            "Congress enacted",
+            "reticulated language",
+            "Section",
+            "Congress",
+            "solved",
+            "self-consciously",
+            "problem",
+            "notable",
+            "enacted",
+            "statute"
+        ]
+    },
+    {
+        "start": 3174.0,
+        "end": 3182.0,
+        "text": " departed from the parole equivalent  Section 4210C. It specifically  required that the warrant issue  during the term and only then",
+        "sentence_count": 4,
+        "keywords": [
+            "equivalent Section",
+            "parole equivalent",
+            "Section",
+            "departed",
+            "parole",
+            "equivalent",
+            "specifically required",
+            "warrant issue",
+            "specifically",
+            "required"
+        ]
+    },
+    {
+        "start": 3182.0,
+        "end": 3190.0,
+        "text": " was jurisdiction extended until after  the term. So that would have been a perfect  opportunity for Congress to enact the  same type of fugitive tolling rule that already",
+        "sentence_count": 4,
+        "keywords": [
+            "jurisdiction extended",
+            "term",
+            "jurisdiction",
+            "extended",
+            "Congress",
+            "perfect opportunity",
+            "fugitive tolling",
+            "tolling rule",
+            "perfect",
+            "opportunity"
+        ]
+    },
+    {
+        "start": 3190.0,
+        "end": 3198.0,
+        "text": " existed for parole. Congress's  decision not to do that I do think sheds  a light on the question presented here.  I want to say a word about Section",
+        "sentence_count": 4,
+        "keywords": [
+            "existed",
+            "parole",
+            "Congress decision",
+            "Section",
+            "question presented",
+            "Congress",
+            "decision",
+            "sheds",
+            "light",
+            "question"
+        ]
+    },
+    {
+        "start": 3198.0,
+        "end": 3206.0,
+        "text": " 3601 the statute that  says that the supervisor shall  be supervised which council characterizes  getting the government 98%",
+        "sentence_count": 4,
+        "keywords": [
+            "council characterizes",
+            "government",
+            "statute",
+            "supervisor",
+            "supervised",
+            "council",
+            "characterizes"
+        ]
+    },
+    {
+        "start": 3206.0,
+        "end": 3214.0,
+        "text": " there to the two yard line.  I don't think that statute is very helpful to  the government. All it says is that the  person shall be supervised. Moreover",
+        "sentence_count": 4,
+        "keywords": [
+            "yard line",
+            "line",
+            "yard",
+            "government",
+            "supervised",
+            "statute",
+            "helpful",
+            "person"
+        ]
+    },
+    {
+        "start": 3214.0,
+        "end": 3222.0,
+        "text": " that's just a prefatory provision  in a portion of the US code addressing  the duties of probation officers  that appears in Section 3601.",
+        "sentence_count": 4,
+        "keywords": [
+            "prefatory provision",
+            "code addressing",
+            "probation officers",
+            "Section",
+            "prefatory",
+            "provision",
+            "portion",
+            "code",
+            "addressing",
+            "duties"
+        ]
+    },
+    {
+        "start": 3222.0,
+        "end": 3230.0,
+        "text": " The next section is about how probation  officers are appointed and then the next  section after that concerns the duties  of probation officers. So I think it's hard",
+        "sentence_count": 4,
+        "keywords": [
+            "probation officers",
+            "section",
+            "probation",
+            "officers",
+            "appointed",
+            "concerns",
+            "duties",
+            "hard"
+        ]
+    },
+    {
+        "start": 3230.0,
+        "end": 3238.0,
+        "text": " to read that as recognizing a fugitive  tolling doctrine. It says nothing  about tolling, nothing about  extending the sentencing court's jurisdiction,",
+        "sentence_count": 4,
+        "keywords": [
+            "tolling doctrine",
+            "fugitive tolling",
+            "doctrine",
+            "tolling",
+            "read",
+            "recognizing",
+            "fugitive",
+            "court jurisdiction",
+            "sentencing court",
+            "jurisdiction"
+        ]
+    },
+    {
+        "start": 3238.0,
+        "end": 3246.0,
+        "text": " nothing about stripping people of credit  and those are all topics that are addressed  in other portions of the sentencing  reform act that do not enact",
+        "sentence_count": 4,
+        "keywords": [
+            "stripping people",
+            "sentencing reform",
+            "reform act",
+            "enact",
+            "stripping",
+            "people",
+            "credit",
+            "topics",
+            "addressed",
+            "portions"
+        ]
+    },
+    {
+        "start": 3246.0,
+        "end": 3254.0,
+        "text": " the government's proposed rule.  Ultimately this case boils down to the  decision that there's just no statutory  support for the government's claim",
+        "sentence_count": 4,
+        "keywords": [
+            "proposed rule",
+            "government proposed",
+            "government claim",
+            "rule",
+            "government",
+            "proposed",
+            "case boils",
+            "statutory support",
+            "Ultimately",
+            "claim"
+        ]
+    },
+    {
+        "start": 3254.0,
+        "end": 3262.0,
+        "text": " that Ms. Rico could have been simultaneously  on supervised release  for purposes of finding a violation  of the conditions but off",
+        "sentence_count": 4,
+        "keywords": [
+            "supervised release",
+            "Rico",
+            "simultaneously",
+            "supervised",
+            "release",
+            "purposes",
+            "finding",
+            "violation",
+            "conditions"
+        ]
+    },
+    {
+        "start": 3262.0,
+        "end": 3270.0,
+        "text": " supervised release for purposes  of determining whether she was serving her  sentence. Because there's no textual  support for fugitive tolling",
+        "sentence_count": 4,
+        "keywords": [
+            "supervised release",
+            "supervised",
+            "sentence",
+            "fugitive tolling",
+            "release",
+            "purposes",
+            "determining",
+            "serving",
+            "textual support",
+            "tolling"
+        ]
+    },
+    {
+        "start": 3270.0,
+        "end": 3276.0,
+        "text": " we would ask the court to reverse the  judgment below. Thank you.  Thank you council. The case is submitted.",
+        "sentence_count": 3,
+        "keywords": [
+            "court",
+            "reverse",
+            "judgment",
+            "council",
+            "submitted",
+            "case"
+        ]
+    }
+]
