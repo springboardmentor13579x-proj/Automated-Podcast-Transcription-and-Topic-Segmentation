@@ -1,0 +1,15 @@
+# Ignore Python junk
+__pycache__/
+*.pyc
+
+# Ignore React heavy files
+node_modules/
+dist/
+.env
+
+# Ignore Large Audio Data
+data/raw/
+data/processed/
+*.mp3
+*.wav
+*.flac
