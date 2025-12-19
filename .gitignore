@@ -8,15 +8,21 @@ __pycache__/
 # Environment variables
 .env
 
-# Audio files
+# OS files
+.DS_Store
+Thumbs.db
+
+# Audio files (large files, ignore)
 *.wav
 *.mp3
 
 # Generated data
+# Except .gitkeep to maintain folder structure
 *.json
-
-# OS files
-.DS_Store
-Thumbs.db
+data/clean_audio/*.wav
+data/raw_audio/*.mp3
+data/segments/*.json
 data/transcripts/*.txt
-data/**
+
+# Keep empty folders tracked
+**/.gitkeep
