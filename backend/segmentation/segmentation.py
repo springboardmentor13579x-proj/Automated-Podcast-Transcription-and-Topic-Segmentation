@@ -98,18 +98,18 @@ def format_time(seconds):
 # Main pipeline
 # -------------------------------
 def main():
-    transcript_dir = "../transcripts"
-    output_dir = "segments"
+    transcript_dir = "../../data/transcripts"
+    output_dir = "../../data/segments"
 
     os.makedirs(output_dir, exist_ok=True)
 
     for file in os.listdir(transcript_dir):
         if file.endswith(".txt"):
-            print(f"\n🔹 Processing transcript: {file}")
+            print(f"\n Processing transcript: {file}")
             text = load_transcript(os.path.join(transcript_dir, file))
 
             segments = embedding_segmentation(text)
-            print(f"✔ Total Segments Found: {len(segments)}")
+            print(f"Total Segments Found: {len(segments)}")
 
             segment_duration = TOTAL_AUDIO_DURATION // len(segments)
 

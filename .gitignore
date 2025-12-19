@@ -1,10 +1,22 @@
-# Ignore virtual environment
+# Virtual environment
 venv/
 
-# Ignore Python cache
+# Python cache
 __pycache__/
 *.pyc
 
-# Ignore system files
+# Environment variables
+.env
+
+# Audio files
+*.wav
+*.mp3
+
+# Generated data
+*.json
+
+# OS files
 .DS_Store
 Thumbs.db
+data/transcripts/*.txt
+data/**
