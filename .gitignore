@@ -1,0 +1,15 @@
+# Large / raw data
+audio_raw/
+audio_processed/
+
+# Generated transcripts
+transcripts/asr/
+transcripts/final/
+
+# Python
+__pycache__/
+venv/
+
+# OS files
+.DS_Store
+Thumbs.db
