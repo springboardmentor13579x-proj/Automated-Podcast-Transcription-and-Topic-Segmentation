@@ -11,18 +11,3 @@ __pycache__/
 # OS files
 .DS_Store
 Thumbs.db
-
-# Audio files (large files, ignore)
-*.wav
-*.mp3
-
-# Generated data
-# Except .gitkeep to maintain folder structure
-*.json
-data/clean_audio/*.wav
-data/raw_audio/*.mp3
-data/segments/*.json
-data/transcripts/*.txt
-
-# Keep empty folders tracked
-**/.gitkeep
