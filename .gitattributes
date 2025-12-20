@@ -3,3 +3,4 @@
 *.npy filter=lfs diff=lfs merge=lfs -text
 *.txt filter=lfs diff=lfs merge=lfs -text
 audio_processed/*.wav filter=lfs diff=lfs merge=lfs -text
+audio_raw/*.wav filter=lfs diff=lfs merge=lfs -text
