@@ -1,0 +1,226 @@
+[
+    {
+        "segment_id": 1,
+        "start_time": 0.0,
+        "end_time": 35.42,
+        "text": " brings in here today? Hi there. I just last night I was I went for a run and twisted my ankle I think. I stepped on something and it really hurts. Okay and so when did you have the injury?",
+        "keywords": [
+            "went",
+            "twisted",
+            "today",
+            "think",
+            "stepped"
+        ],
+        "summary": "I just last night I was I went for a run and twisted my ankle I think. Okay and so when did you have the injury?"
+    },
+    {
+        "segment_id": 2,
+        "start_time": 35.42,
+        "end_time": 70.84,
+        "text": "It was just yesterday. Okay. Yeah it was just yesterday that it happened. Okay and do you remember if you twisted it to the tips of your ankle like did it twist inwards or outwards? Inwards yeah I feel like I inverted my ankle.",
+        "keywords": [
+            "yesterday",
+            "yeah",
+            "okay",
+            "like",
+            "ankle"
+        ],
+        "summary": "Okay and do you remember if you twisted it to the tips of your ankle like did it twist inwards or outwards? Inwards yeah I feel like I inverted my ankle."
+    },
+    {
+        "segment_id": 3,
+        "start_time": 70.84,
+        "end_time": 106.26,
+        "text": "Okay and so since then were you able to stand up and were you not able to bear any weight? No I was able to kind of finish the like I just finished the walk I was able to walk home. It didn't hurt that bad immediately it was a bit painful but the pain really started a few hours later and it's been pretty much constant ever since. Okay okay so it kind of got worse over the last day. Yeah and do you notice any kind of bruising redness fumbling any skin changes?",
+        "keywords": [
+            "able",
+            "kind",
+            "okay",
+            "walk",
+            "weight"
+        ],
+        "summary": "It didn't hurt that bad immediately it was a bit painful but the pain really started a few hours later and it's been pretty much constant ever since. Yeah and do you notice any kind of bruising redness fumbling any skin changes?"
+    },
+    {
+        "segment_id": 4,
+        "start_time": 106.26,
+        "end_time": 141.68,
+        "text": "No I haven't really noticed really any swelling or skin changes yeah no skin changes and no swelling. Okay and how would you describe the pain? A dull achy pain or a sharp pain? A dull and achy pain. Okay okay and has this happened to you on your ankle before?",
+        "keywords": [
+            "pain",
+            "okay",
+            "really",
+            "skin",
+            "achy"
+        ],
+        "summary": "No I haven't really noticed really any swelling or skin changes yeah no skin changes and no swelling. A dull achy pain or a sharp pain?"
+    },
+    {
+        "segment_id": 5,
+        "start_time": 141.68,
+        "end_time": 177.1,
+        "text": "Um I feel like that maybe I've done something like this when I was younger maybe playing basketball or something like this. Yeah I've twisted my ankle before. Okay and does this pain stay where's the pain exactly right side of your ankle or on your left like interior side? It's on the right side outside of the ankle. Which ankle is this?",
+        "keywords": [
+            "like",
+            "ankle",
+            "ve",
+            "right",
+            "maybe"
+        ],
+        "summary": "Um I feel like that maybe I've done something like this when I was younger maybe playing basketball or something like this. Okay and does this pain stay where's the pain exactly right side of your ankle or on your left like interior side?"
+    },
+    {
+        "segment_id": 6,
+        "start_time": 177.1,
+        "end_time": 212.52,
+        "text": "Oh sorry on the right ankle. Okay so so it hurts on the right side of the right ankle. Yeah exactly. Okay um and does the pain radiate or move actually in your feet? Oh like you kind of feel it around on the sole of my foot as well mostly on that outside though.",
+        "keywords": [
+            "right",
+            "ankle",
+            "okay",
+            "oh",
+            "sole"
+        ],
+        "summary": "Okay um and does the pain radiate or move actually in your feet? Oh like you kind of feel it around on the sole of my foot as well mostly on that outside though."
+    },
+    {
+        "segment_id": 7,
+        "start_time": 212.52,
+        "end_time": 247.94,
+        "text": "Okay and is there anything that makes the pain better or worse? It gets worse really if I move my ankle or if I'm standing on it. Okay and anything that makes it better? All right just if I rest and avoid moving it. Okay have you noticed any fevers which kills?",
+        "keywords": [
+            "okay",
+            "worse",
+            "makes",
+            "better",
+            "standing"
+        ],
+        "summary": "It gets worse really if I move my ankle or if I'm standing on it. All right just if I rest and avoid moving it."
+    },
+    {
+        "segment_id": 8,
+        "start_time": 247.94,
+        "end_time": 283.36,
+        "text": "Uh no. Any pain in any other joints besides your ankle? No just my my right ankle. Okay any appetite or weight changes? No I've been just training for this race coming up so I mean I've been trying to work on my fitness a little bit but my weight's been relatively stable.",
+        "keywords": [
+            "weight",
+            "ve",
+            "just",
+            "ankle",
+            "work"
+        ],
+        "summary": "Okay any appetite or weight changes? No I've been just training for this race coming up so I mean I've been trying to work on my fitness a little bit but my weight's been relatively stable."
+    },
+    {
+        "segment_id": 9,
+        "start_time": 283.36,
+        "end_time": 318.78,
+        "text": "Any weakness right extremities or any kind of numbness or tingling sensation? Uh no numbness or tingling and no muscle weakness either. Okay have you been diagnosed with any medical conditions in the past? Um I had um diarrhea a few months ago and I was given a fluoroquinolone as an antibiotic Okay so that was two months ago. And any medications that you're on currently?",
+        "keywords": [
+            "weakness",
+            "um",
+            "tingling",
+            "ago",
+            "months"
+        ],
+        "summary": "Any weakness right extremities or any kind of numbness or tingling sensation? Um I had um diarrhea a few months ago and I was given a fluoroquinolone as an antibiotic Okay so that was two months ago."
+    },
+    {
+        "segment_id": 10,
+        "start_time": 318.78,
+        "end_time": 354.2,
+        "text": "Um I take um vitamin D and uh some other vitamins and vitamin A as well I guess to help my my skin and vitamin D for my my bones. Okay any allergies during medications or environmental issues? No allergies no. Any hospitalizations or previous surgeries? No.",
+        "keywords": [
+            "vitamin",
+            "um",
+            "allergies",
+            "vitamins",
+            "surgeries"
+        ],
+        "summary": "Um I take um vitamin D and uh some other vitamins and vitamin A as well I guess to help my my skin and vitamin D for my my bones. Okay any allergies during medications or environmental issues?"
+    },
+    {
+        "segment_id": 11,
+        "start_time": 354.2,
+        "end_time": 389.62,
+        "text": "Any family history of any musculoskeletal condition the rheumatological conditions um anything that you know of? My grandparents have arthritis um and my uh my dad had to get open for it. Okay and do your grandparents have rheumatoid arthritis or osteoarthritis? I think osteo yeah okay okay um and do you currently work? Uh I do yeah I work um as a software engineer.",
+        "keywords": [
+            "um",
+            "okay",
+            "yeah",
+            "uh",
+            "arthritis"
+        ],
+        "summary": "Any family history of any musculoskeletal condition the rheumatological conditions um anything that you know of? I think osteo yeah okay okay um and do you currently work?"
+    },
+    {
+        "segment_id": 12,
+        "start_time": 389.62,
+        "end_time": 425.04,
+        "text": "Okay um and what's your living situation? Right now I'm actually living alone in an apartment. Okay um and do you smoke at all? No never I can't with uh with all this training for yeah uh the ways and stuff like that. Okay that's good.",
+        "keywords": [
+            "okay",
+            "uh",
+            "um",
+            "living",
+            "training"
+        ],
+        "summary": "Right now I'm actually living alone in an apartment. No never I can't with uh with all this training for yeah uh the ways and stuff like that."
+    },
+    {
+        "segment_id": 13,
+        "start_time": 425.04,
+        "end_time": 460.46,
+        "text": "Any recognition drugs like marijuana cocaine heroin anything like that before? No I've never used anything like that. Okay and how about how? Rarely I'll have maybe a glass of wine like once every couple of months but it's pretty infrequent. Okay um all right so this is a few questions uh so right now with your right ankle do you have uh so you mentioned you don't have any swelling but do you feel essentially kind of um redness or what?",
+        "keywords": [
+            "like",
+            "right",
+            "okay",
+            "um",
+            "uh"
+        ],
+        "summary": "Rarely I'll have maybe a glass of wine like once every couple of months but it's pretty infrequent. Okay um all right so this is a few questions uh so right now with your right ankle do you have uh so you mentioned you don't have any swelling but do you feel essentially kind of um redness or what?"
+    },
+    {
+        "segment_id": 14,
+        "start_time": 460.46,
+        "end_time": 495.88,
+        "text": "No nothing like that. Okay if you press down on your ankle does it hurt at all? I a little bit of pain on the right um outside but it's not uh it doesn't hurt that bad. So no? Yeah I'll say no.",
+        "keywords": [
+            "hurt",
+            "yeah",
+            "um",
+            "uh",
+            "right"
+        ],
+        "summary": "Okay if you press down on your ankle does it hurt at all? I a little bit of pain on the right um outside but it's not uh it doesn't hurt that bad."
+    },
+    {
+        "segment_id": 15,
+        "start_time": 495.88,
+        "end_time": 531.3,
+        "text": "Okay um and if you kind of uh are you able to uh move your ankle at all? I can yeah I can move it around a little bit I'm trying to avoid that though just because it does hurt but I can move it around. Are you able to stand up and walk or are you able to do that? I can yeah just short periods of time but I can walk on it. Okay um yeah so definitely uh what we'll do is uh we might need to get the proper physical examination done um to make sure there's no fracture most likely though uh seems that this may just be an ankle sprain and due to you burning your ankle the other day um what we can do is uh usually we just uh immobilize the ankle uh we recommend applying ice uh you can take some amsac like Advil to help you um and it should uh it should get better on its own with some physiotherapy with squall uh however if we find that on physical examination you are having significant pain on palpation or any kind of bony pain you might also require to get x-ray of the right foot and ankle as well as just your lower leg so yeah we'll have you come come in person then go from there and see if you need an x-ray.",
+        "keywords": [
+            "uh",
+            "um",
+            "just",
+            "ankle",
+            "yeah"
+        ],
+        "summary": "I can yeah I can move it around a little bit I'm trying to avoid that though just because it does hurt but I can move it around. Okay um yeah so definitely uh what we'll do is uh we might need to get the proper physical examination done um to make sure there's no fracture most likely though uh seems that this may just be an ankle sprain and due to you burning your ankle the other day um what we can do is uh usually we just uh immobilize the ankle uh we recommend applying ice uh you can take some amsac like Advil to help you um and it should uh it should get better on its own with some physiotherapy with squall uh however if we find that on physical examination you are having significant pain on palpation or any kind of bony pain you might also require to get x-ray of the right foot and ankle as well as just your lower leg so yeah we'll have you come come in person then go from there and see if you need an x-ray."
+    },
+    {
+        "segment_id": 16,
+        "start_time": 531.3,
+        "end_time": 566.72,
+        "text": "Okay that sounds good thank you. All right take care.",
+        "keywords": [
+            "thank",
+            "sounds",
+            "right",
+            "okay",
+            "good"
+        ],
+        "summary": "Okay that sounds good thank you. All right take care."
+    }
+]

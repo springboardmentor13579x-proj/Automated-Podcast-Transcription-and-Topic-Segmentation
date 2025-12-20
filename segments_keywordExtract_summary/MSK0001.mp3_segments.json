@@ -1,0 +1,324 @@
+[
+    {
+        "segment_id": 1,
+        "start_time": 0.0,
+        "end_time": 23.02,
+        "text": " And what brings you to the emergency department today? Low back pain. Okay, and where exactly is the back pain? So the pain is just right in the lower back. Just in the lower back?",
+        "keywords": [
+            "pain",
+            "just",
+            "lower",
+            "right",
+            "today"
+        ],
+        "summary": " And what brings you to the emergency department today? So the pain is just right in the lower back."
+    },
+    {
+        "segment_id": 2,
+        "start_time": 23.02,
+        "end_time": 46.05,
+        "text": "Okay, and when did this pain start? It started yesterday. I was unloading groceries for my pickup truck when it suddenly started. And did you make any kind of movements or do you feel it's really heavy? I'm not sure.",
+        "keywords": [
+            "did",
+            "started",
+            "unloading",
+            "yesterday",
+            "sure"
+        ],
+        "summary": "I was unloading groceries for my pickup truck when it suddenly started. And did you make any kind of movements or do you feel it's really heavy?"
+    },
+    {
+        "segment_id": 3,
+        "start_time": 46.05,
+        "end_time": 69.07,
+        "text": "I just noticed the pain after that. And what kind of pain are you experiencing? Is it like a dull cramping pain or is it like shock, stabbing? It feels like it's stabbing straight in my lower back. Okay, and on a scale of one to 10, one being like at least, if I felt like 10 being the worst, how much would you rate this?",
+        "keywords": [
+            "like",
+            "pain",
+            "stabbing",
+            "10",
+            "worst"
+        ],
+        "summary": "Is it like a dull cramping pain or is it like shock, stabbing? Okay, and on a scale of one to 10, one being like at least, if I felt like 10 being the worst, how much would you rate this?"
+    },
+    {
+        "segment_id": 4,
+        "start_time": 69.07,
+        "end_time": 92.1,
+        "text": "If I'm sitting completely still like I am right now, I'd say two out of 10. Okay, and when does it get worse? Anytime I move or bend my back or even toss, it worsens the pain significantly. And has this pain changed at all since yesterday? No, it's been the same awful pain this whole time.",
+        "keywords": [
+            "pain",
+            "worsens",
+            "yesterday",
+            "worse",
+            "toss"
+        ],
+        "summary": "If I'm sitting completely still like I am right now, I'd say two out of 10. Anytime I move or bend my back or even toss, it worsens the pain significantly."
+    },
+    {
+        "segment_id": 5,
+        "start_time": 92.1,
+        "end_time": 115.12,
+        "text": "And have you ever had this kind of pain before? I've had back pain over the years, but nothing like this before. And does it pain going anywhere? Does it just stay in your back? I also feel the pain into my right leg.",
+        "keywords": [
+            "pain",
+            "does",
+            "years",
+            "ve",
+            "right"
+        ],
+        "summary": "I've had back pain over the years, but nothing like this before. I also feel the pain into my right leg."
+    },
+    {
+        "segment_id": 6,
+        "start_time": 115.12,
+        "end_time": 138.15,
+        "text": "And is it the same kind of aching or like stabbing pain that goes into your right leg? No. Or is it just like an aching pain? It's an aching pain. And do you have any other symptoms besides the pain?",
+        "keywords": [
+            "pain",
+            "aching",
+            "like",
+            "symptoms",
+            "stabbing"
+        ],
+        "summary": "And is it the same kind of aching or like stabbing pain that goes into your right leg? Or is it just like an aching pain?"
+    },
+    {
+        "segment_id": 7,
+        "start_time": 138.15,
+        "end_time": 161.17,
+        "text": "Are you having any kind of weakness or any other changes in your health? No, it's just the low back pain. Have you ever experienced any kind of trauma to your back that's hit you or you fall down? No, I can't remember any injuries like that in the past. Any fevers or chills or night sweats?",
+        "keywords": [
+            "kind",
+            "weakness",
+            "sweats",
+            "trauma",
+            "remember"
+        ],
+        "summary": "Are you having any kind of weakness or any other changes in your health? Have you ever experienced any kind of trauma to your back that's hit you or you fall down?"
+    },
+    {
+        "segment_id": 8,
+        "start_time": 161.17,
+        "end_time": 184.2,
+        "text": "No fever, no chills, no night sweats. Any symptoms of feeling very tired, too thin for your back? No, it's been okay recently. Any changes to your skin at all? Nope.",
+        "keywords": [
+            "tired",
+            "symptoms",
+            "sweats",
+            "skin",
+            "recently"
+        ],
+        "summary": "No fever, no chills, no night sweats. Any symptoms of feeling very tired, too thin for your back?"
+    },
+    {
+        "segment_id": 9,
+        "start_time": 184.2,
+        "end_time": 207.22,
+        "text": "Any pain in your joints at all? Just the back pain. Okay. Any new pokes or symptoms, any rolls or anything like that? No.",
+        "keywords": [
+            "pain",
+            "symptoms",
+            "rolls",
+            "pokes",
+            "okay"
+        ],
+        "summary": "Just the back pain. Any new pokes or symptoms, any rolls or anything like that?"
+    },
+    {
+        "segment_id": 10,
+        "start_time": 207.22,
+        "end_time": 230.25,
+        "text": "Any changes in your bowel movements at all or your constipation or anything? Nothing like that. Good, regular. How about any urinary problems? No, nothing to report there.",
+        "keywords": [
+            "urinary",
+            "report",
+            "regular",
+            "problems",
+            "movements"
+        ],
+        "summary": "Any changes in your bowel movements at all or your constipation or anything? How about any urinary problems?"
+    },
+    {
+        "segment_id": 11,
+        "start_time": 230.25,
+        "end_time": 253.27,
+        "text": "Okay, and how's your appetite? Appetite's been normal. Any significant weight loss or weight gain recently? No, the weight's been about the same. Okay, any recent infections that you know of?",
+        "keywords": [
+            "weight",
+            "appetite",
+            "okay",
+            "recently",
+            "significant"
+        ],
+        "summary": "Any significant weight loss or weight gain recently? Okay, any recent infections that you know of?"
+    },
+    {
+        "segment_id": 12,
+        "start_time": 253.27,
+        "end_time": 276.3,
+        "text": "No, I've been feeling well otherwise. Any tingling sensation or numbness in your back or lower limbs? Like? No numbness or tingling. Any muscle weakness at all?",
+        "keywords": [
+            "numbness",
+            "tingling",
+            "ve",
+            "weakness",
+            "sensation"
+        ],
+        "summary": "Any tingling sensation or numbness in your back or lower limbs? No numbness or tingling."
+    },
+    {
+        "segment_id": 13,
+        "start_time": 276.3,
+        "end_time": 299.32,
+        "text": "No muscle weakness. Have you been having any paracol dysfunction? No concerns with erectile dysfunction. And any issues with incontinence, like having accidents at all at night or during the day? No, I haven't had any problems with bowel or bladder incontinence.",
+        "keywords": [
+            "incontinence",
+            "dysfunction",
+            "having",
+            "weakness",
+            "problems"
+        ],
+        "summary": "And any issues with incontinence, like having accidents at all at night or during the day? No, I haven't had any problems with bowel or bladder incontinence."
+    },
+    {
+        "segment_id": 14,
+        "start_time": 299.32,
+        "end_time": 322.35,
+        "text": "All right, in terms of your past medical history, have you been diagnosed with any conditions like high blood pressure, diabetes? Type two diabetes. Okay, and do you take any medications for it, right? Insulin for diabetes. And any other medications at all?",
+        "keywords": [
+            "diabetes",
+            "right",
+            "medications",
+            "terms",
+            "pressure"
+        ],
+        "summary": "All right, in terms of your past medical history, have you been diagnosed with any conditions like high blood pressure, diabetes? Okay, and do you take any medications for it, right?"
+    },
+    {
+        "segment_id": 15,
+        "start_time": 322.35,
+        "end_time": 345.37,
+        "text": "Just been taking Tylenol for the back pain. Has that worked for you at all, or has it made a difference? Maybe it's taken the edge off a little bit, but it hasn't done too much to help the pain. Okay, any allergies? Nope.",
+        "keywords": [
+            "pain",
+            "worked",
+            "taking",
+            "tylenol",
+            "taken"
+        ],
+        "summary": "Just been taking Tylenol for the back pain. Maybe it's taken the edge off a little bit, but it hasn't done too much to help the pain."
+    },
+    {
+        "segment_id": 16,
+        "start_time": 345.37,
+        "end_time": 368.4,
+        "text": "Any previous surgeries? I had hemorrhoids removed three years ago. Any hospitalizations before? Nope, those were just day surgery. Okay.",
+        "keywords": [
+            "years",
+            "surgery",
+            "surgeries",
+            "removed",
+            "previous"
+        ],
+        "summary": "I had hemorrhoids removed three years ago. Nope, those were just day surgery."
+    },
+    {
+        "segment_id": 17,
+        "start_time": 368.4,
+        "end_time": 391.42,
+        "text": "Any family history of any conditions in cancers? My father had prostate cancer. And currently right now, do you work? I'm a retired school teacher. Okay, and where do you live?",
+        "keywords": [
+            "work",
+            "teacher",
+            "school",
+            "right",
+            "retired"
+        ],
+        "summary": "Any family history of any conditions in cancers? I'm a retired school teacher."
+    },
+    {
+        "segment_id": 18,
+        "start_time": 391.42,
+        "end_time": 414.44,
+        "text": "I live alone in a house, not too far from here actually. And do you drink at all? Occasionally, maybe I'll have a glass of red wine on the weekend or something like that, but not too often. And do you smoke? Yeah, I smoke a pack of cigarettes per day.",
+        "keywords": [
+            "smoke",
+            "yeah",
+            "wine",
+            "weekend",
+            "red"
+        ],
+        "summary": "Occasionally, maybe I'll have a glass of red wine on the weekend or something like that, but not too often. Yeah, I smoke a pack of cigarettes per day."
+    },
+    {
+        "segment_id": 19,
+        "start_time": 414.44,
+        "end_time": 437.47,
+        "text": "And for how long have you smoked? About 40 years. And do you use any kind of recreational drugs? Never. And how's your diet going?",
+        "keywords": [
+            "years",
+            "use",
+            "smoked",
+            "recreational",
+            "long"
+        ],
+        "summary": "And do you use any kind of recreational drugs? And how's your diet going?"
+    },
+    {
+        "segment_id": 20,
+        "start_time": 437.47,
+        "end_time": 460.49,
+        "text": "It's balanced. I feel like it's pretty normal, mostly home cooked meals. There's some variety of vegetables, other meats and fish, I would say it's pretty balanced. Okay, there's a few more questions for you. Are you currently sexually active?",
+        "keywords": [
+            "balanced",
+            "pretty",
+            "variety",
+            "vegetables",
+            "say"
+        ],
+        "summary": "I feel like it's pretty normal, mostly home cooked meals. There's some variety of vegetables, other meats and fish, I would say it's pretty balanced."
+    },
+    {
+        "segment_id": 21,
+        "start_time": 460.49,
+        "end_time": 483.52,
+        "text": "Yes, I am. And who are you sexually active with? Are you partners at all? No new partners, just my girlfriend. And how many, sorry, how many?",
+        "keywords": [
+            "partners",
+            "yes",
+            "sorry",
+            "sexually",
+            "new"
+        ],
+        "summary": "And who are you sexually active with? No new partners, just my girlfriend."
+    },
+    {
+        "segment_id": 22,
+        "start_time": 483.52,
+        "end_time": 506.54,
+        "text": "Just my girlfriend uses me. And have you been sexually active with more than one partner in the past year? Yes, I have. Two women over the past year. And do you use any kind of protection?",
+        "keywords": [
+            "year",
+            "past",
+            "yes",
+            "uses",
+            "women"
+        ],
+        "summary": "And have you been sexually active with more than one partner in the past year? And do you use any kind of protection?"
+    },
+    {
+        "segment_id": 23,
+        "start_time": 506.54,
+        "end_time": 529.57,
+        "text": "Yes, always use products. Okay, all right. So now I'm just going to get the patient's vitals.",
+        "keywords": [
+            "yes",
+            "vitals",
+            "use",
+            "right",
+            "products"
+        ],
+        "summary": "Yes, always use products. So now I'm just going to get the patient's vitals."
+    }
+]
