@@ -1,0 +1,697 @@
+0.00-4.00 :  to do now is I decide how to fulfill what your stuff is.
+4.00-10.00 :  So it kind of does make sense of it because when we get into the end of the meeting, we'll
+10.00-14.00 :  kind of talk about action and design and both the background.
+14.00-16.00 :  Everything I have is kind of background.
+16.00-17.00 :  Are we all ready to do?
+17.00-26.00 :  Well, Heather and in this meeting, if we just recap on the minutes from the last meeting,
+26.00-34.00 :  we decided on our target group being 1575.
+34.00-40.00 :  We decided that it was going to be normally a chargeable battery power that we're going to
+40.00-47.00 :  create our audio visual and other functions into these categories.
+47.00-52.00 :  And I told you guys about the three new requirements, like ignoring tie-tacks, ignoring
+52.00-59.00 :  tie-tacks, and set the TV and trying to incorporate the corporate colors to them.
+59.00-61.00 :  Start with the last meeting.
+61.00-70.00 :  So if we have these three presentations and then if you can have anything to kind of,
+70.00-75.00 :  that you know you're going to want to discuss, maybe just make a little bit of it and then I'll have all of the discussion
+75.00-77.00 :  that I do this time.
+77.00-83.00 :  And so if we start off with Andrew and then Freddie and I do this,
+83.00-85.00 :  is that right?
+85.00-88.00 :  And then after that, we'll have to make some decisions.
+88.00-89.00 :  Okay.
+89.00-90.00 :  Start.
+90.00-91.00 :  Yeah.
+91.00-92.00 :  Nice.
+92.00-95.00 :  I'm going to get this.
+95.00-101.00 :  Good.
+101.00-108.00 :  Good and quick.
+108.00-111.00 :  What would it be like to switch recognition mode?
+111.00-117.00 :  Should we say we're going to try maybe in front of the other one?
+117.00-123.00 :  But it also point out that the final objective of this meeting is to reach this
+123.00-126.00 :  decision on concepts of the problem.
+126.00-127.00 :  Okay.
+127.00-132.00 :  So that's kind of the end result.
+132.00-135.00 :  Okay.
+135.00-136.00 :  All right.
+136.00-145.00 :  So function F8.
+145.00-148.00 :  Okay.
+148.00-151.00 :  I think it's working.
+151.00-158.00 :  Okay.
+158.00-159.00 :  Okay.
+159.00-163.00 :  So.
+163.00-166.00 :  Oh, I'll go.
+166.00-167.00 :  Okay.
+167.00-168.00 :  Okay.
+168.00-169.00 :  See you.
+169.00-170.00 :  Bye.
+175.00-182.00 :  Okay.
+182.00-183.00 :  Okay.
+183.00-184.00 :  Okay.
+184.00-185.00 :  Okay.
+185.00-186.00 :  Okay.
+186.00-187.00 :  All right.
+187.00-188.00 :  Okay.
+188.00-192.00 :  So this was the method that basically what I want to do here.
+192.00-193.00 :  We get into it.
+193.00-199.00 :  I want to show you all the background information I have that I think we need to acknowledge if we want this to be successful.
+199.00-200.00 :  Okay.
+200.00-202.00 :  So that's what we want to do.
+202.00-209.00 :  And then go through some of the way that I've dealt with that information and then sort of bring us all together and do it to see.
+209.00-212.00 :  So we're just going to see how this fits me over all the way.
+212.00-218.00 :  So I've tried to take a whole lot of market research and summarize it for us.
+218.00-224.00 :  And then I identify trends that are sort of instinctive and important to our our project plan.
+224.00-235.00 :  And then we're going to initiate a kind of discussion on design options so that sort of helps us to narrow it on on aspects that inform other other elements of the project.
+235.00-237.00 :  That makes sense.
+237.00-242.00 :  I thought that that will impact on the rest of what we do.
+242.00-243.00 :  Okay.
+243.00-248.00 :  So out of different figures and ratings of people in general.
+248.00-254.00 :  The number one thing that was found was that the television will not control a fancy looking for you.
+254.00-255.00 :  Okay.
+255.00-259.00 :  Not specify not a functional look.
+259.00-260.00 :  Okay.
+260.00-261.00 :  Fancy.
+261.00-266.00 :  However, this is where we kind of have to be very creative about it.
+266.00-268.00 :  Number two was that it be innovative.
+268.00-269.00 :  Okay.
+269.00-274.00 :  So that tells me that we have to find a way to be innovative without adding this necessary.
+274.00-277.00 :  And sort of functional bits to it.
+277.00-280.00 :  And third priority of ease of use.
+280.00-289.00 :  So again, that kind of gives us a general picture of how it has to be quite user friendly while still having technology.
+289.00-300.00 :  So I'll just say right away as a bit of a foreshadowing how we proceed with this and turn the marketing is that I think what we should think about is how the.
+300.00-307.00 :  How to think about how the innovation contributes to the luck and feel not so much to functionality.
+307.00-319.00 :  For example, like when you pick it up push it like an old lights out for something or it's got something else to it that just seems innovate because obviously the thing that the message is ease of use.
+319.00-324.00 :  So how do you make innovation makes it more easy to use?
+324.00-326.00 :  Well, that's I guess what would you go.
+326.00-334.00 :  Okay, then there's the other aspect of the back the market research I have here is on fashion style.
+334.00-336.00 :  As we agreed as a priority.
+336.00-339.00 :  Top of your keen fashion trend.
+339.00-345.00 :  That I read about says there's this emerging theme of fruit and vision.
+345.00-355.00 :  Especially in closing furniture when I first saw that I thought, well, do we want to actually try and think about this trend and how we add into it or we get right into it or we can put the stairway from it.
+355.00-368.00 :  Okay, my feeling is that we do want to observe this trend, but we want to think also about the fact that it sort of has to fit in with something which is not specifically electronic.
+368.00-375.00 :  Because I think what we're in what we're in is partly sort of on day core partly something like a computer.
+375.00-383.00 :  So I think we might want to be careful about how quickly we create like our remote control in the shape of an app.
+383.00-386.00 :  And then in terms of material trends after things to be solved.
+386.00-395.00 :  It might say ergonomic or friendly to handle which is which also indicated that last year this was this was not the case.
+395.00-402.00 :  So probably a lot of the competition market will be still in the last years mode.
+402.00-409.00 :  So if we try and really capitalize on that, that will be my favorite.
+409.00-412.00 :  So this is the summary of everything.
+412.00-417.00 :  Style is number one thing that market.
+417.00-427.00 :  Innovative design technology is also a must in that it seemed to be seen to be cutting edge, but ease of use has to be insured throughout that was like the number three thing.
+427.00-432.00 :  And then that then they're vibrant natural colors.
+432.00-437.00 :  That's the way I interpreted it anyway, softness and materials shape and function.
+437.00-441.00 :  And so I wrote net written at the bottom to give us sort of a context of discussion.
+441.00-444.00 :  Mac iPods something which is.
+444.00-447.00 :  I'd have to say very high tech and getting back to it.
+447.00-450.00 :  But when you hold it in your hand, it's like no buttons.
+450.00-457.00 :  I'm thinking how the Mac iPod is sort of last years because it's very hard and sort of glass in glassy.
+457.00-466.00 :  We imagine that we're taking some of the features in the map iPod and we're then making it's more of like a more of like a comfortable.
+466.00-472.00 :  More like maybe more vibrant.
+472.00-480.00 :  And then so this is with all that information, what I'm suggesting in this slide here is that we take these ideas.
+480.00-494.00 :  And then the more production side things that we think about shape materials and themes or series that go throughout sort of like.
+494.00-499.00 :  I don't know if you think of some kind of a theme that unifies it all we agree.
+499.00-504.00 :  So like marketing.
+504.00-507.00 :  Does that make sense?
+507.00-515.00 :  So like I showed a few ideas there just to kind of get us thinking along those lines, like lemon line green colors.
+515.00-516.00 :  Just idea.
+516.00-527.00 :  I'm thinking that some of these ideas will seem quite coherent if we use them in terms of what people associate them with in terms of texture, shape colors.
+527.00-537.00 :  Like the ones the ones which are most fond of in terms of giving like a theme to it would be like lemon or something like that, you know, some languages.
+537.00-546.00 :  Like you see a lot in other areas, but I see lots of websites and things that seem to associate.
+546.00-549.00 :  So you know, it's just just an idea.
+549.00-553.00 :  I'm thinking maybe we can incorporate some of these features into a fairly.
+553.00-563.00 :  Into something which is which seems to have something to which is almost gimmicky because like something to do with like lighting with it.
+563.00-570.00 :  Like this simple sense we pick up the phone touch a button and lights up usually the buttons later.
+570.00-575.00 :  How can we build on that? Maybe like could light up in different colors.
+575.00-581.00 :  People could either by the control and then come to different colors.
+581.00-582.00 :  Okay.
+582.00-583.00 :  Those are that's all I have.
+583.00-586.00 :  But hopefully we can revisit those ideas.
+586.00-588.00 :  And we get into.
+588.00-589.00 :  Okay.
+589.00-590.00 :  Grish.
+590.00-593.00 :  Thank you for that.
+593.00-597.00 :  Craig, do you want to.
+597.00-604.00 :  I do.
+604.00-614.00 :  I do.
+614.00-624.00 :  I do.
+625.00-626.00 :  Whoa.
+626.00-651.00 :  Sorry.
+651.00-658.00 :  Oh, something coming in.
+658.00-665.00 :  Oh, look at this topic.
+665.00-672.00 :  To research it, I've had a colleague with the gen.
+672.00-674.00 :  More examples of them.
+674.00-677.00 :  So then, previously it was possible.
+677.00-681.00 :  There's a wee bit of discussion about this one.
+681.00-688.00 :  So I think we may get some from them.
+688.00-694.00 :  But then this program suggestions on size and size of the control and the buttons.
+694.00-703.00 :  The shape of the control and wherever it might be looking for.
+703.00-710.00 :  My opinion in research is that most of the control and the rules are just the quicks with the buttons on them.
+710.00-712.00 :  They're not very practical to look at.
+712.00-714.00 :  They're not very comfortable to hold.
+714.00-715.00 :  I've found the big bricks.
+715.00-717.00 :  And they're very easy to lost.
+717.00-724.00 :  And they're very dark colors of the cherry-priced, and the dancing catches.
+724.00-730.00 :  The cool themselves tend to use a very good stickler scheme.
+730.00-735.00 :  For instance, the standby button in North-Red really should be something to use with it.
+735.00-738.00 :  Identify with these reds which aren't us.
+738.00-739.00 :  I should be.
+739.00-743.00 :  And I'm not sure if there's any other example of that.
+743.00-746.00 :  It seems to be that one.
+746.00-751.00 :  From that, I've got a couple of references for the end of the book.
+751.00-753.00 :  Again, with the red color button.
+753.00-757.00 :  Stand by and the other example of the button.
+757.00-759.00 :  The button should be large.
+759.00-765.00 :  It should be tiny little things that you get from all the buttons to be used very, very comfortable.
+765.00-771.00 :  One of the examples given on the homepage was there's an up and down volume button.
+771.00-772.00 :  I also have a B on them.
+772.00-776.00 :  So the up and down buttons to the down volume button.
+776.00-780.00 :  And she looks like that.
+780.00-786.00 :  If the couple of colors can rise up, you should have a very bright color so that it can be slightly dark.
+787.00-790.00 :  And obviously trying to avoid being tacky.
+790.00-792.00 :  It's very easy.
+792.00-795.00 :  Do we have a copy of the policy?
+795.00-799.00 :  I think it's yellow because the word sign is yellow.
+799.00-805.00 :  So yellow, yellow, you know, definitely food to hot.
+805.00-808.00 :  I'll keep going and we'll just.
+808.00-810.00 :  Any extra big deal.
+810.00-812.00 :  The only person should be.
+813.00-815.00 :  She'll be visible.
+815.00-818.00 :  Something you'll be doing.
+818.00-821.00 :  If we do decide to go for voice activation.
+821.00-824.00 :  This is still a few buttons to counter it.
+824.00-826.00 :  Possibly in the little dark section.
+826.00-828.00 :  And it is something wrong.
+828.00-831.00 :  There are some these voices.
+831.00-835.00 :  We should definitely avoid the big square block.
+835.00-837.00 :  And just.
+837.00-840.00 :  And we've got an email.
+840.00-842.00 :  I think they do each part.
+842.00-844.00 :  And they've said voice control.
+844.00-846.00 :  And can I talk back?
+846.00-849.00 :  So she could be good to have them and confine any action.
+849.00-851.00 :  Hi, that's it.
+851.00-854.00 :  What's going on?
+854.00-857.00 :  There's the problems I have to.
+857.00-859.00 :  I don't know where the studio is.
+859.00-861.00 :  I'm really what the studio is.
+861.00-863.00 :  And it's then flashing the delta.
+863.00-866.00 :  And we don't have like school of postings.
+866.00-869.00 :  We don't have to use any other.
+869.00-872.00 :  Okay.
+872.00-878.00 :  What's good information?
+878.00-881.00 :  Yeah, that's very good.
+882.00-887.00 :  Really.
+903.00-906.00 :  Sushing, the cable wasn't just in the middle.
+906.00-909.00 :  Oh, we had heard that all around.
+909.00-919.00 :  Do you want to sit in the limo side of this?
+919.00-921.00 :  Okay, let me just get this.
+939.00-949.00 :  Okay, it's a second.
+949.00-959.00 :  Okay.
+959.00-963.00 :  I guess the same thing again, I started with something that I did.
+963.00-967.00 :  So we just saw you guys have some idea of what's involved in my process.
+967.00-971.00 :  And then you can just work through it and modify it or something scratch.
+971.00-975.00 :  The components are exactly the same.
+975.00-981.00 :  I think like what you guys said, the most input that's needed is basically the user interface.
+981.00-987.00 :  The rest of the components, they do have an impact in terms of cost and complexity.
+987.00-995.00 :  So you said thank you for the comment and how many components are physically in the cost and the power is basically effective.
+995.00-1003.00 :  And the lower components, the power, the logic, the transmitter, the ferret, the effect to you in terms of the size of your device.
+1003.00-1013.00 :  And that would have some impact on how you think more how you pull it rather than actually using the multiple tokens.
+1013.00-1019.00 :  Like we said, we define like you only want the basic things to be doing for the server to try to hide.
+1019.00-1021.00 :  So it's just another working out space.
+1021.00-1027.00 :  So I guess three things cost complexity and the size.
+1027.00-1029.00 :  These are three things that we'll have in the background.
+1029.00-1032.00 :  We just go through the components.
+1032.00-1035.00 :  These are the options that are available to you.
+1035.00-1041.00 :  I'm not very sure about voice thing because I've got another email and it's quite sketchy on what the voice options are.
+1041.00-1045.00 :  It could talk to you but never said anything about being able to listen.
+1045.00-1049.00 :  It's certainly about a sensor but never partner.
+1049.00-1057.00 :  So really you could see the other thing you know, so you just take a look at the requirements.
+1057.00-1059.00 :  Or different offerings or what the requirements are.
+1059.00-1061.00 :  So your basic components are buttons.
+1061.00-1064.00 :  Okay, and you have a wheel, a mouse scroll.
+1064.00-1067.00 :  Okay, there's an LCD display.
+1067.00-1069.00 :  I think these are quite standard things.
+1069.00-1070.00 :  They're standard.
+1070.00-1074.00 :  No, they're well in a sense that these are all options available.
+1074.00-1077.00 :  We are explained to you the complexity and the past.
+1077.00-1081.00 :  Okay, then there's how the case actually looks.
+1081.00-1084.00 :  It can actually be flat or it can be code.
+1084.00-1087.00 :  And then the different types of materials that you can use.
+1087.00-1090.00 :  I don't think you can use them in a combination.
+1090.00-1093.00 :  But I could check back.
+1093.00-1095.00 :  But I don't think you can use it.
+1095.00-1098.00 :  You can have like plastic and rub it.
+1098.00-1102.00 :  I think plastic and rubble we find but plastic rubber and wood.
+1102.00-1104.00 :  I wouldn't I'm not very sure about the titanium.
+1104.00-1107.00 :  They had some restrictions on using the rubber and the titanium.
+1107.00-1116.00 :  The rubber was a restriction on kind of parasol secretions but the titanium had different kind of things on the shape of the thing.
+1116.00-1119.00 :  So I think that there is some restrictions on.
+1119.00-1123.00 :  I think you could probably group plastic and rubble together wood and titanium.
+1123.00-1128.00 :  But you know, it might be easier from a cost perspective and complexity just to use one.
+1128.00-1130.00 :  You're supposed to.
+1130.00-1133.00 :  And the other components are logic chips.
+1133.00-1136.00 :  Again, I'll go back to the convert chips.
+1136.00-1141.00 :  The complex or how easy the logic is depends on how many functions you have on the unit.
+1141.00-1143.00 :  And that impacts cost.
+1143.00-1147.00 :  I don't think the logic chip has an issue of our size because they should be about two sides.
+1147.00-1150.00 :  Part three times we should be about two.
+1150.00-1154.00 :  I think the main impact is complexity.
+1154.00-1157.00 :  And the other thing is the power options.
+1157.00-1159.00 :  The first one is the battery.
+1159.00-1163.00 :  The second one I think is more of a gimmick than actually a usable thing.
+1163.00-1167.00 :  I wind up.
+1167.00-1170.00 :  Yeah, just by amazing.
+1170.00-1174.00 :  But that might be something I think that's more of a look and feel.
+1174.00-1179.00 :  Because I don't think you have one parasol if you're using the alternative power source.
+1179.00-1184.00 :  I think whatever it is you should be in the background is not make anybody want to keep doing one thing.
+1184.00-1190.00 :  Okay, the other ones are a solo power cell, which may not be a great idea in Europe or any country in our seasons.
+1190.00-1193.00 :  Because after a year you get.
+1193.00-1197.00 :  So like what I said, you probably hit that battery and something else.
+1197.00-1203.00 :  And the kinetic one I guess for me is a constant interesting one because it's movement and people like to sit over there.
+1203.00-1206.00 :  And it's a nice sales group.
+1206.00-1210.00 :  And it's a lot of technology.
+1210.00-1212.00 :  Shake it.
+1212.00-1215.00 :  Shake it.
+1215.00-1218.00 :  Have you had those balls?
+1218.00-1221.00 :  And it lights up.
+1221.00-1223.00 :  That might be a gimmick.
+1223.00-1227.00 :  Just to get frustrated with what you can.
+1227.00-1232.00 :  Just.
+1232.00-1235.00 :  Okay, Mike.
+1235.00-1238.00 :  From my role, I don't think that person's preference, but role preference is I think.
+1238.00-1241.00 :  Something comfortable to hold.
+1241.00-1243.00 :  Small and slim.
+1243.00-1250.00 :  I guess that's more in a sense of smaller than terms of comfortable, not so small you can't do that from two small.
+1250.00-1253.00 :  And the other thing is for production point of view.
+1253.00-1257.00 :  The last components we use and simpler the components is.
+1257.00-1260.00 :  And the cost increase your profit.
+1260.00-1265.00 :  And also the time to get complexity of developing.
+1265.00-1266.00 :  So.
+1266.00-1273.00 :  Okay, let me just go back and talk about some of the restrictions.
+1273.00-1279.00 :  The user interface restrictions basically means that if you use more complicated features like buttons are standard.
+1279.00-1284.00 :  LCE panel and the school will be more comfortable.
+1284.00-1287.00 :  So the case.
+1287.00-1290.00 :  Okay, with a rubber case, you can't have solar panels.
+1290.00-1298.00 :  Okay, with the titanium case.
+1298.00-1301.00 :  Titan case, it has these.
+1301.00-1304.00 :  Okay, there's no restriction on the classic.
+1304.00-1306.00 :  You can't encourage.
+1306.00-1309.00 :  Again, I don't think you can use them.
+1309.00-1312.00 :  Especially the titanium.
+1312.00-1315.00 :  Very fixed to a particular.
+1315.00-1318.00 :  Mixing them be not the idea.
+1318.00-1321.00 :  Question on.
+1321.00-1323.00 :  Can I ask questions?
+1323.00-1327.00 :  Yeah, I'm quite keen to get the discussion going.
+1327.00-1331.00 :  Can we power a light?
+1331.00-1334.00 :  Can we get a strong battery power light?
+1334.00-1337.00 :  I think we could because the LCE panel is by far.
+1337.00-1340.00 :  And the LCE is a kind of light.
+1340.00-1345.00 :  So maybe one of the things we're just trying to include is a really good battery.
+1345.00-1348.00 :  Why what kind of light do it?
+1348.00-1352.00 :  Well, I mean, I'm thinking it might be.
+1352.00-1357.00 :  That for this to be a high tech thing that's going to happen as high tech about it.
+1357.00-1359.00 :  That's going to take battery power.
+1359.00-1361.00 :  And to make that.
+1361.00-1364.00 :  I think one of the issues that will come up later is.
+1364.00-1367.00 :  It's very powerful.
+1367.00-1370.00 :  Light and sense.
+1370.00-1372.00 :  Light.
+1372.00-1374.00 :  Light.
+1374.00-1375.00 :  Yeah, close.
+1375.00-1379.00 :  I'm thinking along the lines of your in the dark watching DVD.
+1379.00-1383.00 :  And you find the thing in the dark and you go like this.
+1383.00-1385.00 :  That's what everybody does.
+1385.00-1387.00 :  What is the volume button?
+1387.00-1390.00 :  And you just touch it.
+1390.00-1393.00 :  Like a phone.
+1393.00-1397.00 :  Whereas with phones, people charge in the week.
+1397.00-1403.00 :  Yeah, we're going to need to put in reading a battery so people have to charge their.
+1403.00-1404.00 :  Control.
+1404.00-1406.00 :  That's what I think we.
+1406.00-1409.00 :  I think we should see.
+1409.00-1412.00 :  But are people going to want to shake?
+1412.00-1415.00 :  It's probably sensitive enough to do it.
+1415.00-1421.00 :  So you could trigger that to enlighten like chip party walking or you could trigger that to use that to power.
+1421.00-1422.00 :  Light.
+1422.00-1424.00 :  So when they pick it up.
+1424.00-1425.00 :  So.
+1425.00-1426.00 :  Trigger.
+1426.00-1427.00 :  Fresh.
+1427.00-1428.00 :  Okay.
+1428.00-1429.00 :  Okay.
+1429.00-1433.00 :  Well, let's just go back to the marketing ideas for a start.
+1433.00-1435.00 :  It's giving an idea on the time.
+1435.00-1438.00 :  We've got about 15 minutes to buy this.
+1438.00-1440.00 :  So.
+1440.00-1441.00 :  Yeah.
+1441.00-1449.00 :  So just to bear in mind that the ultimate goal of this meeting is to reach an absolute decision on the concepts of the product.
+1449.00-1458.00 :  So back to your idea about incorporating ideas like fruit and veg and the corporate color and things like that.
+1458.00-1462.00 :  I mean, once everybody think about.
+1462.00-1466.00 :  Does anybody have any ideas about how we can fit all that in together?
+1466.00-1468.00 :  That's kind of the user interface topic.
+1468.00-1470.00 :  What do you have got some?
+1470.00-1473.00 :  I can go to the right.
+1473.00-1475.00 :  You know, I appreciate that.
+1475.00-1476.00 :  Very.
+1476.00-1479.00 :  I have to.
+1479.00-1481.00 :  So maybe do it.
+1481.00-1485.00 :  Are we thinking something that looks sitting your hand comfortably or.
+1485.00-1487.00 :  You told on the comfortably or.
+1487.00-1489.00 :  So.
+1489.00-1490.00 :  Quite.
+1490.00-1492.00 :  Okay.
+1492.00-1493.00 :  Um.
+1493.00-1494.00 :  Okay.
+1494.00-1495.00 :  Color wise.
+1495.00-1502.00 :  I mean, even if the year can't move him into point to bite high, if you have a nice bright color, you're not losing.
+1502.00-1503.00 :  What's that?
+1503.00-1506.00 :  About high, if you have a bright color, you're not losing so much.
+1506.00-1513.00 :  And when the corporate color is yellow, maybe you think about the color of the color.
+1513.00-1520.00 :  And then obviously the materials.
+1520.00-1525.00 :  And then as anybody got like an overall picture of your mind, what might work?
+1525.00-1531.00 :  Well, I mean, I'm thinking that what we need to do is have something that kind of unifies a lot of the different concepts.
+1531.00-1536.00 :  And we think that what we are, well, our number one marketing motive.
+1536.00-1538.00 :  Is looking here.
+1538.00-1543.00 :  So for the looking field, seem coherent and not just sort of bits and pieces of.
+1543.00-1546.00 :  So concept and technology or.
+1546.00-1553.00 :  Or fashion that we should have it time come back to one thing that we kind of all so you can visualize.
+1553.00-1560.00 :  Maybe what we could do is think about a concept which touches back to the.
+1560.00-1562.00 :  The color is in company color.
+1562.00-1563.00 :  Yellow.
+1563.00-1566.00 :  If we think of something like I was saying also line.
+1566.00-1572.00 :  What can we come up with something where we're trying to associate with with like the series we just come up with.
+1572.00-1576.00 :  We kind of use it as a theme to inspire.
+1576.00-1577.00 :  Shapes.
+1577.00-1578.00 :  Right.
+1578.00-1581.00 :  Is there a shape.
+1581.00-1582.00 :  Yeah.
+1582.00-1586.00 :  Is that what we're talking about?
+1586.00-1588.00 :  Is it the law?
+1588.00-1590.00 :  Or is it like in circular and shape?
+1590.00-1593.00 :  Or is that what we're talking about?
+1593.00-1594.00 :  Yeah.
+1594.00-1596.00 :  Choice material.
+1596.00-1598.00 :  So I was kind of thinking about as well.
+1598.00-1604.00 :  You know how you get these short pieces move out of bones and they're classic but they don't sort of like rubber on the outside.
+1604.00-1608.00 :  It kind of feels kind of warmer to touch feels more comfortable.
+1608.00-1615.00 :  Maybe you could incorporate plastic on rubber and then then we could have car chips because.
+1615.00-1617.00 :  What are today and yet it's going to have to be.
+1617.00-1619.00 :  Boxy and rectangular.
+1619.00-1622.00 :  I think we might be moving away from that.
+1622.00-1626.00 :  So.
+1626.00-1629.00 :  I do want it in like the shape of a lemon.
+1629.00-1631.00 :  No, no, no, no.
+1631.00-1636.00 :  It's more just that we think about.
+1636.00-1639.00 :  What it is we're trying to achieve.
+1639.00-1642.00 :  So we have one sort of thing.
+1642.00-1643.00 :  Okay.
+1643.00-1644.00 :  Right.
+1644.00-1648.00 :  Well, so thoughts about the actual shape of the thing.
+1648.00-1651.00 :  Like a glass of snow.
+1651.00-1653.00 :  So large.
+1653.00-1662.00 :  That's quite a distinct to shape.
+1662.00-1665.00 :  So yeah, should we go with that?
+1665.00-1668.00 :  Can we yeah, like to.
+1668.00-1670.00 :  Like see a.
+1670.00-1672.00 :  Do you want to draw on the board?
+1672.00-1673.00 :  Yeah.
+1673.00-1676.00 :  Okay.
+1676.00-1683.00 :  Okay.
+1683.00-1693.00 :  Okay.
+1693.00-1695.00 :  And we got two groups there.
+1695.00-1697.00 :  Maybe it could fall open.
+1697.00-1698.00 :  Okay.
+1698.00-1701.00 :  One course, but there.
+1701.00-1704.00 :  Okay.
+1704.00-1707.00 :  So for like the snowman shape.
+1707.00-1713.00 :  Yeah.
+1713.00-1715.00 :  That's cool.
+1715.00-1717.00 :  And I mean, color wise, which I would be thinking is quite
+1717.00-1719.00 :  important to get yellow in there somewhere.
+1719.00-1721.00 :  I mean, do you want the whole thing yellow,
+1721.00-1724.00 :  and then yellow and white or something?
+1724.00-1725.00 :  Yeah.
+1725.00-1727.00 :  So back then yellow.
+1727.00-1728.00 :  Uh-huh.
+1728.00-1730.00 :  Okay.
+1730.00-1735.00 :  And also, I mean, are we going to incorporate this slogan in?
+1735.00-1737.00 :  That bit talks to you.
+1737.00-1740.00 :  I mean, we might be quite cool if when you first start using it,
+1740.00-1744.00 :  it says, what is it putting passion into our promise or something?
+1744.00-1745.00 :  I don't know.
+1745.00-1747.00 :  Or when you let it turn it off or something.
+1747.00-1751.00 :  If it can speak, if you could actually say this slogan might be a bit more powerful
+1751.00-1753.00 :  than just having written it somewhere.
+1753.00-1756.00 :  And it's also not at all.
+1756.00-1758.00 :  Probably skin.
+1758.00-1760.00 :  I mean,
+1760.00-1764.00 :  I let, I mean, if you also,
+1764.00-1769.00 :  so what I, we wanted to incorporate an LCD display,
+1769.00-1773.00 :  where would you put that on the inside or?
+1773.00-1777.00 :  To me needed.
+1777.00-1779.00 :  It's going to increase the cost of it a lot.
+1779.00-1782.00 :  Yeah, but the question is, what would be the cheapest?
+1782.00-1784.00 :  What would be a cheap light?
+1784.00-1786.00 :  What do you like to shoot that day?
+1786.00-1789.00 :  Well, when you mentioned LCD, I think I would be,
+1789.00-1792.00 :  but the thing I can see it helping with the speed
+1792.00-1795.00 :  is somehow connected with, with things.
+1795.00-1798.00 :  So as you scroll through, because we say we might have a jog down,
+1798.00-1800.00 :  as you scroll through your stations,
+1800.00-1802.00 :  you can actually tell us what it is.
+1802.00-1806.00 :  I think that will be a problem because we don't have any devices to get the results.
+1806.00-1807.00 :  Right.
+1807.00-1810.00 :  It's a bit nice to get the results.
+1810.00-1811.00 :  Yeah, one day.
+1811.00-1814.00 :  So, so no need for an LCD display.
+1814.00-1816.00 :  I'm not saying there's no need for an LCD display,
+1816.00-1819.00 :  but it's what, what would it tell the user?
+1819.00-1822.00 :  Because the LCD can still be output.
+1822.00-1823.00 :  Yeah.
+1823.00-1824.00 :  So, yeah.
+1824.00-1827.00 :  There's a remote control need to pop.
+1827.00-1828.00 :  Fact.
+1828.00-1830.00 :  We have the option to speed it up.
+1830.00-1832.00 :  The same thing goes for the speeder.
+1832.00-1834.00 :  Is there any remote control?
+1834.00-1835.00 :  Okay, there is.
+1835.00-1837.00 :  Talk back.
+1837.00-1841.00 :  I would say no need for a talk back.
+1841.00-1844.00 :  Does anybody disagree with that?
+1844.00-1845.00 :  No.
+1845.00-1848.00 :  Easy.
+1848.00-1851.00 :  When you're TV guys, you can go to the phone.
+1851.00-1852.00 :  Okay.
+1852.00-1853.00 :  Right.
+1853.00-1858.00 :  So, you're going to have three different sets of functionalities.
+1858.00-1861.00 :  I mean, do you want to group them into head of the new man,
+1861.00-1863.00 :  body of the new man, inside of the new man?
+1863.00-1866.00 :  Is that what you're thinking?
+1866.00-1868.00 :  Well, I think there's an advanced one.
+1868.00-1870.00 :  The one should be the new special inside of the service.
+1870.00-1871.00 :  Okay.
+1871.00-1873.00 :  I think there is a huge, really good content.
+1873.00-1875.00 :  That's what I'm going to be.
+1875.00-1876.00 :  Okay.
+1876.00-1877.00 :  Right.
+1877.00-1878.00 :  Okay.
+1878.00-1880.00 :  Um, what else do you need to apply?
+1880.00-1883.00 :  Well, I would just be finishing the buttons.
+1883.00-1886.00 :  I think that has something.
+1886.00-1887.00 :  Yeah.
+1887.00-1890.00 :  Maybe one.
+1890.00-1898.00 :  I'm just going to pop some here and slide about decision making.
+1898.00-1904.00 :  Okay.
+1904.00-1907.00 :  Okay.
+1907.00-1908.00 :  Okay.
+1908.00-1909.00 :  Okay.
+1909.00-1910.00 :  Okay.
+1910.00-1911.00 :  Okay.
+1911.00-1912.00 :  Okay.
+1912.00-1913.00 :  Okay.
+1913.00-1914.00 :  Okay.
+1914.00-1915.00 :  Okay.
+1915.00-1916.00 :  Energy.
+1916.00-1921.00 :  What do you think about suggesting where part of power is?
+1921.00-1926.00 :  I really like the idea of this kinetic thing where you have the back of the battery,
+1926.00-1929.00 :  which is the kind of power that you have.
+1929.00-1937.00 :  I've had kinetic things before and the one issue in keeping mind with them is that you're committing the user to moving.
+1937.00-1938.00 :  Watches.
+1938.00-1939.00 :  Yeah.
+1939.00-1940.00 :  Hybrid.
+1940.00-1941.00 :  Sure.
+1941.00-1942.00 :  Okay.
+1942.00-1943.00 :  Right.
+1943.00-1944.00 :  Okay.
+1944.00-1945.00 :  Okay.
+1945.00-1951.00 :  I mean, just, it's just worth funny because like, I've known, I've known people to have kinetic watches that they wear all the time.
+1951.00-1954.00 :  And it's just like magic because it's always powered and there's no bad.
+1954.00-1959.00 :  Also know people to have things like, like a jewelry watch they wear from time to time.
+1959.00-1961.00 :  And eventually just say it's just too much of a news.
+1961.00-1962.00 :  Yeah.
+1962.00-1964.00 :  Because I don't wear it all the time.
+1964.00-1965.00 :  Look, remote control.
+1965.00-1966.00 :  Similar.
+1966.00-1967.00 :  You're wearing vacation.
+1967.00-1968.00 :  I don't know.
+1968.00-1969.00 :  I've ever seen something.
+1969.00-1971.00 :  It's just just one day.
+1971.00-1972.00 :  So we should.
+1972.00-1976.00 :  What's better is that if you're here away and you're not using it, then you're not using any power either.
+1976.00-1980.00 :  So you'd have the battery as the kind of to keep it ticking over.
+1980.00-1981.00 :  Yeah.
+1981.00-1982.00 :  I'm really sorry.
+1982.00-1983.00 :  We're going to have to wrap up quickly.
+1983.00-1984.00 :  So much times I thought.
+1984.00-1985.00 :  Yeah.
+1985.00-1988.00 :  And so I think that's what energy is trying to hear.
+1988.00-1989.00 :  Chip on print.
+1989.00-1991.00 :  That's an industrial design thing.
+1991.00-1992.00 :  Yes.
+1992.00-1993.00 :  Okay.
+1993.00-1995.00 :  As with the case.
+1995.00-1997.00 :  I've just got that.
+1997.00-2000.00 :  And this size here, I suggest this be small.
+2000.00-2001.00 :  Yeah.
+2001.00-2003.00 :  And we're going to have like rubber buttons.
+2003.00-2005.00 :  Okay.
+2005.00-2006.00 :  Okay.
+2006.00-2011.00 :  And just a lot of.
+2011.00-2015.00 :  I mean, one of things running through my mind right now, I realize we're being efficient to wrap.
+2015.00-2017.00 :  You know lots of decisions.
+2017.00-2022.00 :  But we are leaning quite a bit to the side of being low tech rubber buttons, plastic.
+2022.00-2025.00 :  It's almost like a reproduce in the same old remote control.
+2025.00-2026.00 :  It's out there.
+2026.00-2032.00 :  Should we think about how we are actually getting this high tech user friendly.
+2032.00-2038.00 :  Like what is it that we're using to achieve those goals?
+2038.00-2041.00 :  Because things like backlighting the buttons.
+2041.00-2042.00 :  Okay.
+2042.00-2043.00 :  So.
+2043.00-2045.00 :  Or you think that the case.
+2045.00-2046.00 :  Yeah.
+2046.00-2050.00 :  I think it's a low in yellow tech case where the yellow show.
+2050.00-2051.00 :  But the dark.
+2051.00-2054.00 :  Sort of.
+2054.00-2055.00 :  Yeah.
+2055.00-2056.00 :  Sure.
+2056.00-2059.00 :  Is slightly slightly transparent.
+2059.00-2062.00 :  So it's yellow like to me to the yellow, but you can maybe see.
+2062.00-2065.00 :  Or there might be a light running to it like.
+2065.00-2068.00 :  You know, you have colors, mine's in the algae damage.
+2068.00-2069.00 :  Yes.
+2069.00-2074.00 :  So actually in that sense, we have one or two traditional strategicly-based lights.
+2074.00-2075.00 :  Sure.
+2075.00-2076.00 :  Yeah.
+2076.00-2077.00 :  Yeah.
+2077.00-2078.00 :  Yeah.
+2078.00-2079.00 :  Yeah.
+2079.00-2080.00 :  Because the case is transparent.
+2080.00-2081.00 :  So.
+2081.00-2082.00 :  Use it a little bit of a girl.
+2082.00-2083.00 :  Okay.
+2083.00-2086.00 :  And then the other thing that we was.
+2086.00-2091.00 :  I'm thinking maybe we should try and think about having something like.
+2091.00-2096.00 :  Some kind of an innovative concept about how the volume and the channels are controlled.
+2096.00-2100.00 :  Because that's the main.
+2100.00-2102.00 :  We use like a job done.
+2102.00-2106.00 :  Nice to sort of round somewhere on it where you just roll it.
+2106.00-2107.00 :  I'm here rolling it.
+2107.00-2108.00 :  How do you want to go?
+2108.00-2109.00 :  I want to roll.
+2109.00-2112.00 :  It's in a mouse.
+2112.00-2113.00 :  And in position.
+2113.00-2115.00 :  I think we roll it.
+2115.00-2118.00 :  Or is the other thing about having a job done this week?
+2118.00-2119.00 :  It's to get.
+2119.00-2122.00 :  What do we do at the most?
+2122.00-2123.00 :  Do that community.
+2123.00-2124.00 :  It's your coding.
+2124.00-2125.00 :  It's in a hand.
+2125.00-2127.00 :  That's very unnatural.
+2127.00-2131.00 :  Can you imagine you have to score a lot?
+2131.00-2133.00 :  I mean, might work for volume.
+2133.00-2134.00 :  Yeah.
+2134.00-2136.00 :  And maybe it's on brightness control.
+2136.00-2138.00 :  But not for channels.
+2138.00-2139.00 :  Right.
+2139.00-2140.00 :  If you have a telewast box.
+2140.00-2142.00 :  You've got like, you know, it's followed.
+2142.00-2143.00 :  It's a 50 channel.
+2143.00-2144.00 :  It's a 50 channel.
+2144.00-2145.00 :  It's a 50.
+2145.00-2146.00 :  Okay.
+2146.00-2147.00 :  Okay.
+2147.00-2150.00 :  And I don't think having that, you know, too quick to slow.
+2150.00-2151.00 :  It's confusing.
+2151.00-2152.00 :  I don't know.
+2152.00-2153.00 :  Just getting a lot of sounds.
+2153.00-2155.00 :  You just do off the screen.
+2155.00-2156.00 :  Yeah.
+2156.00-2158.00 :  But usually you tend to end the one thing you met.
+2158.00-2161.00 :  And once you lose out the music experience of it.
+2161.00-2163.00 :  Because that becomes the most accessible.
+2163.00-2164.00 :  Okay.
+2164.00-2165.00 :  But that's not bad to you.
+2165.00-2166.00 :  Just.
+2166.00-2167.00 :  Because if you think about it,
+2167.00-2169.00 :  the alternatives to go push the button.
+2169.00-2170.00 :  And then it's a 15-inch song.
+2170.00-2171.00 :  And you choose the other.
+2171.00-2172.00 :  Okay.
+2172.00-2173.00 :  Right.
+2173.00-2176.00 :  Well, we do need to make a decision whether we want to be popular
+2176.00-2177.00 :  with your garlic.
+2177.00-2178.00 :  It's a bit big.
+2178.00-2180.00 :  And I will afford them actually.
+2180.00-2182.00 :  They're quite you and very quick to use.
+2182.00-2183.12 :  So there's anybody opposed the idea of I'm properly
+2183.12-2184.00 :  the opposite of having to use.
+2184.00-2186.00 :  And the other thing was.
+2186.00-2190.00 :  I can't think of anywhere getting his slogan assistant.
+2190.00-2195.00 :  Yeah, like, I mean, if we could keep coming back to this board here.
+2195.00-2196.00 :  I wouldn't surprise.
+2196.00-2200.64 :  Keep coming back to this board here. I wouldn't be surprised if we could take this idea.
+2200.64-2204.96 :  Imagine that I don't know what it is. It's in the shape of the hand. It's quite small.
+2205.92-2212.48 :  Oh okay. We really got a wrap up. Yeah. It's small and that we've got like the slogan.
+2212.48-2217.12 :  Somewhere like on the case and decide. Well, if we can do that, correct? Yeah.
+2217.84-2221.76 :  Well, I mean, isn't that what we just said, said we just have to decide?
+2222.80-2225.20 :  Yeah. Let's try and get the slogan on there.
+2226.00-2233.92 :  And then like a jogge somewhere that fits in with the shape of it. I don't know like here.
+2235.44-2241.20 :  That might have one problem in terms of the front. So the terms of where you left hand it or you're right.
+2241.20-2244.80 :  You might be walking you shopping. Or maybe just putting it in like down the middle.
+2246.80-2250.48 :  But I'm really going to have to hurry on here because we're actually over time.
+2251.44-2254.40 :  Is there anything anybody's unsure about just for it?
+2254.40-2257.44 :  In closing, the next meeting is going to be in 30 minutes.
+2257.44-2260.64 :  So you can see in the screen here what you two are going to hopefully be doing.
+2260.64-2262.88 :  I know you did the designer for everyone.
+2262.88-2267.36 :  I'm glad you're doing that. So that will be that will be good.
+2269.60-2273.44 :  And I'll get the minutes after seeing as possible. Anything at all you think we haven't
+2273.44-2277.92 :  discussed that we need to? Is everybody kind of happy about what we're going to be doing?
+2277.92-2281.12 :  I think one thing would be the jogge.
+2283.44-2287.12 :  Yeah, I think the jogge, you know it just after you do that would it was flat and you just
+2287.12-2291.20 :  wanted to see if it was a slide because then you don't have to put the hand.
+2291.20-2294.56 :  I think you can't bring it in a little bit. There's lots of space for it.
+2294.56-2297.12 :  That's kind of a design thing that you guys can do.
+2299.84-2302.80 :  And materials we sort of said we do plastic and rubber.
+2303.44-2307.92 :  Yeah. And I think maybe we should try and stay away from this the big protruding rubber buttons
+2307.92-2311.28 :  because that would be so scan. Do it something flush with the case?
+2311.28-2312.48 :  Something a bit more flush. Yeah.
+2312.48-2312.96 :  Okay.
+2312.96-2315.60 :  Maybe have rubber incorporated in the case as well.
+2316.72-2319.76 :  And also plastic I've seen can get really textured.
+2319.76-2322.40 :  You can get plastics that actually feel soft in your head.
+2322.40-2323.20 :  You like fruit?
+2323.20-2323.60 :  Okay.
+2323.60-2329.84 :  They feel kind of like you get past now and then you'd think that they were rubber but they're not.
+2329.84-2331.84 :  They're actually just plastic and textured.
+2331.84-2333.28 :  Kind of a little bit like that.
+2333.28-2336.80 :  I'm going to have to call it too close because we're away over time.
+2336.80-2339.28 :  So that's really good.
+2339.28-2341.12 :  Like this has so much to talk about because
+2342.16-2343.76 :  we much run out of time to do so.
+2343.76-2344.00 :  So
+2347.44-2348.24 :  design stuff.
+2348.24-2348.72 :  Hmm.
+2350.24-2351.36 :  They don't have any.
+2351.36-2351.76 :  Yeah.
+2351.76-2352.72 :  Quite jealous actually.
+2392.32-2394.00 :  and
+2399.76-2410.40 :  Yeah because it's too lazy to puff.
