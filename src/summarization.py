@@ -1,27 +1,42 @@
 import os
 import pandas as pd
 import matplotlib.pyplot as plt
-from dotenv import load_dotenv
 
-# -----------------------------
-# LOAD ENV VARIABLES
-# -----------------------------
-load_dotenv()
+# Path to evaluation file
+EVAL_FILE = r"C:\Users\venka\OneDrive\Desktop\MedicalPodcastAI\final_evaluation.xlsx"
 
-# -----------------------------
-# PATHS FROM .env
-# -----------------------------
-EVAL_FILE = os.getenv("EVALUATION_OUTPUT_FILE")
-GRAPH_FOLDER = os.getenv("GRAPHS_DIR")
+# Folder to save graphs
+GRAPH_FOLDER = r"C:\Users\venka\OneDrive\Desktop\MedicalPodcastAI\graphs"
 
+# =========================================================
+# NEW: WRAPPER FUNCTION FOR UI / BACKEND CONNECTION 
+# =========================================================
+def get_evaluation_summary_for_ui():
+    """
+    Used by Flask / UI.
+    Reads evaluation Excel and returns metrics only.
+    No graphs, no prints.
+    """
+
+    df = pd.read_excel(EVAL_FILE)
+
+    return {
+        "Total Files": int(len(df)),
+        "Avg WER (%)": round(df["WER (%)"].mean(), 2),
+        "Avg CER (%)": round(df["CER (%)"].mean(), 2),
+        "Avg Semantic Similarity": round(df["Semantic Similarity"].mean(), 3),
+        "Final Accuracy (%)": round(df["Final Accuracy Score (%)"].mean(), 2)
+    }
+
+# ---------------------------------------------------------
+# ORIGINAL FUNCTION (UNCHANGED – BATCH MODE)
+# ---------------------------------------------------------
 def summarize_results():
-
-    # Create folder if not exists
+    
     os.makedirs(GRAPH_FOLDER, exist_ok=True)
 
     df = pd.read_excel(EVAL_FILE)
 
-    # Calculate averages
     avg_accuracy = df["Final Accuracy Score (%)"].mean()
     avg_wer = df["WER (%)"].mean()
     avg_cer = df["CER (%)"].mean()
@@ -37,7 +52,6 @@ def summarize_results():
     print(f"\n>>> FINAL OVERALL TRANSCRIPTION ACCURACY: {avg_accuracy:.2f}% <<<")
     print("------------------------------------------------------------------")
 
-    # Summary data
     metrics = {
         "Metric": ["Accuracy", "WER", "CER", "Similarity"],
         "Values": [avg_accuracy, avg_wer, avg_cer, avg_similarity * 100]
@@ -46,7 +60,7 @@ def summarize_results():
 
     # -------- Graph 1: Bar Chart --------
     plt.figure(figsize=(8, 5))
-    plt.bar(summary_df["Metric"], summary_df["Values"])
+    plt.bar(summary_df["Metric"], summary_df["Values"], color="skyblue")
     plt.title("Average Evaluation Metrics")
     plt.ylabel("Percentage")
     plt.savefig(os.path.join(GRAPH_FOLDER, "Summary_Metrics.png"))
@@ -54,7 +68,7 @@ def summarize_results():
 
     # -------- Graph 2: Histogram --------
     plt.figure(figsize=(10, 5))
-    plt.hist(df["Final Accuracy Score (%)"], bins=20)
+    plt.hist(df["Final Accuracy Score (%)"], bins=20, edgecolor="black")
     plt.title("Accuracy Score Distribution Across Files")
     plt.xlabel("Accuracy (%)")
     plt.ylabel("File Count")
@@ -90,5 +104,8 @@ def summarize_results():
         "Final Accuracy (%)": avg_accuracy
     }
 
+# ---------------------------------------------------------
+# RUN (BATCH MODE)
+# ---------------------------------------------------------
 if __name__ == "__main__":
     summarize_results()
