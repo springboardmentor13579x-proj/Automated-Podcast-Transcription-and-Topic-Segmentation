@@ -3,19 +3,13 @@ import re
 import pandas as pd
 from jiwer import wer, cer
 from sentence_transformers import SentenceTransformer, util
-from dotenv import load_dotenv
 
 # -----------------------------
-# 0. LOAD ENV VARIABLES
+# 1. FILE PATHS
 # -----------------------------
-load_dotenv()
-
-# -----------------------------
-# 1. FILE PATHS (FROM .env)
-# -----------------------------
-REFERENCE_FOLDER = os.getenv("REFERENCE_DIR")
-TRANSCRIPTS_FOLDER = os.getenv("TRANSCRIPTS_DIR")
-OUTPUT_FILE = os.getenv("EVALUATION_OUTPUT_FILE")
+REFERENCE_FOLDER = r"C:\Users\venka\OneDrive\Desktop\MedicalPodcastAI\Clean_Transcripts"
+TRANSCRIPTS_FOLDER = r"C:\Users\venka\OneDrive\Desktop\MedicalPodcastAI\transcripts"
+OUTPUT_FILE = r"C:\Users\venka\OneDrive\Desktop\MedicalPodcastAI\final_evaluation.xlsx"
 
 # -----------------------------
 # 2. LOAD MODEL
@@ -49,9 +43,41 @@ def load_reference_texts():
     return references
 
 # -----------------------------
-# 5. EVALUATE TRANSCRIPTS
+# 5. CHECK IF EVALUATION EXISTS
 # -----------------------------
-def evaluate_transcripts():
+def evaluation_data_exists():
+    return os.path.exists(OUTPUT_FILE)
+
+# -----------------------------
+# 6. LOAD SUMMARY ONLY (NO RE-COMPUTE)
+# -----------------------------
+def load_evaluation_summary():
+    df = pd.read_excel(OUTPUT_FILE)
+
+    return {
+        "avg_accuracy": round(df["Final Accuracy Score (%)"].mean(), 2),
+        "avg_wer": round(df["WER (%)"].mean(), 2),
+        "avg_cer": round(df["CER (%)"].mean(), 2),
+        "avg_similarity": round(df["Semantic Similarity"].mean() * 100, 2)
+    }
+
+# -----------------------------
+# 7. EVALUATE TRANSCRIPTS
+# -----------------------------
+def evaluate_transcripts(load_only=False):
+    """
+    load_only=True  → only load stored Excel
+    load_only=False → compute evaluation once
+    """
+
+    # UI / QUALITY TAB CALL
+    if load_only:
+        return load_evaluation_summary()
+
+    #  PREVENT RE-COMPUTATION
+    if evaluation_data_exists():
+        return load_evaluation_summary()
+
     reference_texts = load_reference_texts()
     results = []
 
@@ -72,16 +98,13 @@ def evaluate_transcripts():
             ) as f:
                 hyp = normalize(f.read())
 
-            # Error metrics
             word_error_rate = wer(ref, hyp)
             char_error_rate = cer(ref, hyp)
 
-            # Semantic similarity
             emb1 = model.encode(ref, convert_to_tensor=True)
             emb2 = model.encode(hyp, convert_to_tensor=True)
             similarity = float(util.cos_sim(emb1, emb2))
 
-            # Meaning-focused accuracy
             accuracy = round(
                 (similarity * 0.85 + (1 - word_error_rate) * 0.15) * 100,
                 2
@@ -98,13 +121,12 @@ def evaluate_transcripts():
     df = pd.DataFrame(results)
     df.to_excel(OUTPUT_FILE, index=False)
 
-    print(
-        f"\nTranscript evaluation completed.\n"
-        f"Results saved to:\n{OUTPUT_FILE}\n"
-    )
+    print(f"\nTranscript evaluation completed.\nSaved to:\n{OUTPUT_FILE}\n")
+
+    return load_evaluation_summary()
 
 # -----------------------------
-# 6. MAIN
+# 8. MAIN (BATCH MODE ONLY)
 # -----------------------------
 if __name__ == "__main__":
     evaluate_transcripts()
