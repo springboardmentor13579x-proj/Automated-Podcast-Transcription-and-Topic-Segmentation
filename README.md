@@ -118,22 +118,29 @@ UI (Search, Playback, Visualization)
 ## Project Folder Structure
 
 ```
-
 Automated-Podcast-Transcription-and-Topic-Segmentation/
 │
-├── backend/               # Backend logic (optional)
-├── data/                  # Dataset references (not committed)
-├── notebooks/             # Experiments and analysis
-├── src/
+├── frontend/                 # React frontend (UI)
+│   ├── src/
+│   ├── public/
+│   ├── package.json
+│
+├── src/                      # Backend processing logic
 │   ├── preprocessing.py
 │   ├── transcription.py
 │   ├── segmentation.py
 │   ├── summarization.py
-│   ├── keyword_extraction.py
+│   ├── evaluation_summary.py
+│
+├── notebooks/                # Experiments and analysis
+├── Inference/                # Generated outputs (not committed fully)
+├── docs/
+├── tests/
 │
 ├── README.md
 ├── requirements.txt
 ├── LICENSE
+
 
 ```
 
