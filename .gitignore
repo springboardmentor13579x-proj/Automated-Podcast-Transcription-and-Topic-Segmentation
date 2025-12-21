@@ -1,37 +1,71 @@
-# -------------------------------
-# Python cache
-# -------------------------------
+# =====================================
+# Python cache & compiled files
+# =====================================
 __pycache__/
 *.pyc
+*.pyo
+*.pyd
 
-# -------------------------------
-# Jupyter notebook checkpoints
-# -------------------------------
+# =====================================
+# Jupyter notebooks
+# =====================================
 .ipynb_checkpoints/
 
-# -------------------------------
-# Large raw & processed audio
-# -------------------------------
+# =====================================
+# OS / Editor junk
+# =====================================
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# =====================================
+# Virtual environments
+# =====================================
+venv/
+
+# =====================================
+# Large raw & processed audio (DO NOT COMMIT)
+# =====================================
 Data/raw/
 Data/audio_raw/
 Data/audio_original/
 Data/audio_processed/
 
-# -------------------------------
-# Auto-generated evaluation & graphs
-# -------------------------------
+# =====================================
+# Generated outputs (runtime only)
+# =====================================
 Data/graphs/
 Data/evaluation_outputs/
+Outputs/
+uploads/
 
-# -------------------------------
-# Model & cache files (Whisper / NLP)
-# -------------------------------
+# =====================================
+# Model weights & caches
+# =====================================
 .cache/
 models/
 *.pt
 *.bin
+*.onnx
 
-# -------------------------------
-# Environment & secrets
-# -------------------------------
-.env
+# =====================================
+# Temporary / experimental folders
+# =====================================
+Inference/
+src - Copy/
+
+# =====================================
+# Logs
+# =====================================
+*.log
+
+# =====================================
+# ENV FILES
+# =====================================
+# Ignore secrets
+.env.secret
+.env.local
+
+# Allow safe env with paths only
+!.env
