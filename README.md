@@ -2,21 +2,21 @@
 
 # 
 
-# This project implements an AI-powered system to automatically transcribe podcast audio files and segment them into meaningful topical sections. It combines speech-to-text technology with natural language processing techniques to help users navigate long audio content efficiently.
+# This project implements an AI-powered system to automatically transcribe podcast audio files and segment them into meaningful topical sections. It combines speech-to-text technology with natural language processing to help users navigate long audio content efficiently.
 
 # 
 
-# \## Project Overview
+# ---
 
 # 
 
-# Podcasts and long-form audio recordings often span several hours, making it difficult to locate specific discussions. This system addresses the problem by converting audio into text, identifying topic boundaries, extracting keywords, and presenting the results through a simple user interface.
+# \### Project Overview
+
+# Podcasts and long-form audio recordings often span several hours, making it difficult to locate specific discussions. This system addresses this problem by converting audio into text, identifying topic boundaries, extracting keywords, and presenting the results through an interactive user interface.
 
 # 
 
-# \## Objectives
-
-# 
+# \### Objectives
 
 # \* \*\*Convert\*\* podcast audio into text using advanced speech-to-text models.
 
@@ -26,13 +26,15 @@
 
 # \* \*\*Extract\*\* keywords and generate summaries for each topic segment.
 
-# \* \*\*Provide\*\* a user interface for browsing, searching, and playback.
+# \* \*\*Provide\*\* a seamless user interface for browsing, searching, and playback.
 
 # 
 
-# \## Project Structure
+# ---
 
 # 
+
+# \### Project Structure
 
 # ```text
 
@@ -78,133 +80,139 @@
 
 
 
+Technology Stack
 
+Programming Language
 
-# Technology Stack
 
-# Programming Language
 
-# Python 3.9+
+Python 3.9+
 
-# 
 
-# Speech-to-Text
 
-# OpenAI Whisper: State-of-the-art automatic speech recognition (ASR).
+Speech-to-Text
 
-# 
 
-# Faster Whisper: Optimized inference for faster processing.
 
-# 
+OpenAI Whisper: State-of-the-art automatic speech recognition (ASR).
 
-# Audio Processing
 
-# Silero VAD: Voice Activity Detection to remove silence and background noise.
 
-# 
+Faster Whisper: Optimized inference for faster processing.
 
-# Librosa / SoundFile: For audio signal processing and I/O.
 
-# 
 
-# PyTorch: Deep learning framework backend.
+Audio Processing
 
-# 
 
-# Natural Language Processing
 
-# NLTK: Tokenization and text processing.
+Silero VAD: Voice Activity Detection to remove silence and background noise.
 
-# 
 
-# Transformers (Hugging Face): For abstractive summarization (BART/T5).
 
-# 
+Librosa / SoundFile: For audio signal processing and I/O.
 
-# Scikit-learn: For semantic analysis and clustering.
 
-# 
 
-# KeyBERT / YAKE: For keyword extraction.
+PyTorch: Deep learning framework backend.
 
-# 
 
-# Visualization and UI
 
-# Streamlit: Interactive web dashboard creation.
+Natural Language Processing
 
-# 
 
-# Pandas: Data manipulation and management.
 
-# 
+NLTK: Tokenization and text processing.
 
-# Workflow
 
-# Audio Ingestion: Audio ingestion from local files or uploads via the interface.
 
-# 
+Transformers (Hugging Face): For abstractive summarization (BART/T5).
 
-# Audio Preprocessing: Includes noise reduction and normalization using VAD.
 
-# 
 
-# Transcription: Transcription using speech-to-text models (Whisper).
+Scikit-learn: For semantic analysis and clustering.
 
-# 
 
-# Topic Segmentation: Segmentation based on semantic similarity and pauses.
 
-# 
+KeyBERT / YAKE: For keyword extraction.
 
-# Keyword Extraction: Keyword extraction and summarization for each segment.
 
-# 
 
-# Visualization: Visualization and browsing using a web interface.
+Visualization and UI
 
-# 
 
-# How to Run the Project
 
-# 1\. Setup Environment
+Streamlit: Interactive web dashboard creation.
 
-# Clone the repository and install the required dependencies:
 
-# 
 
-# Bash
+Pandas: Data manipulation and management.
 
-# 
 
-# git clone \[https://github.com/springboardmentor13579x-proj/Automated-Podcast-Transcription-and-Topic-Segmentation.git](https://github.com/springboardmentor13579x-proj/Automated-Podcast-Transcription-and-Topic-Segmentation.git)
 
-# cd Automated-Podcast-Transcription-and-Topic-Segmentation
+Workflow
 
-# pip install -r requirements.txt
+Audio Ingestion: Audio ingestion from local files or uploads via the interface.
 
-# 2\. Run the Application
 
-# Launch the interactive dashboard using Streamlit:
 
-# 
+Audio Preprocessing: Includes noise reduction and normalization using VAD.
 
-# Bash
 
-# 
 
-# streamlit run src/ui\_app.py
+Transcription: Transcription using speech-to-text models (Whisper).
 
-# 3\. Usage
 
-# Open your browser to the local URL provided (usually http://localhost:8501).
 
-# 
+Topic Segmentation: Segmentation based on semantic similarity and pauses.
 
-# Upload an audio file to start the pipeline.
 
-# 
 
-# Use the search interface to find specific topics and play audio segments.
+Keyword Extraction: Keyword extraction and summarization for each segment.
+
+
+
+Visualization: Visualization and browsing using a web interface.
+
+
+
+How to Run the Project
+
+1\. Setup Environment Clone the repository and install the required dependencies:
+
+
+
+Bash
+
+
+
+git clone \[https://github.com/springboardmentor13579x-proj/Automated-Podcast-Transcription-and-Topic-Segmentation.git](https://github.com/springboardmentor13579x-proj/Automated-Podcast-Transcription-and-Topic-Segmentation.git)
+
+cd Automated-Podcast-Transcription-and-Topic-Segmentation
+
+pip install -r requirements.txt
+
+2\. Run the Application Launch the interactive dashboard using Streamlit:
+
+
+
+Bash
+
+
+
+streamlit run src/ui\_app.py
+
+3\. Usage
+
+
+
+Open your browser to the local URL provided (usually http://localhost:8501).
+
+
+
+Upload an audio file to start the pipeline.
+
+
+
+Use the search interface to find specific topics and play audio segments.
 
