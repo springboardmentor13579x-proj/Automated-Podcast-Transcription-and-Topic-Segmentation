@@ -120,7 +120,6 @@ Frontend UI (Search, Playback, Visualization)
 ---
 
 ## Project Folder Structure
-
 Automated-Podcast-Transcription-and-Topic-Segmentation/
 │
 ├── backend/                         # Backend API (Flask)
@@ -165,6 +164,7 @@ Automated-Podcast-Transcription-and-Topic-Segmentation/
 ├── requirements.txt
 ├── LICENSE
 └── .env.example
+
 
 ---
 
