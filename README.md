@@ -66,23 +66,6 @@ For each medical topic segment:
 
 ## System Architecture
 
-Audio Input
-↓
-Audio Preprocessing
-↓
-Medical Speech-to-Text (ASR)
-↓
-Transcript Cleaning
-↓
-Embedding Model
-↓
-Topic Segmentation
-↓
-Medical Summaries and Keywords
-↓
-Indexing
-↓
-Frontend UI (Search, Playback, Visualization)
 
 ---
 
