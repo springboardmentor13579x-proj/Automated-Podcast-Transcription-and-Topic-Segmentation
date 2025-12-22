@@ -1,36 +1,22 @@
 import streamlit as st
 import json
-import re
 from pathlib import Path
+from collections import Counter
+from textblob import TextBlob
+import plotly.express as px
+from wordcloud import WordCloud
+import matplotlib.pyplot as plt
 
 PROJECT_ROOT = Path(__file__).resolve().parent.parent
 META_FILE = PROJECT_ROOT / "docs" / "processing_metadata.json"
-AUDIO_RAW = PROJECT_ROOT / "audio_raw"
 
 st.set_page_config(layout="wide")
-st.title("Legal (AI Automated Argument Transcription)")
-
-AUDIO_RAW.mkdir(exist_ok=True)
+st.title("Legal AI Argument Transcription")
 
 def load_metadata():
     if META_FILE.exists():
         return json.loads(META_FILE.read_text())
     return {}
-
-def save_uploaded_file(uploaded_file):
-    path = AUDIO_RAW / uploaded_file.name
-    if not path.exists():
-        with open(path, "wb") as f:
-            f.write(uploaded_file.read())
-    return path
-
-def load_transcript_text(path):
-    p = Path(path)
-    if not p.exists():
-        return ""
-    lines = p.read_text().splitlines()
-    cleaned = [re.sub(r"\[.*?\]\s*", "", l) for l in lines]
-    return " ".join(cleaned)
 
 def load_segments(path):
     p = Path(path)
@@ -38,65 +24,85 @@ def load_segments(path):
         return json.loads(p.read_text())
     return []
 
-meta = load_metadata()
+def compute_sentiment(text):
+    return round(TextBlob(text).sentiment.polarity, 3)
 
-uploaded = st.file_uploader("Upload audio file", type=["wav", "mp3", "m4a"])
+metadata = load_metadata()
 
-if uploaded:
-    save_uploaded_file(uploaded)
-    st.success("File uploaded")
-    st.stop()
-
-if not meta:
+if not metadata:
     st.write("No processed audio available")
     st.stop()
 
-selected_key = st.selectbox("Select audio file", list(meta.keys()))
+file_key = st.selectbox("Select audio file", sorted(metadata.keys()))
+data = metadata[file_key]
+
+st.subheader(file_key)
+
+if "segmentation" not in data:
+    st.write("Segmentation data not available")
+    st.stop()
+
+segments = load_segments(data["segmentation"]["segment_file"])
+
+if not segments:
+    st.write("No segments found")
+    st.stop()
+
+for seg in segments:
+    if "sentiment" not in seg:
+        seg["sentiment"] = compute_sentiment(seg.get("text", ""))
+
+timeline_df = {
+    "Start Time (sec)": [seg["start"] for seg in segments],
+    "Sentiment": [seg["sentiment"] for seg in segments],
+    "Preview": [seg["text"][:120] for seg in segments],
+}
+
+timeline_fig = px.scatter(
+    timeline_df,
+    x="Start Time (sec)",
+    y="Sentiment",
+    hover_data=["Preview"],
+    title="Sentiment Timeline"
+)
+
+st.plotly_chart(timeline_fig, use_container_width=True)
+
+all_keywords = []
+for seg in segments:
+    all_keywords.extend(seg.get("keywords", []))
+
+if all_keywords:
+    freq = Counter(all_keywords)
+    wc = WordCloud(width=900, height=300, background_color="white")
+    wc.generate_from_frequencies(freq)
+
+    fig, ax = plt.subplots(figsize=(12, 4))
+    ax.imshow(wc)
+    ax.axis("off")
+    st.subheader("Keyword Cloud")
+    st.pyplot(fig)
+
+st.subheader("Segment Details")
+
 search_query = st.text_input("Search text or keywords")
 
-data = meta[selected_key]
+for seg in segments:
+    text = seg.get("text", "")
+    keywords = seg.get("keywords", [])
+    sentiment = seg.get("sentiment", 0.0)
 
-st.subheader(selected_key)
+    if search_query:
+        if search_query.lower() not in text.lower() and not any(
+            search_query.lower() in kw.lower() for kw in keywords
+        ):
+            continue
 
-show_transcript = st.button("Show Transcription")
+    st.write(f"[{seg['start']:.2f} – {seg['end']:.2f}]")
+    st.write(text)
+    st.write("Sentiment:", sentiment)
 
-if show_transcript:
-    if "segmentation" in data:
-        segments = load_segments(data["segmentation"]["segment_file"])
+    if keywords:
+        st.write("Keywords:", ", ".join(keywords))
 
-        for seg in segments:
-            text = seg.get("text", "").strip()
-            keywords = seg.get("keywords", [])
-            start = seg.get("start", 0.0)
-            end = seg.get("end", 0.0)
-
-            match = False
-            if search_query:
-                if search_query.lower() in text.lower():
-                    match = True
-                for kw in keywords:
-                    if search_query.lower() in kw.lower():
-                        match = True
-            else:
-                match = True
-
-            if not match:
-                continue
-
-            st.write(f"[{start:.2f} – {end:.2f}]")
-            st.write(text)
-
-            if keywords:
-                st.write("Keywords:", ", ".join(keywords))
-
-            st.write("")
-
-    elif "transcription" in data:
-        transcript_text = load_transcript_text(
-            data["transcription"]["transcript_file"]
-        )
-        if search_query:
-            if search_query.lower() in transcript_text.lower():
-                st.write(transcript_text)
-        else:
-            st.write(transcript_text)
+    st.write("")
