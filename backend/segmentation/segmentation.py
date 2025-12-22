@@ -135,7 +135,7 @@ def main():
             with open(json_path, "w", encoding="utf-8") as f:
                 json.dump(final_output, f, indent=4, ensure_ascii=False)
 
-            print(f"✅ Saved: {json_path}")
+            print(f"Saved: {json_path}")
 
 if __name__ == "__main__":
     main()
