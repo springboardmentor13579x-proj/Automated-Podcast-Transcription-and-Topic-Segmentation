@@ -1,0 +1,28 @@
+
+# --- Audio Processing ---
+librosa
+pydub
+soundfile
+numpy
+ffmpeg-python
+
+# --- Utilities ---
+tqdm
+requests
+
+# --- Core AI & Machine Learning ---
+sentence-transformers
+scikit-learn
+numpy
+pandas
+torch
+transformers
+accelerate
+
+# --- Natural Language Processing (NLP) ---
+nltk
+keybert
+jiwer
+
+# --- Web Interface ---
+flask
