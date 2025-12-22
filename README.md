@@ -115,9 +115,51 @@ Frontend UI (Search, Playback, Visualization)
 - FAISS / Vector Database (optional)
 
 ---
-
 ## Project Structure
 
+Automated-Podcast-Transcription-and-Topic-Segmentation/
+│
+├── Data/                               # Audio datasets (not committed)
+│   ├── audio_raw/
+│   ├── audio_processed/
+│
+├── src/                                # Backend processing logic
+│   ├── preprocessing.py               # Audio preprocessing
+│   ├── transcription.py               # Whisper ASR transcription
+│   ├── segmentation.py                # Topic segmentation
+│   ├── summarization.py               # Segment summaries
+│   ├── keyword_extraction.py           # Medical keyword extraction
+│   └── evaluation_summary.py           # Evaluation & reports
+│
+├── ui_app/                             # Frontend UI (React)
+│   ├── public/
+│   ├── src/
+│   │   ├── components/
+│   │   │   ├── Home.jsx
+│   │   │   ├── Segments.jsx
+│   │   │   ├── Transcription.jsx
+│   │   │   ├── TopicSearch.jsx
+│   │   │   └── Downloads.jsx
+│   │   ├── App.js
+│   │   ├── api.js
+│   │   └── index.js
+│   ├── package.json
+│   ├── package-lock.json
+│   └── .gitignore
+│
+├── Inference/                          # Generated outputs (not committed)
+│   ├── transcripts/
+│   ├── segments/
+│   └── keywords/
+│
+├── notebooks/                          # Experiments & analysis
+├── docs/                               # Documentation
+├── tests/                              # Test cases
+│
+├── README.md
+├── requirements.txt
+├── LICENSE
+└── .env.example
 
 ---
 
