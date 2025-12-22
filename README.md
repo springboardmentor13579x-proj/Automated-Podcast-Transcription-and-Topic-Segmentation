@@ -84,6 +84,7 @@ Indexing
 Frontend UI (Search, Playback, Visualization)
 
 ---
+##
 
 ## Tech Stack
 
@@ -162,6 +163,7 @@ Automated-Podcast-Transcription-and-Topic-Segmentation/
 └── .env.example
 
 ---
+##
 
 ## Tech Stack
 
