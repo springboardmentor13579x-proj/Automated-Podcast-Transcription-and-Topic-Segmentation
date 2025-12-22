@@ -118,11 +118,10 @@ Frontend UI (Search, Playback, Visualization)
 - FAISS / Vector Database (optional)
 
 ---
-
-## Project Folder Structure
+## Project structure
 Automated-Podcast-Transcription-and-Topic-Segmentation/
 │
-├── backend/                         # Backend API (Flask)
+├── Data/                            # Backend API (Flask)
 │   ├── app.py
 │   ├── src/
 │   │   ├── preprocessing.py
@@ -149,24 +148,19 @@ Automated-Podcast-Transcription-and-Topic-Segmentation/
 │   ├── package-lock.json
 │   └── .gitignore
 │
-├── Inference/                       # Generated outputs (not committed)
+├── Inference/
 │   ├── transcripts/
 │   ├── segments/
 │   └── keywords/
 │
-├── Data/                            # Dataset references (not committed)
-│
-├── notebooks/                       # Experiments and analysis
-│
-├── docs/                            # Documentation
-│
-├── tests/                           # Test cases
-│
+├── notebooks/
+├── docs/
+├── tests/
 ├── README.md
 ├── requirements.txt
 ├── LICENSE
 └── .env.example
----
+
 
 ## Milestone-wise Implementation
 
