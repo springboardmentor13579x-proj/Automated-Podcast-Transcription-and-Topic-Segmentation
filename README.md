@@ -1,4 +1,3 @@
-
 # Automated Medical Podcast Transcription and Topic Segmentation
 
 ## Project Overview
@@ -56,16 +55,15 @@ For each medical topic segment:
 
 ---
 
-### 4. UI for Navigation
+### 4. Frontend UI for Navigation
 - Display transcripts with topic-wise segmentation  
 - Enable click-to-jump using timestamps  
-- Provide audio playback and visual insights  
+- Provide audio playback controls  
+- Visualize segments, summaries, and keywords  
+- Interact with backend APIs for transcription and analysis  
 
 ---
-
 ## System Architecture
-
-```
 
 Audio Input
 ↓
@@ -83,16 +81,15 @@ Medical Summaries and Keywords
 ↓
 Indexing
 ↓
-UI (Search, Playback, Visualization)
-
-```
+Frontend UI (Search, Playback, Visualization)
 
 ---
 
 ## Tech Stack
 
-### Core Technologies
+### Backend
 - Python 3.9+
+- Flask
 - Whisper (OpenAI) / Faster-Whisper
 - Librosa, PyDub, FFmpeg
 
@@ -103,8 +100,12 @@ UI (Search, Playback, Visualization)
 - Sentence Transformers
 - KeyBERT / YAKE / RAKE
 
-### Visualization and UI
-- Streamlit / Flask
+### Frontend
+- React.js
+- HTML, CSS, JavaScript
+- REST API integration with backend
+
+### Visualization
 - Plotly
 - Matplotlib
 
@@ -115,27 +116,85 @@ UI (Search, Playback, Visualization)
 
 ---
 
-## Project Folder Structure
+## Project Structure
 
-```
 
+---
+
+## Tech Stack
+
+### Backend
+- Python 3.9+
+- Flask
+- Whisper (OpenAI) / Faster-Whisper
+- Librosa, PyDub, FFmpeg
+
+### NLP and Machine Learning
+- NLTK
+- SpaCy
+- HuggingFace Transformers
+- Sentence Transformers
+- KeyBERT / YAKE / RAKE
+
+### Frontend
+- React.js
+- HTML, CSS, JavaScript
+- REST API integration with backend
+
+### Visualization
+- Plotly
+- Matplotlib
+
+### Storage
+- JSON / CSV for metadata
+- SQLite (optional)
+- FAISS / Vector Database (optional)
+
+---
+
+## Project Structure
 Automated-Podcast-Transcription-and-Topic-Segmentation/
 │
-├── backend/               # Backend logic (optional)
-├── data/                  # Dataset references (not committed)
-├── notebooks/             # Experiments and analysis
-├── src/
-│   ├── preprocessing.py
-│   ├── transcription.py
-│   ├── segmentation.py
-│   ├── summarization.py
-│   ├── keyword_extraction.py
+├── Data/ # Backend (Flask)
+│ ├── app.py
+│ ├── src/
+│ │ ├── preprocessing.py
+│ │ ├── transcription.py
+│ │ ├── segmentation.py
+│ │ ├── summarization.py
+│ │ ├── keyword_extraction.py
+│ │ └── evaluation_summary.py
+│ └── requirements.txt
+│
+├── frontend/ # React frontend UI
+│ ├── public/
+│ ├── src/
+│ │ ├── components/
+│ │ │ ├── Home.jsx
+│ │ │ ├── Segments.jsx
+│ │ │ ├── Transcription.jsx
+│ │ │ ├── TopicSearch.jsx
+│ │ │ └── Downloads.jsx
+│ │ ├── App.js
+│ │ ├── api.js
+│ │ └── index.js
+│ ├── package.json
+│ ├── package-lock.json
+│ └── .gitignore
+│
+├── Inference/ # Generated outputs (not committed)
+│ ├── transcripts/
+│ ├── segments/
+│ └── keywords/
+│
+├── notebooks/ # Experiments and analysis
+├── docs/ # Documentation
+├── tests/ # Test cases
 │
 ├── README.md
 ├── requirements.txt
 ├── LICENSE
-
-```
+└── .env.example
 
 ---
 
@@ -150,10 +209,10 @@ Automated-Podcast-Transcription-and-Topic-Segmentation/
 - Medical keyword extraction  
 - Initial summaries  
 
-### Milestone 3: Visualization and Enhancements
-- Topic timelines  
-- Keyword clouds  
-- Improved summaries  
+### Milestone 3: Frontend Integration and Visualization
+- React UI for transcript and segment navigation  
+- Timestamp-based audio playback  
+- Keyword and summary display  
 
 ### Milestone 4: Documentation and Final Delivery
 - Technical documentation  
@@ -162,9 +221,9 @@ Automated-Podcast-Transcription-and-Topic-Segmentation/
 ---
 
 ## Data and Privacy Considerations
-- Raw audio and sensitive data are not committed to GitHub  
-- API keys are stored securely using `.env`  
-- Only source code and metadata are version-controlled  
+- Raw audio and large files are not committed to GitHub  
+- API keys are managed using environment variables  
+- Only source code and configuration files are version-controlled  
 
 ---
 
@@ -188,5 +247,4 @@ Automated-Podcast-Transcription-and-Topic-Segmentation/
 
 ## License
 This project is licensed under the MIT License.
-
 
