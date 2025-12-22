@@ -131,7 +131,7 @@ Automated-Podcast-Transcription-and-Topic-Segmentation/
 │   │   ├── summarization.py
 │   │   ├── keyword_extraction.py
 │   │   └── evaluation_summary.py
-│   ├── requirements.txt
+│   └── requirements.txt
 │
 ├── frontend/                        # React frontend UI
 │   ├── public/
@@ -154,6 +154,8 @@ Automated-Podcast-Transcription-and-Topic-Segmentation/
 │   ├── segments/
 │   └── keywords/
 │
+├── Data/                            # Dataset references (not committed)
+│
 ├── notebooks/                       # Experiments and analysis
 │
 ├── docs/                            # Documentation
@@ -164,9 +166,6 @@ Automated-Podcast-Transcription-and-Topic-Segmentation/
 ├── requirements.txt
 ├── LICENSE
 └── .env.example
-
-
-
 ---
 
 ## Milestone-wise Implementation
