@@ -123,30 +123,48 @@ Frontend UI (Search, Playback, Visualization)
 
 Automated-Podcast-Transcription-and-Topic-Segmentation/
 │
-├── backend/ # Flask backend (optional)
-│ ├── app.py
-│ ├── src/
+├── backend/                         # Backend API (Flask)
+│   ├── app.py
+│   ├── src/
+│   │   ├── preprocessing.py
+│   │   ├── transcription.py
+│   │   ├── segmentation.py
+│   │   ├── summarization.py
+│   │   ├── keyword_extraction.py
+│   │   └── evaluation_summary.py
+│   ├── requirements.txt
 │
-├── frontend/ # React frontend
-│ ├── src/
-│ │ ├── components/
-│ │ ├── App.js
-│ │ ├── api.js
-│ ├── public/
-│ ├── package.json
+├── frontend/                        # React frontend UI
+│   ├── public/
+│   ├── src/
+│   │   ├── components/
+│   │   │   ├── Home.jsx
+│   │   │   ├── Segments.jsx
+│   │   │   ├── Transcription.jsx
+│   │   │   ├── TopicSearch.jsx
+│   │   │   └── Downloads.jsx
+│   │   ├── App.js
+│   │   ├── api.js
+│   │   └── index.js
+│   ├── package.json
+│   ├── package-lock.json
+│   └── .gitignore
 │
-├── Inference/ # Generated outputs (not committed)
-│ ├── transcripts/
-│ ├── segments/
-│ ├── keywords/
+├── Inference/                       # Generated outputs (not committed)
+│   ├── transcripts/
+│   ├── segments/
+│   └── keywords/
 │
-├── notebooks/ # Experiments and analysis
-├── docs/ # Documentation
-├── tests/ # Test cases
+├── notebooks/                       # Experiments and analysis
+│
+├── docs/                            # Documentation
+│
+├── tests/                           # Test cases
+│
 ├── README.md
 ├── requirements.txt
 ├── LICENSE
-
+└── .env.example
 
 ---
 
