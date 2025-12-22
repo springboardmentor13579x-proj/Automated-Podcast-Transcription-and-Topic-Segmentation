@@ -66,7 +66,6 @@ For each medical topic segment:
 
 ## System Architecture
 
-
 Audio Input
 ↓
 Audio Preprocessing
@@ -84,6 +83,41 @@ Medical Summaries and Keywords
 Indexing
 ↓
 Frontend UI (Search, Playback, Visualization)
+
+---
+
+## Tech Stack
+
+### Backend
+- Python 3.9+
+- Flask
+- Whisper (OpenAI) / Faster-Whisper
+- Librosa, PyDub, FFmpeg
+
+### NLP and Machine Learning
+- NLTK
+- SpaCy
+- HuggingFace Transformers
+- Sentence Transformers
+- KeyBERT / YAKE / RAKE
+
+### Frontend
+- React.js
+- HTML, CSS, JavaScript
+- REST API integration with backend
+
+### Visualization
+- Plotly
+- Matplotlib
+
+### Storage
+- JSON / CSV for metadata
+- SQLite (optional)
+- FAISS / Vector Database (optional)
+
+---
+
+## Project Structure
 
 
 ---
@@ -118,49 +152,52 @@ Frontend UI (Search, Playback, Visualization)
 - FAISS / Vector Database (optional)
 
 ---
-## Project structure
+
+## Project Structure
 Automated-Podcast-Transcription-and-Topic-Segmentation/
 │
-├── Data/                            # Backend API (Flask)
-│   ├── app.py
-│   ├── src/
-│   │   ├── preprocessing.py
-│   │   ├── transcription.py
-│   │   ├── segmentation.py
-│   │   ├── summarization.py
-│   │   ├── keyword_extraction.py
-│   │   └── evaluation_summary.py
-│   └── requirements.txt
+├── Data/ # Backend (Flask)
+│ ├── app.py
+│ ├── src/
+│ │ ├── preprocessing.py
+│ │ ├── transcription.py
+│ │ ├── segmentation.py
+│ │ ├── summarization.py
+│ │ ├── keyword_extraction.py
+│ │ └── evaluation_summary.py
+│ └── requirements.txt
 │
-├── frontend/                        # React frontend UI
-│   ├── public/
-│   ├── src/
-│   │   ├── components/
-│   │   │   ├── Home.jsx
-│   │   │   ├── Segments.jsx
-│   │   │   ├── Transcription.jsx
-│   │   │   ├── TopicSearch.jsx
-│   │   │   └── Downloads.jsx
-│   │   ├── App.js
-│   │   ├── api.js
-│   │   └── index.js
-│   ├── package.json
-│   ├── package-lock.json
-│   └── .gitignore
+├── frontend/ # React frontend UI
+│ ├── public/
+│ ├── src/
+│ │ ├── components/
+│ │ │ ├── Home.jsx
+│ │ │ ├── Segments.jsx
+│ │ │ ├── Transcription.jsx
+│ │ │ ├── TopicSearch.jsx
+│ │ │ └── Downloads.jsx
+│ │ ├── App.js
+│ │ ├── api.js
+│ │ └── index.js
+│ ├── package.json
+│ ├── package-lock.json
+│ └── .gitignore
 │
-├── Inference/
-│   ├── transcripts/
-│   ├── segments/
-│   └── keywords/
+├── Inference/ # Generated outputs (not committed)
+│ ├── transcripts/
+│ ├── segments/
+│ └── keywords/
 │
-├── notebooks/
-├── docs/
-├── tests/
+├── notebooks/ # Experiments and analysis
+├── docs/ # Documentation
+├── tests/ # Test cases
+│
 ├── README.md
 ├── requirements.txt
 ├── LICENSE
 └── .env.example
 
+---
 
 ## Milestone-wise Implementation
 
@@ -211,3 +248,4 @@ Automated-Podcast-Transcription-and-Topic-Segmentation/
 
 ## License
 This project is licensed under the MIT License.
+
