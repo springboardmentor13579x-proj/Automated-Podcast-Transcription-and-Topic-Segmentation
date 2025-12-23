@@ -63,8 +63,8 @@ For each medical topic segment:
 - Interact with backend APIs for transcription and analysis  
 
 ---
----
-## System Architecture Flow
+
+### System Architecture Flow
 +---------------------+
 |     Audio Input     |
 +---------------------+
@@ -111,8 +111,8 @@ For each medical topic segment:
 +---------------------------------------------+
 
 ---
----
-## Tech Stack
+
+### Tech Stack
 
 ### Backend
 - Python 3.9+
@@ -142,7 +142,7 @@ For each medical topic segment:
 - FAISS / Vector Database (optional)
 
 ---
-## Project Structure
+### Project Structure
 
 Automated-Podcast-Transcription-and-Topic-Segmentation/
 │
