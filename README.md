@@ -45,7 +45,7 @@ This project can be evaluated using the **MeetingBank – Denver Audio Dataset**
 ---
 
 ## VI. Project Structure
-
+``` text
 AUTOMATED-PODCAST-TRANSCRIPTION-AND-TOPIC-SEGMENTATION/  
 ├── PROJECT/  
 │   ├── AUDIO_RAW/  
@@ -63,6 +63,7 @@ AUTOMATED-PODCAST-TRANSCRIPTION-AND-TOPIC-SEGMENTATION/
 ├── README.MD  
 ├── REQUIREMENTS.TXT  
 └── LICENSE  
+```
 
 ---
 
