@@ -78,7 +78,8 @@ python -m venv venv
 
 Activate the environment (Windows):  
 
-```bash venv\Scripts\activate
+```bash 
+venv\Scripts\activate
  ```
 
 ---
@@ -86,7 +87,8 @@ Activate the environment (Windows):
 ### 2. Install Dependencies
 
 Install all required packages using:  
-```bash pip install -r requirements.txt
+```bash 
+pip install -r requirements.txt
  ```
 
 
@@ -119,7 +121,8 @@ Output files will be generated in the `TRANSCRIPTS/` directory.
 ### 5. Generate Summaries and Keywords
 
 Run the summarization and keyword extraction script using:  
-```bash python summary_generator.py 
+```bash
+ python summary_generator.py 
 ```
 
 Output files will be stored in the `SUMMARIES/` directory.
