@@ -72,17 +72,23 @@ AUTOMATED-PODCAST-TRANSCRIPTION-AND-TOPIC-SEGMENTATION/
 ### 1. Create and Activate Virtual Environment
 
 Create a virtual environment using:  
-`python -m venv venv`
+```bash
+python -m venv venv 
+```
 
 Activate the environment (Windows):  
-`venv\Scripts\activate`
+
+```bash venv\Scripts\activate
+ ```
 
 ---
 
 ### 2. Install Dependencies
 
 Install all required packages using:  
-`pip install -r requirements.txt`
+```bash pip install -r requirements.txt
+ ```
+
 
 ---
 
@@ -92,17 +98,19 @@ Install all required packages using:
 - Place audio files inside the `AUDIO_RAW` directory
 
 Example structure:
-
+``` text
 AUDIO_RAW/  
 ├── DENVER-1.MP3  
 ├── DENVER-2.MP3  
-
+```
 ---
 
 ### 4. Run Transcription
 
 Execute the transcription pipeline using:  
-`python meeting_council.py`
+```bash
+ python meeting_council.py
+  ```
 
 Output files will be generated in the `TRANSCRIPTS/` directory.
 
@@ -111,14 +119,15 @@ Output files will be generated in the `TRANSCRIPTS/` directory.
 ### 5. Generate Summaries and Keywords
 
 Run the summarization and keyword extraction script using:  
-`python summary_generator.py`
+```bash python summary_generator.py 
+```
 
 Output files will be stored in the `SUMMARIES/` directory.
 
 ---
 
 ## VIII. System Architecture
-
+``` text
 AUDIO FILES (.MP3 / .WAV)  
        ↓  
 FASTWHISPER (ASR)  
@@ -132,6 +141,7 @@ KEYWORD EXTRACTION (KEYBERT)
 SUMMARY GENERATION  
        ↓  
 STRUCTURED OUTPUT (JSON / TXT)
+```
 
 ---
 
