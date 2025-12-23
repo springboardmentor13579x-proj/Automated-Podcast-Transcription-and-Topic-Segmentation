@@ -63,7 +63,7 @@ For each medical topic segment:
 - Interact with backend APIs for transcription and analysis  
 
 ---
-
+---
 ## System Architecture Flow
 +---------------------+
 |     Audio Input     |
@@ -110,9 +110,8 @@ For each medical topic segment:
 | (Search, Playback, Visualization)           |
 +---------------------------------------------+
 
-
-##
-
+---
+---
 ## Tech Stack
 
 ### Backend
