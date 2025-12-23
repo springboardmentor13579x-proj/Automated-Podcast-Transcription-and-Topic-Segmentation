@@ -11,11 +11,31 @@ class ContentProcessor:
         self.kw_model = KeyBERT()
 
     def generate_summary(self, text, max_len=60):
-        if len(text.split()) < 30: return text
+        """
+        Generates a concise summary and polishes the formatting.
+        """
+        # 1. Safety Check
+        if len(text.split()) < 30:
+            return text
+            
         try:
-            summary = self.summarizer(text, max_length=max_len, min_length=15, do_sample=False)
-            return summary[0]['summary_text']
-        except:
+            # 2. Generate Raw Summary
+            summary_result = self.summarizer(text, max_length=max_len, min_length=15, do_sample=False)
+            raw_summary = summary_result[0]['summary_text']
+            
+            # 3. 🛀 POLISH THE TEXT (New Step)
+            # Remove extra spaces (e.g., " . " -> ". ")
+            polished = raw_summary.replace(" .", ".").replace(" ,", ",")
+            # Ensure it starts with Capital
+            polished = polished[0].upper() + polished[1:]
+            # Ensure it ends with a period
+            if not polished.endswith("."):
+                polished += "."
+                
+            return polished
+            
+        except Exception as e:
+            print(f"   ⚠️ Summarization error: {e}")
             return text[:100] + "..."
 
     def extract_keywords(self, text, top_n=5):
