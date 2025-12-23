@@ -64,8 +64,7 @@ For each medical topic segment:
 
 ---
 
-System Architecture Flow
-
+## System Architecture Flow
 +---------------------+
 |     Audio Input     |
 +---------------------+
@@ -110,6 +109,7 @@ System Architecture Flow
 | Frontend UI                                 |
 | (Search, Playback, Visualization)           |
 +---------------------------------------------+
+
 
 ##
 
