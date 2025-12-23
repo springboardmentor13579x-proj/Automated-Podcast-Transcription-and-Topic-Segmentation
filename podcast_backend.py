@@ -14,7 +14,6 @@ from sklearn.metrics.pairwise import cosine_similarity
 from transformers import pipeline
 from nltk.sentiment import SentimentIntensityAnalyzer
 
-# Suppress warnings
 warnings.filterwarnings("ignore")
 
 def setup_directories(base_dir):
@@ -39,12 +38,10 @@ def setup_nltk():
         except LookupError:
             nltk.download(r, quiet=True)
 
-# --- 1. PREPROCESSING ---
 def preprocess_audio(input_path, output_path):
     target_sr = 16000
     try:
         y, sr = librosa.load(input_path, sr=target_sr, mono=True)
-        # Normalize
         if np.max(np.abs(y)) > 0:
             y = y / np.max(np.abs(y))
         sf.write(output_path, y, sr)
@@ -53,37 +50,31 @@ def preprocess_audio(input_path, output_path):
         print(f"Error preprocessing: {e}")
         return False
 
-# --- 2. TRANSCRIPTION & SUMMARY ---
 def transcribe_and_summarize(audio_path, transcript_path, summary_path, model_size="base"):
     device = "cuda" if torch.cuda.is_available() else "cpu"
     
-    # Transcribe
+    # Audio transcription
     model = whisper.load_model(model_size, device=device)
     result = model.transcribe(str(audio_path), fp16=False)
     
-    # Save Transcript
     with open(transcript_path.replace('.json', '.txt'), "w", encoding="utf-8") as f:
         f.write(result["text"].strip())
     with open(transcript_path, "w", encoding="utf-8") as f:
         json.dump(result, f, indent=4)
         
-    # Generate Summary
+    # Text summarization
     text = result["text"]
-    summary = "Summary could not be generated." # Default message
+    summary = "Summary could not be generated."
     try:
         summarizer = pipeline("summarization", model="sshleifer/distilbart-cnn-12-6")
-        # Chunk text if too long
         chunk = text[:3500]
-        # Adjusted settings for better short summaries
         summary_result = summarizer(chunk, max_length=200, min_length=50, do_sample=False)
         summary = summary_result[0]['summary_text']
     except Exception as e:
         print(f"Summary AI Error: {e}. Using fallback.")
-        # Fallback to simple extraction
         sentences = text.split('.')
         summary = ". ".join(sentences[:15]) + "."
         
-    # Ensure summary is saved
     try:
         with open(summary_path, "w", encoding="utf-8") as f:
             f.write(summary)
@@ -91,7 +82,6 @@ def transcribe_and_summarize(audio_path, transcript_path, summary_path, model_si
     except Exception as e:
         print(f"Error saving summary file: {e}")
 
-# --- 3. SENTIMENT ---
 def analyze_sentiment(transcript_path, output_path):
     setup_nltk()
     sia = SentimentIntensityAnalyzer()
@@ -120,7 +110,6 @@ def analyze_sentiment(transcript_path, output_path):
     with open(output_path, "w", encoding="utf-8") as f:
         json.dump(timeline, f, indent=4)
 
-# --- 4. KEYWORDS ---
 def extract_keywords(transcript_dir, output_dir):
     files = list(Path(transcript_dir).glob("*.json"))
     if not files: return
@@ -155,7 +144,6 @@ def extract_keywords(transcript_dir, output_dir):
     except ValueError:
         pass 
 
-# --- 5. TOPIC SEGMENTATION (FIXED) ---
 def segment_topics(transcript_path, output_path):
     setup_nltk()
     with open(transcript_path, "r", encoding="utf-8") as f:
@@ -164,17 +152,15 @@ def segment_topics(transcript_path, output_path):
         
     sentences = nltk.sent_tokenize(text)
     
-    # FIXED: If audio is too short, create a "Single Topic" file instead of doing nothing
     if len(sentences) < 5: 
         with open(output_path, "w", encoding="utf-8") as f:
             f.write(f"=== TOPICS: {Path(transcript_path).stem} ===\n")
-            f.write(f"🔹 TOPIC 1: {text[:200]}... (Audio too short for multi-topic segmentation)\n")
+            f.write(f"TOPIC 1: {text[:200]}... (Audio too short for multi-topic segmentation)\n")
         return
 
     vectorizer = TfidfVectorizer(stop_words='english')
     tfidf_matrix = vectorizer.fit_transform(sentences)
     
-    # Settings
     window = 2 
     similarities = []
     
@@ -196,10 +182,8 @@ def segment_topics(transcript_path, output_path):
     
     remaining = sentences[len(similarities):]
     curr.extend(remaining)
-    # FIXED: Was causing NameError (current_segment -> curr)
     segments.append(" ".join(curr))
     
-    # Summarize segments
     try:
         summarizer = pipeline("summarization", model="sshleifer/distilbart-cnn-12-6")
         report = [f"=== TOPICS: {Path(transcript_path).stem} ===\n"]
@@ -208,7 +192,7 @@ def segment_topics(transcript_path, output_path):
                 summ_len = min(60, len(seg.split()) // 2)
                 if summ_len > 10:
                     summ = summarizer(seg[:2000], max_length=summ_len + 20, min_length=10, do_sample=False)[0]['summary_text']
-                    report.append(f"🔹 TOPIC {i+1}: {summ}\n")
+                    report.append(f"TOPIC {i+1}: {summ}\n")
         
         with open(output_path, "w", encoding="utf-8") as f:
             f.write("\n".join(report))
@@ -218,37 +202,30 @@ def segment_topics(transcript_path, output_path):
         with open(output_path, "w", encoding="utf-8") as f:
             f.write(f"=== TOPICS (Fallback) ===\n")
             for i, seg in enumerate(segments):
-                f.write(f"🔹 TOPIC {i+1}: {seg[:100]}...\n")
+                f.write(f"TOPIC {i+1}: {seg[:100]}...\n")
 
-# --- MASTER PIPELINE ---
 def process_new_upload(file_obj, base_dir):
     dirs = setup_directories(base_dir)
     file_stem = Path(file_obj.name).stem
     
-    # 1. Save raw
     raw_path = os.path.join(dirs["audio"], file_obj.name)
     with open(raw_path, "wb") as f:
         f.write(file_obj.getbuffer())
         
-    # 2. Preprocess
     proc_path = os.path.join(dirs["processed"], f"{file_stem}.wav")
     if not preprocess_audio(raw_path, proc_path):
         return "Preprocessing failed."
         
-    # 3. Transcribe & Summary
     trans_path = os.path.join(dirs["transcripts"], f"{file_stem}.json")
     summ_path = os.path.join(dirs["summary"], f"{file_stem}_summary.txt")
     transcribe_and_summarize(proc_path, trans_path, summ_path)
     
-    # 4. Sentiment
     sent_path = os.path.join(dirs["sentiment"], f"{file_stem}_sentiment.json")
     analyze_sentiment(trans_path, sent_path)
     
-    # 5. Topics
     top_path = os.path.join(dirs["topics"], f"{file_stem}_topics.txt")
     segment_topics(trans_path, top_path)
     
-    # 6. Update Keywords (Global)
     extract_keywords(dirs["transcripts"], dirs["keywords"])
     
     return "Success"
