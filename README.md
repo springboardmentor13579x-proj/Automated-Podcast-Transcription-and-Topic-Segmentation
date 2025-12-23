@@ -63,27 +63,54 @@ For each medical topic segment:
 - Interact with backend APIs for transcription and analysis  
 
 ---
-## System Architecture
 
-Audio Input
-↓
-Audio Preprocessing
-↓
-Medical Speech-to-Text (ASR)
-↓
-Transcript Cleaning
-↓
-Embedding Model
-↓
-Topic Segmentation
-↓
-Medical Summaries and Keywords
-↓
-Indexing
-↓
-Frontend UI (Search, Playback, Visualization)
+System Architecture Flow
 
----
++---------------------+
+|     Audio Input     |
++---------------------+
+           |
+           v
++---------------------+
+| Audio Preprocessing |
++---------------------+
+           |
+           v
++------------------------------+
+| Medical Speech-to-Text (ASR) |
++------------------------------+
+           |
+           v
++---------------------+
+| Transcript Cleaning |
++---------------------+
+           |
+           v
++---------------------+
+|  Embedding Model    |
++---------------------+
+           |
+           v
++---------------------+
+|  Topic Segmentation |
++---------------------+
+           |
+           v
++--------------------------------+
+| Medical Summaries & Keywords   |
++--------------------------------+
+           |
+           v
++---------------------+
+|      Indexing       |
++---------------------+
+           |
+           v
++---------------------------------------------+
+| Frontend UI                                 |
+| (Search, Playback, Visualization)           |
++---------------------------------------------+
+
 ##
 
 ## Tech Stack
