@@ -1,31 +1,40 @@
-# AUTOMATED PODCAST TRANSCRIPTION AND TOPIC SEGMENTATION
+#  Automated Podcast Transcription and Topic Segmentation
 
-I. OVERVIEW
+## I. Overview
 
 This project provides an end-to-end pipeline to automatically convert meeting or podcast audio into accurate text transcripts, followed by topic-based segmentation, summarization, and keyword extraction using natural language processing techniques. It is designed to efficiently process long-form audio and is suitable for real-world applications such as automated meeting minutes, podcast summarization, and interview analysis.
 
-II. OBJECTIVES
+---
+
+## II. Objectives
 
 - Convert audio recordings into accurate text transcripts  
 - Segment long conversations into meaningful topics  
 - Generate concise summaries  
 - Extract important keywords for quick understanding  
 
-III. KEY FEATURES 
+---
 
-- Automatic speech recognition using FastWhisper  
-- Topic segmentation for long transcripts  
-- Summary generation for segmented content  
-- Keyword extraction using KeyBERT  
-- Optimized for long meeting and podcast audio  
+## III. Key Features
 
-IV. DATASET
+- Automatic speech recognition using **FastWhisper**
+- Topic segmentation for long transcripts
+- Summary generation for segmented content
+- Keyword extraction using **KeyBERT**
+- Optimized for long meeting and podcast audio
 
-This project can be evaluated using the MeetingBank – Denver Audio Dataset.  
-Source: HuggingFace – MeetingBank Audio Dataset.  
-Real-world meeting recordings suitable for long-form transcription and topic segmentation tasks.
+---
 
-V. TECH STACK
+## IV. Dataset
+
+This project can be evaluated using the **MeetingBank – Denver Audio Dataset**.
+
+- **Source:** HuggingFace – MeetingBank Audio Dataset  
+- Real-world meeting recordings suitable for long-form transcription and topic segmentation tasks
+
+---
+
+## V. Tech Stack
 
 - Python 3.9  
 - FastWhisper – Speech-to-text  
@@ -33,10 +42,11 @@ V. TECH STACK
 - KeyBERT – Keyword extraction  
 - HuggingFace Transformers  
 
-VI. PROJECT STRUCTURE  
+---
+
+## VI. Project Structure
 
 AUTOMATED-PODCAST-TRANSCRIPTION-AND-TOPIC-SEGMENTATION/  
-│  
 ├── PROJECT/  
 │   ├── AUDIO_RAW/  
 │   ├── AUDIO_PROCESSED/  
@@ -47,72 +57,92 @@ AUTOMATED-PODCAST-TRANSCRIPTION-AND-TOPIC-SEGMENTATION/
 │   │   ├── PREPROCESSING.PY  
 │   │   ├── TRANSCRIPTION.PY  
 │   │   ├── SUMMARIZATION.PY  
-│       ├── UI_APP.PY  
-│  
+│   ├── UI_APP.PY  
 ├── DOCS/  
 ├── TESTS/  
 ├── README.MD  
 ├── REQUIREMENTS.TXT  
 └── LICENSE  
 
-VII. HOW TO RUN THE PROJECT  
+---
 
-1. CREATE AND ACTIVATE VIRTUAL ENVIRONMENT  
-python -m venv venv  
-venv\Scripts\activate  
+## VII. How to Run the Project
 
-2. INSTALL DEPENDENCIES  
-pip install -r requirements.txt  
+### 1. Create and Activate Virtual Environment
 
-3. PREPARE AUDIO FILES  
-Supported formats: .mp3, .wav  
-Place audio files in the AUDIO_RAW directory.  
+Create a virtual environment using:  
+`python -m venv venv`
 
-Example:  
+Activate the environment (Windows):  
+`venv\Scripts\activate`
+
+---
+
+### 2. Install Dependencies
+
+Install all required packages using:  
+`pip install -r requirements.txt`
+
+---
+
+### 3. Prepare Audio Files
+
+- Supported formats: `.mp3`, `.wav`
+- Place audio files inside the `AUDIO_RAW` directory
+
+Example structure:
+
 AUDIO_RAW/  
 ├── DENVER-1.MP3  
 ├── DENVER-2.MP3  
 
-4. RUN TRANSCRIPTION  
-python meeting_council.py  
+---
 
-Output directory:  
-/TRANSCRIPTS/  
+### 4. Run Transcription
 
-5. GENERATE SUMMARIES AND KEYWORDS  
-python summary_generator.py  
+Execute the transcription pipeline using:  
+`python meeting_council.py`
 
-Output directory:  
-/SUMMARIES/  
+Output files will be generated in the `TRANSCRIPTS/` directory.
 
-VIII. SYSTEM ARCHITECTURE  
+---
+
+### 5. Generate Summaries and Keywords
+
+Run the summarization and keyword extraction script using:  
+`python summary_generator.py`
+
+Output files will be stored in the `SUMMARIES/` directory.
+
+---
+
+## VIII. System Architecture
 
 AUDIO FILES (.MP3 / .WAV)  
-        │  
-        ▼  
+       ↓  
 FASTWHISPER (ASR)  
-        │  
-        ▼  
+       ↓  
 TRANSCRIPT FILES  
-        │  
-        ▼  
+       ↓  
 TOPIC SEGMENTATION (NLTK)  
-        │  
-        ▼  
+       ↓  
 KEYWORD EXTRACTION (KEYBERT)  
-        │  
-        ▼  
+       ↓  
 SUMMARY GENERATION  
-        │  
-        ▼  
-STRUCTURED OUTPUT (JSON / TXT)  
+       ↓  
+STRUCTURED OUTPUT (JSON / TXT)
 
-IX. USE CASES 
+---
+
+## IX. Use Cases
 
 - Automated meeting minutes  
 - Podcast summarization  
 - Interview analysis  
 - Research documentation  
+
+---
+  
 
 
 
