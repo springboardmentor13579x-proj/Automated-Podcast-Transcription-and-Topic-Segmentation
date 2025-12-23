@@ -86,4 +86,22 @@ Podcast_Transcription1/
 └── README.md                            # Project Documentation
 
 Installation & Setup
-Clone the Repository:
+Clone the Repository:cd Podcast_Transcription1
+Create a Virtual Environment:python -m venv venv
+source venv/bin/activate      # Mac/Linux
+.\venv\Scripts\activate       # Windows
+Install Dependencies:pip install flask transformers torch torchaudio sentence-transformers textblob keybert jiwer plotly pydub nltk scikit-learn openai-whisper
+Install FFmpeg:Required for audio processing. Download from gyan.dev (Windows) or use brew install ffmpeg (Mac).
+How to Run
+Run the Pipeline
+Execute the scripts in order to process your audio data:
+Step 1: Transcribe (Audio → Text)
+python main.py
+Step 2: Segment (Text → Topics)
+python run_segmentation.py
+Step 3: Process (Topics → Summaries/Keywords)
+python run_processing.py
+Launch the Web UI
+Start the Flask server to explore the results:
+python src/web_app/app.py
+Open your browser at: http://127.0.0.1:5000
