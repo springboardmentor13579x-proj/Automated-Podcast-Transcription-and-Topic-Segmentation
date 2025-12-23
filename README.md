@@ -1,7 +1,5 @@
 # Automated-Podcast-Transcription-and-Topic-Segmentation
 
-A Springboard Internship Program Project
-
 Project Overview
 The Automated Podcast Transcription & Topic Segmentation project aims to build an end-to-end AI system that can:
 Convert podcast audio into accurate transcripts.
