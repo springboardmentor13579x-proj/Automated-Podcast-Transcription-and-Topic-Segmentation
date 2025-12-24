@@ -1,13 +1,13 @@
 
 
-🔷 Project Overview
+1) Project Overview
 
 This project focuses on automated podcast/audio transcription using AI-based speech recognition and natural language processing techniques. The system converts raw audio into text, evaluates transcription quality, segments text into meaningful units, and extracts important keywords for better content understanding.
 
 
 ---
 
-🔷 Use Case
+2)  Use Case
 
 Podcast transcription
 
@@ -25,7 +25,7 @@ Content indexing and search
 
 ---
 
-🔷 Benefits
+3)  Benefits
 
 Automates manual transcription
 
@@ -43,7 +43,7 @@ Works offline (no cloud dependency)
 
 ---
 
-🔷 Project Objectives
+4)  Project Objectives
 
 Convert audio files into accurate text
 
@@ -59,7 +59,7 @@ Build an end-to-end automated transcription pipeline
 
 ---
 
-🔷  System Architecture
+5)   System Architecture
 
 Audio Files (LibriVox)
         ↓
@@ -82,7 +82,7 @@ Final Text Analytics Output
 
 ---
 
-🔷 Tech Stack
+6)  Tech Stack
 
 Layer	Technology
 
@@ -99,7 +99,7 @@ OS	Windows
 
 ---
 
-🔷 Project Folder Structure
+7) Project Folder Structure
 
 project/
 │
