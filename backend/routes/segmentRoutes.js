@@ -1,6 +1,7 @@
 import express from "express";
 import mongoose from "mongoose";
 import Segment from "../models/Segment.js";
+import logger from "../utils/logger.js";
 
 const router = express.Router();
 
@@ -28,6 +29,11 @@ router.get("/podcasts/:id/segments", async (req, res) => {
     }
 
     const segments = await Segment.find(query).sort({ segmentId: 1 });
+
+    logger.info("Segments fetched", {
+      podcastId: id,
+      segmentCount: segments.length
+    });
 
     res.json(segments);
   } catch (err) {

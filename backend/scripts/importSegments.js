@@ -4,15 +4,14 @@ import dotenv from "dotenv";
 import mongoose from "mongoose";
 import Podcast from "../models/Podcast.js";
 import Segment from "../models/Segment.js";
+import logger from "../utils/logger.js";
 import { fileURLToPath } from "url";
 
 const __filename = fileURLToPath(import.meta.url);
 const __dirname = path.dirname(__filename);
 
-// load backend/.env
 dotenv.config({ path: path.join(__dirname, "..", ".env") });
 
-// database folder
 const DATABASE_DIR = path.join(__dirname, "..", "..", "database");
 
 async function importSegments(fileName) {
@@ -26,13 +25,17 @@ async function importSegments(fileName) {
 
     const raw = JSON.parse(fs.readFileSync(filePath, "utf-8"));
 
-    // create podcast
-    const podcast = await Podcast.create({
-      title: fileName.replace(".json", ""),
-      fileName,
-      audioUrl: `/audio/${fileName.replace(".json", ".mp3")}`,
-      duration: null,
-      tags: []
+    const baseName = fileName.replace(".json", "");
+
+    const podcast = await Podcast.findOne({ fileName: baseName });
+
+    if (!podcast) {
+      throw new Error("Podcast not found for import");
+    }
+
+    logger.info("Import started", {
+      podcastId: podcast._id,
+      fileName: baseName
     });
 
     let index = 0;
@@ -61,17 +64,20 @@ async function importSegments(fileName) {
       index++;
     }
 
-    console.log(`Imported ${raw.length} segments`);
-    console.log(`Podcast ID: ${podcast._id}`);
+    logger.info("Import completed", {
+      podcastId: podcast._id,
+      segmentCount: raw.length
+    });
 
     process.exit(0);
   } catch (err) {
-    console.error("Import failed:", err.message);
+    logger.error("Import failed", {
+      error: err.message
+    });
     process.exit(1);
   }
 }
 
-// CLI
 const fileArg = process.argv[2];
 if (!fileArg) {
   console.error("Please provide JSON file name");

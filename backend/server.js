@@ -8,6 +8,7 @@ import connectDB from "./config/db.js";
 import podcastRoutes from "./routes/podcastRoutes.js";
 import segmentRoutes from "./routes/segmentRoutes.js";
 import uploadRoutes from "./routes/uploadRoutes.js";
+import logger from "./utils/logger.js"; // ✅ ADDED (Winston logger)
 
 dotenv.config();
 
@@ -20,17 +21,37 @@ connectDB();
 
 const app = express();
 
-app.use(cors());
+/* ===============================
+   MIDDLEWARE
+   =============================== */
+app.use(cors({
+  origin: "http://localhost:8080"
+}));
 app.use(express.json());
 
 /* ===============================
-   STATIC FILE SERVING (FIX)
+   STATIC FILE SERVING
    =============================== */
 // This exposes backend/uploads to the browser
 app.use(
   "/uploads",
   express.static(path.join(__dirname, "uploads"))
 );
+
+/* ===============================
+   FRONTEND LOGGING API (NEW)
+   =============================== */
+app.post("/api/logs", (req, res) => {
+  const { level, message, data } = req.body;
+
+  if (level === "error") {
+    logger.error(`[FRONTEND] ${message} ${JSON.stringify(data)}`);
+  } else {
+    logger.info(`[FRONTEND] ${message} ${JSON.stringify(data)}`);
+  }
+
+  res.status(200).json({ status: "logged" });
+});
 
 /* ===============================
    API ROUTES

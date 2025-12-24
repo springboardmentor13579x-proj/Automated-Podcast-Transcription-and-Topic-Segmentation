@@ -1,5 +1,5 @@
 import { Link, useLocation } from 'react-router-dom';
-import { Headphones, Upload, LayoutDashboard } from 'lucide-react';
+import { Upload, LayoutDashboard } from 'lucide-react';
 
 const Header = () => {
   const location = useLocation();
@@ -12,7 +12,11 @@ const Header = () => {
         <div className="flex h-16 items-center justify-between">
           <Link to="/" className="flex items-center gap-2 group">
             <div className="p-2 rounded-lg bg-primary/10 group-hover:bg-primary/20 transition-colors">
-              <Headphones className="h-5 w-5 text-primary" />
+              <img
+                src="/favicon-96x96.png"
+                alt="PodScript Logo"
+                className="h-5 w-5"
+              />
             </div>
             <span className="text-lg font-semibold gradient-text">PodScript</span>
           </Link>

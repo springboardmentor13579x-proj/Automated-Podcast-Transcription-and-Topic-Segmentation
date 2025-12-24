@@ -1,7 +1,8 @@
 import { useNavigate } from "react-router-dom";
-import { Sparkles, Zap, Shield } from "lucide-react";
+import { Sparkles, Zap, FileText } from "lucide-react";
 import FileUpload from "../components/FileUpload";
 import { uploadAudio } from "../services/api";
+import logger from "../utils/logger"; // ADDED
 
 const features = [
   {
@@ -15,10 +16,11 @@ const features = [
     description: "Automatic topic detection and content organization",
   },
   {
-    icon: Shield,
-    title: "Secure Processing",
-    description: "Your audio files are processed securely and privately",
+    icon: FileText,
+    title: "Structured Podcast Intelligence",
+    description: "Convert long-form audio into searchable, structured knowledge",
   },
+
 ];
 
 const UploadPage = () => {
@@ -26,10 +28,16 @@ const UploadPage = () => {
 
   const handleUpload = async (file) => {
     try {
-      // 🔹 Call backend API
-      await uploadAudio(file);
+      //  Call backend API
+      const response = await uploadAudio(file);
 
-      // 🔹 Navigate only after successful upload
+      //  LOG UPLOAD RESULT (ADDED)
+      logger.info("Upload API success", {
+        podcastId: response?.podcastId,
+        fileName: file.name,
+      });
+
+      // Navigate only after successful upload
       navigate("/processing", {
         state: { fileName: file.name },
       });

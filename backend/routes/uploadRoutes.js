@@ -4,6 +4,7 @@ import path from "path";
 import { exec } from "child_process";
 import Podcast from "../models/Podcast.js";
 import { fileURLToPath } from "url";
+import logger from "../utils/logger.js";
 
 const __filename = fileURLToPath(import.meta.url);
 const __dirname = path.dirname(__filename);
@@ -49,6 +50,11 @@ router.post("/upload", upload.single("audio"), async (req, res) => {
       duration: null,
       tags: [],
       status: "processing"
+    });
+
+    logger.info("Podcast created (upload)", {
+      podcastId: podcast._id,
+      fileName: podcast.fileName
     });
 
     /* ===============================

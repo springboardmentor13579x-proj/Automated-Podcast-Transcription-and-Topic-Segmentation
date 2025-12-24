@@ -1,12 +1,36 @@
 import express from "express";
 import Podcast from "../models/Podcast.js";
+import Segment from "../models/Segment.js";
 
 const router = express.Router();
 
 // GET ALL PODCASTS
 router.get("/", async (req, res) => {
   try {
-    const podcasts = await Podcast.find().sort({ createdAt: -1 });
+    const podcasts = await Podcast.aggregate([
+      {
+        $lookup: {
+          from: "segments",
+          localField: "_id",
+          foreignField: "podcastId",
+          as: "segments"
+        }
+      },
+      {
+        $addFields: {
+          segmentCount: { $size: "$segments" }
+        }
+      },
+      {
+        $project: {
+          segments: 0
+        }
+      },
+      {
+        $sort: { createdAt: -1 }
+      }
+    ]);
+
     res.json(podcasts);
   } catch (err) {
     res.status(500).json({ error: "Failed to fetch podcasts" });

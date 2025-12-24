@@ -20,7 +20,7 @@ const DashboardPage = () => {
           title: p.title || p.fileName || 'Untitled Podcast',
           duration: p.duration || 0,
           date: p.createdAt,
-          segmentCount: 0, // will be computed later
+          segmentCount: p.segmentCount || 0,
           status: p.status || 'processing'
         }));
 
@@ -33,6 +33,12 @@ const DashboardPage = () => {
     };
 
     loadPodcasts();
+
+    const interval = setInterval(() => {
+      loadPodcasts();
+    }, 5000);
+
+    return () => clearInterval(interval);
   }, []);
 
   const filteredPodcasts = podcasts.filter(podcast =>
@@ -50,7 +56,6 @@ const DashboardPage = () => {
   return (
     <div className="min-h-[calc(100vh-4rem)] px-4 py-8">
       <div className="container mx-auto max-w-4xl">
-        {/* Header */}
         <div className="flex flex-col sm:flex-row sm:items-center justify-between gap-4 mb-8">
           <div>
             <h1 className="text-2xl font-bold text-foreground">Your Podcasts</h1>
@@ -64,7 +69,6 @@ const DashboardPage = () => {
           </Link>
         </div>
 
-        {/* Search */}
         <div className="relative mb-6">
           <Search className="absolute left-4 top-1/2 -translate-y-1/2 h-5 w-5 text-muted-foreground" />
           <input
@@ -76,7 +80,6 @@ const DashboardPage = () => {
           />
         </div>
 
-        {/* Podcast List */}
         {filteredPodcasts.length > 0 ? (
           <div className="space-y-4">
             {filteredPodcasts.map(podcast => (
