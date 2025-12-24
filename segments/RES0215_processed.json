@@ -1,0 +1,415 @@
+{
+  "language": "en",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 9.44,
+      "text": "how can I help you today? Yeah, I brought my eight-year-old daughter here because I've noticed"
+    },
+    {
+      "start": 9.44,
+      "end": 18.4,
+      "text": "that she's been quite wheezy for the past four or five days and now she has a slight cough,"
+    },
+    {
+      "start": 19.52,
+      "end": 23.92,
+      "text": "sounds like she's a little short of breath so I just wanted to get things checked out."
+    },
+    {
+      "start": 24.48,
+      "end": 31.84,
+      "text": "Okay, so for the one at first present, about four to five days, but what did he notice first?"
+    },
+    {
+      "start": 33.92,
+      "end": 45.36,
+      "text": "I noticed that she was wheezy and it seemed like she was having some difficulty taking in deep breaths."
+    },
+    {
+      "start": 46.24,
+      "end": 51.04,
+      "text": "Okay, now was this with any type of activity or just at rest?"
+    },
+    {
+      "start": 51.76,
+      "end": 59.76,
+      "text": "Yeah, she was playing tag with one of her cousins and she was quite out of breath after."
+    },
+    {
+      "start": 60.48,
+      "end": 67.76,
+      "text": "Okay, has she ever had anything like this before? No. Nothing like that? No, okay, and has it been"
+    },
+    {
+      "start": 67.76,
+      "end": 72.96,
+      "text": "fairly steady since then? Or has it been fluctuating? It's been fluctuating."
+    },
+    {
+      "start": 73.76,
+      "end": 79.44,
+      "text": "Okay, but it hasn't really gone away in the sense that you're still concerned coming"
+    },
+    {
+      "start": 79.44,
+      "end": 92.56,
+      "text": "out four days later? Yeah, it's just, she would have these episodes, but it would resolve on its own"
+    },
+    {
+      "start": 92.56,
+      "end": 99.28,
+      "text": "and then she would go back to doing some sort of activity and then she would have all these"
+    },
+    {
+      "start": 99.28,
+      "end": 106.32,
+      "text": "symptoms all over again, but when she rests, then it goes away, so I wasn't really sure to share"
+    },
+    {
+      "start": 106.32,
+      "end": 112.08,
+      "text": "what to think of it, but now I think it's important to get it checked out, so here we are."
+    },
+    {
+      "start": 112.96,
+      "end": 118.8,
+      "text": "Has she had any fever at home? No. Has she had a runny nose at all at home? No."
+    },
+    {
+      "start": 120.16,
+      "end": 126.0,
+      "text": "Has she seemed well otherwise? Does she look sick? Yeah, she looks fine otherwise."
+    },
+    {
+      "start": 127.44,
+      "end": 132.72,
+      "text": "Okay, and has she had any sick contacts recently? Anyone around her or friends been sick?"
+    },
+    {
+      "start": 132.72,
+      "end": 139.36,
+      "text": "No, not that I've noticed. Okay, any recent travel anywhere?"
+    },
+    {
+      "start": 140.96,
+      "end": 148.96,
+      "text": "No, we didn't go anywhere because of COVID. Okay, but she's still been going to school,"
+    },
+    {
+      "start": 148.96,
+      "end": 161.36,
+      "text": "I suppose, playing with her friends? Yes. Okay, have you noticed any rashes, any skin changes anywhere on"
+    },
+    {
+      "start": 161.36,
+      "end": 169.76,
+      "text": "her body? Not that I've noticed, no. Okay, nothing like that. Has she complained of any pain"
+    },
+    {
+      "start": 169.76,
+      "end": 184.34,
+      "text": "anywhere? No. Okay, and has she had any recent infections? Actually, she had a couple of"
+    },
+    {
+      "start": 184.9,
+      "end": 194.42,
+      "text": "infections over the past two years. They would come and go and we took her to the"
+    },
+    {
+      "start": 194.42,
+      "end": 200.82,
+      "text": "doctor each time and it just ended up being some sort of viral infection. Okay, so nothing really"
+    },
+    {
+      "start": 200.82,
+      "end": 210.94,
+      "text": "needing antibiotics in the last couple of years. And in terms of how she's been doing,"
+    },
+    {
+      "start": 210.94,
+      "end": 216.7,
+      "text": "has she been keeping up with her peers in terms of education and how she moves, how she acts?"
+    },
+    {
+      "start": 219.15,
+      "end": 224.91,
+      "text": "Yeah, she's been on par with her peers. Okay, so does she have a family physician?"
+    },
+    {
+      "start": 225.39,
+      "end": 231.87,
+      "text": "Yes. Okay, so they haven't brought up any concerns about how she's growing, how she's"
+    },
+    {
+      "start": 231.87,
+      "end": 238.43,
+      "text": "developing? No. So her weight, her height, they've been good for her age? Yeah, yeah."
+    },
+    {
+      "start": 238.43,
+      "end": 242.99,
+      "text": "Excellent. And has she gotten, has she been keeping up to date for immunizations?"
+    },
+    {
+      "start": 244.35,
+      "end": 253.1,
+      "text": "Yes, she's fully up to date. Excellent. In regards to how she's doing otherwise,"
+    },
+    {
+      "start": 253.9,
+      "end": 259.34,
+      "text": "in terms of her health, did she see a family physician for any other medical issues that she might"
+    },
+    {
+      "start": 259.34,
+      "end": 268.54,
+      "text": "be having? No, she's otherwise pretty healthy. Okay, how is the birth? Is there any complications"
+    },
+    {
+      "start": 268.54,
+      "end": 276.54,
+      "text": "when she was born? No, she was a vaginal delivery full-term, no complications. Okay, so nothing"
+    },
+    {
+      "start": 276.54,
+      "end": 283.02,
+      "text": "when you were pregnant with her, no toxic ingestions, by that I mean, did you drink any alcohol,"
+    },
+    {
+      "start": 283.02,
+      "end": 289.42,
+      "text": "smoke it all when you were pregnant with her? No. No, okay. And you just had anti-natal care,"
+    },
+    {
+      "start": 290.14,
+      "end": 293.5,
+      "text": "so you saw a doctor for ultrasound and just for checkouts?"
+    },
+    {
+      "start": 295.02,
+      "end": 300.62,
+      "text": "Yeah, everything was fine. Okay, and when she was born, she didn't have to stay in the hospital at all."
+    },
+    {
+      "start": 302.06,
+      "end": 307.34,
+      "text": "No, no. Okay. And was she born? What weight was she when she was born?"
+    },
+    {
+      "start": 308.3,
+      "end": 315.1,
+      "text": "Yeah, she was... How much was she? I think she was about eight kilos?"
+    },
+    {
+      "start": 316.3,
+      "end": 321.18,
+      "text": "Eight kilos? Sorry, eight pounds, eight pounds. Yeah, no worries. Exactly."
+    },
+    {
+      "start": 323.82,
+      "end": 331.66,
+      "text": "And then, otherwise, she says she's been healthy otherwise, been doing well, just in terms of how"
+    },
+    {
+      "start": 331.66,
+      "end": 338.06,
+      "text": "she's been doing with other systems of her body. Do you notice any concerns for her bowel movements?"
+    },
+    {
+      "start": 339.34,
+      "end": 343.98,
+      "text": "No, she's been pretty regular. Okay, any concerns for her peeing?"
+    },
+    {
+      "start": 345.98,
+      "end": 352.06,
+      "text": "Yeah, no. She's been going pretty frequently and she's yeah, no changes there."
+    },
+    {
+      "start": 353.02,
+      "end": 357.18,
+      "text": "And we already talked she hasn't had any fevers. When she costs, does she ever bring anything up?"
+    },
+    {
+      "start": 358.14,
+      "end": 366.22,
+      "text": "No, I haven't noticed any flamm, no. Okay, and when she's having these wheezy episodes,"
+    },
+    {
+      "start": 366.22,
+      "end": 370.38,
+      "text": "do you ever notice that she looks like she's really straining to breathe, really struggling?"
+    },
+    {
+      "start": 372.46,
+      "end": 377.34,
+      "text": "I... Yeah, so she... it's not like she turns blue or anything like that."
+    },
+    {
+      "start": 378.62,
+      "end": 382.3,
+      "text": "She just slightly has a hard time catching her breath."
+    },
+    {
+      "start": 383.1,
+      "end": 387.74,
+      "text": "Okay, so these usually recover on their own. You don't give her anything for it?"
+    },
+    {
+      "start": 388.46,
+      "end": 391.66,
+      "text": "No. Okay, does she have any allergies?"
+    },
+    {
+      "start": 395.26,
+      "end": 400.86,
+      "text": "No. Well, she has some seasonal allergies, but nothing that she's been tested for."
+    },
+    {
+      "start": 401.5,
+      "end": 403.74,
+      "text": "Okay, do you give her anything for a seasonal allergy?"
+    },
+    {
+      "start": 404.7,
+      "end": 412.78,
+      "text": "Sometimes she takes like reactant or like over the counter stuff, but no prescribed medications."
+    },
+    {
+      "start": 413.34,
+      "end": 418.22,
+      "text": "Okay, so she doesn't have any allergies where her face swells up or she has trouble breathing?"
+    },
+    {
+      "start": 418.22,
+      "end": 424.06,
+      "text": "No. Okay, and these episodes mainly happen when she's playing with friends. So they have"
+    },
+    {
+      "start": 424.06,
+      "end": 432.3,
+      "text": "a certain environment, like for example, is this in a friend's house or is this outdoors or has it been"
+    },
+    {
+      "start": 432.38,
+      "end": 438.86,
+      "text": "across different settings? It's been across different settings, but I will say it's worse when"
+    },
+    {
+      "start": 440.46,
+      "end": 449.1,
+      "text": "the weather's colder weather. Okay, and do these episodes ever happen in your home?"
+    },
+    {
+      "start": 451.18,
+      "end": 455.74,
+      "text": "Yeah. And what's the context for them having happening in your home?"
+    },
+    {
+      "start": 456.3,
+      "end": 463.66,
+      "text": "Usually when she is out and about running around in the backyard with her friends,"
+    },
+    {
+      "start": 466.14,
+      "end": 471.66,
+      "text": "is when I mostly noticed it, yeah. Okay, so she doesn't have any symptoms that rest?"
+    },
+    {
+      "start": 472.46,
+      "end": 481.58,
+      "text": "Oh no. And does have any symptoms at night? At night? So there was one one one night when she had"
+    },
+    {
+      "start": 482.38,
+      "end": 489.98,
+      "text": "some issues with like whizziness, but it did resolve on its own. Okay,"
+    },
+    {
+      "start": 491.42,
+      "end": 497.1,
+      "text": "and did she wake up at night with that or just... Just trouble falling asleep, I think, yeah."
+    },
+    {
+      "start": 498.06,
+      "end": 507.28,
+      "text": "Okay, so what were I talked about? So she doesn't really have any past medical issues that she"
+    },
+    {
+      "start": 507.28,
+      "end": 515.2,
+      "text": "seemed doctor for. Any surgeries? No surgeries. Okay, just yet taking medications right now?"
+    },
+    {
+      "start": 517.2,
+      "end": 520.72,
+      "text": "No medications. Aside from the occasional reactive?"
+    },
+    {
+      "start": 522.56,
+      "end": 528.16,
+      "text": "Yeah, aside from that. Nothing, no regular medications. And she's in school?"
+    },
+    {
+      "start": 530.96,
+      "end": 536.0,
+      "text": "Yeah, she's in grade three now. Okay, and does she live with you?"
+    },
+    {
+      "start": 537.28,
+      "end": 543.44,
+      "text": "Yeah, she lives with me and my husband. Okay, do you two live in a house in the town?"
+    },
+    {
+      "start": 544.56,
+      "end": 548.72,
+      "text": "Yep, in a townhouse. Okay, and what do you two do for work?"
+    },
+    {
+      "start": 551.28,
+      "end": 559.36,
+      "text": "So my husband is an auto-scient technician and I am a kindergarten teacher."
+    },
+    {
+      "start": 560.56,
+      "end": 566.08,
+      "text": "Okay, excellent. That was a question we just asked everyone. Has there ever been any CCCAS involvement in the"
+    },
+    {
+      "start": 566.08,
+      "end": 577.49,
+      "text": "family? No. And does anyone smoke in the household? No, no. Okay, do you keep any carpets or pets in the"
+    },
+    {
+      "start": 577.49,
+      "end": 585.49,
+      "text": "household? We have carpets, but they're new carpets. We just got them maybe six months ago."
+    },
+    {
+      "start": 587.09,
+      "end": 596.05,
+      "text": "And nothing else. So no pets, no dogs? No. Okay, any wood burning, fireplaces, stoves in the household?"
+    },
+    {
+      "start": 597.01,
+      "end": 606.32,
+      "text": "Okay, and change your filters. Yeah. So I think I have all the information on you. We're just going"
+    },
+    {
+      "start": 606.32,
+      "end": 610.24,
+      "text": "to do a physical exam and then I'm going to go talk to the physician and I'll come in and see"
+    },
+    {
+      "start": 611.04,
+      "end": 615.04,
+      "text": "your daughter and we'll talk about next steps from here. Do you have any questions? Do you like me to"
+    },
+    {
+      "start": 615.04,
+      "end": 628.72,
+      "text": "direct a hand before that happened? No, thank you so much. All right, have a good one. You too. Bye bye."
+    }
+  ]
+}

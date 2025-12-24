@@ -1,0 +1,49 @@
+2025-12-24 19:23:18 - root - INFO - New Session Started: 20251224_192318_b3aeefee
+2025-12-24 19:23:18 - __main__ - INFO - Processing started for file: RES0216.mp3 | Session ID: 20251224_192318_b3aeefee
+2025-12-24 19:23:18 - __main__ - INFO - Starting Audio Preprocessing...
+2025-12-24 19:23:18 - preprocessing - INFO - Processing RES0216.mp3...
+2025-12-24 19:23:26 - preprocessing - INFO - Applying noise reduction...
+2025-12-24 19:23:38 - preprocessing - INFO - Normalizing audio...
+2025-12-24 19:23:38 - preprocessing - INFO - Saved processed audio to F:\Internship\Automated-Podcast-Transcription-and-Topic-Segmentation\audio_processed\RES0216_processed.wav
+2025-12-24 19:23:38 - __main__ - INFO - Audio Preprocessing complete. Processed file: F:\Internship\Automated-Podcast-Transcription-and-Topic-Segmentation\audio_processed\RES0216_processed.wav
+2025-12-24 19:23:38 - __main__ - INFO - Starting Transcription...
+2025-12-24 19:23:38 - transcription - INFO - Transcribing F:\Internship\Automated-Podcast-Transcription-and-Topic-Segmentation\audio_processed\RES0216_processed.wav...
+2025-12-24 19:23:39 - faster_whisper - INFO - Processing audio with duration 10:27.647
+2025-12-24 19:23:40 - faster_whisper - INFO - VAD filter removed 00:36.512 of audio
+2025-12-24 19:23:42 - faster_whisper - INFO - Detected language 'en' with probability 1.00
+2025-12-24 19:25:53 - transcription - INFO - Transcription complete. Detected language: en (probability: 1.00)
+2025-12-24 19:25:53 - transcription - INFO - Saved transcript to F:\Internship\Automated-Podcast-Transcription-and-Topic-Segmentation\transcripts\RES0216_processed.txt
+2025-12-24 19:25:53 - transcription - INFO - Saved segments to F:\Internship\Automated-Podcast-Transcription-and-Topic-Segmentation\segments\RES0216_processed.json
+2025-12-24 19:25:53 - __main__ - INFO - Transcription complete. Language: en
+2025-12-24 19:25:53 - __main__ - INFO - Starting Topic Segmentation...
+2025-12-24 19:25:53 - segmentation - INFO - Segmenting 188 segments...
+2025-12-24 19:25:56 - segmentation - INFO - Similarity stats: Mean=0.475, Std=0.134, Threshold=0.408
+2025-12-24 19:25:56 - segmentation - INFO - Found 16 topics.
+2025-12-24 19:25:56 - __main__ - INFO - Segmentation complete. Found 16 topics.
+2025-12-24 19:25:56 - __main__ - INFO - Starting Summarization...
+2025-12-24 19:25:56 - summarization - INFO - Summarizing 16 topics...
+2025-12-24 19:26:17 - summarization - INFO - Summarized Topic 0
+2025-12-24 19:26:41 - summarization - INFO - Summarized Topic 1
+2025-12-24 19:27:04 - summarization - INFO - Summarized Topic 2
+2025-12-24 19:27:11 - summarization - INFO - Summarized Topic 3
+2025-12-24 19:27:15 - summarization - INFO - Summarized Topic 4
+2025-12-24 19:27:19 - summarization - INFO - Summarized Topic 5
+2025-12-24 19:27:25 - summarization - INFO - Summarized Topic 6
+2025-12-24 19:27:30 - summarization - INFO - Summarized Topic 7
+2025-12-24 19:27:32 - summarization - INFO - Summarized Topic 8
+2025-12-24 19:27:36 - summarization - INFO - Summarized Topic 9
+2025-12-24 19:27:41 - summarization - INFO - Summarized Topic 10
+2025-12-24 19:27:43 - summarization - INFO - Summarized Topic 11
+2025-12-24 19:27:47 - summarization - INFO - Summarized Topic 12
+2025-12-24 19:27:52 - summarization - INFO - Summarized Topic 13
+2025-12-24 19:27:56 - summarization - INFO - Summarized Topic 14
+2025-12-24 19:27:56 - summarization - INFO - Summarized Topic 15
+2025-12-24 19:27:56 - __main__ - INFO - Summarization complete.
+2025-12-24 19:27:56 - __main__ - INFO - Starting Keyword Extraction...
+2025-12-24 19:27:56 - keyword_extraction - INFO - Extracting keywords for 16 topics...
+2025-12-24 19:27:56 - keyword_extraction - INFO - Loading SentenceTransformer: all-MiniLM-L6-v2...
+2025-12-24 19:27:56 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-12-24 19:27:56 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device: cpu
+2025-12-24 19:27:57 - __main__ - INFO - Pipeline processing completed successfully.
+2025-12-24 19:27:59 - indexing - INFO - Indexing 16 topics...
+2025-12-24 19:27:59 - indexing - INFO - Topic indexing complete.
