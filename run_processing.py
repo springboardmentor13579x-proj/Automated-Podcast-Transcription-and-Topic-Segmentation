@@ -18,20 +18,20 @@ def main():
 
     # 3. Find Segmented Files
     if not os.path.exists(input_dir):
-        print(f"❌ Error: Input directory '{input_dir}' not found.")
+        print(f" Error: Input directory '{input_dir}' not found.")
         print("   Did you run run_segmentation.py?")
         return
 
     files = [f for f in os.listdir(input_dir) if f.endswith('.json')]
     
     if not files:
-        print("❌ No segmented files found.")
+        print(" No segmented files found.")
         return
 
-    print(f"\n🚀 Processing {len(files)} episodes for Summaries & Keywords...\n")
+    print(f"\n Processing {len(files)} episodes for Summaries & Keywords...\n")
 
     for filename in files:
-        print(f"📄 Processing: {filename}...")
+        print(f" Processing: {filename}...")
         input_path = os.path.join(input_dir, filename)
         
         # Load the segmented data
@@ -49,7 +49,7 @@ def main():
             # B. Keywords
             segment['keywords'] = processor.extract_keywords(text)
             
-            # C. 👇 NEW: Sentiment Analysis
+            # C.  NEW: Sentiment Analysis
             segment['sentiment'] = processor.analyze_sentiment(text)
 
         # Save Final Result
@@ -59,7 +59,8 @@ def main():
         with open(output_path, 'w', encoding='utf-8') as f:
             json.dump(segments, f, indent=4)
             
-        print(f"✅ Finished! Saved to: data/final_output/{output_filename}\n")
+        print(f" Finished! Saved to: data/final_output/{output_filename}\n")
 
 if __name__ == "__main__":
+
     main()
