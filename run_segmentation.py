@@ -37,13 +37,13 @@ def main():
     files = [f for f in os.listdir(transcripts_dir) if f.endswith('.json')]
     
     if not files:
-        print("❌ No JSON transcripts found! Run main.py (Milestone 1) first.")
+        print(" No JSON transcripts found! Run main.py (Milestone 1) first.")
         return
 
     print(f"Found {len(files)} transcripts to segment.")
 
     for filename in files:
-        print(f"\n🧠 Segmenting: {filename}...")
+        print(f"\n Segmenting: {filename}...")
         file_path = os.path.join(transcripts_dir, filename)
         
         # 1. Load Data
@@ -60,11 +60,12 @@ def main():
         with open(out_path, 'w', encoding='utf-8') as f:
             json.dump(segments, f, indent=4)
             
-        print(f"   ✅ Identified {len(segments)} topics.")
+        print(f"Identified {len(segments)} topics.")
         
         # 4. Print Preview
         for seg in segments[:3]: # Show first 3 topics
-            print(f"      Topic {seg['topic_id']} ({seg['start_time']}s - {seg['end_time']}s): {seg['text'][:50]}...")
+            print(f"Topic {seg['topic_id']} ({seg['start_time']}s - {seg['end_time']}s): {seg['text'][:50]}...")
 
 if __name__ == "__main__":
+
     main()
