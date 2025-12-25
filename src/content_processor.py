@@ -4,7 +4,7 @@ from textblob import TextBlob  # <--- NEW IMPORT
 
 class ContentProcessor:
     def __init__(self):
-        print("⏳ Loading Summarization & Keyword models...")
+        print("Loading Summarization & Keyword models...")
         # Summarizer (DistilBART)
         self.summarizer = pipeline("summarization", model="sshleifer/distilbart-cnn-12-6")
         # Keyword Extractor
@@ -23,7 +23,7 @@ class ContentProcessor:
             summary_result = self.summarizer(text, max_length=max_len, min_length=15, do_sample=False)
             raw_summary = summary_result[0]['summary_text']
             
-            # 3. 🛀 POLISH THE TEXT (New Step)
+            # 3. POLISH THE TEXT (New Step)
             # Remove extra spaces (e.g., " . " -> ". ")
             polished = raw_summary.replace(" .", ".").replace(" ,", ",")
             # Ensure it starts with Capital
@@ -35,7 +35,7 @@ class ContentProcessor:
             return polished
             
         except Exception as e:
-            print(f"   ⚠️ Summarization error: {e}")
+            print(f"Summarization error: {e}")
             return text[:100] + "..."
 
     def extract_keywords(self, text, top_n=5):
@@ -45,7 +45,7 @@ class ContentProcessor:
         except:
             return []
 
-    # 👇 NEW FUNCTION: SENTIMENT ANALYSIS
+    # NEW FUNCTION: SENTIMENT ANALYSIS
     def analyze_sentiment(self, text):
         """
         Returns a score from -1.0 (Negative) to 1.0 (Positive).
@@ -55,3 +55,4 @@ class ContentProcessor:
             return blob.sentiment.polarity
         except:
             return 0.0
+
