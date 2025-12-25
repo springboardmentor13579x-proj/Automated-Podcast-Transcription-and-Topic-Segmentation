@@ -16,7 +16,7 @@ from pydub import AudioSegment, effects
 app = Flask(__name__)
 
 # ==========================================
-# 👇 CONFIGURATION 👇
+# CONFIGURATION 
 BASE_DIR = r"C:\Users\ADRAJ\Downloads\Podcast_Transcription"
 DATA_DIR = r"C:\Users\ADRAJ\Downloads\Podcast_Transcription\data\final_output"
 TEMP_DIR = r"C:\Users\ADRAJ\Downloads\Podcast_Transcription\data\temp_processing"
@@ -30,11 +30,11 @@ os.makedirs(TEMP_DIR, exist_ok=True)
 # ==========================================
 
 # Initialize AI Models (Load once at startup to save time)
-print("⏳ Initializing AI Models... (Please wait)")
+print("Initializing AI Models... (Please wait)")
 transcriber_model = PodcastTranscriber(model_name="openai/whisper-tiny")
 segmenter_model = SemanticSegmenter()
 processor_model = ContentProcessor()
-print("✅ Models Ready!")
+print("Models Ready!")
 
 def process_single_file(filepath, filename):
     """Runs the full pipeline on a single file."""
@@ -84,7 +84,7 @@ def process_single_file(filepath, filename):
         return json_filename
 
     except Exception as e:
-        print(f"❌ Processing Error: {e}")
+        print(f"Processing Error: {e}")
         return None
 
 @app.route('/')
@@ -138,7 +138,7 @@ def upload_file():
         temp_path = os.path.join(TEMP_DIR, filename)
         file.save(temp_path)
         
-        print(f"🚀 Received Upload: {filename}")
+        print(f"Received Upload: {filename}")
         
         # Run the Pipeline!
         result_json = process_single_file(temp_path, filename)
