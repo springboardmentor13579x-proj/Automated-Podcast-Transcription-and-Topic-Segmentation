@@ -17,26 +17,24 @@ Keyword extraction
 The goal is to make spoken content easier to understand, explore, and reuse for analysis and future UI-based navigation.
 
 🎯 Project Objectives
-1. Transcription (Speech-to-Text)
+1.Download Link for Raw and Clean Dataset Files:
+[Google Drive Folder]https://drive.google.com/drive/folders/12CVyb0ZlP5LsRnAFRkbii5Cl-SkjiTuM?lfhs=2
+
+2. Transcription (Speech-to-Text)
 Convert podcast audio into text using Whisper ASR
-
 Support Indian languages (Hindi, Bengali, Gujarati, Marathi, Punjabi, Kannada, Urdu)
-
 Handle real-world noisy podcast audio
 
-2. Topic Segmentation
+3. Topic Segmentation
 Break long transcripts into smaller, meaningful segments
-
 Use sentence-based segmentation with timestamps
 
-3. Summarization
+4. Summarization
 Generate short summaries for each transcript segment
-
 Use NLP-based extractive summarization
 
-4. Keyword Extraction
+5. Keyword Extraction
 Extract important keywords from each segment
-
 Enable topic understanding and future search functionality
 
 🧠 Current Project Status
@@ -76,6 +74,7 @@ project/
 │── requirements.txt
 │── LICENSE
 │── .gitignore
+
 🏗️ System Architecture (High Level)
 Audio Input
    ↓
@@ -90,19 +89,15 @@ Text Segmentation
 Summarization + Keyword Extraction
    ↓
 Structured JSON Output
+
 🧪 Tech Stack
 Core
 Python 3.9+
-
 Whisper ASR
-
 FFmpeg
-
 PyDub
-
 NLP
 NLTK
-
 Scikit-learn (TF-IDF)
 
 Storage
