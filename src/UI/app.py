@@ -1,10 +1,11 @@
-mport os
+import os
 import sys
 sys.path.append(os.path.abspath(os.path.join(os.path.dirname(__file__), "../../")))
 import json
 import shutil
 from flask import Flask, render_template, send_from_directory, abort, request, redirect, url_for
 from werkzeug.utils import secure_filename
+from dotenv import load_dotenv  # <--- IMPORT THIS
 
 # --- IMPORT AI PIPELINE MODULES ---
 # (Make sure these files exist from previous steps)
@@ -13,16 +14,22 @@ from src.segmentation.semantic_segmenter import SemanticSegmenter
 from src.summarization.content_processor import ContentProcessor
 from pydub import AudioSegment, effects
 
+# Load the .env file
+load_dotenv()
+
 app = Flask(__name__)
+app.secret_key = os.getenv('SECRET_KEY', 'default_secret')
 
-# ==========================================
-# CONFIGURATION 
-BASE_DIR = r"C:\Users\ADRAJ\Downloads\Podcast_Transcription"
-DATA_DIR = r"C:\Users\ADRAJ\Downloads\Podcast_Transcription\data\final_output"
-TEMP_DIR = r"C:\Users\ADRAJ\Downloads\Podcast_Transcription\data\temp_processing"
+#CONFIGURATION 
+BASE_DIR = os.path.dirname(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
+DATA_DIR = os.path.join(BASE_DIR, "data", "final_output")
+TEMP_DIR = os.path.join(BASE_DIR, "data", "temp_upload")
+AUDIO_DIR = os.getenv('AUDIO_DIR') 
 
-# Update this to your 'PodcastFillers' folder
-AUDIO_DIR = r"C:\Users\ADRAJ\Downloads\Internship_Dataset\Processed_audio"
+# Fallback check
+if not AUDIO_DIR:
+    print("⚠️ WARNING: AUDIO_DIR not found in .env file. Using default.")
+    AUDIO_DIR = r"C:\Users\Dell\Downloads\PodcastFillers" # Default fallback
 
 # Ensure dirs exist
 os.makedirs(DATA_DIR, exist_ok=True)
