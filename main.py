@@ -12,7 +12,7 @@ def main():
     ensure_dirs([paths["transcripts_dir"], paths["temp_dir"]])
     
     # 2. Initialize Model
-    print("⏳ Loading Whisper Model...")
+    print("Loading Whisper Model...")
     ai_transcriber = PodcastTranscriber(model_name="openai/whisper-tiny")
 
     print(f"\n--- Starting Processing from: {EXTERNAL_AUDIO_FOLDER} ---\n")
@@ -45,9 +45,10 @@ def main():
         with open(json_out, "w", encoding="utf-8") as f:
             json.dump(chunks, f, indent=4)
             
-        print(f"   ✅ Saved: {txt_filename}")
+        print(f"Saved: {txt_filename}")
 
-    print("\n🎉 DONE! All transcripts are in 'data/transcripts'")
+    print("\n DONE! All transcripts are in 'data/transcripts'")
 
 if __name__ == "__main__":
     main()
+
