@@ -1,0 +1,30 @@
+# -------- Python --------
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# -------- Virtual Env --------
+venv/
+.venv/
+
+# -------- Audio files (BIG FILES) --------
+project/Raw_audio/
+project/cleaned_audio/
+*.wav
+*.mp3
+*.m4a
+*.flac
+
+# -------- Generated outputs --------
+project/transcripts/
+project/segments/
+project/Summarization/
+project/keyword/
+
+# -------- Notebooks checkpoints --------
+.ipynb_checkpoints/
+
+# -------- OS files --------
+.DS_Store
+Thumbs.db

@@ -1,0 +1,16 @@
+numpy
+tqdm
+librosa
+soundfile
+noisereduce
+whisper
+torch
+scikit-learn
+nltk
+spacy
+transformers
+pandas
+matplotlib
+seaborn
+streamlit
+flask

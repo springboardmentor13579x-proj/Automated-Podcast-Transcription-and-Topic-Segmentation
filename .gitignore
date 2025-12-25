@@ -1,0 +1,31 @@
+# Audio & large files
+audio_raw/
+audio_processed/
+cleaned_audio/
+*.wav
+*.mp3
+*.m4a
+*.flac
+
+# Model files
+*.pt
+*.bin
+
+# Transcripts / outputs (optional)
+transcripts/
+segments/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+env/
+
+# OS / Editor
+.vscode/
+.DS_Store
+
+# Notebooks
+.ipynb_checkpoints/
+
+
