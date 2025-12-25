@@ -3,8 +3,15 @@ import json
 from src.utils.file_utils import get_data_paths, ensure_dirs
 from src.preprocessing.data_loader import scan_and_process_audio
 from src.models.transcriber import PodcastTranscriber
+from dotenv import load_dotenv # <--- Add this
 
-EXTERNAL_AUDIO_FOLDER =r"C:\Users\ADRAJ\Downloads\Internship_Dataset\Audio_Recordings" 
+# Load environment variables
+load_dotenv()
+
+EXTERNAL_AUDIO_FOLDER = os.getenv('AUDIO_DIR')
+if not EXTERNAL_AUDIO_FOLDER:
+    print("Error: AUDIO_DIR not found in .env file")
+    exit()
 
 def main():
     # 1. Setup Internal Paths (For Output)
@@ -51,4 +58,5 @@ def main():
 
 if __name__ == "__main__":
     main()
+
 
