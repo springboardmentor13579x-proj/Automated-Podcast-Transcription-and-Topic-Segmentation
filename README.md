@@ -1,97 +1,158 @@
-# Automated-Podcast-Transcription-and-Topic-Segmentation
-## Project Statement
-The goal of this project is to develop an AI-powered system that automatically transcribes
-podcast audio recordings and segments them into distinct topical sections. The system
-leverages speech-to-text technology and natural language processing to help users navigate
-podcast content efficiently without listening to entire episodes.
+🎧 Automated Podcast Transcription & Topic Segmentation
+A Springboard Internship Program Project
 
-## Outcomes
-- Understanding speech recognition techniques for converting audio to text
-- Implementing NLP methods for topic segmentation and keyword extraction
-- Building an end-to-end pipeline for audio ingestion, transcription, and segmentation
-- Generating topic-wise keywords and summaries
-- Preparing structured documentation of methodology and results
+📌 Project Overview
+The Automated Podcast Transcription & Topic Segmentation project focuses on converting long-form podcast audio into structured, readable, and analyzable text.
 
-## Project Status
-**Completed up to Milestone 2 (Topic Segmentation and Keyword Extraction)**
+This system processes Indian language podcast audio and performs:
 
-## Dataset
-The project uses Indian languages audio podcasts for transcription and topic segmentation.  
-Open datasets such as the Spotify Podcast Dataset and Podcast Transcripts Dataset from Kaggle are also used.  
-Due to large file sizes, datasets are not included in this repository.
+Speech-to-text transcription
 
-**Download Link for Raw and Clean Dataset Files:**  
-[Google Drive Folder]https://drive.google.com/drive/folders/12CVyb0ZlP5LsRnAFRkbii5Cl-SkjiTuM?lfhs=2
+Transcript segmentation
 
-## Implemented Modules
+Segment-level summarization
 
-### 1. Dataset Acquisition and Exploration
-- Collected podcast audio files and available transcripts
-- Analyzed audio length, quality, and transcript formats
+Keyword extraction
 
-### 2. Audio Preprocessing and Speech-to-Text
-- Performed audio cleaning and normalization
-- Applied automatic speech recognition (ASR) models to generate transcripts
-- Evaluated transcription quality using WER and CER metrics
+The goal is to make spoken content easier to understand, explore, and reuse for analysis and future UI-based navigation.
 
-### 3. Topic Segmentation and Identification (Milestone 2)
-- Segmented transcripts into meaningful topic sections
-- Extracted keywords for each topic
-- Generated topic-wise summaries
+🎯 Project Objectives
+1. Transcription (Speech-to-Text)
+Convert podcast audio into text using Whisper ASR
 
-## Folder Structure
-ML/
-├── Automated-Podcast-Transcription/
-├── cleaned_audio/
-├── Indian_Languages_Audio_Dataset/
-├── topic_outputs/
-│   ├── keywords/
-│   ├── summaries/
-│   ├── combined_transcript.txt
-│   ├── topic_0.txt
-│   ├── topic_1.txt
-│   ├── topic_2.txt
-│   ├── topic_3.txt
-│   └── topic_4.txt
-├── transcripts/
-│   └── asr_transcripts.txt
-├── Project.ipynb
-├── wer_cer_results.csv
-├── requirements.txt
-├── README.md
-└── .gitattributes
+Support Indian languages (Hindi, Bengali, Gujarati, Marathi, Punjabi, Kannada, Urdu)
 
-## Technologies Used
-### Audio Processing
-- LibROSA
-- PyDub
+Handle real-world noisy podcast audio
 
-### Speech-to-Text
-- Whisper
+2. Topic Segmentation
+Break long transcripts into smaller, meaningful segments
 
-### NLP
-- NLTK(BERT)
-- SpaCy
-- Hugging Face Transformers
+Use sentence-based segmentation with timestamps
 
-### Machine Learning
-- Scikit-learn
-- PyTorch
+3. Summarization
+Generate short summaries for each transcript segment
 
-## Output
-- Automatically generated transcripts
-- Topic-wise segmentation of podcast content
-- Extracted keywords and summaries for each segment
-- Transcription evaluation metrics (WER, CER)
+Use NLP-based extractive summarization
 
-## Future Work
-- Build a user interface for topic navigation
-- Add interactive visualizations for segment timelines
-- Improve segmentation accuracy using transformer-based models
-- Deploy the system as a web application
+4. Keyword Extraction
+Extract important keywords from each segment
 
-## How to Run
-1. Install dependencies:
-   pip install -r requirements.txt
-2. Open and execute:
-   Project.ipynb
+Enable topic understanding and future search functionality
+
+🧠 Current Project Status
+✅ Audio preprocessing
+✅ Transcription using Whisper
+✅ Transcript segmentation
+✅ Segment-level summarization
+✅ Keyword extraction
+🚧 UI & advanced topic modeling (future work)
+
+🗂️ Folder Structure
+project/
+│── cleaned_audio/          # Preprocessed audio files
+│── Raw_audio/              # Original dataset (Indian languages)
+│   ├── Hindi/
+│   ├── Bengali/
+│   ├── Gujarati/
+│   ├── Marathi/
+│   ├── Punjabi/
+│   ├── Kannada/
+│   └── Urdu/
+│── transcripts/            # Generated text transcripts
+│── segments/               # Segmented transcript JSON files
+│── Summarization/          # Output summaries
+│── keyword/                # Keyword extraction outputs
+│── notebooks/              # Experiment notebooks
+│── src/
+│   ├── preprocessing.py
+│   ├── transcription.py
+│   ├── segmentation.py
+│   ├── summarization.py
+│   ├── keyword_extraction.py
+│   └── ui_app.py
+│── docs/
+│── tests/
+│── README.md
+│── requirements.txt
+│── LICENSE
+│── .gitignore
+🏗️ System Architecture (High Level)
+Audio Input
+   ↓
+Audio Preprocessing
+   ↓
+Whisper ASR (Transcription)
+   ↓
+Transcript Cleaning
+   ↓
+Text Segmentation
+   ↓
+Summarization + Keyword Extraction
+   ↓
+Structured JSON Output
+🧪 Tech Stack
+Core
+Python 3.9+
+
+Whisper ASR
+
+FFmpeg
+
+PyDub
+
+NLP
+NLTK
+
+Scikit-learn (TF-IDF)
+
+Storage
+JSON files for structured outputs
+
+Tools
+VS Code
+
+Git & GitHub
+
+🚀 How to Run
+1️⃣ Create virtual environment
+python -m venv venv
+venv\Scripts\activate
+2️⃣ Install dependencies
+pip install -r requirements.txt
+3️⃣ Run transcription
+python src/transcription.py
+4️⃣ Run segmentation
+python src/segmentation.py
+5️⃣ Run summarization
+python src/summarization.py
+6️⃣ Run keyword extraction
+python src/keyword_extraction.py
+
+📊 Output Format (Example)
+Each segment contains:
+
+{
+  "segment_id": 1,
+  "start_time": 0.0,
+  "end_time": 45.2,
+  "text": "Segment transcript text",
+  "summary": "Short summary",
+  "keywords": ["podcast", "topic", "discussion"]
+}
+🔮 Future Enhancements
+Advanced topic segmentation (TextTiling, embeddings)
+
+Semantic search across segments
+
+Interactive transcript UI
+
+Audio playback with timestamp navigation
+
+Deployment using Streamlit
+
+📜 License
+This project is licensed under the MIT License.
+
+👩‍💻 Author
+Muskan Yadav
+Springboard Internship Program
