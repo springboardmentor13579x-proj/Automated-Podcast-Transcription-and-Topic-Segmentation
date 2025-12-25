@@ -123,7 +123,7 @@
                     <source src="{{ url_for('serve_audio', filename=audio_file) }}" type="audio/wav">
                 </audio>
             {% else %}
-                <div style="color: red;">⚠️ Audio file not found. Checked for: {{ episode_name }}.wav or .mp3</div>
+                <div style="color: red;">Audio file not found. Checked for: {{ episode_name }}.wav or .mp3</div>
             {% endif %}
         </div>
 
@@ -153,7 +153,7 @@
                     </div>
 
                     <div class="summary-box">
-                        <span class="summary-label">✨ TL;DR Summary</span>
+                        <span class="summary-label">📝 Segment Overview</span>
                         <div class="summary-text" id="sum-{{ loop.index }}">
                             {{ seg.summary }}
                         </div>
