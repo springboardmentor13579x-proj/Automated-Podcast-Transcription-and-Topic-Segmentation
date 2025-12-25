@@ -4,7 +4,7 @@ import numpy as np
 
 class SemanticSegmenter:
     def __init__(self, model_name='all-MiniLM-L6-v2'):
-        print(f"⏳ Loading BERT model: {model_name}...")
+        print(f"Loading BERT model: {model_name}...")
         self.model = SentenceTransformer(model_name)
 
     def segment(self, sentences, timestamps, threshold=0.6):
@@ -57,4 +57,5 @@ class SemanticSegmenter:
             "topic_id": len(segments) + 1
         })
         
+
         return segments
