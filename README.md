@@ -67,33 +67,32 @@ Audio Input → Preprocessing → Transcription (ASR) → Transcript Cleaning �
 - JSON (Transcript & metadata storage)
 
 ##  Folder Structure
-
 Podcast_Transcription1/
 │
 ├── data/
-│   ├── raw/                    # Source audio files
-│   ├── transcripts/
-│   ├── segmented_topics/
-│   └── final_output/
+│ ├── raw/ # Source audio files
+│ ├── transcripts/
+│ ├── segmented_topics/
+│ └── final_output/
 │
 ├── src/
-│   ├── transcriber.py          # Whisper model wrapper
-│   ├── data_loader.py          # Audio loading, MP3→WAV conversion
-│   ├── semantic_segmenter.py   # BERT-based segmentation
-│   ├── content_processor.py    # Summarization, Keywords & Sentiment
-│   ├── file_utils.py           # Path utilities
-│   └── web_app/
-│       ├── templates/
-│       │   ├── index.html      # Homepage UI
-│       │   └── player.html     # Player + visualization UI
-│       └── app.py              # Flask server entrypoint
+│ ├── transcriber.py # Whisper model wrapper
+│ ├── data_loader.py # MP3 → WAV & audio processing
+│ ├── semantic_segmenter.py # BERT-based segmentation
+│ ├── content_processor.py # Summary, Keywords & Sentiment
+│ ├── file_utils.py # Path helpers
+│ └── web_app/
+│ ├── templates/
+│ │ ├── index.html # UI Page 1
+│ │ └── player.html # Player with visualizations
+│ └── app.py # Flask backend
 │
-├── main.py                     # Step 1 - Transcription
-├── run_segmentation.py         # Step 2 - Topic Segmentation
-├── run_processing.py           # Step 3 - Summaries & Keywords
-├── evaluate_accuracy.py        # WER Evaluation
-├── requirements.txt            # Dependencies
-└── README.md                   # Documentation
+├── main.py # Step 1: Transcription
+├── run_segmentation.py # Step 2: Topic segmentation
+├── run_processing.py # Step 3: Summaries & keywords
+├── evaluate_accuracy.py # WER calculation
+├── requirements.txt # Dependencies
+└── README.md # Documentation
 
 ## ⚙ Installation & Setup
 
