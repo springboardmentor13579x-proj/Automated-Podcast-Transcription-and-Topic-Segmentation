@@ -65,7 +65,7 @@ Audio Input → Preprocessing → Transcription (ASR) → Transcript Cleaning �
 
 ### Storage
 - JSON (Transcript & metadata storage)
-
+---
 ##  Folder Structure
 '''
 Podcast_Transcription1/
@@ -95,7 +95,7 @@ Podcast_Transcription1/
 ├── requirements.txt # Dependencies
 └── README.md # Documentation
 '''
-
+---
 ## ⚙ Installation & Setup
 
 ### 1. Clone the Repository
