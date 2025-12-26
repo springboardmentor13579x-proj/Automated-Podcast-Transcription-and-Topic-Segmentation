@@ -167,4 +167,14 @@ Open browser:
 
 ---
 
+## 📂 Dataset Access
+Due to the large size of the audio files, the dataset is hosted externally.
+
+**📥 [https://drive.google.com/drive/folders/1yN69e6oQ2PJtBvhJ90a-YYtRfbIz7vcW?usp=drive_link] 
+
+### **Setup Instructions**
+1. Download the dataset from the link above.
+2. Extract the folder.
+3. Place the audio files in a folder named `audio_raw` inside the project root.
+4. Update the `AUDIO_DIR` path in `.env` if necessary.
 
