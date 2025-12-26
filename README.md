@@ -67,6 +67,7 @@ Audio Input → Preprocessing → Transcription (ASR) → Transcript Cleaning �
 - JSON (Transcript & metadata storage)
 
 ##  Folder Structure
+'''
 Podcast_Transcription1/
 │
 ├── data/
@@ -93,6 +94,7 @@ Podcast_Transcription1/
 ├── evaluate_accuracy.py # WER calculation
 ├── requirements.txt # Dependencies
 └── README.md # Documentation
+'''
 
 ## ⚙ Installation & Setup
 
