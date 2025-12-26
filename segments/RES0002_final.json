@@ -1,0 +1,224 @@
+[
+    {
+        "start_time": 0.0,
+        "end_time": 145.0,
+        "text": "tell me what brought you in today? Sure, so my son, he's two and a half months old and we're in the ER because he's had this cough fever since he's breathing too fast. It's been happening for the past two days and we weren't sure what else to do for him. Okay, so the first thing here would be like vital science and assessing kind of stability. So is there? So we're going to say vital stable. He is on two years of oxygen right now. Okay. And so, when did the symptoms specifically start? Two days ago. Okay, and what started first? So, I guess he was coughing first and then we took his temperature and it seemed like he had a fever, it was over 38 and then over the past couple of hours, it seems like he's having a hard time breathing, he's breathing too fast. Okay, so with this cough, has there been it? Any sputum come up? Yes, yeah, yellow sputum. Yeah, okay, any blood that you've noticed in the sputum? No. Okay, and how was the fever checked? How did a rectal. Okay, and how's the temperature? Like, has there been a fever the entire time? We checked twice. We checked on the first day and then again last night. Okay and in regards to the difficulties breathing, has there been any changes to like, has there been any noisy breathing? I would say he sounds slightly lazy.",
+        "topic_id": 1,
+        "summary": " Two-and-a-half-month-old son had cough fever since he's breathing too fast . He is on two years of oxygen right now . No blood has been found in sputum, no blood, no noisy breathing .",
+        "keywords": [
+            "fever",
+            "coughing",
+            "sputum",
+            "symptoms",
+            "cough"
+        ],
+        "sentiment": 0.19404761904761908
+    },
+    {
+        "start_time": 145.0,
+        "end_time": 157.0,
+        "text": "Okay. Have you been hearing any like whistling sounds when he's breathing in? I wouldn't say whistling, no, no.",
+        "topic_id": 2,
+        "summary": "Okay. Have you been hearing any like whistling sounds when he's breathing in? I wouldn't say whistling, no, no.",
+        "keywords": [
+            "whistling",
+            "breathing",
+            "hearing",
+            "sounds",
+            "like"
+        ],
+        "sentiment": 0.5
+    },
+    {
+        "start_time": 157.0,
+        "end_time": 366.8,
+        "text": "Okay. Um, and, uh, has he been experiencing any other symptoms? Um, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no,. Okay. Has he been like, well, how's this appetite been? Um, not the greatest, no. Okay, so not eating as much or drinking as much? Yeah. Okay. How is this behavior been? Oh, he's been very, very fussy. Okay, in controllable would you say? Yes, yes. Okay. And any bowel problems? No, not that we noticed. Okay. And any vomiting? No. Okay. And have you guys been around anybody who's been sick? No. Okay, so everybody else has been well. Any travel recently? We have been traveled recently. My mom, so this grandma had traveled recently, and he saw her last week. Okay, where did she go? Mexico. Okay, and how's grandma doing now? She's doing fine, yeah. Okay, and how's grandma doing now she's doing fine. Yeah, okay and And he saw he's spent some time with her. Mm-hmm. He spent the day with her. Okay, all right, see and So in regards to past health Has he had any symptoms short like this before? Well, I guess last month he kind of had similar symptoms and they said it was a viral infection. So he was just given some puffers to help us breathing and he got better on his own. Okay, did they tell you what the diagnosis was? At that time, we're just saying that it was a viral infection. No, they said it could be bronchiolitis or just an upper viral infection. Okay, any reasons for hospitalizations? That time that he had the bronchialitis or viral infection, he was hospitalized for two days just to help his breathing. Okay, and any medications that he takes regularly or uses regularly? She, no, no. Okay, any allergies to medications that you're aware of? No. Okay. And in regards to,",
+        "topic_id": 3,
+        "summary": " Has he had any symptoms short like this before? Well, I guess last month he kind of had similar symptoms and they said it was a viral infection . Has he been like, well, how's this appetite been? Um, not the greatest, no, so not eating as much",
+        "keywords": [
+            "diagnosis",
+            "symptoms",
+            "vomiting",
+            "infection",
+            "bronchialitis"
+        ],
+        "sentiment": 0.18755026455026455
+    },
+    {
+        "start_time": 366.8,
+        "end_time": 367.8,
+        "text": "um,",
+        "topic_id": 4,
+        "summary": "um,",
+        "keywords": [
+            "um"
+        ],
+        "sentiment": 0.0
+    },
+    {
+        "start_time": 367.8,
+        "end_time": 370.88,
+        "text": "birthday our prenatal history. Were there",
+        "topic_id": 5,
+        "summary": "birthday our prenatal history. Were there",
+        "keywords": [
+            "prenatal",
+            "birthday",
+            "history"
+        ],
+        "sentiment": 0.0
+    },
+    {
+        "start_time": 370.88,
+        "end_time": 468.0,
+        "text": "any complications throughout pregnancy? No, I wouldn't say so. No. He was normal. Everything was normal and he was a healthy baby. Okay, and as mom had any complications with any prior Okay, okay, okay, okay, okay, okay,'s the first one, OK. And was mom well throughout the pregnancy, like no infectious symptoms during No No Okay And any concerns with his growth or or development so far? No, he's been and normal Okay And then any concerns with either his vision or Yeah, or hearing? No No. Okay. So if you, um, okay. And, uh, and any, are as immunizations up to date? Uh, yes, there. Well, okay. And could you tell me a little bit about the living situation? Who's in the home currently and where you guys are living? Yeah, so we live in a house, it's him, myself, and my husband has dead. Okay. Any pets at home? No pets. No, just well actually a goldfish.",
+        "topic_id": 6,
+        "summary": " No. any complications throughout pregnancy? No, I wouldn't say so. Everything was normal and he was a healthy baby . Any concerns with his growth or or development so far? No . And then any concerns with either his vision or hearing? No No. And, uh, and",
+        "keywords": [
+            "immunizations",
+            "pregnancy",
+            "infectious",
+            "complications",
+            "symptoms"
+        ],
+        "sentiment": 0.2518793706293706
+    },
+    {
+        "start_time": 468.0,
+        "end_time": 480.0,
+        "text": "Oh, cool. Um, and um, are there any concerns for, uh, I'm like, uh, verbal abuse in the home?",
+        "topic_id": 7,
+        "summary": "Oh, cool. Um, and um, are there any concerns for, uh, I'm like, uh, verbal abuse in the home?",
+        "keywords": [
+            "abuse",
+            "concerns",
+            "home",
+            "verbal",
+            "cool"
+        ],
+        "sentiment": 0.35
+    },
+    {
+        "start_time": 480.0,
+        "end_time": 630.0,
+        "text": "No. How about any physical abuse in the home? No. Okay. Um, and does anybody, I'm sorry, I'm sorry And then how about drink alcohol? We have like a glass of wine once a week. Okay. And who's the primary caregiver for him? I guess we both are. Yeah, we both are. Okay. And in the family, are there any any lung conditions like asthma or any heart conditions that that run in the family? Um, my sister, so his aunt has asthma. Okay, um, and, uh, does anybody, um, is there any congenital diseases that run in the family? No. No. OK. How about any genetic diseases? No. OK. And so it's sounding like, well, I wanted to do a work up for his symptoms right now for breathing heavily and with the fever that's concerning for a type of infection and with being under three months, it would warrant some investigations. So we'd want to check. So I do some blood tests and check his cerebral spinal fluid as well to make sure that there's no infection in the brain, I I guess, and what kind of go from there? Sure, yeah, that sounds good. Okay. In the meantime, we'll give you some inhalers and keep the oxygen on to help with the lungs and the breathing and then keep monitoring for how he's doing symptomatically.",
+        "topic_id": 8,
+        "summary": " Is there any congenital diseases that run in the family? No. How about any physical abuse in the home? \"We have like a glass of wine once a week\"",
+        "keywords": [
+            "fever",
+            "diseases",
+            "infection",
+            "symptoms",
+            "symptomatically"
+        ],
+        "sentiment": 0.16865079365079363
+    },
+    {
+        "start_time": 630.0,
+        "end_time": 632.0,
+        "text": "Okay, thank you.",
+        "topic_id": 9,
+        "summary": "Okay, thank you.",
+        "keywords": [
+            "okay",
+            "thank"
+        ],
+        "sentiment": 0.5
+    },
+    {
+        "start_time": 632.0,
+        "end_time": 633.0,
+        "text": "You're welcome.",
+        "topic_id": 10,
+        "summary": "You're welcome.",
+        "keywords": [
+            "welcome"
+        ],
+        "sentiment": 0.8
+    },
+    {
+        "start_time": 633.0,
+        "end_time": 639.0,
+        "text": "Were there anything else that I missed the task about?",
+        "topic_id": 11,
+        "summary": "Were there anything else that I missed the task about?",
+        "keywords": [
+            "task",
+            "missed"
+        ],
+        "sentiment": 0.0
+    },
+    {
+        "start_time": 639.0,
+        "end_time": 640.0,
+        "text": "I know.",
+        "topic_id": 12,
+        "summary": "I know.",
+        "keywords": [
+            "know"
+        ],
+        "sentiment": 0.0
+    },
+    {
+        "start_time": 640.0,
+        "end_time": 641.0,
+        "text": "I don't think so.",
+        "topic_id": 13,
+        "summary": "I don't think so.",
+        "keywords": [
+            "think",
+            "don"
+        ],
+        "sentiment": 0.0
+    },
+    {
+        "start_time": 641.0,
+        "end_time": 643.0,
+        "text": "Okay.",
+        "topic_id": 14,
+        "summary": "Okay.",
+        "keywords": [
+            "okay"
+        ],
+        "sentiment": 0.5
+    },
+    {
+        "start_time": 643.0,
+        "end_time": 644.0,
+        "text": "That sounds good.",
+        "topic_id": 15,
+        "summary": "That sounds good.",
+        "keywords": [
+            "good",
+            "sounds"
+        ],
+        "sentiment": 0.7
+    },
+    {
+        "start_time": 644.0,
+        "end_time": 646.64,
+        "text": "So if there was nothing else that you wanted to share,",
+        "topic_id": 16,
+        "summary": "So if there was nothing else that you wanted to share,",
+        "keywords": [
+            "share",
+            "wanted"
+        ],
+        "sentiment": 0.0
+    },
+    {
+        "start_time": 647.68,
+        "end_time": 656.0,
+        "text": "we'll get that started and I'll be back shortly. Okay, sounds good. Thank you.",
+        "topic_id": 17,
+        "summary": "we'll get that started and I'll be back shortly. Okay, sounds good. Thank you.",
+        "keywords": [
+            "started",
+            "shortly",
+            "okay",
+            "sounds",
+            "good"
+        ],
+        "sentiment": 0.39999999999999997
+    }
+]

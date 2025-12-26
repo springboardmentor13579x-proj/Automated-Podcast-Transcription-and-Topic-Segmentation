@@ -1,0 +1,235 @@
+[
+    {
+        "start_time": 0.0,
+        "end_time": 107.48,
+        "text": "What brings you in? Hi. Yeah, so I've had this back pain that's been going on now for the last two weeks. It's just got to rate in the lower back and it just hasn't gone away. Okay, um, last two weeks you said, um, is it getting worse? I? No, it's not really getting any worse. It's just been limiting my abilities at work. Right, okay. And what do you do for work? So I work at a butcher shop. Okay. Yeah, we're like, always like carry heavy things and yeah, it's a lot a lot of like lifting and standing. Okay. Did anything trigger this back pain two weeks ago that you have certain sort of injury or trauma to the area? No, I can't think of anything like specific that happened, but there was one night where I like after work I was sitting down after dinner and I got pretty stiff that night. It was pretty sore and kind of ever since then, it's been been sore. Okay. Okay. Um, and is this the persistent kind of back pain or is it coming? Go. It's, um, I can kind of always feel it, but it certainly gets worse if I am moving.",
+        "topic_id": 1,
+        "summary": " Back pain has been going on now for the last two weeks . It's just got to rate in the lower back and it just hasn't gone away . It has been limiting my abilities at work .",
+        "keywords": [
+            "pain",
+            "sore",
+            "stiff",
+            "injury",
+            "heavy"
+        ],
+        "sentiment": 0.148015873015873
+    },
+    {
+        "start_time": 107.48,
+        "end_time": 488.36,
+        "text": "So if I'm just kind of sitting at rest, I don't really feel it that much. Okay, okay, and if you were to describe the quality of this pain, would you say sharp, Robbing, achy, cramping. I see, I did kind of a, um, it's a sharp pain. Sharp pain, okay. Does anything make it better or worse? Um, better would just be, uh, resting, um, just laying down or, um, yeah, just just trying to, uh, rest, but, um, maybe it were, yeah, if I'm, uh, like, really any movement, um, if I'm, like bending forward or kind of like leading to the size I start to get get some pain in the lower back okay okay and then one to ten ten being the worst pain you've ever felt how bad or I I have severe where you read it. Oh, say a seven. A seven, okay. And have you ever had pain like this in the past? Yeah, I've heard my lower back before, like many years ago. But it's been okay since then. Okay. Did you get any sort of treatment or management for that pain back in the day? At that time it was just rest and did some stretching and I took some anti-inflammatory and it went away after a couple of months. Okay, okay. And are you having any sort of numbness or tingling? And were on your body? No, nothing like that. All right, to about any muscle weakness? No, no muscle weakness. No, okay. Are you so able to walk and do things that you normally would do in a day? Uh, yeah, I'm able to walk still. Um, any designate or fainting spells? Nope, nothing like that. Okay. Anything else for on your body? No, just a lower rack, yeah. Okay, headaches. Uh, nope. Okay. Weight loss? No, I don't have any weight loss. Okay, fevers are chills Nope, no fevers are chills Rashes And no rashes Okay, Chenders in your vision hearing taste for smell No changes like that. Okay, any coughing shortness of breath or laziness And, nope, nothing like that. Okay. Any coughing, shortness of breath or laziness? Nope, nothing like that. Okay. Um, chest pain or heart palpitations? Nope, nothing like that. Okay. Issues are changes in your bowel movements. Um, no changes to bowel movements, no diarrhea. No incontinence or anything like that. Okay, good. And then down your vomiting? No, nothing like that. Okay. Have a change to your appetite. Nope nope i've been eating uh... everyday well changes in your voting uh... nope i haven't had any changes to your nation okay um... and then are you otherwise healthy or do you have any longstanding medical conditions I've had a few sports injuries when I was younger, like to my knee, but that's it, I've been healthy otherwise. Okay, and those injuries are they all healed? Sometimes I'll get like a little achyness in my knee from doing like too much activity, but I know when those when that happens. Are you on any medications? No, I don't take any medications. Okay, are you up to date with all your immunizations? I am, yep. Okay. Um, do you have any allergies? Um, no allergies. Okay. Any family history of muscular or skeletal issues? Um, no, nothing like that. Okay, I have about heart or lung diseases. No, no heart or lung diseases. Okay, I have about autoimmune conditions. No, nothing like that. Okay, cancels? No cancels. Okay. Um, and do you smoke? No, I don't smoke. Okay, and do you consume marijuana? Uh, sometimes I'll have, um, like fed. Atables, they can't little candy sometimes that may time be they help me uh relax and sleep but uh don't use that very often okay I have often to use them I would say maybe uh like once a week once a week okay all right and then what else do I want to",
+        "topic_id": 2,
+        "summary": " If I'm, uh, like, really any movement, um, if I'm bending forward or kind of like leading to the size I start to get get some pain in the lower back okay okay . One to ten ten being the worst pain you've ever felt how bad or I",
+        "keywords": [
+            "cramping",
+            "pain",
+            "numbness",
+            "resting",
+            "sitting"
+        ],
+        "sentiment": 0.27722663139329806
+    },
+    {
+        "start_time": 488.36,
+        "end_time": 496.36,
+        "text": "ask you um do you do you take any recreational drugs no and I haven't used any",
+        "topic_id": 3,
+        "summary": "ask you um do you do you take any recreational drugs no and I haven't used any",
+        "keywords": [
+            "recreational",
+            "drugs",
+            "ask",
+            "used",
+            "haven"
+        ],
+        "sentiment": 0.0
+    },
+    {
+        "start_time": 496.36,
+        "end_time": 504.68,
+        "text": "before okay and have what alcohol do you can see alcohol yeah all have a couple of",
+        "topic_id": 4,
+        "summary": "before okay and have what alcohol do you can see alcohol yeah all have a couple of",
+        "keywords": [
+            "alcohol",
+            "okay",
+            "yeah",
+            "couple"
+        ],
+        "sentiment": 0.5
+    },
+    {
+        "start_time": 504.68,
+        "end_time": 529.32,
+        "text": "beers on the weekend so maybe like two or three okay Yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah,? Yeah, I live with my wife and our and our son who's in high school. We live in in a house. Okay. Okay. Um...",
+        "topic_id": 5,
+        "summary": " I live with my wife and our and our son who is in high school . We live in in in a house. We live with our son . We have two or three beers on the weekend .",
+        "keywords": [
+            "beers",
+            "weekend",
+            "house",
+            "live",
+            "school"
+        ],
+        "sentiment": 0.3221212121212121
+    },
+    {
+        "start_time": 529.32,
+        "end_time": 672.48,
+        "text": "Yeah. and our son who's in high school. We live in the in a house. Okay. Okay. Um, all right. And any concerns for STI's at all? Oh, no. I've been with my wife now for a long time and we've been monogamous, so no concerns for, and sexually transmitted infection right now. Okay. Have you been in contact with anyone sick recently? No, I don't think so. Okay. Any travel recently? Uh, nope, I haven't traveled anywhere. Okay. Um, and, well, let's move on to the physical exam part of this interview. Um, so I'm going to get you to stand up from a sitting position. Does that hurt your back? Um, yeah, it does. I do feel a little bit of a, a, a twinge there. Okay. And where about specifically? Kind of just, yeah, I'm a, I'm a lower, uh, lower right side. Like the right side, like more on the right side. More on the right side, okay. Now, if you have a mirror with you or if you have someone there with you can speak to this. Does your right side appear more red, swollen, or hot compared to your left side of the lower back? No, nothing like that. No, okay. Does it seem like it's more atrophied or do you see any deformities or skin changes in that area? No, no deformities are skin changes. Okay. All right. And I'm going to get you to bend down all the way and touch your, if you can. Um, yeah, I can get part, part way down. You can get part way down. Does it hurt? Um, a little bit. I can feel it pulling and stretching, yeah. All right, and then I'm going to get you to like",
+        "topic_id": 6,
+        "summary": " I'm a lower, uh, lower right side, like more on the right side . Have you been in contact with anyone sick recently? No, I don't think so . Have any concerns for STI's at all? Oh, no. I've been with my wife now",
+        "keywords": [
+            "sti",
+            "infection",
+            "transmitted",
+            "concerns",
+            "sitting"
+        ],
+        "sentiment": 0.2039473128497519
+    },
+    {
+        "start_time": 672.48,
+        "end_time": 681.08,
+        "text": "literally flex to your right side so kind of like you're doing an exercise and",
+        "topic_id": 7,
+        "summary": "literally flex to your right side so kind of like you're doing an exercise and",
+        "keywords": [
+            "flex",
+            "exercise",
+            "literally",
+            "like",
+            "right"
+        ],
+        "sentiment": 0.44285714285714284
+    },
+    {
+        "start_time": 681.08,
+        "end_time": 705.76,
+        "text": "you're just like bending towards that side yeah that hurts that hurts again And have a great day, and have a great day, and have a great day, and have a great day, and have a great day, and have a great day, and have a great day, and have a great day, and have a great day, and have a great day, and have a great day, and have a great day, and have a great day, and have a great day, and have a great day, and have a great day, and have a great day, and have a great day, and have a great day, and have a great day, and have a great day, and have a great day, and have a great day, and have a great day, and have a great day, and have a great day, and have a great day, and have a great day, and have a great day, and have a great day, and have a great day, and have a great day, and have a great day, and have a great day, and have a great day, and have a great day, and have a great day, and have a great day, and have a great day, and have a great day, and have a great day, and have a great day, and have a great day, and have a great day, and have a great day, and have a great day, and have a great day, and have a great day, and have a great day, and have a great day, and have a great day, and have a great day, and have a great day, and have a great day, and have a great day, and have a great day, and have a great day, and have a great day, and have a great day, and have a great day, and have a great day, and have a great day, and have a great day, and have a great day, and have a great day, and have a great day, and have a great day, and have a great day, and have a great day, and have a great day, and have a great day, and have a great day, and have a great day, and have're just like bending towards that side. Yeah, a lot hurts. That hurts again. How about the other side, uh, last side? Yeah, that hurts too. Okay. Um, and now I want to get you to, uh, bring your knees up towards the ceiling. Does that hurt?",
+        "topic_id": 8,
+        "summary": " Have a great day, and have a good day,  and have great day . And have a great, great day and great day. And have you to bring your knees up towards the ceiling. Does that hurt? Um, and now I want to get you to, uh,",
+        "keywords": [
+            "hurts",
+            "hurt",
+            "bending",
+            "knees",
+            "day"
+        ],
+        "sentiment": 0.7733552631578937
+    },
+    {
+        "start_time": 707.76,
+        "end_time": 710.4,
+        "text": "Don't want on a time Like you're right right knee and you're left knee",
+        "topic_id": 9,
+        "summary": "Don't want on a time Like you're right right knee and you're left knee",
+        "keywords": [
+            "knee",
+            "left",
+            "right",
+            "time",
+            "don"
+        ],
+        "sentiment": 0.19047619047619047
+    },
+    {
+        "start_time": 712.32,
+        "end_time": 716.32,
+        "text": "Not really no, okay. I have about when you",
+        "topic_id": 10,
+        "summary": "Not really no, okay. I have about when you",
+        "keywords": [
+            "okay",
+            "really"
+        ],
+        "sentiment": -0.25
+    },
+    {
+        "start_time": 720.88,
+        "end_time": 723.88,
+        "text": "Flex your knees backwards and",
+        "topic_id": 11,
+        "summary": "Flex your knees backwards and",
+        "keywords": [
+            "knees",
+            "flex",
+            "backwards"
+        ],
+        "sentiment": 0.0
+    },
+    {
+        "start_time": 724.76,
+        "end_time": 786.0,
+        "text": "And kind of point your knees towards the ground. No, no pain there. Okay, so no pain on the extension or flexion. Um, had about when you point your toes to the ceiling. Uh, no pain there. Okay, so no pain on plantar flexion. How about when you point your toes to the ground? No pain with there. Okay, so no pain on dorsiflexion. And then sorry, forgot to ask you earlier. Do you have any sort of numbness in the growing area? No, no numbness in the right area. Okay, so no numbness in the burn area. No weakness, no changes in your bowel or bladder, habits, including no content and so no red flags. Okay. Yeah, nothing like that. Okay, okay, good. Okay, so those were all the questions that I had for you.",
+        "topic_id": 12,
+        "summary": " No weakness, no changes in bowel or bladder habits, habits, including no content and so no red flags . No numbness in the burn area . No pain on the extension or flexion .",
+        "keywords": [
+            "numbness",
+            "pain",
+            "knees",
+            "plantar",
+            "burn"
+        ],
+        "sentiment": 0.36326530612244895
+    },
+    {
+        "start_time": 786.0,
+        "end_time": 908.0,
+        "text": "Did you have any questions for myself? No, I was just, yeah kind of wondering do I need any x-rays or like what's what's what on? Yeah, so what it sounds like right now is that you have something called mechanical back pain. It's pretty common and it can be anything from your spinal joints to the discs to the vertebrae or soft tissue or muscle. And a lot of these can be caused by heart activity at work, like carrying heavy things, and then carrying them in like an improper position or something like that. And we dug notes that on his student physical exam, but if after we try some management and treatment plans, it doesn't go away and it persists for more than eight weeks, we do recommend imaging, including an MRI. So in terms of management for our right now, modified activity at work, some short-term bed rest, very very short-term though. And bed rest is only really recommended if you have severe back pain and muscle spasms and you definitely shouldn't be doing that for more than like 24 to 48 hours. Physical activity can help. So I refer all to physical therapy. Our physiotherapy can help. So referral to physical therapy or physiotherapy can help in rehab. And they'll give you some exercises that you can try at home to kind of strengthen those muscles. And then ice and heating packs temporarily can help medications like NSAIDs can help as well with the inflammation.",
+        "topic_id": 13,
+        "summary": " A lot of these can be caused by heart activity at work, like carrying heavy things, and then carrying them in like an improper position . If after we try some management and treatment plans, it doesn't go away and it persists for more than eight weeks, we do recommend imaging,",
+        "keywords": [
+            "mri",
+            "spinal",
+            "physiotherapy",
+            "spasms",
+            "exercises"
+        ],
+        "sentiment": 0.15407142857142858
+    },
+    {
+        "start_time": 908.0,
+        "end_time": 914.0,
+        "text": "So we'll try these things out and then we'll continue to follow up.",
+        "topic_id": 14,
+        "summary": "So we'll try these things out and then we'll continue to follow up.",
+        "keywords": [
+            "follow",
+            "continue",
+            "things",
+            "try",
+            "ll"
+        ],
+        "sentiment": 0.0
+    },
+    {
+        "start_time": 914.0,
+        "end_time": 923.0,
+        "text": "Yeah, did you have any questions or does that sound like an okay plan? That sounds like a good plan.",
+        "topic_id": 15,
+        "summary": "Yeah, did you have any questions or does that sound like an okay plan? That sounds like a good plan.",
+        "keywords": [
+            "plan",
+            "questions",
+            "yeah",
+            "sounds",
+            "good"
+        ],
+        "sentiment": 0.5333333333333333
+    },
+    {
+        "start_time": 923.0,
+        "end_time": 926.0,
+        "text": "Okay, sounds good. Thank you.",
+        "topic_id": 16,
+        "summary": "Okay, sounds good. Thank you.",
+        "keywords": [
+            "okay",
+            "sounds",
+            "good",
+            "thank"
+        ],
+        "sentiment": 0.6
+    }
+]

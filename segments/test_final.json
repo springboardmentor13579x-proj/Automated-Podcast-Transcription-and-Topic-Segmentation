@@ -1,0 +1,725 @@
+[
+    {
+        "start_time": 0.0,
+        "end_time": 5.4,
+        "text": "No, okay. Hey, Sean, this weekend. Did you notice that the March for our lives returned?",
+        "topic_id": 1,
+        "summary": "No, okay. Hey, Sean, this weekend. Did you notice that the March for our lives returned?",
+        "keywords": [
+            "march",
+            "sean",
+            "weekend",
+            "notice",
+            "lives"
+        ],
+        "sentiment": -0.25
+    },
+    {
+        "start_time": 5.4,
+        "end_time": 26.2,
+        "text": "I did notice, yes. Did you hear much about it being, you know, a protest that happened all across this country of ours? No, that I didn't know. I guess the past few weeks, and maybe the past month has had me wondering if the gun control movement in this country is is a failure.",
+        "topic_id": 2,
+        "summary": " The gun control movement in this country is is a failure, CNN's John Sutter says . He says he didn't hear much about it being, you know, a protest that happened all across this country of ours? No, that I didn't know, he says .",
+        "keywords": [
+            "protest",
+            "notice",
+            "gun",
+            "failure",
+            "yes"
+        ],
+        "sentiment": -0.16333333333333333
+    },
+    {
+        "start_time": 26.2,
+        "end_time": 29.2,
+        "text": "I mean, it doesn't seem like a success.",
+        "topic_id": 3,
+        "summary": "I mean, it doesn't seem like a success.",
+        "keywords": [
+            "success",
+            "doesn",
+            "like",
+            "mean"
+        ],
+        "sentiment": -0.0062500000000000056
+    },
+    {
+        "start_time": 29.2,
+        "end_time": 405.04,
+        "text": "So, on the show today, I thought we'd ask someone who's been studying this movement for decades and a guy who's been a part of it for decades to see how they feel about it. And it's part of something we're going to try and do this week on the show is just understand this issue of guns in America, understand it through the protest movement, understand it constitutionally, understand it politically because there might actually be some action in the coming weeks. Very cool. I am looking forward to learning something. What if we could see cyber threats in real life? They would be everywhere. Always watching, looking to gain access to our networks, clouds and applications. Yesterday's technology can no longer stop them, but they can be stopped. With consistent cybersecurity that protects work everywhere. Zero Trust with zero exceptions by Palo Alto Networks. We've got next. This episode is brought to you by the London dungeon. Ah London, home to palaces, pigeons. And the London dungeon. Descend beneath the capital streets to see here, feel and smell the characters who live through its chilling past. What horrors will you encounter? They're too harrowing to mention here, so you'll have to find out for yourself. The London Dungeon, visit the dungeons.com for tickets. And today's point, I'm Sean Romus for him, and as I told Noel at the top of the show, I've been wondering if the gun control movement in the United States is a failed effort, or maybe I've been wondering if it just could be more persistent. If the march for our lives had been happening every year, every month, every week, instead of once and then again, four years later, could there have been more tangible change? On today's explain, we're going to ask a couple of people who've been studying and participating in this movement for decades, starting with Kristen Goss. When we told people we wanted to assess the gun control movement, everyone told us to speak to Kristen Goss. I am a professor of public policy and political science. The Sanford School of Public Policy at Duke University. Kristen has been watching the gun control movement for decades. Out of Columbine, I wrote a PhD dissertation which became a book about the challenges that gun violence prevention advocates have in organizing a mass movement and the subtitle of that book was the missing movement for gun control in America and that book came out in 2006 and she's got a surprising answer to the question of whether the gun control movement has just sort of failed. I can say without any doubt that the movement is no longer missing and it's better organized, better funded and you know I would say arguably more successful than at any time in history. So why did things feel so hopeless to so many Americans? She had an answer for that too. We all focus on Congress and you know the, the terrible shootings happen. Usually Congress doesn't even consider gun violence prevention legislation. They did after Sandy Hook, they didn't pass the key bill, which would have created some sort of universal background check system. So that failed to pass, so everybody said, oh, it's horrible thing happened to Sandy Hook and nothing changed. Well, that's just false. I mean, many state laws changed. Many organizations were founded. A lot of money came in. It's all been slow and a lot of what's been changing is happening under the media radar and under the public radar. But things are happening. I think the Parkland mass shooting was a very important pivot point, but it joined a number of other similar high-profile events throughout history that each has sort of brought in a new group or a new constituency to advocate for stricter gun laws. Columbine was an important event for bringing in mothers, and those organizations that mobilize around time of Columbine, state active kind of under the media radar for a number of years and working, you know, chiefly at the state level. My own comment says tells me that safety locks on firearms, background checks on gun purchasers and registering those same guns is common sense. I think Virginia Tech in 2007 was a really important pivot point. The parents of those students who were shot and the family members of the instructors came together in this network and worked to get a build-through Congress, yes, our Congress in a Republican administration to strengthen the reporting of records to our national background jack system. This is a day of mourning for the Virginia Tech community, and it is a day of sadness for our entire nation. Sandy Hook was a really important pivot point. Some states, after Sandy Hook, strengthen their gun laws in significant ways, a number of other states, strengthen their laws around mental health and firearms access. But more important, I think, Sandy Hook really marked the beginning of kind of an expansion in the gun violence prevention movement. I'm here because I think you get to a point where enough is enough and after going through Sandy Hook when I was younger and sitting and locked down literally scared for me in my siblings' life, I don't think that any student should ever have to go through that. A lot of money flowed in to Gun Violence Prevention Movement, and it's, you know, it, it ups and flows, but there's more money now than there was at any other time. And more importantly, groups that are organized around gun control and groups that just have an interest in it, where it's one of many things they care about, got organized around a common policy agenda. So, you know, then Parkland comes along and almost half the states strengthen their gun laws in the immediate aftermath, and half of these states included for something like 14 that had Republican governors. Today, we have an obligation to govern.",
+        "topic_id": 4,
+        "summary": "So, on the show today, I thought we'd ask someone who's been studying this movement for decades and ...",
+        "keywords": [
+            "cybersecurity",
+            "cyber",
+            "threats",
+            "protest",
+            "streets"
+        ],
+        "sentiment": 0.08971737927217378
+    },
+    {
+        "start_time": 405.04,
+        "end_time": 410.52,
+        "text": "It's time for us to be grown-ups. Grown-ups protect our kids.",
+        "topic_id": 5,
+        "summary": "It's time for us to be grown-ups. Grown-ups protect our kids.",
+        "keywords": [
+            "protect",
+            "kids",
+            "grown",
+            "ups",
+            "time"
+        ],
+        "sentiment": 0.0
+    },
+    {
+        "start_time": 410.52,
+        "end_time": 411.68,
+        "text": "It's our turn.",
+        "topic_id": 6,
+        "summary": "It's our turn.",
+        "keywords": [
+            "turn"
+        ],
+        "sentiment": 0.0
+    },
+    {
+        "start_time": 411.68,
+        "end_time": 412.96,
+        "text": "Don't let them down.",
+        "topic_id": 7,
+        "summary": "Don't let them down.",
+        "keywords": [
+            "don",
+            "let"
+        ],
+        "sentiment": -0.15555555555555559
+    },
+    {
+        "start_time": 412.96,
+        "end_time": 416.24,
+        "text": "You know, the Orlando shooting brought in the LGBT community.",
+        "topic_id": 8,
+        "summary": "You know, the Orlando shooting brought in the LGBT community.",
+        "keywords": [
+            "lgbt",
+            "orlando",
+            "shooting",
+            "community",
+            "know"
+        ],
+        "sentiment": 0.0
+    },
+    {
+        "start_time": 416.24,
+        "end_time": 422.36,
+        "text": "So each of these mass shootings, which are terrifying and tragic,",
+        "topic_id": 9,
+        "summary": "So each of these mass shootings, which are terrifying and tragic,",
+        "keywords": [
+            "shootings",
+            "tragic",
+            "terrifying",
+            "mass"
+        ],
+        "sentiment": -0.875
+    },
+    {
+        "start_time": 422.36,
+        "end_time": 424.6,
+        "text": "are serving as kind of galvanizing points",
+        "topic_id": 10,
+        "summary": "are serving as kind of galvanizing points",
+        "keywords": [
+            "galvanizing",
+            "serving",
+            "points",
+            "kind"
+        ],
+        "sentiment": 0.6
+    },
+    {
+        "start_time": 424.6,
+        "end_time": 425.2,
+        "text": "for different",
+        "topic_id": 11,
+        "summary": "for different",
+        "keywords": [
+            "different"
+        ],
+        "sentiment": 0.0
+    },
+    {
+        "start_time": 425.2,
+        "end_time": 625.76,
+        "text": "constituencies of interest to sort of join in this. You gave us this sort of 20-year or so history dating back to Columbine, but surely that isn't when the gun control movement in the United States begins. Where does that trace back to at at least in sort of its modern form. Yeah, there were some kind of fleeting organizational efforts in 1968 after the assassinations of Dr. King and Bobby Kennedy, but the modern gun violence prevention movement or gun control movement as it was known at the time really started coming together in the mid 70s. So in that time period, you had sort of an uptake in crime, the spread of handguns, particularly cheap handguns, was occurring at that time and two kind of national gun control groups that are still around were founded in 1974. So one is what we now call Brady, we are all Brady, we are all united against gun violence. And the other is what we now call the coalition to stop gun violence, and the gun control organizers in that time frame, so we're talking 70s, 80s, really were focused on federal legislation, you know, so on the theory that guns and bad guys with guns can flow easily across state lines. So if you really want to regulate firearms, you've got to do it nationally. A state by state approach is going to have limited effectiveness. But meanwhile, the gun rights side, a bit amised by the NRA, was organized in a federated way. So there's a national NRA, they've got state affiliates and pistol and gun clubs in every state. I believe there are local spaces where gun owners can congregate in gun stores or gun shows or gun ranges, where they can practice their hobby but also share political information, recruit each other into activism. So, you know, the NRA is organized the way that our government is organized, and so they're ready to plug in at any level to advocate for gun deregulation or to try to block proposed gun control laws. And the gun violence prevention movement has always been much more kind of top down, at least on the professional side. But there's really important things to say here, which is, you know, in communities of color and in cities where gun violence can have more pronounced spikes. There have always been community-based organizations, organic, led by often mothers and, you know, these groups are doing Yomans work, trying to stop violence, but they don't tend to be connected to one another, connected to professional organizations, they don't have any money, and they often are doing kind of community-based interventions, as opposed to sort of policy advocacy. So the gun control movement or the gun violence prevention movement has a lot of different pieces to it. It hasn't been that coordinated historically. But I think that coordination and that kind of bridge building across different parts of the movement has really improved in recent years. But we're still in this place where we're still having mass shootings like Buffalo, like Evaldi, and as of 2020 guns are the leading",
+        "topic_id": 12,
+        "summary": " There were some kind of fleeting organizational efforts in 1968 after the assassinations of Dr. King and Bobby Kennedy . The modern gun violence prevention movement or gun control movement as it was known at the time really started coming together in the mid 70s . The gun rights side, a bit am",
+        "keywords": [
+            "firearms",
+            "guns",
+            "handguns",
+            "gun",
+            "pistol"
+        ],
+        "sentiment": 0.1636851136851137
+    },
+    {
+        "start_time": 625.76,
+        "end_time": 631.36,
+        "text": "cause of death for American kids. And shootings are up across the country. These piecemeal",
+        "topic_id": 13,
+        "summary": "cause of death for American kids. And shootings are up across the country. These piecemeal",
+        "keywords": [
+            "shootings",
+            "kids",
+            "death",
+            "piecemeal",
+            "american"
+        ],
+        "sentiment": 0.0
+    },
+    {
+        "start_time": 631.36,
+        "end_time": 637.12,
+        "text": "accomplishments along the way haven't accomplished enough, it would seem.",
+        "topic_id": 14,
+        "summary": "accomplishments along the way haven't accomplished enough, it would seem.",
+        "keywords": [
+            "accomplishments",
+            "accomplished",
+            "haven",
+            "way"
+        ],
+        "sentiment": 0.1
+    },
+    {
+        "start_time": 638.16,
+        "end_time": 644.0,
+        "text": "Two things that I would say that are maybe a little bit of a copy out to what you said. So one is",
+        "topic_id": 15,
+        "summary": "Two things that I would say that are maybe a little bit of a copy out to what you said. So one is",
+        "keywords": [
+            "copy",
+            "said",
+            "maybe",
+            "bit",
+            "things"
+        ],
+        "sentiment": -0.1875
+    },
+    {
+        "start_time": 666.96,
+        "end_time": 671.36,
+        "text": "you can use the word piecemeal or incremental and that sounds like ineffective. Okay, okay, okay, okay, okay, okay, okay, okay, okay, okay, okay, okay, okay, okay, okay, okay state level that say, you know, this person can't buy a gun or, you know, this person can't possess a gun. But those are only as good as, as, you know, they're the enforcement mechanisms that are in place. So for example, if you",
+        "topic_id": 16,
+        "summary": " State level level that say, you know, this person can't buy a gun or, you can't possess a gun . But those are only as good as the enforcement mechanisms that are in place, he says .",
+        "keywords": [
+            "enforcement",
+            "incremental",
+            "gun",
+            "ineffective",
+            "state"
+        ],
+        "sentiment": 0.4833333333333333
+    },
+    {
+        "start_time": 672.24,
+        "end_time": 676.56,
+        "text": "come under a permanent restraining under order, because you've committed domestic violence,",
+        "topic_id": 17,
+        "summary": "come under a permanent restraining under order, because you've committed domestic violence,",
+        "keywords": [
+            "restraining",
+            "violence",
+            "domestic",
+            "permanent",
+            "order"
+        ],
+        "sentiment": 0.0
+    },
+    {
+        "start_time": 676.56,
+        "end_time": 688.88,
+        "text": "you're not supposed to own a gun. Well, what if you already have a gun? Who's going to go get that gun? What does the state say about whether you have to relinquish that gun is a judge ordering you to relinquish the gun? Do you know do the states know that you have that gun?",
+        "topic_id": 18,
+        "summary": " you're not supposed to own a gun. What does the state say about whether you have to relinquish that gun? Do you know do the states know that you have a gun?",
+        "keywords": [
+            "gun",
+            "state",
+            "relinquish",
+            "states",
+            "judge"
+        ],
+        "sentiment": 0.6
+    },
+    {
+        "start_time": 689.44,
+        "end_time": 691.44,
+        "text": "Are the police going to go to your house and get it?",
+        "topic_id": 19,
+        "summary": "Are the police going to go to your house and get it?",
+        "keywords": [
+            "police",
+            "house",
+            "going"
+        ],
+        "sentiment": 0.0
+    },
+    {
+        "start_time": 691.44,
+        "end_time": 696.08,
+        "text": "So there's all these you can call them blue poles or just holes in enforcement",
+        "topic_id": 20,
+        "summary": "So there's all these you can call them blue poles or just holes in enforcement",
+        "keywords": [
+            "poles",
+            "enforcement",
+            "holes",
+            "blue",
+            "just"
+        ],
+        "sentiment": 0.0
+    },
+    {
+        "start_time": 696.4,
+        "end_time": 701.68,
+        "text": "They really can make a difference if they're tightened and so these quote unquote piecemeal incremental changes are aimed at doing that",
+        "topic_id": 21,
+        "summary": "They really can make a difference if they're tightened and so these quote unquote piecemeal incremental changes are aimed at doing that",
+        "keywords": [
+            "unquote",
+            "changes",
+            "quote",
+            "tightened",
+            "incremental"
+        ],
+        "sentiment": 0.2
+    },
+    {
+        "start_time": 701.68,
+        "end_time": 928.24,
+        "text": "I wouldn't write them off as you know just incremental changes to existing laws They can they can actually matter a lot a lot. And I think there's been a lot, and I think there's been a lot, and I think there's been a lot, and I think there's been a lot, and I think there's been a lot, and I think there's been a lot, and I think there's been a lot, and I think there's been a lot, and I think there's been a lot, and I think there's been a lot, and I think there's been a lot, and I think there's been a lot, and I think there's been a lot, and I think there's been a lot, and I think there's been a lot, and I think there's been a lot, and I think there's been a lot, and I think there's been a lot, and I think there's been a lot, and I think there's been a lot, and I think there's been a lot, and I think there's been a lot, and I think there's been a lot, and I think there's been a lot, and I think there's been a lot, and I think there's been a lot, and I think there's been a lot, and I think there's been a lot, and I think there's been a lot, and I think there's been a lot, and I think there's been a lot, and I think there's been a lot, and I think there's been a lot, and I think there's been a lot, and I think there's been a lot, and I think there's been a lot, and I think there's been a lot, and I think there's been a lot, and I think there's been a lot, and I think there's been a lot, and I think there's been a lot, and I think there's been a lot, and I think there's been a lot, and I think there's been a lot, and I think there's been a lot, and I think there's been a lot, and I think there's been a to existing laws, they can actually matter a lot. And I think there's been a lot more attention to enforcement and implementation of laws in recent years. I mean, still a lot of attention to getting new laws on the books, but that's only half the battle, right? The other thing I would say, you're right, obviously laws on the books did not stop buffalo or Uvaldi or the community based gun violence that we're going to see were in Washington, DC tonight, you know, where I am. But we don't know the counterfactual either. So if none of these quote unquote incremental or piecemeal laws have been passed, would it have been even worse? You know, we don't know that. So you always have to think about what's the alternative or what's the counterfactual that you can't see. How many of you baldies might have happened if measures hadn't been put into place around the country? And I'm not going to ask you to prove another counterfactual, but to sort of bring this back to my initial question, the March for our lives was this incredibly powerful protest. The school walkouts that happened were incredibly disruptive around the same time. And I can't help but feel that if there was that kind of sustained attention and protest on this issue, it could accomplish much more. And if someone who studies this, I wonder if you feel the same way. Yeah, I mean, of course, I think if young people walked out of school for three straight years or four straight years, politicians would notice, I think there is a lot of deja vu, groundhog day to the gun issue. So you can look at what happened after column buying and what happened after Sandy Hook tons of parallels there. But I think again, we aren't incremental country. And that's very frustrating when you're talking about life and death situations like with gun violence or climate change for that matter. Politicians will pay attention when unexpected constituencies get involved. They like predictability. They like to know kind of how the distribution of votes is going to be. They like to know who's going to get agitated and who's who's going to stay quiet. When you start that up that's when they pay attention and you know we recently opened up our phone lines and so many people just called him and said I would like to know what average citizen like myself can do to stop gun violence how many more of these have to happen what can we actually do and it didn't sound like a political It was just, I want to know what I can do so I can live in a country where this just doesn't happen anymore as someone who's been studying what people have done for 25 years. What would you say to those people? I would say, what are your interests? What particular part of this gun violence problem that we have are you most interested in? Some people are really touched by suicide, some people are touched by community violence, some people are touched by school shootings, et cetera. I'd figure out what is it that stirs your passion, and I would join an organization. I mean, the capacity is there, the expertise is there. There are organizations that are ready to take you in and use your skills. I think one example of this is family members and survivors. So when I was doing my first book, I remember asking a leading national gun control person, why is it that so many people are touched by gun violence, but there isn't a movement of victims or survivors or family members. I don't wear a day in this and you know, they were always there, but they weren't there",
+        "topic_id": 22,
+        "summary": "I wouldn't write them off as you know just incremental changes to existing laws They can they can ac...",
+        "keywords": [
+            "think",
+            "lot",
+            "laws",
+            "tons",
+            "lines"
+        ],
+        "sentiment": 0.1491841668969329
+    },
+    {
+        "start_time": 928.24,
+        "end_time": 987.24,
+        "text": "like with a big megaphone and a big platform. And and I remember he said, you know, we always feel really nervous about approaching people who are just experienced this life-changing trauma. And I think that that reticence has gone away. So every town for gun safety, which is the largest now of the National Gun Violence Prevention Groups, has a whole sort of division devoted to supporting survivors and family members, and also if they want to be activists to giving them a platform, giving them training, giving I mean, the money to go and speak to organizations. So, you know, I think it's just a matter of what are your interests and what are your skills. These organizations will bring you in. That's a big difference from the early era where it was much more kind of elite staff-led organizations, with not a lot of room for volunteer mobilization.",
+        "topic_id": 23,
+        "summary": " Every town for gun safety now has a division devoted to supporting survivors and family members . \"We always feel really nervous about approaching people who are just experienced this life-changing trauma. And I think that that reticence has gone away,\" she says .",
+        "keywords": [
+            "mobilization",
+            "activists",
+            "volunteer",
+            "survivors",
+            "organizations"
+        ],
+        "sentiment": 0.19479166666666667
+    },
+    {
+        "start_time": 987.24,
+        "end_time": 989.8,
+        "text": "Every day citizen mobilization, that's different now.",
+        "topic_id": 24,
+        "summary": "Every day citizen mobilization, that's different now.",
+        "keywords": [
+            "mobilization",
+            "citizen",
+            "day",
+            "different"
+        ],
+        "sentiment": 0.0
+    },
+    {
+        "start_time": 994.8,
+        "end_time": 998.52,
+        "text": "That was Professor Kristen Goss with Duke University",
+        "topic_id": 25,
+        "summary": "That was Professor Kristen Goss with Duke University",
+        "keywords": [
+            "duke",
+            "kristen",
+            "professor",
+            "university",
+            "goss"
+        ],
+        "sentiment": 0.0
+    },
+    {
+        "start_time": 998.52,
+        "end_time": 999.4,
+        "text": "in a minute.",
+        "topic_id": 26,
+        "summary": "in a minute.",
+        "keywords": [
+            "minute"
+        ],
+        "sentiment": 0.0
+    },
+    {
+        "start_time": 999.4,
+        "end_time": 1002.36,
+        "text": "We'll hear from a lawyer who was touched by suicide",
+        "topic_id": 27,
+        "summary": "We'll hear from a lawyer who was touched by suicide",
+        "keywords": [
+            "suicide",
+            "lawyer",
+            "touched",
+            "hear",
+            "ll"
+        ],
+        "sentiment": 0.0
+    },
+    {
+        "start_time": 1002.36,
+        "end_time": 1004.32,
+        "text": "and then became an activist.",
+        "topic_id": 28,
+        "summary": "and then became an activist.",
+        "keywords": [
+            "activist"
+        ],
+        "sentiment": 0.0
+    },
+    {
+        "start_time": 1004.32,
+        "end_time": 1006.0,
+        "text": "It's today explained.",
+        "topic_id": 29,
+        "summary": "It's today explained.",
+        "keywords": [
+            "explained",
+            "today"
+        ],
+        "sentiment": 0.0
+    },
+    {
+        "start_time": 1024.0,
+        "end_time": 1186.0,
+        "text": "So, for the show, it comes from Masterclass. You've heard of Masterclass if you've ever used YouTube, Thank you for watching this video, thank you for watching this video, thank you for watching, thank you for watching, thank you for watching, thank you for watching, thank you for watching, thank you for watching, thank you for watching, thank you for watching, thank you for watching, thank you for watching, thank you for watching, thank you for watching, thank you for watching, thank you for watching, thank you for watching, thank you for watching, thank you for watching, thank you for watching, thank you for watching, thank you for watching, thank you for watching, thank you for watching, thank you for watching, thank you for watching, thank you for watching, thank you for watching, thank you for watching, thank you for watching, thank you for watching, thank you for watching, thank you for watching, thank you for watching, thank you for watching, thank you for watching, thank you for watching, thank you for watching, thank you for watching, thank you for watching, thank you for watching, thank you for watching, thank you for watching, thank you for watching, thank you for watching, thank you for watching, thank you for watching, thank you for watching, thank you for watching, thank you for watching, thank you for watching, thank you for watching, thank you for watching, thank you for watching, thank you for watching, thank you for watching, thank you for watching, thank you for watching, thank you for watching, thank you for watching, thank you for watching, thank you for watching, thank you for watching, thank you for watching, thank you for watching, thank you for watching, thank you for watching, thank you for watching, thank you for watching, thank you for watching, thank you for watching, thank you for watching, thank you for watching, thank you for watching, thank you for watching, thank you for watching, thank you for watching, thank you for watching, thank you for watching, thank you for watching, thank you for watching, thank you for watching, thank you for watching, thank you for watching, thank you for watching, thank you for watching You've heard of Masterclass if you've ever used YouTube, because there's all those ads from various Masterclasses. What's the Masterclass you've always wanted, maybe they'll do it soon. They want me to talk about a Masterclass that I've always wanted, but I've definitely thought of this before, but I can't think of what it is now. Here's one. I don't know, I could use a masterclass on how to do a drop shot in tenets. That's like a shot that you hit really sort of specifically so that the ball just floats right over the net and then just drops immediately down and dies. I have no idea how to do that well and people have tried to teach me and it's not worked. Oh, here's another one, I've always wanted to whistle really, really loud,, but without using my fingers And there's actually a lot of YouTube videos about this, but none of them have ever helped me do it Actually, I just get really sort of like faint when I try and I almost pass out So then I usually have to stop anyway You can get unlimited access to every masterclass ever and as a today explain listener You can get 15% off an annual membership go to masterclass.com slash explain to now that is masterclass.com slash explained for 15% off masterclass. It takes a ton of work to run a successful retail operation. Whether you're selling handmade pottery, vintage Swiss watches, or cakes that look like things that aren't cakes, they're those marketing campaigns you've got to stay on top of, all that shipping information to log, and all of the headaches that spring from issues at the point of sale. It's a lot, but with Shopify, business can be a breeze. Manage your business in one place with one of the e-commerce industries go to platforms. With Shopify, you can find new customers, scale your operation, and design the perfect virtual store, no coding experience required. Process all major payment methods and connect with all sorts of third-party apps. Plus, you can take advantage of integrations like on-demand printing, accounting, and advance chat bots that are helpful, kind, and not scary at all. You built your store from the ground up. Now let's Shopify handle the rest. Sign up for a free 14-day trial at shoppify.co.uk-box. Go to shoppify.co.uk-box right now to grow your business today. Shopify.co.uk slash vox. Today explained, you've heard from Kristen Goss, who studies activism around gun control, but we thought we'd pose the same question to an actual activist. One who's been at it since 1989.",
+        "topic_id": 30,
+        "summary": "So, for the show, it comes from Masterclass. You've heard of Masterclass if you've ever used YouTube...",
+        "keywords": [
+            "masterclass",
+            "masterclasses",
+            "youtube",
+            "videos",
+            "video"
+        ],
+        "sentiment": 0.16803202835811532
+    },
+    {
+        "start_time": 1186.0,
+        "end_time": 1192.48,
+        "text": "I'm Josh Horowitz, the co-director of the Center for Gun Violence Solutions at the Bloomberg School of Public Health.",
+        "topic_id": 31,
+        "summary": "I'm Josh Horowitz, the co-director of the Center for Gun Violence Solutions at the Bloomberg School of Public Health.",
+        "keywords": [
+            "horowitz",
+            "josh",
+            "gun",
+            "director",
+            "violence"
+        ],
+        "sentiment": -0.05
+    },
+    {
+        "start_time": 1192.48,
+        "end_time": 1199.6,
+        "text": "I asked Josh, how he's kept at it for 33 or so years when it seems like things have just gotten worse.",
+        "topic_id": 32,
+        "summary": "I asked Josh, how he's kept at it for 33 or so years when it seems like things have just gotten worse.",
+        "keywords": [
+            "josh",
+            "33",
+            "years",
+            "asked",
+            "worse"
+        ],
+        "sentiment": -0.4
+    },
+    {
+        "start_time": 1199.6,
+        "end_time": 1203.6,
+        "text": "The Talmud, the Jewish Talmud, says to us when you say one life you say of the world.",
+        "topic_id": 33,
+        "summary": "The Talmud, the Jewish Talmud, says to us when you say one life you say of the world.",
+        "keywords": [
+            "talmud",
+            "life",
+            "world",
+            "jewish",
+            "says"
+        ],
+        "sentiment": 0.0
+    },
+    {
+        "start_time": 1203.6,
+        "end_time": 1417.0,
+        "text": "And I live by that. My goal is to substantially, meaningfully reduce gun violence. And that's what I'm talking about, and that's what I'm talking about, and that's what I'm talking about, and that's what I'm talking about, and that's what I'm talking about, and that's what I'm talking about, and that's what I'm talking about, and that's what I'm talking about, and that's what I'm talking about, and that's what I'm talking about, and that's what I'm talking about, and that's what I'm talking about, and that's what I'm talking about, and that's what I'm talking about, and that's what I'm talking about, and that's what I'm talking about, and that's what I'm talking about, and that's what I'm talking about, and that's what I'm talking about, and that's what I'm talking about, and that's what I'm talking about, and that's what I'm talking about, and that's what I'm talking about, and that's what I'm talking about, and that's what I'm talking about, and that's what I'm talking about, and that's what I'm talking about, and that's what I'm talking about, and that's what I'm talking about, and that's what I'm talking about, and that's what I'm talking about, and that's what I'm talking about, and that's what I'm talking about, and that's what I'm talking about, and that's what I'm talking about, and that's what I'm talking about, and that's what I'm talking about, and that's what I'm talking about, and that's what I'm talking about, and that's what I'm talking about, and that's what I'm talking about, and that's what I'm talking about, and that's what I'm talking about, and that while I acknowledge the inevitability of some of these, I also look to states where we've really reduced the gun death. We've really saved lives. We've saved hundreds of not thousands of lives a year, that's why I've keep doing this. What happened 30 years ago that got you into this world? I graduated law school one two a firm and a colleague of mine at the firm who I helped get a job was just one of those things we were slow of that fall and she was let go not because because of any problem with her, I was just, you know, work was slow. And unfortunately she went home and took her life with a firearm, died by suicide. And it was one of those things that just really struck me as a really painful experience. And struck me is like, how is this happening, how could someone have access to a gun, and in a really quick moment take our own life, and so I, you know, thought about what I wanted to do with my life. I knew that I didn't want to stay in private practice, and I ended up, you know, looking out there and found this job, and, you know, I never went back. It's been a rewarding rewarding sometimes frustrating experience, but I never forget why I started with this. What do you think this country could get to the place where the movement for gun violence prevention feels as powerful as the movement for Second Amendment rights or whatever you want to call it? Absolutely. The enterprise is a good example because their power is certainly on the way, but people who adhere to that, it's like faith, it's like religion. It is part of their lives, it's a big part of their sort of social construct, right? After Sandy Hook, unfortunately, there was some votes in the Senate that were lost, right? We even though we got 55 votes for background text, that's not enough in the Senate. Majority is not enough. You need 60. People said, well, that's it. That's that's the end. But what I saw was movement developed over the last 10 years. So the time in the Sandy Hook shooting, I was one of the very few lobbyists on the Hill. I mean, you could count them in one hand before that. And since then, we have become a movement of millions and millions of people with all sorts of government relations activities, all sorts of grassroots activities. From my perspective, thinking back, I want to look like in the Bush administration, for instance, to after the Virginia Tech Shading. There was no gun violence prevention infrastructure. There's a couple of groups. There was the group I worked for. There was the Brady campaign, but it was really small potatoes at the time. Now it's completely different. So we've seen an incredible growth in the movement since 2012. I think that's going to continue. This is another moment we're seeing a lot of growth. So yeah, I do think we're going to be as proud. If we're not as proud for the NRA, we're going to be. And certainly some states, many states we are. So this is a battle. This is a battle. You sound so committed in spite of the fact that, you know, in terms of how things look now, at least in terms of mass shootings, they look dramatically worse than when you got into this work, right?",
+        "topic_id": 34,
+        "summary": "And I live by that. My goal is to substantially, meaningfully reduce gun violence. And that's what I...",
+        "keywords": [
+            "gun",
+            "firearm",
+            "violence",
+            "talking",
+            "shootings"
+        ],
+        "sentiment": 0.09926618671183887
+    },
+    {
+        "start_time": 1417.0,
+        "end_time": 1420.0,
+        "text": "So, not really.",
+        "topic_id": 35,
+        "summary": "So, not really.",
+        "keywords": [
+            "really"
+        ],
+        "sentiment": -0.1
+    },
+    {
+        "start_time": 1420.0,
+        "end_time": 1445.6,
+        "text": "I started the year after, you know, 30 children were shot at a playground and stopped in California with an assault weapon with an AK-47. Thank you so much for watching this video and I hope to see you in the next video and I'll see you, more than half of them critically. One bystander said it sounded like a gun battle. Through that, we were able to pass the Brady Bill,",
+        "topic_id": 36,
+        "summary": " 30 children were shot at a playground and stopped in California with an assault weapon with an AK-47 . One bystander said it sounded like a gun battle. Through that, we were able to pass the Brady Bill, through that .",
+        "keywords": [
+            "brady",
+            "gun",
+            "shot",
+            "assault",
+            "ak"
+        ],
+        "sentiment": 0.1722222222222222
+    },
+    {
+        "start_time": 1445.6,
+        "end_time": 1447.56,
+        "text": "which created the background check system.",
+        "topic_id": 37,
+        "summary": "which created the background check system.",
+        "keywords": [
+            "background",
+            "check",
+            "created"
+        ],
+        "sentiment": 0.0
+    },
+    {
+        "start_time": 1447.56,
+        "end_time": 1449.96,
+        "text": "On behalf of the Vice President and the Attorney General",
+        "topic_id": 38,
+        "summary": "On behalf of the Vice President and the Attorney General",
+        "keywords": [
+            "attorney",
+            "behalf",
+            "vice",
+            "president",
+            "general"
+        ],
+        "sentiment": 0.05000000000000002
+    },
+    {
+        "start_time": 1449.96,
+        "end_time": 1453.12,
+        "text": "and myself, we believe very passionately in the Brady Bill",
+        "topic_id": 39,
+        "summary": "and myself, we believe very passionately in the Brady Bill",
+        "keywords": [
+            "brady",
+            "passionately",
+            "believe"
+        ],
+        "sentiment": -0.065
+    },
+    {
+        "start_time": 1453.12,
+        "end_time": 1457.8,
+        "text": "is all of you who were involved in the campaign. Now I spoke about it at every campaign stuff",
+        "topic_id": 40,
+        "summary": "is all of you who were involved in the campaign. Now I spoke about it at every campaign stuff",
+        "keywords": [
+            "campaign",
+            "involved",
+            "spoke",
+            "stuff"
+        ],
+        "sentiment": 0.0
+    },
+    {
+        "start_time": 1457.8,
+        "end_time": 1460.52,
+        "text": "in every country, crossroads in this country.",
+        "topic_id": 41,
+        "summary": "in every country, crossroads in this country.",
+        "keywords": [
+            "crossroads",
+            "country"
+        ],
+        "sentiment": 0.0
+    },
+    {
+        "start_time": 1460.52,
+        "end_time": 1463.88,
+        "text": "And we were able to create an assaultman's ban for 10 years.",
+        "topic_id": 42,
+        "summary": "And we were able to create an assaultman's ban for 10 years.",
+        "keywords": [
+            "assaultman",
+            "ban",
+            "years",
+            "able",
+            "10"
+        ],
+        "sentiment": 0.5
+    },
+    {
+        "start_time": 1463.88,
+        "end_time": 1506.0,
+        "text": "The 19 assault weapons banned by this proposal are deadly, dangerous weapons. That's it, that's it, that's it, that's it, that's it, that's it, that's to be used to kill people. We, as a nation, are determined to turn that around. We know because of that that that saves lives. It was very unfortunate there was a sunset in that. But I've been dealing with mass shootings my entire life in this field. What I'm just starting about now is the pace. And the fact that the weapon reclearly increases the death count and we're not able to do anything about that in",
+        "topic_id": 43,
+        "summary": " The 19 assault weapons banned by this proposal are deadly, dangerous weapons that's to be used to kill people . We, as a nation, are determined to turn that around. We know because of that that that saves lives. It was very unfortunate there was a sunset in that .",
+        "keywords": [
+            "shootings",
+            "weapons",
+            "weapon",
+            "proposal",
+            "deadly"
+        ],
+        "sentiment": -0.3
+    },
+    {
+        "start_time": 1506.0,
+        "end_time": 1511.36,
+        "text": "some states. Other states we are. The machines have been around, but the pace and the ability",
+        "topic_id": 44,
+        "summary": "some states. Other states we are. The machines have been around, but the pace and the ability",
+        "keywords": [
+            "machines",
+            "states",
+            "pace",
+            "ability"
+        ],
+        "sentiment": -0.125
+    },
+    {
+        "start_time": 1511.36,
+        "end_time": 1517.68,
+        "text": "to keep selling, high-capacity magazines and assault weapons, that is they just absolute moral",
+        "topic_id": 45,
+        "summary": "to keep selling, high-capacity magazines and assault weapons, that is they just absolute moral",
+        "keywords": [
+            "moral",
+            "magazines",
+            "weapons",
+            "selling",
+            "capacity"
+        ],
+        "sentiment": 0.1
+    },
+    {
+        "start_time": 1517.68,
+        "end_time": 1523.84,
+        "text": "failure of our country. And it doesn't mean that I can walk away or trim my back from this.",
+        "topic_id": 46,
+        "summary": "failure of our country. And it doesn't mean that I can walk away or trim my back from this.",
+        "keywords": [
+            "failure",
+            "country",
+            "trim",
+            "walk",
+            "mean"
+        ],
+        "sentiment": -0.20972222222222223
+    },
+    {
+        "start_time": 1523.84,
+        "end_time": 1526.48,
+        "text": "It means that I got to keep going and try to make more changes.",
+        "topic_id": 47,
+        "summary": "It means that I got to keep going and try to make more changes.",
+        "keywords": [
+            "means",
+            "changes",
+            "got",
+            "going",
+            "try"
+        ],
+        "sentiment": 0.5
+    },
+    {
+        "start_time": 1566.52,
+        "end_time": 1567.52,
+        "text": "That was Josh Horowitz, he's the co-director of the Center for Gun Violence Solutions at the Johns Hopkins Bloomberg School of Public Health in Baltimore, Maryland. Our show today was produced by Jillian Weinberger, fact checked by Laura Bullard, engineered by Paul Moundsy, and edited by me.",
+        "topic_id": 48,
+        "summary": " Josh Horowitz is the co-director of the Center for Gun Violence Solutions at the Johns Hopkins Bloomberg School of Public Health in Baltimore, Maryland .",
+        "keywords": [
+            "josh",
+            "director",
+            "maryland",
+            "horowitz",
+            "baltimore"
+        ],
+        "sentiment": -0.05
+    },
+    {
+        "start_time": 1567.52,
+        "end_time": 1571.56,
+        "text": "On tomorrow's show, we're going to get into the Constitutionality of Guns in America.",
+        "topic_id": 49,
+        "summary": "On tomorrow's show, we're going to get into the Constitutionality of Guns in America.",
+        "keywords": [
+            "guns",
+            "constitutionality",
+            "tomorrow",
+            "america",
+            "going"
+        ],
+        "sentiment": 0.0
+    },
+    {
+        "start_time": 1571.56,
+        "end_time": 1575.76,
+        "text": "That's the heller case at the Supreme Court back in 2008.",
+        "topic_id": 50,
+        "summary": "That's the heller case at the Supreme Court back in 2008.",
+        "keywords": [
+            "heller",
+            "court",
+            "case",
+            "2008",
+            "supreme"
+        ],
+        "sentiment": 0.0
+    },
+    {
+        "start_time": 1575.76,
+        "end_time": 1610.0,
+        "text": "I'm Sean Romus from little bit of a little bit of a little bit of a little bit of a little bit of a little bit of a little bit of a little bit of a little bit of a little bit of a little bit of a little bit of a little bit of a little bit of a little bit of a little bit of a little bit of a little bit of a little bit of a little bit of a little bit of a little bit of a little bit of a little bit of a little bit of a little bit of a little bit of a little bit of a little bit of a little bit of a little bit of a little bit of a little bit of a little bit of a little bit of a little bit of a little bit of a little bit of a little bit of a little bit of a little bit of a little bit of a little bit of a little bit of a little bit of a little bit of a little bit of a little bit of a little bit of a little bit of a little bit of a little bit of a little bit of a little bit of a little bit of a little bit of a little bit of a little bit of a little bit of a little bit of a little bit of a little bit of a little bit of a little bit of a little bit of a little bit of a little bit of a little bit of a little bit of a little bit of a little bit of a little bit of a little bit of a little bit of a little bit of a little bit of a little bit of a little bit of a little bit of a little bit of a little bit of a little bit of a little bit of a little bit of a little bit of a little bit of a little bit of a little bit of a little bit of a little bit of a little bit of a little bit of a little bit of a little bit of a little bit of a little bit of a little bit of a little bit of a little bit of a little bit of a little bit of a little bit of a little bit of a little bit of a little bit of a little bit of a little bit of a little bit of a little bit of a little Thank you for watching.",
+        "topic_id": 51,
+        "summary": " Sean Romus from little bit of a little thing of a . little bit and a little bit . bit . of a lot of things to do: What do you think? Please share your thoughts with us at CNN iReport.com .",
+        "keywords": [
+            "little",
+            "bit",
+            "romus",
+            "sean",
+            "thank"
+        ],
+        "sentiment": -0.1875
+    }
+]

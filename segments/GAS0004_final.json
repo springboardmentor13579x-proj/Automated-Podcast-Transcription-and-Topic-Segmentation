@@ -1,0 +1,234 @@
+[
+    {
+        "start_time": 0.0,
+        "end_time": 70.32,
+        "text": "I understand that you've been having some diarrhea, can you tell me a little bit about that? Yeah, for I had, I've been having diarrhea for the fast treat of four days and it's been pretty bad. I couldn't go, I couldn't go to my classes, I had to skip because it was just, it was just in the other thing. Oh, okay, I'm trying to hear that. Thank you for the view of anything like this. Have I ever experienced something like this before? Yeah, yeah. I don't think so, okay, um, and over the three or four days, uh, have your skills all been loose, or have you had some solid ones in between? Um, I think if mostly been loose, I think they've all been loose, actually. I think about it Okay, and how many times a day have you been having episodes of diarrhea?",
+        "topic_id": 1,
+        "summary": " I understand that you've been having some diarrhea, can you tell me a little bit about that? Have I ever experienced something like this before? I don't think so, okay . Have your skills all been loose, or have you had some solid ones in between? Um, I",
+        "keywords": [
+            "diarrhea",
+            "having",
+            "treat",
+            "day",
+            "days"
+        ],
+        "sentiment": 0.15667067307692312
+    },
+    {
+        "start_time": 70.32,
+        "end_time": 73.36,
+        "text": "Oh my god, I have lost count.",
+        "topic_id": 2,
+        "summary": "Oh my god, I have lost count.",
+        "keywords": [
+            "count",
+            "lost",
+            "god",
+            "oh"
+        ],
+        "sentiment": 0.0
+    },
+    {
+        "start_time": 75.36,
+        "end_time": 77.76,
+        "text": "I'm going every hour.",
+        "topic_id": 3,
+        "summary": "I'm going every hour.",
+        "keywords": [
+            "going",
+            "hour"
+        ],
+        "sentiment": 0.0
+    },
+    {
+        "start_time": 79.92,
+        "end_time": 82.4,
+        "text": "Maybe, okay, I guess.",
+        "topic_id": 4,
+        "summary": "Maybe, okay, I guess.",
+        "keywords": [
+            "maybe",
+            "guess",
+            "okay"
+        ],
+        "sentiment": 0.5
+    },
+    {
+        "start_time": 82.4,
+        "end_time": 82.88,
+        "text": "Hour.",
+        "topic_id": 5,
+        "summary": "Hour.",
+        "keywords": [
+            "hour"
+        ],
+        "sentiment": 0.0
+    },
+    {
+        "start_time": 84.32,
+        "end_time": 126.4,
+        "text": "Okay, and then you notice that any changes in the color of your stool Thank you for watching, and I'll see you in the next video, and I'll see you in the next video, and I'll see you in the next video, and I'll see you in the next video, and I'll see you in the next video, and I'll see you in the next video, and I'll see you in the next video, and I'll see you in the next video, and I'll see you in the next video, and I'll see you in the next video, and I'll see you in the next video, and I'll see you in the next video, and I'll see you in the next video, and I'll see you in the next video, and I'll see you in the next video, and I'll see you in the next video, and I'll see you in the next video, and I'll see you in the next video, and I'll see you in the next video, and I'll see you in the next video, and I'll see you in the next video, and I'll see you in the next video, and I'll see you in the next video, and I'll see you in the next video, and I'll see you in the next video, and I'll see you in the next video, and I'll see you in the next video, and I'll see you in the next video, and I'll see you in the next video, and I'll see you in the next video, and I'll see you in the next video, and I'll see you in the next video, and I'll see you in the next video, and I'll see you in the next video, and I'll see you in the next video, and I'll see you in the next video, and I'll see you in the next video, and I'll see you in the next video, and I'll see you in the next video, and I'll see you in the next video, and I'll see you in the next video, and I'll see you in the next video, and I'll see you in the next and then you noticed that any changes in the color of your stool? No, it's brown. Okay, I need blood in your stool that you've noticed? I'm not really, I don't think so. I don't look that much to be honest. Okay. Um, have you noticed any pain associated with it? Well, I didn't start off with being, but I do have a bit of a cramp now since yesterday. It's just, it hurts. Yeah, it hurts sometimes. It comes and goes.",
+        "topic_id": 6,
+        "summary": " Thank you for watching, and I'll see you in the next video . I'm not really, I don't look that much to be honest. Um, have you noticed any pain associated with it? Well, I didn't start off with being, but I do have a bit",
+        "keywords": [
+            "video",
+            "stool",
+            "watching",
+            "goes",
+            "comes"
+        ],
+        "sentiment": 0.041666666666666664
+    },
+    {
+        "start_time": 128.0,
+        "end_time": 136.0,
+        "text": "Okay. And do you feel that when it, do you feel that you still have control over,",
+        "topic_id": 7,
+        "summary": "Okay. And do you feel that when it, do you feel that you still have control over,",
+        "keywords": [
+            "control",
+            "feel",
+            "okay"
+        ],
+        "sentiment": 0.5
+    },
+    {
+        "start_time": 137.76,
+        "end_time": 142.0,
+        "text": "like releasing it, like, does it come on? And then you don't even notice that it has",
+        "topic_id": 8,
+        "summary": "like releasing it, like, does it come on? And then you don't even notice that it has",
+        "keywords": [
+            "releasing",
+            "notice",
+            "does",
+            "come",
+            "like"
+        ],
+        "sentiment": 0.0
+    },
+    {
+        "start_time": 142.0,
+        "end_time": 196.6,
+        "text": "happened or you still are able to have kind of have a warning before you get to the toilet. I'm not going to get a warning, but I'm not going to get a warning, but I'm not going to get a warning, but I'm not going to get a warning, but I'm not going to get a warning, but I'm not going to get a warning, but I'm not going to get a warning, but I'm not going to get a warning, but I'm not going to get a warning, but I'm not going to get a warning, but I'm not going to get a warning, but I'm not going to get a warning, but I'm not going to get a warning, but I'm not going to get a warning, but I'm not going to get a warning, but I'm not going to get a warning, but I'm not going to get a warning, but I'm not going to get a warning, but I'm not going to get a warning, but I'm not going to get a warning, but I'm not going to get a warning, but I'm not going to get a warning, but I'm not going to get a warning, but I'm not going to get a warning, but I'm not going to get a warning, but I'm not going to get a warning, but I'm not going to get a warning, but I'm not going to get a warning, but I'm not going to get a warning, but I'm not going to get a warning, but I'm not going to get a warning, but I'm not going to get a warning, but I'm not going to get a warning, but I'm not going to get a warning, but I'm not going to get a warning, but I'm not going to get a warning, but I'm not going to get a warning, but I'm not going to get a warning, but I'm not going to get a warning, but I'm not going to get a warning, but I'm not going to get a warning, but I'm not going to get a warning, but I before you get to the toilet. Um, no, I don't get a warning, but uh, it's just, I do need to get to the toilet really fast. Um, oh, right now. Yeah. Okay. Um, and before the top end, uh, have you noticed have you, um, is there anything that you've've done differently that you've been eating differently or any other changes that have happened in your life recently? Um, I, I, I did go to, um, I did put a new restaurant five days ago, okay, what did you have there?",
+        "topic_id": 9,
+        "summary": " I'm not going to get a warning, but I'm going to have a warning before you get to the toilet . I don't get a\u00a0warning, but uh, it's just, I do need to get to a toilet really fast . I did go to a new restaurant",
+        "keywords": [
+            "warning",
+            "okay",
+            "don",
+            "toilet",
+            "end"
+        ],
+        "sentiment": 0.1998051948051948
+    },
+    {
+        "start_time": 196.6,
+        "end_time": 490.16,
+        "text": "I, I just got some rice with chicken, chicken menturian, it was a nice little Chinese restaurant Yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, chicken, and chicken, and chicken, and chicken, and chicken, and chicken, and chicken, and chicken, and chicken, and chicken, and chicken, and chicken, and chicken, and chicken, and chicken, and chicken, and chicken, and chicken, and chicken, and chicken, and chicken, and chicken, and chicken, and chicken, and chicken, and chicken, and chicken, and chicken, and chicken, and chicken, and chicken, and chicken, and chicken, and chicken, and chicken, and chicken, and chicken, and chicken, and chicken, and chicken, and chicken, and chicken, and chicken, and chicken, and chicken, and chicken, and chicken, and chicken, and chicken, and chicken, and chicken, and chicken, and chicken, and chicken, and chicken, and chicken, and chicken, and chicken, and chicken, and chicken, and chicken, and chicken, and chicken, and chicken, and chicken, and chicken, and chicken, and chicken, and chicken, and chicken, and chicken, and chicken, and chicken, and chicken, and chicken, and chicken, and chicken, and chicken, and chicken, and chicken, and chicken, and chicken, and chicken, and chicken, and chicken, and chicken, and chicken, and chicken, and chicken, and chicken, and chicken, and chicken, and chicken, and chicken, and chicken, and chicken, and chicken, and chicken, and chicken, and chicken, and chicken, and chicken, and chicken, and chicken, and chicken, and chicken, and chicken, and chicken, and chicken, and chicken, and chicken, and chicken, and chicken, and chicken, and chicken, and chicken, and chicken, and chicken, and chicken, and chicken, and chicken, and chicken, and chicken, and chicken, and chicken, and chicken, and chicken, and chicken, and chicken, and chicken, and chicken, chicken, and chicken, and chicken, and chicken, and chicken, chicken, and chicken, and chicken, chicken, and chicken, and chicken, and chicken, and chicken, chicken, and chicken, chicken, and chicken, you know, I'm not really, I went with my friend and I haven't really, I haven't talked to her about this. I never really felt like these were related. This was related to that. And it's, you know, absolutely, potentially not. Like it's maybe not. It could possibly be. So not to, not to worry you you built that we just though like to get an idea of kind of the whole picture of what you're coming in this um so in terms of the last three to four days have you experienced an in nausea of vomiting? Yeah yeah I have actually but it's not been as bad as the diarrhea, I didn't even, yeah, I didn't even think about that. Yeah, I did vomit, I think twice the ester do. Okay, have you noticed any blood in the vomit? No, it's just watery. Okay. And are you nauseated all the time or is it kind of on and off? It's on and off. Okay. Have you taken any over the countermedicine or anything to help? Uh, not really. I was uh, I was just trying to drink a lot of water because I know that I can get dehydrated, so just drinking water, okay, so it's good to hear. Have you been eating normally here? Have you not been eating as much as you regularly you do. I happen eating less, especially since yesterday when I had nice, these abdominal cramps started. I just don't feel like eating, oh crap, is there anything that has been making it worth? Making what worth? Just in general, like is there anything that you're finding like your nausea or your diarrhea come on? No, creamy. I don't think so. Do you notice any changes to your urine or any discomfort when going to the bathroom? No. Have you traveled anywhere recently? No. Okay. And have you noticed any fever or a chill last few days? I've just been feeling really tired and I don't know. I don't know, maybe I haven't checked my temperature. Okay. Have you noticed any rashes or changes in your skin? No. Okay. Do you notice any major changes to your weight? I know that you might not weigh yourself every day, but, uh, anything that jumps out to you? I actually haven't weighed myself in the past five days, so I don't know. Okay. Okay, um, and I'm just going to jump to you and your general,, do you have any history of problems with your digestive system? No? Okay. Do you have any chronic conditions that you see if they're only doctor for regularly? Uh, how about that? Okay. Do you see any medications? Yeah, I've got some buffers that my family gave me. Okay. Nothing else? No, that's it. Okay. Okay, two, three, four, three, four, three, four, three, four, three, four, three, four, three, four, three, four, three, four, three, four, three, four, three, four, three, four, three, four, three, four, three, four, three, four, three, four, three, four, three, four, three, four, three, four, three, four, three, four, three, four, three, four, three, four, three, four, three, four, three, four, three, four, three, four, three, four, three, four, three, four, three, four, three, four, three, four, three, four, three, four, three, four, three, four, three, four, four, three, four, four, four, four, four, four, four, four, four, four, four, four, four, four, four, four, four, four, four, four, four, four, four, four, four, four, four, four, four, four, four, four, four, four, four, four, four, four, four, four, four, four, four, four, four, four, four, four, four, four, four, four, four, four, four, four, four, four, four, four, four, four, four, four, four, four, four, four, four, four, four, four, four, four, four, four, four, four, four, four, four, four, four, four, four, four, four, four, four, four, four, four, four, four, four, four, four, four, four, four, four, four, four, four, four, four, four, four, four, four, four, four, four, four, four, four, four, four, four, four, four, four, four, four, four, four, four, four, four, four, four, no, that's it. Okay. Two. Three. Three. Three. No. I don't. Okay. I have you. Did you apply to the mask? Sorry, can you say that again? I have you ever been hospitalized in the car? Um, I had my wisdom teeth from",
+        "topic_id": 10,
+        "summary": "I, I just got some rice with chicken, chicken menturian, it was a nice little Chinese restaurant Yea...",
+        "keywords": [
+            "rice",
+            "chicken",
+            "restaurant",
+            "chinese",
+            "eating"
+        ],
+        "sentiment": -0.40165857605177935
+    },
+    {
+        "start_time": 490.16,
+        "end_time": 500.0,
+        "text": "moved. Um, but no, I, like, I wasn't hospitalized. No. Okay. Okay. Have you been in contact",
+        "topic_id": 11,
+        "summary": "moved. Um, but no, I, like, I wasn't hospitalized. No. Okay. Okay. Have you been in contact",
+        "keywords": [
+            "hospitalized",
+            "moved",
+            "contact",
+            "okay",
+            "um"
+        ],
+        "sentiment": 0.125
+    },
+    {
+        "start_time": 500.0,
+        "end_time": 589.44,
+        "text": "with anyone recently that's been sick? Nope. I don't think so. You're living situation right now. You said you're a student? I am. Okay. And do you live on your own, the family with roommate? I'll give it to roommate. Do you drink alcohol? Sometimes. Okay, how many drinks per week would you say? I might have like a glass or two on the weekends? Okay, do you smoke? No. Okay, do you use any other substances? Nope. Okay. And what would you eat on a regular day?, um, your typical diet beat? Uh, oh gosh. Um, well, I like to have oatmeal for breakfast. Um, I usually make something quick for lunch, you need like a salad, and then I might have, I'll probably just like",
+        "topic_id": 12,
+        "summary": " Do you drink alcohol? Sometimes. I might have like a glass or two on the weekends? Do you smoke? No. I don't think so. with anyone recently that's been sick? Nope. I like to have oatmeal for breakfast .",
+        "keywords": [
+            "breakfast",
+            "lunch",
+            "roommate",
+            "eat",
+            "sick"
+        ],
+        "sentiment": 0.14684117965367965
+    },
+    {
+        "start_time": 589.44,
+        "end_time": 635.0,
+        "text": "eat out at night, maybe get like a burger or fries or something. Okay, cool, and I just wanted to jump over to ask you about your family history. Does Does anyone in your family have any history of digestive problems or of some little problems with animal surgeries? Um, um, my, um, my brother had a bandecitis, um, when he was young, um, um, my mom has had his direct to me, if that comes, did that come?",
+        "topic_id": 13,
+        "summary": " Does Does anyone in your family have any history of digestive problems or of some little problems with animal surgeries? Um, um, my brother had a bandecitis, when he was young, and my mom has had his direct to me, if that comes, did that come?",
+        "keywords": [
+            "surgeries",
+            "bandecitis",
+            "family",
+            "eat",
+            "digestive"
+        ],
+        "sentiment": 0.1725
+    },
+    {
+        "start_time": 635.0,
+        "end_time": 638.0,
+        "text": "Yeah, nothing else.",
+        "topic_id": 14,
+        "summary": "Yeah, nothing else.",
+        "keywords": [
+            "yeah"
+        ],
+        "sentiment": 0.0
+    },
+    {
+        "start_time": 638.0,
+        "end_time": 639.0,
+        "text": "Okay.",
+        "topic_id": 15,
+        "summary": "Okay.",
+        "keywords": [
+            "okay"
+        ],
+        "sentiment": 0.5
+    },
+    {
+        "start_time": 639.0,
+        "end_time": 642.0,
+        "text": "Okay, thank you for sharing that with me.",
+        "topic_id": 16,
+        "summary": "Okay, thank you for sharing that with me.",
+        "keywords": [
+            "sharing",
+            "okay",
+            "thank"
+        ],
+        "sentiment": 0.5
+    },
+    {
+        "start_time": 642.0,
+        "end_time": 647.0,
+        "text": "So I think that's everything that I wanted to ask you for today.",
+        "topic_id": 17,
+        "summary": "So I think that's everything that I wanted to ask you for today.",
+        "keywords": [
+            "ask",
+            "today",
+            "wanted",
+            "think"
+        ],
+        "sentiment": 0.0
+    }
+]

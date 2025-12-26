@@ -1,0 +1,172 @@
+[
+    {
+        "start_time": 0.0,
+        "end_time": 8.4,
+        "text": "brought you in today? Sure. I'm just having a lot of chest pain and so I thought I",
+        "topic_id": 1,
+        "summary": "brought you in today? Sure. I'm just having a lot of chest pain and so I thought I",
+        "keywords": [
+            "chest",
+            "brought",
+            "sure",
+            "today",
+            "pain"
+        ],
+        "sentiment": 0.5
+    },
+    {
+        "start_time": 8.4,
+        "end_time": 127.72,
+        "text": "should get a check-out. Okay. Before we start, could you remind me of your gender in age? Sure. 39. I'm a male. Okay. And so when did this chest pain start? And it started last night, but it's becoming sharper. Okay. And where is this pain located? It's located on the last side of my chest. Okay, and so how long has it been going on for then if it started last night? So I guess it would be a couple of hours now, maybe like eight. Okay, has it been constant throughout that time or are changing? I would say it's been pretty constant, yeah. Okay, and how would you describe the pain? People will use word sometimes, like sharp burning, ach um, I say it's pretty sharp, yeah. It's sharp, okay. Um, anything that you have done tried since last night that's made the pain better. Um, not laying down, helps. Okay, so do you find laying down makes the pain worse yes definitely okay um do you find that the pain is radiating anywhere no okay it is or anything else that that makes the page where first besides landing down.",
+        "topic_id": 2,
+        "summary": " 39-year-old man has chest pain that started last night, but it's becoming sharper . Not laying down, not laying down makes the pain worse, he says . People will use word sometimes, like sharp burning, ach .",
+        "keywords": [
+            "pain",
+            "chest",
+            "laying",
+            "burning",
+            "sharp"
+        ],
+        "sentiment": 0.16639784946236555
+    },
+    {
+        "start_time": 127.84,
+        "end_time": 129.0,
+        "text": "Not that I've noticed.",
+        "topic_id": 3,
+        "summary": "Not that I've noticed.",
+        "keywords": [
+            "noticed",
+            "ve"
+        ],
+        "sentiment": 0.0
+    },
+    {
+        "start_time": 129.0,
+        "end_time": 488.0,
+        "text": "No. Okay, is there anything else that makes the painting work for specific size laying down? Not that I've noticed, no. Okay, so not like taking a deep breath or anything like that. Maybe taking a deep breath? Yeah. Okay. And one of the paintings started, could you tell me, could you think of anything that you were doing at the time? I mean, I was moving some furniture around, but that I've done that before. OK, so you didn't feel like it. You hurt yourself when you were doing that. No. Okay, and in regards to how severe the pain is on a scale of 1 to 10, 10 being the worst pain you've ever felt, how severe would you say the pain is? I'd say it's like a seven or eight. Pretty bad. Okay. And with the pain do you have any other associated symptoms? I feel a little light headed and I'm having some trouble breathing. Okay. Have you had any loss of consciousness? No. Okay. Have you been experiencing any racing of the heart? A little bit. Yeah. Okay, um, the end, uh, have you and have you been sweaty at all? Just from the short, just from having issues breathing. Okay, have you been having issues breathing since the pain started? Yes. Okay. And recently have you had any periods of time where you have been immobilized? Or you haven't been able to move around a lot? No, no. Okay. And, and, um, have you been feeling sick at all any infectious symptoms? No. Okay. Have you had any nausea or vomiting? No. Any fevers or or chills? No. Okay. Uh, how about any abdominal pain? No. Any urinary problems? No. Or bowel problems? Okay. Have you had a cough? No. Okay. You haven't brought up any blood? No. No. Okay. Have you had a wheeze with your difficulty breathing? No. Not that hurt. Okay. Any changes to the breath sounds at all? Like, any noisy breathing? No. Well, I guess if when I'm really having trouble breathing, yeah Okay, um, has anything like this ever happened to you before? No, no, okay, um, and Have you had any night sweats? No. All right, and then how about any rashes or skin changes? No rashes, but I guess like my next things to be a little swollen. Okay. Do you have any neck pain? No. Okay. Have you had any accidents, like a car accident or anything where you really jerked your neck? No. Okay. Any trauma at all to the chess store or about? No. Okay. So Justin regards to past medical history. Do you have any prior medical conditions? No. Okay. Any recent hospitalizations? No. Okay. Any prior surgeries? No. Okay. Do you take any medications regularly? Are they prescribed or over the counter? No. All right. How about any allergies to medications? None. All right. Any immunizations or are they up to date? Are they all up to date? Excellent. All right. And could you tell me a little bit about your living situation currently? Sure, I live in an apartment by myself. Yep, that's about it. Okay, and how do you support yourself financially? I'm an accountant. Okay, sounds like a pretty stressful job, or that it can be. Do you smoke cigarettes? I do. Okay, and how much do you smoke? Smoke about a pack a day. Okay, how long have you been smoking for? For the past 10 to 15 years. Okay, and do you smoke cannabis? Some times. How much marijuana would you smoke, um, per week?",
+        "topic_id": 4,
+        "summary": " In regards to how severe the pain on a scale of 1 to 10, 10 being the worst pain you've ever felt, how severe would you say the pain is? I'd say it's like a seven or eight . Do you smoke cigarettes? I do. Smoke about a pack",
+        "keywords": [
+            "painting",
+            "pain",
+            "symptoms",
+            "paintings",
+            "felt"
+        ],
+        "sentiment": 0.05695839345839347
+    },
+    {
+        "start_time": 488.0,
+        "end_time": 493.0,
+        "text": "Per week? Uh, maybe about five milligrams, not that much.",
+        "topic_id": 5,
+        "summary": "Per week? Uh, maybe about five milligrams, not that much.",
+        "keywords": [
+            "milligrams",
+            "week",
+            "uh",
+            "maybe"
+        ],
+        "sentiment": 0.2
+    },
+    {
+        "start_time": 493.0,
+        "end_time": 501.0,
+        "text": "Okay. Um, and, uh, do you use any other recreational drugs, like cocaine, crystal meth?",
+        "topic_id": 6,
+        "summary": "Okay. Um, and, uh, do you use any other recreational drugs, like cocaine, crystal meth?",
+        "keywords": [
+            "drugs",
+            "meth",
+            "cocaine",
+            "recreational",
+            "crystal"
+        ],
+        "sentiment": 0.1875
+    },
+    {
+        "start_time": 501.0,
+        "end_time": 503.0,
+        "text": "Uh, opioids?",
+        "topic_id": 7,
+        "summary": "Uh, opioids?",
+        "keywords": [
+            "opioids",
+            "uh"
+        ],
+        "sentiment": 0.0
+    },
+    {
+        "start_time": 503.0,
+        "end_time": 504.0,
+        "text": "No.",
+        "topic_id": 8,
+        "summary": "No.",
+        "keywords": [],
+        "sentiment": 0.0
+    },
+    {
+        "start_time": 504.0,
+        "end_time": 510.0,
+        "text": "Okay. Um, have you used IV drugs before? No. That's it.",
+        "topic_id": 9,
+        "summary": "Okay. Um, have you used IV drugs before? No. That's it.",
+        "keywords": [
+            "iv",
+            "drugs",
+            "okay",
+            "um",
+            "used"
+        ],
+        "sentiment": 0.5
+    },
+    {
+        "start_time": 510.0,
+        "end_time": 533.0,
+        "text": "That's it. That's it. That's it. That's it. That's it. That's it. That's it. That's it. That's it. That's it. That's it. That's it. That's it. That's it. That's it. That's it. That's it. That's it. That's it. That's it. That's it. That's it. That's it.",
+        "topic_id": 10,
+        "summary": " That's It. That's it. That\u2019s it. It's it . It's time for the first time that's not the last . That's the last time I've heard from the same place . I'm not sure if I've ever heard from this place .",
+        "keywords": [],
+        "sentiment": 0.0
+    },
+    {
+        "start_time": 533.0,
+        "end_time": 613.2,
+        "text": "That's it. That's it. That's it. That's it. That's it. Okay, crystal meth, opioids. No. Okay, have you used IV drugs before? No. Okay, and do you drink alcohol? I do. Okay, how would you alcohol do you drink each week? About, I say I have like one or two drinks a day, day, so about 10 drinks a week. Okay, and then briefly could you tell me a little bit about your diet and exercise? Sure, I try to eat healthy for dinner at least, but most of my lunches are, um, I eat out. Um, and then in terms of exercise, I try to exercise every other day. I run for about half an hour. Okay. Well, that's great. I've driven, uh, working on the, uh been working on the activity in the diet as well. So has anything like this happened in your family before? No. Okay, has anybody in the family had a heart attack before? Um, actually yes, my father had a heart attack when he was 45. Okay, and anybody in the family have, uh, cholesterol problems? Hmm, I think my father did. I see, okay, and how about anybody in the family have, uh, stroke? No strokes. Okay, and then, um, any cancers in the family? No. Okay. Was there anything else",
+        "topic_id": 11,
+        "summary": " I try to eat healthy for dinner at least, but most of my lunches are, um, I eat out . I exercise every other day. I run for about half an hour. I have like one or two drinks a day, day, so about 10 drinks a week.",
+        "keywords": [
+            "exercise",
+            "diet",
+            "meth",
+            "opioids",
+            "healthy"
+        ],
+        "sentiment": 0.19146825396825395
+    },
+    {
+        "start_time": 613.2,
+        "end_time": 624.88,
+        "text": "that you wanted to tell me about today that on history? No, I don't think so. I think you asked",
+        "topic_id": 12,
+        "summary": "that you wanted to tell me about today that on history? No, I don't think so. I think you asked",
+        "keywords": [
+            "history",
+            "today",
+            "asked",
+            "tell",
+            "think"
+        ],
+        "sentiment": 0.0
+    },
+    {
+        "start_time": 624.88,
+        "end_time": 626.88,
+        "text": "me everything.",
+        "topic_id": 13,
+        "summary": "me everything.",
+        "keywords": [],
+        "sentiment": 0.0
+    }
+]

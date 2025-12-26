@@ -1,0 +1,391 @@
+[
+    {
+        "start_time": 0.0,
+        "end_time": 7.84,
+        "text": "things you win. I've had this pain in the right but up area it's been really intense and",
+        "topic_id": 1,
+        "summary": "things you win. I've had this pain in the right but up area it's been really intense and",
+        "keywords": [
+            "pain",
+            "intense",
+            "win",
+            "things",
+            "area"
+        ],
+        "sentiment": 0.4285714285714286
+    },
+    {
+        "start_time": 8.96,
+        "end_time": 17.6,
+        "text": "more recently I'm feeling it like radiate just down my right leg as well. Okay and sorry when did you",
+        "topic_id": 2,
+        "summary": "more recently I'm feeling it like radiate just down my right leg as well. Okay and sorry when did you",
+        "keywords": [
+            "radiate",
+            "feeling",
+            "leg",
+            "just",
+            "recently"
+        ],
+        "sentiment": 0.10502645502645502
+    },
+    {
+        "start_time": 17.6,
+        "end_time": 106.4,
+        "text": "say it started? So it's been going on for, well, it's just gotten really intense in the last like two days. Okay, and before that did you have any paint at all or was it just like sun? Yeah, I do have a bit of paint down in my, the buttock area, but it's just gotten really, it's gotten more painful over these last couple of days okay, and is it a persistent kind of pain or does it come and go? Um, it's, uh, persistent. It's, it does get worse though, depending on what, uh, what I'm doing. Okay, what, uh, when does it get worse? Um, well, it, it gives, it gets worse with walking, with sitting, really any kind of movements, like I just got to kind of stay still and that's the only thing that really helps it. Okay. Have you tried anything for it? Yeah, I've just stayed in some pain-medicated medications over the counter for these",
+        "topic_id": 3,
+        "summary": " It gets worse with walking, with sitting, really any kind of movements, like I just got to kind of stay still and that's the only thing that really helps it . Have you tried anything for it?",
+        "keywords": [
+            "pain",
+            "painful",
+            "paint",
+            "walking",
+            "sitting"
+        ],
+        "sentiment": 0.15222222222222223
+    },
+    {
+        "start_time": 106.4,
+        "end_time": 124.12,
+        "text": "last couple of days, like Dad, Adville, and Tylenol, but that's it. Okay, and is it helping? I mean, I'm not really, it hasn't really helped much.",
+        "topic_id": 4,
+        "summary": "last couple of days, like Dad, Adville, and Tylenol, but that's it. Okay, and is it helping? I mean, I'm not really, it hasn't really helped much.",
+        "keywords": [
+            "tylenol",
+            "helping",
+            "helped",
+            "days",
+            "adville"
+        ],
+        "sentiment": 0.08125
+    },
+    {
+        "start_time": 124.12,
+        "end_time": 129.12,
+        "text": "Okay. All right.",
+        "topic_id": 5,
+        "summary": "Okay. All right.",
+        "keywords": [
+            "okay",
+            "right"
+        ],
+        "sentiment": 0.39285714285714285
+    },
+    {
+        "start_time": 129.12,
+        "end_time": 226.72,
+        "text": "And... I, not really, it hasn't really helped much. Okay. All right. And if you were to describe the quality of the pain, would you say it's sharp, dull, achy, throbby? Uh, it's, um, like, kind of, it's like a sharp pain in the, in the it's kind of like burning down the leg. Okay, so I read that you are kind of pain then. Okay, and if you were to read the severity of your pain one to ten, ten being the worst pain you've ever felt, but would you rate it? Eight. Okay, and does this pain radiate elsewhere? I know you said it starts on your buttocks, kind of goes down your legs, does it go up your back or down into the other leg at all? No, I feel it just, just in the butt I can down the leg. Okay. Have you ever experienced this kind of pain before? Um, I have, uh, um, I may, uh, a truck driver and so I do a lot of, uh, a lot of I'm a truck driver and so I do a lot of sitting and I've had kind of sciatic pain in the past. Okay, and have you ever had any like trauma or anything that could have triggered this initially um in the past.",
+        "topic_id": 6,
+        "summary": " If you were to read the severity of your pain one to ten, ten being the worst pain you've ever felt, but would you rate it? Would you say it's sharp, dull, achy, throbby? And does this pain radiate elsewhere? I know you said",
+        "keywords": [
+            "sciatic",
+            "pain",
+            "leg",
+            "legs",
+            "sitting"
+        ],
+        "sentiment": 0.1611879160266257
+    },
+    {
+        "start_time": 228.48,
+        "end_time": 251.76,
+        "text": "No, I don't think so. I don't I haven't really done much just kind of work and um yeah I'm not going to need trauma to the back or anything like that. Okay and are you experiencing any any sort of weakness that they're legs? No, no weakness. and are you experiencing any sort of weakness with their legs? I know, no weakness, just, well, I'm...",
+        "topic_id": 7,
+        "summary": " No, I don't think so. I haven't really done much just kind of work and um yeah I'm not going to need trauma to the back or anything like that . No, no weakness. and are you experiencing any sort of weakness with their legs? I know, no",
+        "keywords": [
+            "legs",
+            "weakness",
+            "trauma",
+            "work",
+            "experiencing"
+        ],
+        "sentiment": 0.3
+    },
+    {
+        "start_time": 257.0,
+        "end_time": 262.0,
+        "text": "Yeah, I mean, I guess maybe a little bit of leg weakness,",
+        "topic_id": 8,
+        "summary": "Yeah, I mean, I guess maybe a little bit of leg weakness,",
+        "keywords": [
+            "weakness",
+            "leg",
+            "maybe",
+            "little",
+            "mean"
+        ],
+        "sentiment": -0.25
+    },
+    {
+        "start_time": 262.4,
+        "end_time": 467.6,
+        "text": "so I've had a little bit of difficulty walking. limping. Oh I see, okay. And just in your right leg, right? Yeah. Any urinary or stool incontinence? No. No, okay. Any sexual dysfunction? No. I haven't had anything like that. Okay. Any numbness or tingling? Yeah. I've had some numbness and tingling down the right leg. Okay. Tablet in the groin area. No. It's just kind of down the back of my leg? Okay. All right, and otherwise do you have any other symptoms? No, it's just been just been, that this pain. Okay, all right. And I'll just kind of go through some questions with you, do you have any joint pains or muscle aches elsewhere? No. No, weight loss. No weight loss. Fevers are chills. No fevers are chills. Rashes. And no rashes. Changes to your vision hearing smaller taste no and are you coughing ham sure to spread the reasing no i haven't been any having any symptoms like that okay any chest pain palpitations uh... or dizziness or fainting spells no nothing like that like that. Okay, any changes to your bowel movements? No, that area, or constipation. Uh, and no bleeding in the stool. No blood in the stool. Okay, and then have what nausea or vomiting? No, I haven't had any nausea or vomiting. Okay, changes to your urine. Uh, no changes to the urine. Okay, and are you otherwise healthy? Do you have any longstanding medical conditions? I do have a high blood pressure and a high cholesterol and I take medications for those. I take, I take, I am low to peeing and, um, uh, a, a statin. Okay. Do you have any other medical, or are you on any other medications, the side's both? Uh, just a multivit event. Okay. And are you up to date with all your immunizations? I am, yes. Okay. Any allergies? No, I don't believe so. No, family issue of musculoskeletal or neurological issues? No, nothing like that. I don't mean conditions. No, nothing like that. Cancers? No. No, okay. And do you smoke? Yeah, I smoke at about half a pack of cigarettes per day. Okay, for how long have you been doing that? Yeah, about 40 years.",
+        "topic_id": 9,
+        "summary": " I've had some numbness and tingling down the back of my leg . I smoke at about half a pack of cigarettes per day . I do have a high blood pressure and a high cholesterol and I take medications for those . I take, I take low to peeing and",
+        "keywords": [
+            "symptoms",
+            "pains",
+            "fevers",
+            "tingling",
+            "numbness"
+        ],
+        "sentiment": 0.2272808012093726
+    },
+    {
+        "start_time": 467.6,
+        "end_time": 468.6,
+        "text": "40 years?",
+        "topic_id": 10,
+        "summary": "40 years?",
+        "keywords": [
+            "40",
+            "years"
+        ],
+        "sentiment": 0.0
+    },
+    {
+        "start_time": 468.6,
+        "end_time": 469.6,
+        "text": "Okay.",
+        "topic_id": 11,
+        "summary": "Okay.",
+        "keywords": [
+            "okay"
+        ],
+        "sentiment": 0.5
+    },
+    {
+        "start_time": 469.6,
+        "end_time": 467.96,
+        "text": "Have you ever thought of... for how long have you been doing that? Uh, for, um, yeah, about 40 years.",
+        "topic_id": 12,
+        "summary": "Have you ever thought of... for how long have you been doing that? Uh, for, um, yeah, about 40 years.",
+        "keywords": [
+            "years",
+            "long",
+            "40",
+            "thought",
+            "yeah"
+        ],
+        "sentiment": -0.05
+    },
+    {
+        "start_time": 467.96,
+        "end_time": 469.24,
+        "text": "40 years, okay.",
+        "topic_id": 13,
+        "summary": "40 years, okay.",
+        "keywords": [
+            "40",
+            "years",
+            "okay"
+        ],
+        "sentiment": 0.5
+    },
+    {
+        "start_time": 469.24,
+        "end_time": 471.64,
+        "text": "Have you ever thought of quitting?",
+        "topic_id": 14,
+        "summary": "Have you ever thought of quitting?",
+        "keywords": [
+            "quitting",
+            "thought"
+        ],
+        "sentiment": 0.0
+    },
+    {
+        "start_time": 471.64,
+        "end_time": 472.48,
+        "text": "I have, yeah.",
+        "topic_id": 15,
+        "summary": "I have, yeah.",
+        "keywords": [
+            "yeah"
+        ],
+        "sentiment": 0.0
+    },
+    {
+        "start_time": 472.48,
+        "end_time": 474.76,
+        "text": "I've cut down over the years.",
+        "topic_id": 16,
+        "summary": "I've cut down over the years.",
+        "keywords": [
+            "cut",
+            "years",
+            "ve"
+        ],
+        "sentiment": -0.15555555555555559
+    },
+    {
+        "start_time": 474.76,
+        "end_time": 476.36,
+        "text": "I used to smoke more.",
+        "topic_id": 17,
+        "summary": "I used to smoke more.",
+        "keywords": [
+            "smoke",
+            "used"
+        ],
+        "sentiment": 0.5
+    },
+    {
+        "start_time": 476.36,
+        "end_time": 480.72,
+        "text": "It's just the culture with, but I don't know, everybody's driving a truck",
+        "topic_id": 18,
+        "summary": "It's just the culture with, but I don't know, everybody's driving a truck",
+        "keywords": [
+            "truck",
+            "culture",
+            "driving",
+            "everybody",
+            "know"
+        ],
+        "sentiment": 0.0
+    },
+    {
+        "start_time": 480.72,
+        "end_time": 483.88,
+        "text": "and smoking.",
+        "topic_id": 19,
+        "summary": "and smoking.",
+        "keywords": [
+            "smoking"
+        ],
+        "sentiment": 0.0
+    },
+    {
+        "start_time": 483.88,
+        "end_time": 628.64,
+        "text": "Okay, yeah, that's hard. If you ever need any resources, we have some that we can refer you to. Thank you very much for watching this video, see you in the next No, I don't. Okay, have all the other recreational drugs. And nope, nothing like that before. Okay, do you drink alcohol? Um, yeah, I'll have a beer too on the weekend, so maybe a couple of drinks per week. Okay. Um, and how about, um, do, uh, a sip contacts. Have you been in touch with any recently? No, I haven't been around anybody who's been sick. Okay. Um, a travel recently? Uh, just for the drop-offs that I, that I make, um, driving. I, I do have to make some pretty, um, long-, yeah, okay, and where do you currently live? So I live in a house with my wife, yeah, and son. Okay, all right, right and okay so now I'm just gonna move on to the physical exam part of this and I'm gonna ask you to do a few things okay so just by looking at your flags or if you have a mirror and you can look at your right black area. Do you see any swelling or redness? No, I don't see anything like that. Okay. And does it feel hot? No, it doesn't feel hot. Okay. Do you see any skin changes? No skin changes. Any atrophy or deformity in the area? No. No. Um, has your date changed? Like, does it are you limping, hobbling, anything like that? Um, yeah, I feel like I've been been living a little bit. Yeah. Are you putting",
+        "topic_id": 20,
+        "summary": " Do you drink alcohol? Um, yeah, I'll have a beer too on the weekend, so maybe a couple of drinks per week . Have you been in touch with any recently? No, I haven't been around anybody who's been sick . Have all the other recreational drugs?",
+        "keywords": [
+            "recreational",
+            "physical",
+            "exam",
+            "travel",
+            "drinks"
+        ],
+        "sentiment": 0.19047584136293808
+    },
+    {
+        "start_time": 628.64,
+        "end_time": 638.32,
+        "text": "more pressure on the left foot then? I am, yeah. I guess it's an entouchy gate. Okay, all right,",
+        "topic_id": 21,
+        "summary": "more pressure on the left foot then? I am, yeah. I guess it's an entouchy gate. Okay, all right,",
+        "keywords": [
+            "pressure",
+            "foot",
+            "gate",
+            "entouchy",
+            "left"
+        ],
+        "sentiment": 0.3214285714285714
+    },
+    {
+        "start_time": 638.32,
+        "end_time": 687.84,
+        "text": "and then if you press down on your hip bone, do you feel any pain there on your right hip bone? No, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, I don't. Okay, have it when you press down on your butt-oxid cells. Alright, yeah, there is a little bit of tenderness over the butt-oxid area. Okay, have it with the back of your legs? No. Okay. How about the front of your legs size? No. No. Okay. All right. And then I'm going to just get you to do a few movements with me as well. Would you, okay. So are you sitting down right now? Yeah. Okay. Would you mind",
+        "topic_id": 22,
+        "summary": " Have it when you press down on your butt-oxid cells? No . Have it with the back of your legs? No. No. How about the front of the legs size? No, no . And then I'm going to just get you to do a few movements with",
+        "keywords": [
+            "bone",
+            "hip",
+            "pain",
+            "tenderness",
+            "feel"
+        ],
+        "sentiment": 0.1001984126984127
+    },
+    {
+        "start_time": 687.84,
+        "end_time": 829.44,
+        "text": "standing up from a sitting position? Yeah, for sure. Does that hurt? Yeah, that causes pain. Okay, so the cause it so I hip extension and I cause it some pain and As well Yes. And hip extension that causes some pain. And as well as knee extension. So would you mind kicking your right leg up in front of you all the way up as far as you can go? It does, yeah. Okay, so right hip flexion also causes pain. And then would you mind folding your knees backwards and just surflexing it? Does that hurt? No. OK, so no pain on knee flexion. And have a when you point your feet and toes up towards the ceiling. Yeah, I do get some pain when my yeah when that's It's that's all straightened out, yeah. Okay, so some pain on, um, plantar flexion of the right foot and have a few, um, point your feet and toes towards the ground. No pain there. Okay. All right. And have a when you kick your legs to the side and upwards. Oh, no pain with abduction. Okay, so no pain on right hip abduction, and then how about when you bring it back down? No. Okay, and no pain on hip abduction. Okay, well those are all the questions that I have for you. Do you have any questions from myself? Just wondering about possibly like what it could be? Yeah, so it sounds",
+        "topic_id": 23,
+        "summary": " Have a when you point your feet and toes up towards the ceiling . No pain on plantar flexion of the right foot and no pain on right hip abduction .",
+        "keywords": [
+            "abduction",
+            "knee",
+            "knees",
+            "pain",
+            "leg"
+        ],
+        "sentiment": 0.21963241436925643
+    },
+    {
+        "start_time": 829.44,
+        "end_time": 929.56,
+        "text": "right now like you may have some sort of a sequel nerve ridiculopathy or like a a lower lung bar, and ridiculously, and basically, that's known as sciatica where your nerve roots can be compressed causing some of these symptoms and to diagnose these things, usually it's just done by history and physical exam, but if, after we try out some things, it doesn't go away or you're having some red flags including numbness in the growing area, bell or bladder and continents, then we can look at some imaging for the spine, including MRI and so in terms of management of this, we can try a couple of conservative approaches for, so that includes taking NSAV for the pain and then like activity modification. So if you're sitting down all the time, perhaps like taking little breaks, stretching out your legs, doing some video as well during those breaks can help and as well I'm going to give you a",
+        "topic_id": 24,
+        "summary": " Sciatica is where your nerve roots can be compressed causing some of these symptoms and to diagnose these things, usually it's just done by history and physical exam . If, after we try out some things, it doesn't go away or you're having some red flags including numbness",
+        "keywords": [
+            "ridiculopathy",
+            "sciatica",
+            "numbness",
+            "spine",
+            "nerve"
+        ],
+        "sentiment": -0.09152494331065761
+    },
+    {
+        "start_time": 929.56,
+        "end_time": 951.0,
+        "text": "referral. stretching out your legs, doing some physio as well during those breaks can help, and as well I'm going to give you a referral for physical therapy and they'll do some exercises with you and slowly increase those exercises and if those still don't work we we can try steroids, steroid injections, as well, we talked",
+        "topic_id": 25,
+        "summary": " Stretching out your legs, doing some physio as well during those breaks can help, and as well I'm going to give you a referral for physical therapy and they'll do some exercises with you and slowly increase those exercises . If those still don't work we we can try",
+        "keywords": [
+            "exercises",
+            "stretching",
+            "legs",
+            "breaks",
+            "steroids"
+        ],
+        "sentiment": -0.15000000000000002
+    },
+    {
+        "start_time": 951.0,
+        "end_time": 956.0,
+        "text": "about the imaging if it doesn't go away in about six to eight weeks. Does that sound okay?",
+        "topic_id": 26,
+        "summary": "about the imaging if it doesn't go away in about six to eight weeks. Does that sound okay?",
+        "keywords": [
+            "imaging",
+            "weeks",
+            "does",
+            "okay",
+            "away"
+        ],
+        "sentiment": 0.45
+    },
+    {
+        "start_time": 956.0,
+        "end_time": 959.0,
+        "text": "Yeah, that sounds good. Thank you.",
+        "topic_id": 27,
+        "summary": "Yeah, that sounds good. Thank you.",
+        "keywords": [
+            "yeah",
+            "thank",
+            "sounds",
+            "good"
+        ],
+        "sentiment": 0.7
+    },
+    {
+        "start_time": 959.0,
+        "end_time": 961.0,
+        "text": "Okay, yeah, no problems.",
+        "topic_id": 28,
+        "summary": "Okay, yeah, no problems.",
+        "keywords": [
+            "okay",
+            "problems",
+            "yeah"
+        ],
+        "sentiment": 0.5
+    }
+]

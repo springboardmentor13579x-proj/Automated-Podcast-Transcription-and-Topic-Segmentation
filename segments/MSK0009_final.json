@@ -1,0 +1,322 @@
+[
+    {
+        "start_time": 0.0,
+        "end_time": 70.4,
+        "text": "45 year old female with right knee pain, hi, my name is Chris, I'm a medical student in the clinic today, how may I help you? I've just been having this pain in my knee since I just fell this three days ago slipping on the stairs, since I've been having a lot of pain. I see, so did this pain start right after, like falling on the stairs? Yeah, I've been having the pain since then. Okay, that's three days ago. Three days ago. Okay. And you're feeling the pain in your right knee. Yeah, in my right knee, okay, and what would you say the",
+        "topic_id": 1,
+        "summary": " 45 year old female with right knee pain, hi, my name is Chris, I'm a medical student in the clinic today . I've just been having this pain in my knee since I just fell this three days ago slipping on the stairs, since I've been having a lot of",
+        "keywords": [
+            "knee",
+            "pain",
+            "slipping",
+            "falling",
+            "stairs"
+        ],
+        "sentiment": 0.24025974025974026
+    },
+    {
+        "start_time": 71.68,
+        "end_time": 79.04,
+        "text": "character of the pain is, or how would you describe the pain? It's kind of like a dull aching pain.",
+        "topic_id": 2,
+        "summary": "character of the pain is, or how would you describe the pain? It's kind of like a dull aching pain.",
+        "keywords": [
+            "pain",
+            "aching",
+            "character",
+            "dull",
+            "kind"
+        ],
+        "sentiment": 0.15416666666666665
+    },
+    {
+        "start_time": 81.04,
+        "end_time": 152.56,
+        "text": "Okay, and has the pain been getting any better or any worse? It's kind of getting worse, actually, just in my right knee, as well as my whole right calf, as well. Okay, what is the intensity of the pain on a scale of 1 to 10, 10 being the worst pain you've ever felt? Probably around 6. Okay, and did your knee hurt before this at all, or did you have any trauma to the leg before? No, no, before three days ago before my slip I was fine. Okay. Are you feeling the pain anywhere else besides your right knee? In my calf, I'm getting a lot of pain as well in my right calf. Okay. Is there a bit of anything that's made the pain worse?",
+        "topic_id": 3,
+        "summary": " On a scale of 1 to 10, 10 being the worst pain you've ever felt? Probably around 6. The pain is getting worse in his right knee, as well as his whole right calf .",
+        "keywords": [
+            "calf",
+            "pain",
+            "hurt",
+            "knee",
+            "slip"
+        ],
+        "sentiment": 0.17552910052910053
+    },
+    {
+        "start_time": 154.72,
+        "end_time": 162.0,
+        "text": "Yeah, if I am walking or if I'm moving that leg and putting weight on it, it's definitely worse.",
+        "topic_id": 4,
+        "summary": "Yeah, if I am walking or if I'm moving that leg and putting weight on it, it's definitely worse.",
+        "keywords": [
+            "leg",
+            "walking",
+            "worse",
+            "moving",
+            "weight"
+        ],
+        "sentiment": -0.4
+    },
+    {
+        "start_time": 162.0,
+        "end_time": 267.28,
+        "text": "So it's definitely like a better if I just stay seated and stay resting. Okay, is there anything, so you see resting that helps, is there anything else that's helped? I did take some Advil which did help for a few hours, but then it just kind of went back to the same. Okay. And have you had any like associated symptoms with the right knee and calf pain? And, I also think there's some swelling in my calf as well since yesterday. Okay, there's some swelling there. Have you noticed if your calf was red or if there was a rash over it. I don't see any rashes or redness, but it definitely does seem swollen and then it hurts as well when I move it or press it. Okay. Okay. And when you fell, did you injure any other parts of your body like your hands or wrists? Um, just a few scratches on my hands, but nothing too bad. And how about your head? Did you lose consciousness or or hit your head? No, no, I didn't hit my head at all. I called myself before then",
+        "topic_id": 5,
+        "summary": " I did take some Advil which did help for a few hours, but then it just kind of went back to the same . I don't see any rashes or redness, but it definitely does seem swollen and then it hurts as well when I move it or press it .",
+        "keywords": [
+            "swelling",
+            "swollen",
+            "symptoms",
+            "fell",
+            "calf"
+        ],
+        "sentiment": 0.1565126050420168
+    },
+    {
+        "start_time": 268.32,
+        "end_time": 270.32,
+        "text": "and no, I didn't lose any consciousness",
+        "topic_id": 6,
+        "summary": "and no, I didn't lose any consciousness",
+        "keywords": [
+            "consciousness",
+            "didn",
+            "lose"
+        ],
+        "sentiment": 0.0
+    },
+    {
+        "start_time": 272.48,
+        "end_time": 274.48,
+        "text": "Okay",
+        "topic_id": 7,
+        "summary": "Okay",
+        "keywords": [
+            "okay"
+        ],
+        "sentiment": 0.5
+    },
+    {
+        "start_time": 275.2,
+        "end_time": 307.72,
+        "text": "Okay, have you had any fevers or chills? No Okay, have you had any chest pain? No Have you had any chest pain? No. Have you had any cough? No cough. Have you had any shortness of breath? No. Okay. Have you had any dizziness or lightheadedness? No. Okay.",
+        "topic_id": 8,
+        "summary": " Have you had any shortness of breath? No. Have you ever had any dizziness or lightheadedness? No . Have any fevers or chills? No Okay, have any chest pain? No Have any cough? No cough .",
+        "keywords": [
+            "dizziness",
+            "fevers",
+            "lightheadedness",
+            "chills",
+            "cough"
+        ],
+        "sentiment": -0.0625
+    },
+    {
+        "start_time": 307.72,
+        "end_time": 312.4,
+        "text": "And have you had any heart palpitations or feeling like your heart is racing?",
+        "topic_id": 9,
+        "summary": "And have you had any heart palpitations or feeling like your heart is racing?",
+        "keywords": [
+            "palpitations",
+            "heart",
+            "feeling",
+            "racing",
+            "like"
+        ],
+        "sentiment": 0.0
+    },
+    {
+        "start_time": 312.4,
+        "end_time": 314.68,
+        "text": "No, nothing like that.",
+        "topic_id": 10,
+        "summary": "No, nothing like that.",
+        "keywords": [
+            "like"
+        ],
+        "sentiment": 0.0
+    },
+    {
+        "start_time": 314.68,
+        "end_time": 315.52,
+        "text": "Okay.",
+        "topic_id": 11,
+        "summary": "Okay.",
+        "keywords": [
+            "okay"
+        ],
+        "sentiment": 0.5
+    },
+    {
+        "start_time": 317.88,
+        "end_time": 324.22,
+        "text": "And have you had any infectious symptoms,",
+        "topic_id": 12,
+        "summary": "And have you had any infectious symptoms,",
+        "keywords": [
+            "infectious",
+            "symptoms"
+        ],
+        "sentiment": 0.0
+    },
+    {
+        "start_time": 324.22,
+        "end_time": 467.04,
+        "text": "such as like a runny nose or sore throat? No, nothing like that. Okay. And have you had any nausea or vomiting? No. Have you had any abdominal pain? No. Okay. Have you had any changes to your bowel movements like diarrhea or more constipation? No, nothing like that. All right. Have you had any urinary problems? No. All right. Have you had any recent recent weight changes? No, nothing like that. Okay. And have you noticed any rashes anywhere else over your wall body? No, not that I'm noticed. All right, have you noticed any muscle weakness? No, have you had any numbness to the skin? Not that I've noted no, and have you had any tingling? No, okay, and in the past, have you been diagnosed with any medical conditions? I do have some high cholesterol and high blood pressure. Do you take any medications? Yes, a cholesterol. I'm taking like a croster medication and then a high blood pressure. I'm taking a ram up pro. Okay. have you had any hospitalizations or surgeries before, I just, no, I don't I don't want to just besides a sea section for one of my children.",
+        "topic_id": 13,
+        "summary": " Have you had any recent recent weight changes? No, nothing like that. Have you noticed any recent rashes anywhere else over your wall body? No. I just, no, I don't want to just besides a sea section for one of my children. I'm taking a ram",
+        "keywords": [
+            "nausea",
+            "diagnosed",
+            "cholesterol",
+            "vomiting",
+            "rashes"
+        ],
+        "sentiment": 0.1521848739495798
+    },
+    {
+        "start_time": 467.04,
+        "end_time": 486.32,
+        "text": "I don't have any other surgeries, okay. And have you had any thrombosis before or a blood clot in the past?",
+        "topic_id": 14,
+        "summary": "I don't have any other surgeries, okay. And have you had any thrombosis before or a blood clot in the past?",
+        "keywords": [
+            "surgeries",
+            "thrombosis",
+            "clot",
+            "blood",
+            "past"
+        ],
+        "sentiment": 0.041666666666666664
+    },
+    {
+        "start_time": 488.64,
+        "end_time": 490.16,
+        "text": "No, I've never had anything like that.",
+        "topic_id": 15,
+        "summary": "No, I've never had anything like that.",
+        "keywords": [
+            "ve",
+            "like"
+        ],
+        "sentiment": 0.0
+    },
+    {
+        "start_time": 492.16,
+        "end_time": 493.52,
+        "text": "Okay, and",
+        "topic_id": 16,
+        "summary": "Okay, and",
+        "keywords": [
+            "okay"
+        ],
+        "sentiment": 0.5
+    },
+    {
+        "start_time": 501.68,
+        "end_time": 629.28,
+        "text": "Have you been so you've had the birth of your you had a C section and have you been pregnant? Other times in the past? No, that was that was it. Okay, so have you had a miscarriage before? Nope. Okay, any allergies to medications? No allergies. Okay, and... Could you tell me a little bit about your living situation currently, like who you're living with and whereabouts you're living? Yeah, I live with my husband and our daughter, and it's just in a small townhouse just in the city. Okay, and are you working currently? I do work from home, I'm actually just an accounting clerk, but I'm most of my work is from home right now. Okay. And any exposures to anybody who's been sick? No. Have you traveled anywhere recently? No. Okay. And over the last couple of days, with a leg pain, do you feel as though you've been like a mobilized? Yeah, I've been trying to just like stay rested just stay seated otherwise it hurts a lot especially after my fall so I've tried to stay immobilized. of this is it is it is it's it's it's it's it sometimes when I'm with friends or relatives, like a glass of wine. OK. and do you use recreational drugs like marijuana or",
+        "topic_id": 17,
+        "summary": " Have you been so you've had the birth of your you had a C section and have you been pregnant? Other times in the past? No, that was that was it. Have you traveled anywhere recently? No. Have any exposures to anybody who's been sick? No .",
+        "keywords": [
+            "miscarriage",
+            "pregnant",
+            "immobilized",
+            "feel",
+            "pain"
+        ],
+        "sentiment": 0.1180297876726448
+    },
+    {
+        "start_time": 630.32,
+        "end_time": 701.7,
+        "text": "or other things such like cocaine? No, I've never tried that. Okay, and do you smoke cigarettes? I don't know, I don't. Okay. Um, okay. Uh, so, uh, oh, and, uh, in the family, are there, uh, any history of, uh, heart or lung conditions? Uh, so, don't know, harder and lung conditions, but I, my mother had a stroke in her late 60s, my father is pretty healthy. Okay, has there been any, like, blood clots in the family before? Not sure about blood clots, but my mother had a stroke. That's, is that kind of like a blood clot? It, it could be, I stroke can have many different type of types of causes for it.",
+        "topic_id": 18,
+        "summary": " Are there any history of heart or lung conditions in the family? No, I've never tried cocaine . Do you smoke cigarettes? I don't know, I'm not sure about blood clots .",
+        "keywords": [
+            "clots",
+            "clot",
+            "stroke",
+            "blood",
+            "cigarettes"
+        ],
+        "sentiment": 0.2196428571428571
+    },
+    {
+        "start_time": 701.7,
+        "end_time": 708.88,
+        "text": "And one of them could be caused by blood cl clot, but I wouldn't be able to say",
+        "topic_id": 19,
+        "summary": "And one of them could be caused by blood cl clot, but I wouldn't be able to say",
+        "keywords": [
+            "clot",
+            "blood",
+            "caused",
+            "cl",
+            "able"
+        ],
+        "sentiment": 0.5
+    },
+    {
+        "start_time": 710.0,
+        "end_time": 847.36,
+        "text": "for sure, just because there are so many different types of reasons for having a stroke. Okay, so yeah, so you mentioned you leg has some swelling, um, do you feel, um, as others, any, any, like, temperature changed to your calf, like, as it taught, um, I think, uh, and I don't know if it's maybe a little bit warm, but definitely swollen. Okay, and do you feel, is there any pain to palpation? Like if you touch your calf or something like that, is there pain? Yeah, if I touch my right calf, it's painful. And then if I press down on it, it's really painful. And then just on the outside of my right knee, if I touch or press down, it really hurts as well. OK. And if you move your foot, so if you doorcy flex your ankle or bending your your toe up towards your nose do you end up getting any calf pain doing that at home in test? Yeah I'll try that out and yeah I think it definitely hurts when I move my or point my toes towards my nose. Okay. Okay, so I think that that was everything that I wanted to ask today on history. Was there anything else that maybe I missed? Um No, I think that's all. Okay. All right. So with the fall two days ago, things that I'm thinking about right now would be possibly a muscle strain. So this could be a gastrocnemius strain to the calf muscle itself. From the",
+        "topic_id": 20,
+        "summary": " If I touch my right calf, it's painful. And then if I press down on it . And then just on the outside of my right knee, if I touch or press down, it really hurts as well. I think it definitely hurts when I move my or point my toes",
+        "keywords": [
+            "stroke",
+            "calf",
+            "swelling",
+            "leg",
+            "painful"
+        ],
+        "sentiment": 0.16851025132275133
+    },
+    {
+        "start_time": 848.08,
+        "end_time": 853.84,
+        "text": "fall, which could have pain when you touch it, you could be some swelling and it would be aggravated",
+        "topic_id": 21,
+        "summary": "fall, which could have pain when you touch it, you could be some swelling and it would be aggravated",
+        "keywords": [
+            "swelling",
+            "fall",
+            "pain",
+            "touch",
+            "aggravated"
+        ],
+        "sentiment": 0.0
+    },
+    {
+        "start_time": 853.84,
+        "end_time": 863.04,
+        "text": "by movements. Also, it could be like injuries to some of the ligaments there as well.",
+        "topic_id": 22,
+        "summary": "by movements. Also, it could be like injuries to some of the ligaments there as well.",
+        "keywords": [
+            "ligaments",
+            "injuries",
+            "movements",
+            "like"
+        ],
+        "sentiment": 0.0
+    },
+    {
+        "start_time": 921.0,
+        "end_time": 923.0,
+        "text": "Um, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh being a bit progressive with swelling and a positive home and your temperature is a little bit elevated today not quite a fever, but feverish it does Increase the suspicion for a deep vein thrombosis and so I Think the the most likely thing right now is actually a DVT or deep main thrombosis, and so we will order some diagnostics studies and get an ultrasound of your right calf, as well as an x-ray of the right need to start, okay? Okay, sounds good. Thank you so much.",
+        "topic_id": 23,
+        "summary": " The most likely thing is actually a DVT or deep main thrombosis, and so we will order some diagnostics studies and get an ultrasound of your right calf, as well as an x-ray of the right need to start .",
+        "keywords": [
+            "thrombosis",
+            "fever",
+            "swelling",
+            "feverish",
+            "calf"
+        ],
+        "sentiment": 0.2102238906926407
+    }
+]

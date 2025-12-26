@@ -1,0 +1,539 @@
+[
+    {
+        "start_time": 0.0,
+        "end_time": 1.7,
+        "text": "We're brings in here today.",
+        "topic_id": 1,
+        "summary": "We're brings in here today.",
+        "keywords": [
+            "brings",
+            "today"
+        ],
+        "sentiment": 0.0
+    },
+    {
+        "start_time": 1.7,
+        "end_time": 107.72,
+        "text": "I have been having this pain in my joints that's been ongoing now for the last several months and it's been getting worse over this period of time. Okay, so several months is a pain. So where exactly is the pain? So, I get it in some of the joints in my hands and then also my feet as well. See, yeah, my, yeah, really in my feet and hands. Okay, and what kind of pain is it? Is it like an aching pain? Is it a sharp pain? It'll be a bit achy when it's there, but if I move the joint at all, when it's really sore, I can get a sharp pain as well. Okay, Ed, is this pain worse at all in any particular time of the day? Yeah, I would say in the morning time, or if there's any period of time where I am like sitting and resting for a while and I get up to move. I have a lot of stiffness and it takes me over an hour sometimes to just get moving. Okay, so if I understand it clearly, you get morning stiffness and then when you're not very active or not doing things",
+        "topic_id": 2,
+        "summary": " I have been having this pain in my joints that's been ongoing now for the last several months . I get it in some of the joints in my hands and then also my feet as well. I have a lot of stiffness and it takes me over an hour sometimes to just get moving",
+        "keywords": [
+            "stiffness",
+            "joints",
+            "aching",
+            "pain",
+            "morning"
+        ],
+        "sentiment": 0.13988603988603987
+    },
+    {
+        "start_time": 107.72,
+        "end_time": 110.72,
+        "text": "but then it gets better with movement?",
+        "topic_id": 3,
+        "summary": "but then it gets better with movement?",
+        "keywords": [
+            "movement",
+            "better",
+            "gets"
+        ],
+        "sentiment": 0.5
+    },
+    {
+        "start_time": 111.72,
+        "end_time": 112.72,
+        "text": "Yeah, exactly.",
+        "topic_id": 4,
+        "summary": "Yeah, exactly.",
+        "keywords": [
+            "exactly",
+            "yeah"
+        ],
+        "sentiment": 0.25
+    },
+    {
+        "start_time": 112.72,
+        "end_time": 117.52,
+        "text": "Yeah, there's morning stiffness and it does get a little bit better with movement.",
+        "topic_id": 5,
+        "summary": "Yeah, there's morning stiffness and it does get a little bit better with movement.",
+        "keywords": [
+            "stiffness",
+            "morning",
+            "movement",
+            "does",
+            "better"
+        ],
+        "sentiment": 0.15625
+    },
+    {
+        "start_time": 118.52,
+        "end_time": 118.88,
+        "text": "Okay.",
+        "topic_id": 6,
+        "summary": "Okay.",
+        "keywords": [
+            "okay"
+        ],
+        "sentiment": 0.5
+    },
+    {
+        "start_time": 118.88,
+        "end_time": 124.0,
+        "text": "And do you have any of this pain or stiffness and the bigger joints in your body like",
+        "topic_id": 7,
+        "summary": "And do you have any of this pain or stiffness and the bigger joints in your body like",
+        "keywords": [
+            "joints",
+            "stiffness",
+            "pain",
+            "body",
+            "bigger"
+        ],
+        "sentiment": 0.0
+    },
+    {
+        "start_time": 124.0,
+        "end_time": 125.0,
+        "text": "the hips or the knees",
+        "topic_id": 8,
+        "summary": "the hips or the knees",
+        "keywords": [
+            "hips",
+            "knees"
+        ],
+        "sentiment": 0.0
+    },
+    {
+        "start_time": 126.0,
+        "end_time": 128.0,
+        "text": "or your shoulders",
+        "topic_id": 9,
+        "summary": "or your shoulders",
+        "keywords": [
+            "shoulders"
+        ],
+        "sentiment": 0.0
+    },
+    {
+        "start_time": 130.0,
+        "end_time": 135.0,
+        "text": "No, nothing. No, just really the small joints. Okay",
+        "topic_id": 10,
+        "summary": "No, nothing. No, just really the small joints. Okay",
+        "keywords": [
+            "joints",
+            "small",
+            "just",
+            "really",
+            "okay"
+        ],
+        "sentiment": 0.15
+    },
+    {
+        "start_time": 136.0,
+        "end_time": 139.0,
+        "text": "And the morning stiffness lasts more than 30 minutes, you said?",
+        "topic_id": 11,
+        "summary": "And the morning stiffness lasts more than 30 minutes, you said?",
+        "keywords": [
+            "morning",
+            "stiffness",
+            "minutes",
+            "lasts",
+            "said"
+        ],
+        "sentiment": 0.5
+    },
+    {
+        "start_time": 140.0,
+        "end_time": 142.0,
+        "text": "It does, yeah, yes, okay",
+        "topic_id": 12,
+        "summary": "It does, yeah, yes, okay",
+        "keywords": [
+            "does",
+            "yes",
+            "okay",
+            "yeah"
+        ],
+        "sentiment": 0.5
+    },
+    {
+        "start_time": 143.0,
+        "end_time": 148.24,
+        "text": "And is it symmetrical like is it pain symmetrical as in",
+        "topic_id": 13,
+        "summary": "And is it symmetrical like is it pain symmetrical as in",
+        "keywords": [
+            "symmetrical",
+            "pain",
+            "like"
+        ],
+        "sentiment": 0.0
+    },
+    {
+        "start_time": 149.92,
+        "end_time": 154.8,
+        "text": "Is it happening in both hands on the same areas and both feet in the same areas?",
+        "topic_id": 14,
+        "summary": "Is it happening in both hands on the same areas and both feet in the same areas?",
+        "keywords": [
+            "hands",
+            "feet",
+            "areas",
+            "happening"
+        ],
+        "sentiment": 0.0
+    },
+    {
+        "start_time": 157.76,
+        "end_time": 162.96,
+        "text": "Yeah, it is actually that that you mentioned that it is symmetrical. I'm noticing that it's the same",
+        "topic_id": 15,
+        "summary": "Yeah, it is actually that that you mentioned that it is symmetrical. I'm noticing that it's the same",
+        "keywords": [
+            "symmetrical",
+            "noticing",
+            "yeah",
+            "actually",
+            "mentioned"
+        ],
+        "sentiment": 0.0
+    },
+    {
+        "start_time": 163.76,
+        "end_time": 269.48,
+        "text": "It's the same joints on both sides of my body that I'm seeing that are affected. Okay, now yeah, I just have, yeah, this one particular question, it's pretty specific. So when you look at your hands and which joints are painful, in your fingers, do you have any pain or swelling in the last joints? Like, so just the low the tip of your fingers. No, actually like those joints are all, I've been fine, I can move the tips of my fingers, no problem, and I haven't had any joint swelling or pain in the tips of my fingers. Okay, and how about do you have any pain at all in the, I guess the first joints of the finger so when you make a fist like the first joint that bends. Oh yeah like my knuckles you mean? Yeah you're knuckles yeah. Yeah those actually those are the worst I can notice those kind of on the like on my index finger, middle finger and ring finger on both sides. They, um, they all look like they're swollen and, um, and those hurt hurt really bad. Okay. And in your feet, uh, which joints would you say are hurting the most? Um, I would say most? I would say the big toe joint.",
+        "topic_id": 16,
+        "summary": " It's the same joints on both sides of my body that I'm seeing that are affected . I would say the big toe joint in my feet are hurting the most .",
+        "keywords": [
+            "joints",
+            "swelling",
+            "fingers",
+            "knuckles",
+            "joint"
+        ],
+        "sentiment": 0.07481884057971015
+    },
+    {
+        "start_time": 271.12,
+        "end_time": 281.36,
+        "text": "Like on both of my feet, those bother me. Yeah, my big toe on both feet, but my right foot's worse than the other.",
+        "topic_id": 17,
+        "summary": "Like on both of my feet, those bother me. Yeah, my big toe on both feet, but my right foot's worse than the other.",
+        "keywords": [
+            "feet",
+            "toe",
+            "foot",
+            "worse",
+            "bother"
+        ],
+        "sentiment": -0.05982142857142858
+    },
+    {
+        "start_time": 282.56,
+        "end_time": 284.56,
+        "text": "Okay, I see. Okay.",
+        "topic_id": 18,
+        "summary": "Okay, I see. Okay.",
+        "keywords": [
+            "okay"
+        ],
+        "sentiment": 0.5
+    },
+    {
+        "start_time": 310.08,
+        "end_time": 311.12,
+        "text": "And are you getting any pain in any other joints? Um, actually, yeah, my, uh, my right ankle bugs me a little bit. I'm sorry that if that's considered a large joint, but yeah, my ankle hurts, and then also my, in my hands, I have like the middle one, not that the proxual",
+        "topic_id": 19,
+        "summary": " \"I'm sorry that if that's considered a large joint, but yeah, my ankle hurts, and then also my, in my hands, I have like the middle one, not that the proxual.\"",
+        "keywords": [
+            "ankle",
+            "joints",
+            "joint",
+            "pain",
+            "hurts"
+        ],
+        "sentiment": -0.044642857142857144
+    },
+    {
+        "start_time": 314.08,
+        "end_time": 314.96,
+        "text": "okay, interval and Jojoite, yeah those ones hurt too, so",
+        "topic_id": 20,
+        "summary": "okay, interval and Jojoite, yeah those ones hurt too, so",
+        "keywords": [
+            "jojoite",
+            "hurt",
+            "interval",
+            "ones",
+            "okay"
+        ],
+        "sentiment": 0.5
+    },
+    {
+        "start_time": 320.4,
+        "end_time": 321.44,
+        "text": "okay, I think I have like more than 10 joints that are small and impactful.",
+        "topic_id": 21,
+        "summary": "okay, I think I have like more than 10 joints that are small and impactful.",
+        "keywords": [
+            "joints",
+            "impactful",
+            "small",
+            "10",
+            "okay"
+        ],
+        "sentiment": 0.25
+    },
+    {
+        "start_time": 328.0,
+        "end_time": 337.28,
+        "text": "Okay, I see and has this pain been pretty constant or have there been days that you don't have the pain? Yeah, there are days that are better than others for sure. I'm not really too",
+        "topic_id": 22,
+        "summary": " There are days that are better than others for sure for sure . I'm not really too much of the pain, she says .",
+        "keywords": [
+            "pain",
+            "days",
+            "okay",
+            "constant",
+            "yeah"
+        ],
+        "sentiment": 0.27499999999999997
+    },
+    {
+        "start_time": 337.28,
+        "end_time": 343.2,
+        "text": "sure what the reason it is, like maybe I'm just more arrested or something like that, but",
+        "topic_id": 23,
+        "summary": "sure what the reason it is, like maybe I'm just more arrested or something like that, but",
+        "keywords": [
+            "arrested",
+            "reason",
+            "maybe",
+            "just",
+            "like"
+        ],
+        "sentiment": 0.5
+    },
+    {
+        "start_time": 405.0,
+        "end_time": 470.88,
+        "text": "there are days that are better, but over the last several months it's been getting Yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah being the worst pain you've felt in your life? I would say it's probably a six. OK. Have you tried adding medications that all to help with your help relieve your symptoms? Yeah, I've been trying to see the benefit and different types of anti-inflammatories, like ibuprofen or advil. And I've tried creams and stuff too, but it doesn't seem to help. Are you feeling any other symptoms at all? Like, feeders or chills? I do, I have felt a bit warm. A bit warm. Okay, how long has that been going on for? So that varies as well. Like some days I'll get off fuel, like feverish for a little bit. And that it will kind of go away. I haven't checked my temperature, but I have felt warm at times. Okay, and have you lost any movement in any of these joints at all? It is harder to make a fist. I can't fully close my fingers all the way down to make a fist. Let's see. Okay. Any kind of night sweats at all? No. Any weight loss? Well, I think a few pounds. I just haven't really been as hungry. My appetite hasn't, been as good recently. Okay. Any skin changes or rashes?",
+        "topic_id": 24,
+        "summary": " There are days that are better, but over the last several months it's been getting worse . Have you tried adding medications that all to help with your help relieve your symptoms? Have you lost any movement in any of these joints at all?",
+        "keywords": [
+            "symptoms",
+            "feverish",
+            "warm",
+            "advil",
+            "temperature"
+        ],
+        "sentiment": 0.2075810185185185
+    },
+    {
+        "start_time": 472.96,
+        "end_time": 489.8,
+        "text": "I over a couple of the joints, I do notice some some redness, but just over the joints on my hand, I can have some redness. Okay, but you don't notice any changes anywhere else? No.",
+        "topic_id": 25,
+        "summary": " I over a couple of the joints, I do notice some some some redness, but just over the joints on my hand, I can have some kind of redness . Okay, but you don't notice any changes anywhere else? No.",
+        "keywords": [
+            "redness",
+            "joints",
+            "notice",
+            "hand",
+            "changes"
+        ],
+        "sentiment": 0.5
+    },
+    {
+        "start_time": 489.8,
+        "end_time": 512.8,
+        "text": "No. No. No. No. No. No. No. No. No. No. No. No. No. No. No. No. No. No. No. No. No. No. No.",
+        "topic_id": 26,
+        "summary": "No. No. No. No. No. No. No. No. No. No. No. No. No. No. No. No. No. No. No. No. No. No. No.",
+        "keywords": [],
+        "sentiment": 0.0
+    },
+    {
+        "start_time": 512.8,
+        "end_time": 565.0,
+        "text": "No. No. No, we're else. Okay, any changes in your vision or hearing? No changes to vision or hearing. Okay. Any shortness of breath chest pain? No. Okay, any changes in your bowel movements? No, that's been normal. Okay. Any changes in your urinary patterns? Nope. I haven't had any pain or anything like that. Okay. Any numbness or tingling sensation any anywhere in your body? Nope. I haven't had anything like that. Okay. Have you been sick at all recently? Either with like cold symptoms, or anything like viral symptoms? No, I felt okay. Okay. And any muscle weakness? I don't think so. I have just, I have had trouble like opening jars and various things, but I think that's part of the pain that I'm having in my hands. It makes it hard to grip. Okay, and in terms of your medical history, have you been diagnosed with any conditions?",
+        "topic_id": 27,
+        "summary": " Have you been sick at all recently? No, I felt okay. I have had trouble opening jars and various things, but I think that's part of the pain that I'm having in my hands. It makes it hard to grip. I haven't had any pain or anything like",
+        "keywords": [
+            "symptoms",
+            "diagnosed",
+            "numbness",
+            "sick",
+            "pain"
+        ],
+        "sentiment": 0.12317927170868345
+    },
+    {
+        "start_time": 565.0,
+        "end_time": 695.0,
+        "text": "Yeah, I have like low thyroid or hypothyroidism, I think it's called, and I also have high blood pressure. So I take a medication for the high blood pressure and something for the thyroid as well. Okay, and when were you diagnosed with the hypothyroidism? This was about four years ago. Okay, and today I'll tell you what it was caused by it at all. Oh, I think I was, I think they said Hashimoto's. Okay, okay, okay, and since then you've been on the divert medication. Yeah, I think it's, like, centroid or something like that, I think centroid. All right, any other medications at all that you take regularly? Yeah. I think I'm taking an ACE inhibitor for the blood pressure. Okay. Any allergies, training medications that you know? No. Okay. Any hospitalizations or surgeries in the past? No. Okay. Any family history of any autoimmune conditions? My mom had hypothyroidism as well, and that's it. Okay, so anything else like rheumatoid arthritis, ulcerative colitis, Crohn's disease, type 1 diabetes, anything like that? I think my cousin actually has type 1 diabetes. He's like, he's much younger than me, but yeah, I think he, I have a cousin with Type I diabetes as well.",
+        "topic_id": 28,
+        "summary": " I have like low thyroid or hypothyroidism, I think it's called, and I also have high blood pressure . I'm taking an ACE inhibitor for the blood pressure. No allergies, training medications that you know? No. Any hospitalizations or surgeries in the past? No",
+        "keywords": [
+            "hypothyroidism",
+            "autoimmune",
+            "thyroid",
+            "divert",
+            "allergies"
+        ],
+        "sentiment": 0.179484126984127
+    },
+    {
+        "start_time": 695.0,
+        "end_time": 703.0,
+        "text": "Okay, all right, and currently, do you work?",
+        "topic_id": 29,
+        "summary": "Okay, all right, and currently, do you work?",
+        "keywords": [
+            "work",
+            "currently",
+            "okay",
+            "right"
+        ],
+        "sentiment": 0.2619047619047619
+    },
+    {
+        "start_time": 703.0,
+        "end_time": 768.2,
+        "text": "Yeah, I've been working as a administrator so it's been tough on the computer with with how my hands have been causing me pain. So from the typing also gives you some pain. Yeah it can give a little bit of pain but once Once my hands start moving, it's okay, it's just, I'm a bit slower at my job with how it is, especially starting in the morning. Okay, I see. Okay, and currently what's your living situation like? So, I live with my husband as well as our our daughter. She's for. Okay. And are you currently right now do you smoke at all? I don't. I quit smoking four years ago my daughter was born and before that I didn't smoke much to be any way",
+        "topic_id": 30,
+        "summary": " I quit smoking four years ago my daughter was born and before that I didn't smoke much to be any way . I'm a bit slower at my job with how it is, especially starting in the morning .",
+        "keywords": [
+            "typing",
+            "smoking",
+            "pain",
+            "quit",
+            "smoke"
+        ],
+        "sentiment": 0.1859717302899121
+    },
+    {
+        "start_time": 768.2,
+        "end_time": 771.68,
+        "text": "It was I was only smoking like maybe four or five cigarettes a day",
+        "topic_id": 31,
+        "summary": "It was I was only smoking like maybe four or five cigarettes a day",
+        "keywords": [
+            "smoking",
+            "cigarettes",
+            "day",
+            "like",
+            "maybe"
+        ],
+        "sentiment": 0.0
+    },
+    {
+        "start_time": 772.72,
+        "end_time": 774.72,
+        "text": "So I just stopped then",
+        "topic_id": 32,
+        "summary": "So I just stopped then",
+        "keywords": [
+            "stopped",
+            "just"
+        ],
+        "sentiment": 0.0
+    },
+    {
+        "start_time": 775.12,
+        "end_time": 777.12,
+        "text": "Okay, that's really good",
+        "topic_id": 33,
+        "summary": "Okay, that's really good",
+        "keywords": [
+            "okay",
+            "good",
+            "really"
+        ],
+        "sentiment": 0.6
+    },
+    {
+        "start_time": 778.0,
+        "end_time": 780.0,
+        "text": "Congratulations",
+        "topic_id": 34,
+        "summary": "Congratulations",
+        "keywords": [
+            "congratulations"
+        ],
+        "sentiment": 0.0
+    },
+    {
+        "start_time": 780.72,
+        "end_time": 784.96,
+        "text": "Yeah, and other than that, do you use any recreational drugs like marijuana?",
+        "topic_id": 35,
+        "summary": "Yeah, and other than that, do you use any recreational drugs like marijuana?",
+        "keywords": [
+            "marijuana",
+            "drugs",
+            "recreational",
+            "yeah",
+            "use"
+        ],
+        "sentiment": -0.125
+    },
+    {
+        "start_time": 885.0,
+        "end_time": 926.08,
+        "text": "No, I don't. Okay. How about alcohol? I'll have a glass of wine sometimes, but very rarely. Okay. Yes, so those were just some of the questions I had for you, now I just wanted to ask a few questions regarding just physically examining the joints that hurt. So when you look at those joints, do you notice any kind of swelling, redness or when you feel any warmth to them? Yes, I do. I feel swirling warmth and redness. Okay, and do you notice any kind of deformities, for example, you're not able to bend your finger or any kind of deformities that you didn't see before, or like, for example, your wrist is turned out words a little bit, anything like that? No, nothing like that. Not deformity. No deformities, okay. When you go over your joints, do you notice any kind of like nodules or harder materials that don't seem to be your bones? Not really, no. No, I don't notice anything like that. They just serve a bit larger from the swelling it feels like. Okay, I see. Are you able to make a fist with both hands? I'm not completely. I can close my hands, but part of the way, but I can't make a full fist. I see. Okay, and are you able to completely extend your fingers and show your palms. Yeah I can do I can do that. Okay. And are you able to walk without a limb or anything like that? Yes I can. Okay. All right so those are just all the questions I had for you today, if you have any questions or concerns?",
+        "topic_id": 36,
+        "summary": " Do you notice any kind of swelling, redness or when you feel any warmth to them? Yes, I do. I feel swirling warmth and redness. No, I don't. How about alcohol? I'll have a glass of wine sometimes, but very rarely . Do you",
+        "keywords": [
+            "joints",
+            "swelling",
+            "deformity",
+            "deformities",
+            "bones"
+        ],
+        "sentiment": 0.29800824175824175
+    },
+    {
+        "start_time": 929.44,
+        "end_time": 1056.0,
+        "text": "I was just wondering what this could be. Yeah, so from what you're describing to me, you do fit into the age range and all the symptoms kind of, point towards arthritis and in this case it sounds more like a rheumatoid arthritis Thanks for it can be different types of arthritis that we will investigate in case as well. But given that it's symmetrical, you have the morning stiffness that doesn't go away for more than 30 minutes. And just the pattern of where the stiffness and pain is occurring. It sounds more likely to be rheumatoid arthritis, especially since you also have another autoimmune condition with the hypothyroidism. It's more likely to be another autoimmune condition. So what we will do is get a few tests done. This will involve some blood work as well and we will also get some imaging done. So we will get like the CRP and ESR for inflammatory markers. We'll get like your full CBC blood count. We'll get a rheumatoid factor test done as well as anti-nuclear antibody. And a lot of other different just markers to rule out anything else besides rheumatoid arthritis. And then we will also get just x-rays of your hands and feet as well. So does that sound good? It does. Yeah, thank you. You're welcome. And then if it does come out to be rheumatoid arthritis, which seems likely, you will need a referral to rheumatologist to manage and treat your treatment with medications.",
+        "topic_id": 37,
+        "summary": " All the symptoms kind of, point towards arthritis and in this case it sounds more like a rheumatoid arthritis . It's more likely to be another autoimmune condition with the hypothyroidism . If it does come out to be arthritis, which seems likely, you will need a",
+        "keywords": [
+            "rheumatoid",
+            "autoimmune",
+            "arthritis",
+            "rheumatologist",
+            "hypothyroidism"
+        ],
+        "sentiment": 0.26973684210526316
+    },
+    {
+        "start_time": 1057.0,
+        "end_time": 1058.0,
+        "text": "Okay, thank you.",
+        "topic_id": 38,
+        "summary": "Okay, thank you.",
+        "keywords": [
+            "okay",
+            "thank"
+        ],
+        "sentiment": 0.5
+    },
+    {
+        "start_time": 1059.0,
+        "end_time": 1060.0,
+        "text": "All right, you're welcome. Take care.",
+        "topic_id": 39,
+        "summary": "All right, you're welcome. Take care.",
+        "keywords": [
+            "welcome",
+            "care",
+            "right"
+        ],
+        "sentiment": 0.5428571428571429
+    }
+]

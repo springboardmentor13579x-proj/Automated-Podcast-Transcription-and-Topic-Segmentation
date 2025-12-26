@@ -1,0 +1,625 @@
+[
+    {
+        "start_time": 0.0,
+        "end_time": 106.6,
+        "text": "what brings you in here today um yeah i've just been feeling um breathless and it's getting worse so i wanted to check it out okay and when did you first start feeling breathless about two months ago okay and did it come on about like gradually through time more suddenly just happen. As I guess gradually. Yeah, okay. And to feel how often do you feel breathless? I'd say it's worse when I when I walk more than 50 meters, that's kind of the main trick or just exertion. Okay, and were you able to walk normally more than 50 meters before two months? Yeah, three months ago I was fine. Okay. And do you have any other symptoms like cough or chest pain? Um, I have a cough sometimes, yeah. Okay, but nothing like a constant. No. Okay. Um, do you have any, uh, wet cough or any productive cough for your, um, producing, like, spewed on more flamm? Yeah, I guess I'd say I have this frothy spew. Okay. And as your breathlessness, uh, can, um, I'm in getting any worse at all over the last two months. Ah, I would say so, yes.",
+        "topic_id": 1,
+        "summary": " I'd say it's worse when I when I walk more than 50 meters, that's kind of the main trick or just exertion . I have a cough sometimes, but nothing like a constant, no. No. I have this frothy spew. I'm in getting any worse",
+        "keywords": [
+            "breathlessness",
+            "breathless",
+            "symptoms",
+            "cough",
+            "exertion"
+        ],
+        "sentiment": 0.23033333333333336
+    },
+    {
+        "start_time": 107.72,
+        "end_time": 108.72,
+        "text": "Okay.",
+        "topic_id": 2,
+        "summary": "Okay.",
+        "keywords": [
+            "okay"
+        ],
+        "sentiment": 0.5
+    },
+    {
+        "start_time": 108.72,
+        "end_time": 111.08,
+        "text": "And you mentioned like exertion makes it worse,",
+        "topic_id": 3,
+        "summary": "And you mentioned like exertion makes it worse,",
+        "keywords": [
+            "exertion",
+            "worse",
+            "mentioned",
+            "like",
+            "makes"
+        ],
+        "sentiment": -0.4
+    },
+    {
+        "start_time": 111.08,
+        "end_time": 114.44,
+        "text": "but anything else like going outside",
+        "topic_id": 4,
+        "summary": "but anything else like going outside",
+        "keywords": [
+            "outside",
+            "going",
+            "like"
+        ],
+        "sentiment": 0.0
+    },
+    {
+        "start_time": 114.44,
+        "end_time": 118.8,
+        "text": "or exposure to any chemicals that makes it worse.",
+        "topic_id": 5,
+        "summary": "or exposure to any chemicals that makes it worse.",
+        "keywords": [
+            "chemicals",
+            "exposure",
+            "worse",
+            "makes"
+        ],
+        "sentiment": -0.4
+    },
+    {
+        "start_time": 120.52,
+        "end_time": 121.36,
+        "text": "Hmm.",
+        "topic_id": 6,
+        "summary": "Hmm.",
+        "keywords": [
+            "hmm"
+        ],
+        "sentiment": 0.0
+    },
+    {
+        "start_time": 121.36,
+        "end_time": 122.76,
+        "text": "I know, I don't think so.",
+        "topic_id": 7,
+        "summary": "I know, I don't think so.",
+        "keywords": [
+            "know",
+            "think",
+            "don"
+        ],
+        "sentiment": 0.0
+    },
+    {
+        "start_time": 123.6,
+        "end_time": 124.44,
+        "text": "Okay.",
+        "topic_id": 8,
+        "summary": "Okay.",
+        "keywords": [
+            "okay"
+        ],
+        "sentiment": 0.5
+    },
+    {
+        "start_time": 124.44,
+        "end_time": 192.0,
+        "text": "And how about a positional changes? Does line flyp at all make it worse? I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm't think so. Okay, and how about a positional changes? Does line flat at all make it worse? I would say so, yes. Yeah, I'm basically gasping for air when I laid down. Okay, and do you ever find yourself waking up at night in the middle of the night to catch a breath? No. No. Okay. And when do you feel the breathlessness the most is it more so during the day or at night? I guess it's worse at night because I'm laying down. Okay. All right. And in terms of how many lights of stairs you can climb before you start feeling breakfast, do you have a number, I'd say like 3, 4, 3 or 4 steps, okay, and was there anything new that happened in your life recently? Any humetical",
+        "topic_id": 9,
+        "summary": " Do you ever find yourself waking up at night in the middle of the night to catch a breath? No. And how about a positional changes? Does line flat at all make it worse? I would say so, yes. And in terms of how many lights of stairs you can climb",
+        "keywords": [
+            "positional",
+            "flyp",
+            "line",
+            "changes",
+            "sorry"
+        ],
+        "sentiment": -0.41231522196089126
+    },
+    {
+        "start_time": 192.0,
+        "end_time": 200.0,
+        "text": "diagnosis recently or any travel that happened before you started having symptoms?",
+        "topic_id": 10,
+        "summary": "diagnosis recently or any travel that happened before you started having symptoms?",
+        "keywords": [
+            "symptoms",
+            "diagnosis",
+            "travel",
+            "recently",
+            "having"
+        ],
+        "sentiment": 0.0
+    },
+    {
+        "start_time": 200.0,
+        "end_time": 208.2,
+        "text": "No, nothing like that. Okay. And prior to the two months, have you ever had any similar experiences?",
+        "topic_id": 11,
+        "summary": "No, nothing like that. Okay. And prior to the two months, have you ever had any similar experiences?",
+        "keywords": [
+            "months",
+            "experiences",
+            "similar",
+            "like",
+            "okay"
+        ],
+        "sentiment": 0.16666666666666666
+    },
+    {
+        "start_time": 208.2,
+        "end_time": 231.2,
+        "text": "Pretty similar. Pretty similar. Pretty similar. Pretty similar. Pretty similar. Pretty similar. Pretty similar. Pretty similar. Pretty similar. Pretty similar. Pretty similar. Pretty similar. Pretty similar. Pretty similar. Pretty similar. Pretty similar. Pretty similar. Pretty similar. Pretty similar. Pretty similar. Pretty similar. Pretty similar. Pretty similar.",
+        "topic_id": 12,
+        "summary": " Pretty similar. Pretty . Similarity. Pretty similar . Pretty similar to Pretty Similarity . Pretty . Pretty Similar. Pretty Similarities. PrettySimilarity .",
+        "keywords": [
+            "similar",
+            "pretty"
+        ],
+        "sentiment": 0.125
+    },
+    {
+        "start_time": 231.2,
+        "end_time": 225.44,
+        "text": "Pretty similar. Pretty similar. Pretty months, no. No. Okay. And does anything make it better? Like any positional changes? It makes the prep as a goal away.",
+        "topic_id": 13,
+        "summary": "Pretty similar. Pretty similar. Pretty months, no. No. Okay. And does anything make it better? Like any positional changes? It makes the prep as a goal away.",
+        "keywords": [
+            "prep",
+            "similar",
+            "changes",
+            "months",
+            "does"
+        ],
+        "sentiment": 0.14285714285714285
+    },
+    {
+        "start_time": 228.24,
+        "end_time": 229.52,
+        "text": "I guess what I'm not laying down or when I'm laying down,",
+        "topic_id": 14,
+        "summary": "I guess what I'm not laying down or when I'm laying down,",
+        "keywords": [
+            "laying",
+            "guess"
+        ],
+        "sentiment": -0.15555555555555559
+    },
+    {
+        "start_time": 229.52,
+        "end_time": 232.28,
+        "text": "I try to add pillows, stack pillows,",
+        "topic_id": 15,
+        "summary": "I try to add pillows, stack pillows,",
+        "keywords": [
+            "pillows",
+            "stack",
+            "add",
+            "try"
+        ],
+        "sentiment": 0.0
+    },
+    {
+        "start_time": 232.28,
+        "end_time": 234.04,
+        "text": "so that I guess that or.",
+        "topic_id": 16,
+        "summary": "so that I guess that or.",
+        "keywords": [
+            "guess"
+        ],
+        "sentiment": 0.0
+    },
+    {
+        "start_time": 235.0,
+        "end_time": 235.84,
+        "text": "Okay.",
+        "topic_id": 17,
+        "summary": "Okay.",
+        "keywords": [
+            "okay"
+        ],
+        "sentiment": 0.5
+    },
+    {
+        "start_time": 237.44,
+        "end_time": 239.92,
+        "text": "Okay, and are you having any other symptoms",
+        "topic_id": 18,
+        "summary": "Okay, and are you having any other symptoms",
+        "keywords": [
+            "symptoms",
+            "okay",
+            "having"
+        ],
+        "sentiment": 0.1875
+    },
+    {
+        "start_time": 239.92,
+        "end_time": 245.04,
+        "text": "like Swarthrim, runny nose, uh, chest pain,",
+        "topic_id": 19,
+        "summary": "like Swarthrim, runny nose, uh, chest pain,",
+        "keywords": [
+            "swarthrim",
+            "nose",
+            "pain",
+            "runny",
+            "chest"
+        ],
+        "sentiment": 0.0
+    },
+    {
+        "start_time": 245.04,
+        "end_time": 246.64,
+        "text": "dizziness, anything like that.",
+        "topic_id": 20,
+        "summary": "dizziness, anything like that.",
+        "keywords": [
+            "dizziness",
+            "like"
+        ],
+        "sentiment": 0.0
+    },
+    {
+        "start_time": 247.8,
+        "end_time": 249.8,
+        "text": "No. No.",
+        "topic_id": 21,
+        "summary": "No. No.",
+        "keywords": [],
+        "sentiment": 0.0
+    },
+    {
+        "start_time": 249.8,
+        "end_time": 250.28,
+        "text": "Okay.",
+        "topic_id": 22,
+        "summary": "Okay.",
+        "keywords": [
+            "okay"
+        ],
+        "sentiment": 0.5
+    },
+    {
+        "start_time": 251.84,
+        "end_time": 255.0,
+        "text": "Have you recently traveled outside of the country?",
+        "topic_id": 23,
+        "summary": "Have you recently traveled outside of the country?",
+        "keywords": [
+            "traveled",
+            "country",
+            "outside",
+            "recently"
+        ],
+        "sentiment": 0.0
+    },
+    {
+        "start_time": 255.88,
+        "end_time": 257.68,
+        "text": "No. No.",
+        "topic_id": 24,
+        "summary": "No. No.",
+        "keywords": [],
+        "sentiment": 0.0
+    },
+    {
+        "start_time": 258.28,
+        "end_time": 263.32,
+        "text": "Have you recently had any surgeries? I know recent surgeries, no.",
+        "topic_id": 25,
+        "summary": "Have you recently had any surgeries? I know recent surgeries, no.",
+        "keywords": [
+            "surgeries",
+            "recently",
+            "recent",
+            "know"
+        ],
+        "sentiment": 0.0
+    },
+    {
+        "start_time": 264.12,
+        "end_time": 264.48,
+        "text": "Okay.",
+        "topic_id": 26,
+        "summary": "Okay.",
+        "keywords": [
+            "okay"
+        ],
+        "sentiment": 0.5
+    },
+    {
+        "start_time": 365.0,
+        "end_time": 365.5,
+        "text": "Any headache, nausea or vomiting? Um, no. Okay. Any fevers or chills or night sweats? No. Okay. Do you feel increasingly fatigue throughout the day? Uh, no, uh, yes, I'd say so yeah and any changes in your bowel movement at all? no okay any chest pain at all within the last two months? no no chest pain Okay. Okay. Any swelling in your legs, ankles, or in your hands and arms? There is some swelling. Okay. And where are you getting the swelling? Around my legs. Okay., uh, when did you first notice this? Around the same time, actually, two months ago. Okay. Have you noticed any kind of fever's at all? No. No, okay. Have you been in contact with anyone that has been ill recently? No, no. Okay. And have you been coughing up any blood at all? No. Okay. Any weight loss? No. Any night sweats or chills? No. Okay.",
+        "topic_id": 27,
+        "summary": " There is some swelling in your legs, ankles, or in your hands and arms . Have you noticed any kind of fever's at all? No. Have you been in contact with anyone that has been ill recently? No, no. Any headache, nausea or vomiting? Um, no",
+        "keywords": [
+            "fever",
+            "fevers",
+            "nausea",
+            "swelling",
+            "vomiting"
+        ],
+        "sentiment": 0.061111111111111116
+    },
+    {
+        "start_time": 365.8,
+        "end_time": 371.0,
+        "text": "Any apart from the breathlessness and laying down any other issues with your sleep?",
+        "topic_id": 28,
+        "summary": "Any apart from the breathlessness and laying down any other issues with your sleep?",
+        "keywords": [
+            "breathlessness",
+            "sleep",
+            "laying",
+            "issues",
+            "apart"
+        ],
+        "sentiment": -0.14027777777777778
+    },
+    {
+        "start_time": 371.8,
+        "end_time": 372.8,
+        "text": "Uh, no.",
+        "topic_id": 29,
+        "summary": "Uh, no.",
+        "keywords": [
+            "uh"
+        ],
+        "sentiment": 0.0
+    },
+    {
+        "start_time": 374.2,
+        "end_time": 375.6,
+        "text": "Any changes in your appetite?",
+        "topic_id": 30,
+        "summary": "Any changes in your appetite?",
+        "keywords": [
+            "appetite",
+            "changes"
+        ],
+        "sentiment": 0.0
+    },
+    {
+        "start_time": 376.9,
+        "end_time": 377.4,
+        "text": "No.",
+        "topic_id": 31,
+        "summary": "No.",
+        "keywords": [],
+        "sentiment": 0.0
+    },
+    {
+        "start_time": 378.7,
+        "end_time": 379.1,
+        "text": "Okay.",
+        "topic_id": 32,
+        "summary": "Okay.",
+        "keywords": [
+            "okay"
+        ],
+        "sentiment": 0.5
+    },
+    {
+        "start_time": 379.4,
+        "end_time": 382.8,
+        "text": "Have you had any recent infections like a cold little?",
+        "topic_id": 33,
+        "summary": "Have you had any recent infections like a cold little?",
+        "keywords": [
+            "infections",
+            "cold",
+            "recent",
+            "little",
+            "like"
+        ],
+        "sentiment": -0.2625
+    },
+    {
+        "start_time": 384.2,
+        "end_time": 384.8,
+        "text": "Nope.",
+        "topic_id": 34,
+        "summary": "Nope.",
+        "keywords": [
+            "nope"
+        ],
+        "sentiment": 0.0
+    },
+    {
+        "start_time": 386.0,
+        "end_time": 390.0,
+        "text": "Okay. Any exposure to tuberculosis in the past?",
+        "topic_id": 35,
+        "summary": "Okay. Any exposure to tuberculosis in the past?",
+        "keywords": [
+            "tuberculosis",
+            "exposure",
+            "past",
+            "okay"
+        ],
+        "sentiment": 0.125
+    },
+    {
+        "start_time": 390.0,
+        "end_time": 394.0,
+        "text": "Not that I know of.",
+        "topic_id": 36,
+        "summary": "Not that I know of.",
+        "keywords": [
+            "know"
+        ],
+        "sentiment": 0.0
+    },
+    {
+        "start_time": 394.0,
+        "end_time": 400.0,
+        "text": "Any exposure to fumes or dust within your home or work environment?",
+        "topic_id": 37,
+        "summary": "Any exposure to fumes or dust within your home or work environment?",
+        "keywords": [
+            "fumes",
+            "dust",
+            "exposure",
+            "environment",
+            "home"
+        ],
+        "sentiment": 0.0
+    },
+    {
+        "start_time": 400.0,
+        "end_time": 404.0,
+        "text": "No.",
+        "topic_id": 38,
+        "summary": "No.",
+        "keywords": [],
+        "sentiment": 0.0
+    },
+    {
+        "start_time": 404.0,
+        "end_time": 406.0,
+        "text": "Any animals or pets in the house? No, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, okay, any animals are pets in the house?",
+        "topic_id": 39,
+        "summary": " Any animals or pets in the house? No. No, no, no. No. no. no . No . no . . No. . No, . no, and no . any animals are pets in house? \"Okay, any animals that are pets?\"",
+        "keywords": [
+            "pets",
+            "animals",
+            "house",
+            "okay"
+        ],
+        "sentiment": -0.25
+    },
+    {
+        "start_time": 406.0,
+        "end_time": 525.0,
+        "text": "No, no. Okay, and in terms of your past medical history, has anyone told you that you have anything like COPD or any cardiovascular issues like high blood pressure, cholesterol? So, yeah, so I have high blood pressure, diabetes, and high cholesterol, okay. And do you think any medications for this? Yep, so I take aspirin, ram a poll, and some a statin. And have you ever had any chest pain or a heart attack in the past? Yeah, actually I had a heart attack four years ago. Okay. And do you remember what they did for your heart attack? Something like a stent or something. Okay. And since then you've been on these medications? Yes. Okay. And after they managed your heart attack, have you ever had similar symptoms when you had your heart attack? No, no. Nothing like that. Okay. Do you have any allergies training medications? No. Any environmental allergies? No. Okay. And have you previously had any surgeries in the past? Um, was stenting. Just a stenting. And apart from that, if you had any other previous hospitalizations? No. Okay. Any family history of any cancers or a heart attacks?",
+        "topic_id": 40,
+        "summary": " Have you ever had any chest pain or a heart attack in the past? No. No, no. I take aspirin, ram a poll, and some a statin . Do you have any allergies training medications? No . Have you previously had any surgeries? Just a stenting.",
+        "keywords": [
+            "cholesterol",
+            "cardiovascular",
+            "symptoms",
+            "stenting",
+            "medications"
+        ],
+        "sentiment": 0.05108333333333333
+    },
+    {
+        "start_time": 525.0,
+        "end_time": 589.0,
+        "text": "My father died of a heart attack when he was 60. Okay. And currently, do you work at all? I do. I work as a cashier. Okay. and has the shortness of breath been affecting your daily routine at home or at work at all? Yeah, I would say so. It's been hard to make it to work and then standing around all day or if I have to go help out with something and exert myself too much, I get you're a breath. Okay. And at a home do you currently live with anyone or do you live by yourself? I live by myself. Okay. And you live in an apartment or a house? I live in an apartment. Okay. And are there any exposures like dust or mold or asbestos in your home environment?",
+        "topic_id": 41,
+        "summary": " Shortness of breath has been affecting your daily routine at home or at work at all . It's been hard to make it to work and then standing around all day or exerting too much .",
+        "keywords": [
+            "breath",
+            "asbestos",
+            "mold",
+            "apartment",
+            "dust"
+        ],
+        "sentiment": 0.22072510822510819
+    },
+    {
+        "start_time": 589.0,
+        "end_time": 591.0,
+        "text": "No.",
+        "topic_id": 42,
+        "summary": "No.",
+        "keywords": [],
+        "sentiment": 0.0
+    },
+    {
+        "start_time": 591.0,
+        "end_time": 592.0,
+        "text": "Okay.",
+        "topic_id": 43,
+        "summary": "Okay.",
+        "keywords": [
+            "okay"
+        ],
+        "sentiment": 0.5
+    },
+    {
+        "start_time": 592.0,
+        "end_time": 603.0,
+        "text": "And currently, do you smoke? Not right now, I used to smoke 10 a day for like 40 years.",
+        "topic_id": 44,
+        "summary": "And currently, do you smoke? Not right now, I used to smoke 10 a day for like 40 years.",
+        "keywords": [
+            "smoke",
+            "currently",
+            "40",
+            "years",
+            "10"
+        ],
+        "sentiment": -0.07142857142857142
+    },
+    {
+        "start_time": 603.0,
+        "end_time": 610.0,
+        "text": "Okay. And do you use any recreational drugs like marijuana? Love you.",
+        "topic_id": 45,
+        "summary": "Okay. And do you use any recreational drugs like marijuana? Love you.",
+        "keywords": [
+            "marijuana",
+            "drugs",
+            "recreational",
+            "love",
+            "use"
+        ],
+        "sentiment": 0.5
+    },
+    {
+        "start_time": 610.0,
+        "end_time": 633.0,
+        "text": "Love you. Love you. Love you. Love you. Love you. Love you. Love you. Love you. Love you. Love you. Love you. Love you. Love you. Love you. Love you. Love you. Love you. Love you. Love you. Love you. Love you. Love you. Love you.",
+        "topic_id": 46,
+        "summary": " Love you. Love you you . Love you . love you you you love you . You love you. love you You Love you You! Love you Love you! You love all you can do .",
+        "keywords": [
+            "love"
+        ],
+        "sentiment": 0.5
+    },
+    {
+        "start_time": 633.0,
+        "end_time": 707.44,
+        "text": "Love you. Love you. Love years. Okay. And do you use any recreational drugs like marijuana? No. Any alcohol? No. Okay. And in terms of your daily routine, do you feel that you get three meals a day while balanced diet? I wouldn't say well balanced. I'm trying to eat healthier but it doesn't always happen. Okay and how about exercise do you find that your exercise levels or activity levels have gone down in the last two months? Yes. OK. All right. Is there any other questions or concerns that you have or something I may have missed to ask you today? No, I don't think so. OK. So based on what we talked about from your swallowing as well as breathlessness while laying down in your past history of the heart attack and high cholesterol, it may be likely with the medications you're on as well as your history that you might be adding. let's call it a congested heart failure. So we will need to do further investigations to determine if that is what it is and if we need to get you on something like like basics or a diuretic to get rid of some of the fluid that's building up in your",
+        "topic_id": 47,
+        "summary": " Do you use any recreational drugs like marijuana? No. Any alcohol? No . Do you feel that you get three meals a day while balanced diet? I wouldn't say well balanced . Exercise levels or activity levels have gone down in the last two months .",
+        "keywords": [
+            "breathlessness",
+            "swallowing",
+            "congested",
+            "cholesterol",
+            "routine"
+        ],
+        "sentiment": 0.1346468253968254
+    },
+    {
+        "start_time": 707.44,
+        "end_time": 713.36,
+        "text": "body which can be caused by heart failure. So we'll do some investigations and then go",
+        "topic_id": 48,
+        "summary": "body which can be caused by heart failure. So we'll do some investigations and then go",
+        "keywords": [
+            "body",
+            "heart",
+            "investigations",
+            "caused",
+            "failure"
+        ],
+        "sentiment": -0.3166666666666667
+    },
+    {
+        "start_time": 713.36,
+        "end_time": 715.92,
+        "text": "from there.",
+        "topic_id": 49,
+        "summary": "from there.",
+        "keywords": [],
+        "sentiment": 0.0
+    }
+]

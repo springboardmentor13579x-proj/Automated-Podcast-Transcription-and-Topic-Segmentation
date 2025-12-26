@@ -1,0 +1,313 @@
+[
+    {
+        "start_time": 0.0,
+        "end_time": 2.0,
+        "text": "how may I help you?",
+        "topic_id": 1,
+        "summary": "how may I help you?",
+        "keywords": [
+            "help"
+        ],
+        "sentiment": 0.0
+    },
+    {
+        "start_time": 2.0,
+        "end_time": 175.44,
+        "text": "I'm here because I've had some numbness in my right hand and I don't seem to be going going away, so I thought I should get it checked out by you. Yeah, certainly, so when did this exactly start? So, it's been pretty gradual. I would say over the past month or two months is what I first noticed it, but the numbness is definitely worse now than it was at the start. Okay, and where is this, the and I'm this, where are you feeling it exactly? Um, it's particular. It's the worst on my thumb and index finger. Okay. Do you feel it on your ring finger or, uh, or sorry, or your middle finger? Um, there's a little bit on my middle and ring finger, but it's very, very mild. Okay, and how low are the symptoms constant or are they intermittent? Um, I would say it's somewhat constant, but it's worse when, um, what I'm trying to like, almost during will or using my phone or, you know, reading a book. Okay. I see it. Um, is there anything that you do? Uh, at see it. Is there anything that you do at those times to try to help get the symptoms to go away? I guess I like shake out my hand or yeah, try to put pressure on those numb areas. Okay, just flicking the wrist or anything like that does it help. Maybe slightly. Okay, and how would you describe the pains in your hand like doll, achy sharp. I would say the pain is more like a tingling sensation. So, I guess the tingling is like a sharp feeling. I would call it so much pain as I would just like tingling and numbness. Okay, okay, and, um, is, is there anything, so you mentioned sort of the driving and,",
+        "topic_id": 2,
+        "summary": " I'm here because I've had some numbness in my right hand and I don't seem to be going going away, so I thought I should get it checked out by you . Um, it's the worst on my thumb and index finger. Do you feel it on your ring",
+        "keywords": [
+            "numbness",
+            "numb",
+            "tingling",
+            "symptoms",
+            "pains"
+        ],
+        "sentiment": 0.09556451612903227
+    },
+    {
+        "start_time": 175.44,
+        "end_time": 180.84,
+        "text": "uh, using your phone or are there any other activities that, uh, make it worse?",
+        "topic_id": 3,
+        "summary": "uh, using your phone or are there any other activities that, uh, make it worse?",
+        "keywords": [
+            "phone",
+            "activities",
+            "worse",
+            "using",
+            "uh"
+        ],
+        "sentiment": -0.2625
+    },
+    {
+        "start_time": 180.84,
+        "end_time": 206.52,
+        "text": "Recently, I found it's hard for me to hold things, um, in my right hand. Thank you very much for watching this video, gets hard for me to hold it and sometimes I find it'll just fall out of my hand. Okay, so you're dropping items and stuff?",
+        "topic_id": 4,
+        "summary": " Recently, I found it's hard for me to hold things, um, in my right hand, and sometimes I find it'll just fall out of my hand .",
+        "keywords": [
+            "hand",
+            "dropping",
+            "things",
+            "hold",
+            "items"
+        ],
+        "sentiment": 0.07706349206349206
+    },
+    {
+        "start_time": 206.52,
+        "end_time": 208.52,
+        "text": "Yes.",
+        "topic_id": 5,
+        "summary": "Yes.",
+        "keywords": [
+            "yes"
+        ],
+        "sentiment": 0.0
+    },
+    {
+        "start_time": 208.52,
+        "end_time": 246.0,
+        "text": "Okay. out of my hand okay so you're dropping items and stuff yes okay and do you feel any like of the numbness or tingling is it radiate anywhere you can hear forearm or up into your like upper arm or shoulder no I don't think so. Okay. Didn't you have any neck pain? No. Okay. And if you had any trauma or injuries to your wrist or hand? No, nothing that I can think of. All right.",
+        "topic_id": 6,
+        "summary": " Didn't you have any neck pain? No. No. neck pain . Didn't have any trauma or injuries to your wrist or hand? No, nothing that I can think of . Did you feel numbness or tingling? No I don't think so .",
+        "keywords": [
+            "tingling",
+            "numbness",
+            "forearm",
+            "wrist",
+            "dropping"
+        ],
+        "sentiment": 0.29081632653061223
+    },
+    {
+        "start_time": 246.0,
+        "end_time": 346.76,
+        "text": "And, um, so have you had any weight loss recently? No. How about any fevers or chills? No. Have you had any night sweats? No. Okay. Have you had any changes to vision or hearing? No. How about other senses? Like, got any changes to your sense of smell or sense of taste? No. All right. Have you had a runny nose or felt congested? I know. All right. Have you had a sore throat or a cough perhaps? No. All right. Have you had any shortness of breath? No. Have you had any chest pain or feeling like you're like feeling like you have part palpitations? No. Okay, have you had any lightheadedness or dizziness? I don't know. All right, and have you had any nausea or vomiting no how about any of the ulimal pain now alright how about any urinary problems I know if you had any changes to your bowel movements like diarrhea or a constipation no okay and And have you had any changes to your hair or nails. No. And any skin rashes or anything like that? No. Alright, and have you had any other pains and you're joined so are any joint swelling? No.",
+        "topic_id": 7,
+        "summary": " Have you had any changes to vision or hearing? No. How about any fevers or chills? No . Have you ever had a runny nose or felt congested? I don't know. And, um, so have any weight loss recently? No okay . And have",
+        "keywords": [
+            "dizziness",
+            "nausea",
+            "vomiting",
+            "palpitations",
+            "pains"
+        ],
+        "sentiment": 0.01428571428571428
+    },
+    {
+        "start_time": 346.76,
+        "end_time": 408.0,
+        "text": "Okay. And have you been diagnosed with any medical conditions before? No, not that I can think of yet. No. When I was younger, I had like childhood asthma, but nothing since. Okay. Do you use any inhalers now? No, not for a long time. Okay, did you take any other medications? No. Okay, um, and how about, uh, do you have any allergies? No. Okay, and have you had any surgeries or hospitalizations? No. Okay. And could you tell me a little bit about where you're living and who you're living with? So, um, I live with my boyfriend and we live in a rented,",
+        "topic_id": 8,
+        "summary": " Have you been diagnosed with any medical conditions before? No, not that I can think of yet. When I was younger, I had like childhood asthma, but nothing since . Do you use any inhalers now? No. Not for a long time. Do you take any other medications",
+        "keywords": [
+            "asthma",
+            "allergies",
+            "inhalers",
+            "diagnosed",
+            "medications"
+        ],
+        "sentiment": 0.05078671328671328
+    },
+    {
+        "start_time": 411.76,
+        "end_time": 413.52,
+        "text": "based on the apartment downtown.",
+        "topic_id": 9,
+        "summary": "based on the apartment downtown.",
+        "keywords": [
+            "downtown",
+            "apartment",
+            "based"
+        ],
+        "sentiment": 0.0
+    },
+    {
+        "start_time": 415.2,
+        "end_time": 420.2,
+        "text": "Okay, and are you working currently, or are you in school?",
+        "topic_id": 10,
+        "summary": "Okay, and are you working currently, or are you in school?",
+        "keywords": [
+            "working",
+            "school",
+            "currently",
+            "okay"
+        ],
+        "sentiment": 0.25
+    },
+    {
+        "start_time": 423.44,
+        "end_time": 506.54,
+        "text": "I am a graduate student. Okay, next one, ten, two, three, four, five, five, five, five, five, five, five, five, five, five, five, five, five, five, five, five, five, five, five, five, five, five, five, five, five, five, five, five, five, five, five, five, five, five, five, five, five, five, five, five, five, five, five, five, five, five, five, five, five, five, five, five, five, five, five, five, five, five, five, five, five, five, five, five, five, five, five, five, five, five, five, five, five, five, five, five, five, five, five, five, five, five, five, five, five, five, five, five, five, five, five, five, five, five, five, five, five, five, five, five, five, five, five, five, five, five, five, five, five, five, five, five, five, five, five, five, five, five, five, five, five, five, five, five, five, five, five, five, five, five, five, five, five, five, five, five, five, five, five, five, five, five, five, five, five, five, five, five, five, five, five, five, five, five, five, five, five, five, five, five, five, five, five, five, five, five, five, five, five, five, five, five, five, five, five, five, five, five, five, five, five, five, five, five, five, five, five, five, five, five, five, five, five, five, five, five, five, five, five, five, five, five, five, five, five, five, five, five, five, five, five, five, student. Okay, excellent, then. Do you spoke cigarettes? I don't. Okay, and do you drink alcohol? I'll have a glass of wine once a week. All right. And do you use any recreational drugs? No. Okay. And in the family, are there any... Is there a history of, like, hypothyroidism or other autoimmune conditions? There's rheumatoid arthritis in the family, but that's about it Okay, but you don't have any other joint swelling or pain, right? No, okay and so next I would like to just do a physical exam and for the first part of Alaska, just have a look at the hand in wrist and are you seeing any swelling, or a theme or a redness or like any muscle wasting or after pee?",
+        "topic_id": 11,
+        "summary": " I'll have a glass of wine once a week. I am a graduate student. Do you smoke cigarettes? I don't, and do you drink alcohol? Do you use any recreational drugs? No. And in the family, are there any history of hypothyroidism or other",
+        "keywords": [
+            "student",
+            "exam",
+            "graduate",
+            "ll",
+            "excellent"
+        ],
+        "sentiment": 0.1919642857142857
+    },
+    {
+        "start_time": 508.54,
+        "end_time": 666.8,
+        "text": "So... erathema, or redness, or like any muscle wasting, or, or after-pe. So, in my right, and I guess the, you know, the flesh-y part of your thumb just above your wrist, that seems to be, I guess, after-pe compared to my left hand. Okay, so, yep, okay, so the muscle bulk is, um, reduced there. Okay, uh, and are you feeling any temperature changes? Like is this that, um, any areas of the hand or wrist feel warmer hot? No. All right, and are there any areas if you palpate that cause pain like over the wrist or any of the joints? No pain. Yeah, no pain. All right, and are you able to flex and extend your wrist? I can do that. All right, and then how about making a fist and then also extending your fingers back out? That hurts or like that causes the tingling. Okay. And then any issues with like moving your elbow or your shoulder? No. Okay. And if you take your opposite hand with just your kind of pointer finger and middle finger and just really tap right near the wrist crease called the 10L's test and you tap there. Do you feel any reproduction of symptoms? Yeah, that causes the tingling. Okay, so you're positive 10L's test and if you kind of place your risk so that like the backs of your hands are facing each other so that your wrists are flexed downwards and your wrists are flexed, that your fingers are pointing towards the ground and you just hold that position for a period of time. Do you feel any pain? I guess a little bit of tingling.",
+        "topic_id": 12,
+        "summary": " In my right hand, the flesh-y part of your thumb just above your wrist, that seems to be, you know, after-pe compared to my left hand . The muscle bulk is, um, reduced there, and are you feeling any temperature changes? Like is this that",
+        "keywords": [
+            "wrist",
+            "tingling",
+            "wrists",
+            "thumb",
+            "hand"
+        ],
+        "sentiment": 0.23373376623376618
+    },
+    {
+        "start_time": 666.8,
+        "end_time": 665.0,
+        "text": "Okay, so that would be I guess a little bit of tingling.",
+        "topic_id": 13,
+        "summary": "Okay, so that would be I guess a little bit of tingling.",
+        "keywords": [
+            "tingling",
+            "okay",
+            "little",
+            "bit",
+            "guess"
+        ],
+        "sentiment": 0.15625
+    },
+    {
+        "start_time": 665.0,
+        "end_time": 672.0,
+        "text": "Okay, so that would be a positive fail-in test as well.",
+        "topic_id": 14,
+        "summary": "Okay, so that would be a positive fail-in test as well.",
+        "keywords": [
+            "test",
+            "fail",
+            "positive",
+            "okay"
+        ],
+        "sentiment": 0.36363636363636365
+    },
+    {
+        "start_time": 672.0,
+        "end_time": 676.0,
+        "text": "Um, and range of motion of the neck.",
+        "topic_id": 15,
+        "summary": "Um, and range of motion of the neck.",
+        "keywords": [
+            "neck",
+            "motion",
+            "range",
+            "um"
+        ],
+        "sentiment": 0.0
+    },
+    {
+        "start_time": 676.0,
+        "end_time": 679.0,
+        "text": "Do you have any problems with that or any pain there?",
+        "topic_id": 16,
+        "summary": "Do you have any problems with that or any pain there?",
+        "keywords": [
+            "pain",
+            "problems"
+        ],
+        "sentiment": 0.0
+    },
+    {
+        "start_time": 679.0,
+        "end_time": 680.0,
+        "text": "No.",
+        "topic_id": 17,
+        "summary": "No.",
+        "keywords": [],
+        "sentiment": 0.0
+    },
+    {
+        "start_time": 680.0,
+        "end_time": 682.0,
+        "text": "Okay.",
+        "topic_id": 18,
+        "summary": "Okay.",
+        "keywords": [
+            "okay"
+        ],
+        "sentiment": 0.5
+    },
+    {
+        "start_time": 682.0,
+        "end_time": 690.0,
+        "text": "Um, I think that was everything I wanted to ask about and check on the exam. Did you have any questions for me?.",
+        "topic_id": 19,
+        "summary": "Um, I think that was everything I wanted to ask about and check on the exam. Did you have any questions for me?.",
+        "keywords": [
+            "exam",
+            "questions",
+            "ask",
+            "check",
+            "did"
+        ],
+        "sentiment": 0.0
+    },
+    {
+        "start_time": 690.0,
+        "end_time": 713.0,
+        "text": ". . . . . . . . . . . . . . . . . . . . . . .",
+        "topic_id": 20,
+        "summary": ". . . . . . . . . . . . . . . . . . . . . . .",
+        "keywords": [],
+        "sentiment": 0.0
+    },
+    {
+        "start_time": 713.0,
+        "end_time": 709.6,
+        "text": "..... Okay. I think that was everything I wanted to ask about and check on the exam. Did you have any questions for me? No, no questions. Thank you so much. All right, you're welcome. Yeah, so it sounds like this could be a Carpool Tunnel Syndrome. So we may,, depending on send for kind of like nerve studies",
+        "topic_id": 21,
+        "summary": " It sounds like this could be a Carpool Tunnel Syndrome. So we may send for kind of like nerve studies. ..... Okay. Did you have any questions for me? No, no questions. Thank you so much. All right, you're welcome.",
+        "keywords": [
+            "carpool",
+            "exam",
+            "nerve",
+            "syndrome",
+            "check"
+        ],
+        "sentiment": 0.47714285714285715
+    },
+    {
+        "start_time": 709.6,
+        "end_time": 723.96,
+        "text": "to confirm the diagnosis and things that you can do in the meantime would be used like a splint or yeah, trying to use like nighttime splints and activity modification as well.",
+        "topic_id": 22,
+        "summary": " A splint or nighttime splints and activity modification as well. to confirm the diagnosis and things that you can do in the meantime would be used like a splint .",
+        "keywords": [
+            "splint",
+            "splints",
+            "diagnosis",
+            "nighttime",
+            "meantime"
+        ],
+        "sentiment": 0.0
+    },
+    {
+        "start_time": 723.96,
+        "end_time": 726.96,
+        "text": "Okay, me and Matlan's good.",
+        "topic_id": 23,
+        "summary": "Okay, me and Matlan's good.",
+        "keywords": [
+            "matlan",
+            "okay",
+            "good"
+        ],
+        "sentiment": 0.6
+    }
+]

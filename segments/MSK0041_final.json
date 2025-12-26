@@ -1,0 +1,423 @@
+[
+    {
+        "start_time": 0.0,
+        "end_time": 10.08,
+        "text": "Help me help you. I am here because I've had this intense pain in my right foot",
+        "topic_id": 1,
+        "summary": "Help me help you. I am here because I've had this intense pain in my right foot",
+        "keywords": [
+            "foot",
+            "pain",
+            "help",
+            "intense",
+            "ve"
+        ],
+        "sentiment": 0.24285714285714285
+    },
+    {
+        "start_time": 11.12,
+        "end_time": 19.92,
+        "text": "for the past six hours or so and I thought it was important to come get a text out by you guys.",
+        "topic_id": 2,
+        "summary": "for the past six hours or so and I thought it was important to come get a text out by you guys.",
+        "keywords": [
+            "text",
+            "important",
+            "hours",
+            "come",
+            "guys"
+        ],
+        "sentiment": 0.07500000000000001
+    },
+    {
+        "start_time": 21.36,
+        "end_time": 246.28,
+        "text": "Okay, so it started six hours ago as the pain been getting better or getting worse. Um, it's been, it's been the same since it started. Okay, and was there any trauma to the foot? Or anything happened within the last day or in the last six hours? I'm no, not no trauma. Okay, and where is the pain located if you had to try to pinpoint it with one finger? It's just below my big toe, um, kind of like on the medial side. Okay. Do you, uh, I have a field of pain re-eating anywhere else, or are you just feeling it at that one spot? I'm feeling it just in that one spot. Okay. And how are you described the pain? Um, it's intense, it's sharp. Okay, and um, has there been anything that you tried that's made the pain better? No, I haven't really tried anything. I can't seem to move it. So every time I move it, it hurts. I'm trying to keep it pretty still and stationary. I took an ibuprofen. that's not that doesn't seem to help okay and so like move any movement makes it it worse um is there anything else that that makes it worse like you're putting socks on or even having um I don't know clothing touch it or your shoes touch it? Yeah, I guess yeah, my shoes, my shoes touching it and hurt. Okay, and are you able to walk? I'm able to walk on it. It's just very painful and I can't, you know, I can't bend that toe.. I can't flex it or extend it, but my other toes are okay. All right. And well, how would you describe this severity of this pain? One being the least pain and 10 being the worst pain you've ever felt? I say it's like an eight. Okay. And have you ever had a pain like this before in your toes or any of your other joints? No, never. Okay. Um, and have you had any neurological symptoms such as like numbness or tingling or sensory loss? Oh, no. Okay, and how about any muscle weakness? Hmm, no, nothing like that. All right, and have you had any headaches? No, no headaches. Have you had any memory loss or confusion? No. Okay, have you had any fevers or chills? No. Have you had any unexpected weight loss? No. And have you had any any night sweats? No. Okay, and how about any sensory changes like",
+        "topic_id": 3,
+        "summary": " It's just below my big toe, kind of like on the medial side of my foot . The pain is intense, it's sharp and intense . I say it's like an eight. One being the least pain and 10 being the worst pain you've ever felt? No, never",
+        "keywords": [
+            "ibuprofen",
+            "painful",
+            "toe",
+            "pain",
+            "hurt"
+        ],
+        "sentiment": 0.11591071428571427
+    },
+    {
+        "start_time": 246.28,
+        "end_time": 253.08,
+        "text": "changes to your vision, hearing, sense of smell or sense of taste? No changes",
+        "topic_id": 4,
+        "summary": "changes to your vision, hearing, sense of smell or sense of taste? No changes",
+        "keywords": [
+            "changes",
+            "taste",
+            "smell",
+            "vision",
+            "hearing"
+        ],
+        "sentiment": 0.0
+    },
+    {
+        "start_time": 253.08,
+        "end_time": 260.16,
+        "text": "there. All right, and have you had a sore throat or or a runny nose? No. And how",
+        "topic_id": 5,
+        "summary": "there. All right, and have you had a sore throat or or a runny nose? No. And how",
+        "keywords": [
+            "throat",
+            "runny",
+            "nose",
+            "sore",
+            "right"
+        ],
+        "sentiment": 0.2857142857142857
+    },
+    {
+        "start_time": 260.16,
+        "end_time": 325.0,
+        "text": "about having a cough or shortness of breath? No, nothing like that. Okay, and Thank you so much for watching this video, And how about any heart palpitations or feeling like your heart is racing? No. Okay. And, and, uh, have you had any lightheadedness or a dizziness? No. Okay. Um, and how about, uh, any nausea or vomiting? No. All right. Did have any abdominal pain? Nope. Any changes to your bowel habits like diarrhea or constipation? I know. I don't think so. Okay. Have you had any changes to urinary patterns like pain, frequency or incontinence? No. Okay.",
+        "topic_id": 6,
+        "summary": " Have you had any changes to urinary patterns like pain, frequency or incontinence? No. No. about having a cough or shortness of breath? No, nothing like that. And how about any heart palpitations or feeling like your heart is racing?",
+        "keywords": [
+            "dizziness",
+            "nausea",
+            "palpitations",
+            "constipation",
+            "diarrhea"
+        ],
+        "sentiment": 0.10510204081632653
+    },
+    {
+        "start_time": 325.0,
+        "end_time": 386.8,
+        "text": "And have you had any skin changes like rashes or any changes to your nails or hair? No. Okay. And how about your energy? Have you had fatigue or malaise recently? I know nothing like that. all right, and any muscle aches or body pains or or any joint pains anywhere else no okay and have you been diagnosed with any medical conditions in the past no I'm actually sorry I I have high blood pressure as well as diabetes and I am a little overweight, but other than that, nothing else. Okay. Do you take medications for any of those things?",
+        "topic_id": 7,
+        "summary": " Have you had fatigue or malaise recently? I know nothing like that. And have you had any skin changes like rashes or any changes to your nails or hair? No. And how about your energy? Have any muscle aches or body pains or or any joint pains anywhere",
+        "keywords": [
+            "pains",
+            "diagnosed",
+            "medications",
+            "malaise",
+            "rashes"
+        ],
+        "sentiment": 0.012110389610389611
+    },
+    {
+        "start_time": 392.48,
+        "end_time": 394.16,
+        "text": "I take ground full for the high blood pressure, and I'm on insulin for the diabetes.",
+        "topic_id": 8,
+        "summary": "I take ground full for the high blood pressure, and I'm on insulin for the diabetes.",
+        "keywords": [
+            "insulin",
+            "diabetes",
+            "ground",
+            "pressure",
+            "high"
+        ],
+        "sentiment": 0.255
+    },
+    {
+        "start_time": 397.68,
+        "end_time": 403.12,
+        "text": "Okay, if you have any medication changes recently? No, no medication changes.",
+        "topic_id": 9,
+        "summary": "Okay, if you have any medication changes recently? No, no medication changes.",
+        "keywords": [
+            "medication",
+            "changes",
+            "recently",
+            "okay"
+        ],
+        "sentiment": 0.25
+    },
+    {
+        "start_time": 427.32,
+        "end_time": 447.0,
+        "text": "Okay, and have you had any prior hospitalizations Thank you very much for watching this video and I'll see you in the next video, see you in the next video, see you in the next video, and see you in the next video, and see you in the next video, and see you in the next video, and see you in the next video, and see you in the next video, and see you in the next video, and see you in the next video, and see you in the next video, and see you in the next video, and see you in the next video, and see you in the next video, and see you in the next video, and see you in the next video, and see you in the next video, and see you in the next video, and see you in the next video, and see you in the next video, and see you in the next video, and see you in the next video, and see you in the next video, and see you in the next video, and see you in the next video, and see you in the next video, and see you in the next video, and see you in the next video, and see you in the next video, and see you in the next video, and see you in the next video, and see you in the next video, and see you in the next video, and see you in the next video, and see you in the next video, and see you in the next video, and see you in the next video, and see you in the next video, and see you in the next video, and see you in the next video, and see you in the next video, and see you in the next video, and see you in the next video, and see you in the next video, and see you in the next video, and see you in the next video, and see you in the next video, and see you in the next video, and see you in the next video, and see you in the next video, and see you in the next video, and see you in the next video, and see you in the next video, and see you in the next um, and have you had any prior hospitalizations or surgeries? Um, I was recently hospitalized for kidney stones, but that sense has resolved. Okay. Have you had any, uh, any surgeries? No surgeries. I just, uh, let those fix the further, to these don't. Okay. And are your immunizations up to date? Yep. There. Excellent. Um, okay. And, um, do you swallow cigarettes?",
+        "topic_id": 10,
+        "summary": " Have you had any prior hospitalizations or surgeries? Um, I was recently hospitalized for kidney stones, but that sense has resolved . And are your immunizations up to date? Yep. Um, okay. And, um, do you swallow cigarettes?",
+        "keywords": [
+            "hospitalizations",
+            "hospitalized",
+            "video",
+            "prior",
+            "surgeries"
+        ],
+        "sentiment": 0.0509375
+    },
+    {
+        "start_time": 447.0,
+        "end_time": 449.0,
+        "text": "No, I don't.",
+        "topic_id": 11,
+        "summary": "No, I don't.",
+        "keywords": [
+            "don"
+        ],
+        "sentiment": 0.0
+    },
+    {
+        "start_time": 449.0,
+        "end_time": 454.0,
+        "text": "How about marijuana or using other cannabis products?",
+        "topic_id": 12,
+        "summary": "How about marijuana or using other cannabis products?",
+        "keywords": [
+            "cannabis",
+            "marijuana",
+            "products",
+            "using"
+        ],
+        "sentiment": -0.125
+    },
+    {
+        "start_time": 454.0,
+        "end_time": 455.0,
+        "text": "No.",
+        "topic_id": 13,
+        "summary": "No.",
+        "keywords": [],
+        "sentiment": 0.0
+    },
+    {
+        "start_time": 455.0,
+        "end_time": 459.0,
+        "text": "Okay, and do you use any recreational drugs?",
+        "topic_id": 14,
+        "summary": "Okay, and do you use any recreational drugs?",
+        "keywords": [
+            "drugs",
+            "recreational",
+            "use",
+            "okay"
+        ],
+        "sentiment": 0.5
+    },
+    {
+        "start_time": 459.0,
+        "end_time": 461.0,
+        "text": "I know.",
+        "topic_id": 15,
+        "summary": "I know.",
+        "keywords": [
+            "know"
+        ],
+        "sentiment": 0.0
+    },
+    {
+        "start_time": 461.0,
+        "end_time": 464.0,
+        "text": "Okay, um, and how about alcohol?",
+        "topic_id": 16,
+        "summary": "Okay, um, and how about alcohol?",
+        "keywords": [
+            "alcohol",
+            "okay",
+            "um"
+        ],
+        "sentiment": 0.5
+    },
+    {
+        "start_time": 464.0,
+        "end_time": 525.0,
+        "text": "How many drinks per week would you have, usually? I'm out alone, I'm out alone, I'm out alone, I'm out alone, I'm out alone, I'm out alone, I'm out alone, I'm out alone, I'm out alone, I'm out alone, I'm out alone, I'm out alone, I'm out alone, I'm out alone, I'm out alone, I'm out alone, I'm out alone, I'm out alone, I'm out alone, I'm out alone, I'm out alone, I'm out alone, I'm out alone, I'm out alone, I'm out alone, I'm out alone, I'm out alone, I'm out alone, I'm out alone, I'm out alone, I'm out alone, I'm out alone, I'm out alone, I'm out alone, I'm out alone, I'm out alone, I'm out alone, I'm out alone, I'm out alone, I'm out alone, I'm out alone, I'm out alone, I'm out alone, I'm out alone, I'm out alone, I'm out alone, I'm out alone, I'm out alone, I'm out alone, I'm out alone, I'm out alone, I'm out alone, I'm out alone, I'm out alone, I'm out alone, I'm out alone, I'm out alone, I'm out alone, I'm out alone, I'm out alone, I'm out alone, I'm out alone, I'm out alone, I'm out alone, I'm out alone, I'm out alone, I'm out alone, I'm out alone, I'm out alone, I'm out alone, I'm out alone, I'm out alone, I'm out alone, I'm out alone, I'm out alone, I'm out alone, I'm out alone, I'm out alone, I'm out alone, I'm out alone, I'm out alone, I'm out alone, I'm out alone wine a day. Okay, and has that changed recently for you? Um, no, not really. I've just been, um, also been, uh, drinking like a beer every day as well. Recently. Okay. Um, all right. And, um, could you tell me a little bit about your living situation right now, like who you're living with and, uh, and where? Um, I live with, uh, my son, and a house. Okay, uh, and have you been around anybody who's been sick? No. All right, then have you traveled anywhere recently?",
+        "topic_id": 17,
+        "summary": " How many drinks per week would you have, usually, usually? I'm out alone, I'm . out alone . I live with, uh, my son, and a house . I've just been drinking like a beer every day as well as wine a day .",
+        "keywords": [
+            "drinks",
+            "drinking",
+            "wine",
+            "beer",
+            "week"
+        ],
+        "sentiment": 0.12440862708719846
+    },
+    {
+        "start_time": 525.0,
+        "end_time": 535.0,
+        "text": "No, no, not that way, something. Okay. And please tell me a little bit about your diet",
+        "topic_id": 18,
+        "summary": "No, no, not that way, something. Okay. And please tell me a little bit about your diet",
+        "keywords": [
+            "diet",
+            "way",
+            "little",
+            "tell",
+            "okay"
+        ],
+        "sentiment": 0.15625
+    },
+    {
+        "start_time": 535.0,
+        "end_time": 687.28,
+        "text": "and do you eat a lot of red meat or a lot of seafoods like self-shelfish? Uh, I eat a lot of red meat, uh, uh lot of seafood. Okay. And okay, anybody in the family have a history of musculoskeletal or neurological conditions? So, who, okay, so my father had, like, and I don't remember what kind of arthritis he had, but he had severe arthritis. He also had high blood pressure and diabetes, and on my mother's side there was some arthritis there as well, and as well as doubt and kidney stones. Okay. So that was everything I wanted to ask on the history. And so next I'll ask you to have a look at your feet, and are you seeing any swelling, redness or discoloration? I see some redness and some swelling in that area. Okay. and are you feeling any temperature changes? Yes, the right one is definitely warmer than the left. Okay, then how about any muscle atrophy and the foot or lower leg or any joint malalignment or deformities? So in terms of deformities, like it just looks swollen and so there's like a big bump on the right side of my foot, where it's completely straight on my left, but other than that, no deformities.",
+        "topic_id": 19,
+        "summary": " Are you seeing any swelling, redness or discoloration? I see some redness and some swelling in that area . Are you feeling any temperature changes? Yes, the right one is definitely warmer than the left . Then how about any muscle atrophy and the foot or lower leg",
+        "keywords": [
+            "arthritis",
+            "atrophy",
+            "swelling",
+            "musculoskeletal",
+            "redness"
+        ],
+        "sentiment": 0.23191729323308274
+    },
+    {
+        "start_time": 689.04,
+        "end_time": 701.52,
+        "text": "Okay. And if you're to palpate or press on areas of your foot or join some of your toes,",
+        "topic_id": 20,
+        "summary": "Okay. And if you're to palpate or press on areas of your foot or join some of your toes,",
+        "keywords": [
+            "toes",
+            "foot",
+            "press",
+            "palpate",
+            "okay"
+        ],
+        "sentiment": 0.5
+    },
+    {
+        "start_time": 701.52,
+        "end_time": 767.92,
+        "text": "are you feeling any pains along the top of your foot or any of your other toes? And I'll see you in the next video, and I'll see you in the next video, and I'll see you in the next video, and I'll see you in the next video, and I'll see you in the next video, and I'll see you in the next video, and I'll see you in the next video, and I'll see you in the next video, and I'll see you in the next video, and I'll see you in the next video, and I'll see you in the next video, and I'll see you in the next video, and I'll see you in the next video, and I'll see you in the next video, and I'll see you in the next video, and I'll see you in the next video, and I'll see you in the next video, and I'll see you in the next video, and I'll see you in the next video, and I'll see you in the next video, and I'll see you in the next video, and I'll see you in the next video, and I'll see you in the next video, and I'll see you in the next video, and I'll see you in the next video, and I'll see you in the next video, and I'll see you in the next video, and I'll see you in the next video, and I'll see you in the next video, and I'll see you in the next video, and I'll see you in the next video, and I'll see you in the next video, and I'll see you in the next video, and I'll see you in the next video, and I'll see you in the next video, and I'll see you in the next video, and I'll see you in the next video, and I'll see you in the next video, and I'll see you in the next video, and I'll see you in the next video, and I'll see you in the next video, and I'll see you in the next video, and I'll see you in any of your other toes? None of my other toes. Okay, and how about any pains at the ankle? No pain at the ankle. Okay, so the meta-tarsals are not having any pain and the joints of the second to fifth digits are pain-free along with the ankle as well. And when it comes to range of motion, are you able to flex your toes downwards and extend them upwards towards your nose. Yes, I can do that. Okay. And how about your ankle? Are you able to move your ankle in a full range of motion? I can. Okay. And are you having limping with walking or otherwise called it an entalgic gate?",
+        "topic_id": 21,
+        "summary": " Are you feeling any pains along the top of your foot or any of your other toes? And how about any pains at the ankle? Are you able to move your ankle in a full range of motion? I can . And are you having limping with walking or otherwise called it an",
+        "keywords": [
+            "toes",
+            "foot",
+            "video",
+            "ankle",
+            "motion"
+        ],
+        "sentiment": 0.06435185185185185
+    },
+    {
+        "start_time": 770.88,
+        "end_time": 777.28,
+        "text": "If someone, because I'm trying not to put too much weight on my right big toe.",
+        "topic_id": 22,
+        "summary": "If someone, because I'm trying not to put too much weight on my right big toe.",
+        "keywords": [
+            "toe",
+            "weight",
+            "big",
+            "trying",
+            "right"
+        ],
+        "sentiment": 0.1619047619047619
+    },
+    {
+        "start_time": 780.24,
+        "end_time": 780.72,
+        "text": "Okay.",
+        "topic_id": 23,
+        "summary": "Okay.",
+        "keywords": [
+            "okay"
+        ],
+        "sentiment": 0.5
+    },
+    {
+        "start_time": 783.68,
+        "end_time": 787.76,
+        "text": "All right, and so I think that was everything that I wanted to ask and",
+        "topic_id": 24,
+        "summary": "All right, and so I think that was everything that I wanted to ask and",
+        "keywords": [
+            "ask",
+            "right",
+            "think",
+            "wanted"
+        ],
+        "sentiment": 0.2857142857142857
+    },
+    {
+        "start_time": 788.76,
+        "end_time": 790.76,
+        "text": "I checked today",
+        "topic_id": 25,
+        "summary": "I checked today",
+        "keywords": [
+            "checked",
+            "today"
+        ],
+        "sentiment": 0.0
+    },
+    {
+        "start_time": 790.76,
+        "end_time": 796.52,
+        "text": "So did you have any other questions or anything that I maybe forgot to ask about you wanted to mention today?",
+        "topic_id": 26,
+        "summary": "So did you have any other questions or anything that I maybe forgot to ask about you wanted to mention today?",
+        "keywords": [
+            "questions",
+            "ask",
+            "mention",
+            "today",
+            "forgot"
+        ],
+        "sentiment": -0.125
+    },
+    {
+        "start_time": 797.28,
+        "end_time": 802.28,
+        "text": "I know just what can I do for my foot? How do I make this wall and go down?",
+        "topic_id": 27,
+        "summary": "I know just what can I do for my foot? How do I make this wall and go down?",
+        "keywords": [
+            "foot",
+            "wall",
+            "make",
+            "know",
+            "just"
+        ],
+        "sentiment": -0.15555555555555559
+    },
+    {
+        "start_time": 803.72,
+        "end_time": 916.0,
+        "text": "Yeah, for sure. It's so right now with having a like a red warm and swollen joint that's extremely tender and hasn't limited range of motion. It's important to rule out a septic arthritis, however, based on several of the risk factors such as diabetes and obesity, as well as your family history of arthritis and gut, thinking the most likely thing is that this is, uh get out flare and in particular, in the toe like that, it could have be called potegra, and so we'll need to get a aspiration of the joint fluid, just to send it off and make sure that it's not an infection and that we're treating the right thing. If this is goats and it comes back that this way is treated with high doses of anti-inflammatories and we'll start with medication called the culture scene to help with this flare and in the meantime important things for preventing this in the future are diet and kind of lifestyle related with reducing things like red meats, alcohol, weight loss, and I'm just trying to improve the diabetes management as well.",
+        "topic_id": 28,
+        "summary": " It's important to rule out a septic arthritis, however, based on several of the risk factors such as diabetes and obesity, as well as your family history of arthritis and gut . If this is goats and it comes back that this way is treated with high doses of anti-inflamm",
+        "keywords": [
+            "arthritis",
+            "goats",
+            "infection",
+            "swollen",
+            "joint"
+        ],
+        "sentiment": 0.19098484848484845
+    },
+    {
+        "start_time": 916.0,
+        "end_time": 919.0,
+        "text": "Okay, that sounds great. Thank you.",
+        "topic_id": 29,
+        "summary": "Okay, that sounds great. Thank you.",
+        "keywords": [
+            "great",
+            "okay",
+            "sounds",
+            "thank"
+        ],
+        "sentiment": 0.65
+    },
+    {
+        "start_time": 919.0,
+        "end_time": 922.0,
+        "text": "All right. Thank you. We'll get that started.",
+        "topic_id": 30,
+        "summary": "All right. Thank you. We'll get that started.",
+        "keywords": [
+            "started",
+            "thank",
+            "right",
+            "ll"
+        ],
+        "sentiment": 0.2857142857142857
+    }
+]

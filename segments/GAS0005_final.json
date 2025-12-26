@@ -1,0 +1,305 @@
+[
+    {
+        "start_time": 0.0,
+        "end_time": 75.4,
+        "text": "Would you mind by starting with what brought you in today? Yeah, so I'm just coming in with my son. He's six years old, and yeah, just over the last few days, he's not been himself. And he's been having this stomach ache. It's a bit started around, like, I would say three days ago. And then he's also having a vomiting for the last two days, he's vomited in total six times for the last two days. And yesterday he also developed a fever as well. I managed to measure it, and it was 38.3 degrees Celsius. Okay, I see. So just so that I understand the timelines. So we started to have a phenomenal pain about three days ago, started with having vomiting and diarrhea two days ago and you checked as a temperature at a fever as of yesterday. Yeah, okay, and was there anything",
+        "topic_id": 1,
+        "summary": " Six-year-old boy had stomach ache for three days and vomiting for two days . Yesterday he also developed a fever as well, and it was 38.3 degrees Celsius .",
+        "keywords": [
+            "fever",
+            "vomiting",
+            "diarrhea",
+            "temperature",
+            "vomited"
+        ],
+        "sentiment": 0.13636363636363635
+    },
+    {
+        "start_time": 75.4,
+        "end_time": 81.52,
+        "text": "that that he ate that was different over the last few days? No, we've been",
+        "topic_id": 2,
+        "summary": "that that he ate that was different over the last few days? No, we've been",
+        "keywords": [
+            "ate",
+            "different",
+            "days",
+            "ve"
+        ],
+        "sentiment": -0.06666666666666667
+    },
+    {
+        "start_time": 81.52,
+        "end_time": 98.0,
+        "text": "strictly going through during dynamic like no, no real changes. Okay, and what has been kind of behavior been like over these last couple of days.",
+        "topic_id": 3,
+        "summary": "strictly going through during dynamic like no, no real changes. Okay, and what has been kind of behavior been like over these last couple of days.",
+        "keywords": [
+            "behavior",
+            "dynamic",
+            "changes",
+            "like",
+            "days"
+        ],
+        "sentiment": 0.2
+    },
+    {
+        "start_time": 98.0,
+        "end_time": 115.0,
+        "text": "Yes, so at first with the stomach pain, it was a bit just irritable and just not himself, but especially yesterday with the fever, just been very quiet and just kind of sleeping pretty much the whole day.",
+        "topic_id": 4,
+        "summary": " At first with the stomach pain, it was a bit just irritable and just not himself, but especially yesterday with the fever, just been very quiet and just kind of sleeping pretty much the whole day .",
+        "keywords": [
+            "fever",
+            "stomach",
+            "irritable",
+            "pain",
+            "day"
+        ],
+        "sentiment": 0.21428571428571427
+    },
+    {
+        "start_time": 115.0,
+        "end_time": 116.6,
+        "text": "Okay, let's see.",
+        "topic_id": 5,
+        "summary": "Okay, let's see.",
+        "keywords": [
+            "okay",
+            "let"
+        ],
+        "sentiment": 0.5
+    },
+    {
+        "start_time": 116.6,
+        "end_time": 124.64,
+        "text": "And can you describe the vomit? Yes, vomit.",
+        "topic_id": 6,
+        "summary": "And can you describe the vomit? Yes, vomit.",
+        "keywords": [
+            "vomit",
+            "yes"
+        ],
+        "sentiment": 0.0
+    },
+    {
+        "start_time": 127.2,
+        "end_time": 128.4,
+        "text": "It started two days ago.",
+        "topic_id": 7,
+        "summary": "It started two days ago.",
+        "keywords": [
+            "ago",
+            "started",
+            "days"
+        ],
+        "sentiment": 0.0
+    },
+    {
+        "start_time": 128.4,
+        "end_time": 245.0,
+        "text": "The first day was just just like he puked up things that he had eaten. But yesterday it was mainly this like, I just yellowish material. I can't really tell if it's blue or not. Okay, if you notice any bio or blood in the vomit, I know I didn't notice any blood and I didn't notice any green material. It was mainly just like normal vomit, like yellowish color. Okay, let's. And has the, what was the vomiting triggered by anything that you're aware of? Like eating or drinking? Um, yeah, two days ago, it was, it was after, after lunch, when he first formed it, but after that, it's just keep me kind of random, okay see, okay, and we're registered to diarrhea, has there been any blood or color changes? I thought it's nothing, I noticed any blood at all, it's definitely just very watery. And he's had to go probably even just in the last day, probably around like six or seven times. OK. And he's vomited a taverny times. So in total, I can count six times. Okay, and has even completing any headache, so? No, not that I know. Okay, and how about any ear pain or eye pain? No, not that he's mentioned to me.",
+        "topic_id": 8,
+        "summary": " The first day was just like he puked up things that he had eaten . But yesterday it was mainly this like, I just yellowish material. I can't really tell if it's blue or not. It was mainly just like normal vomit, like yellowish color .",
+        "keywords": [
+            "vomiting",
+            "vomit",
+            "diarrhea",
+            "vomited",
+            "yellowish"
+        ],
+        "sentiment": 0.1946969696969697
+    },
+    {
+        "start_time": 245.0,
+        "end_time": 288.44,
+        "text": "Okay, and any I read this? Nope. Okay, and as you add a runny nose? No, not really. Okay, and as you add a sore throat or any pain with swallowing? No. Okay. As you add any loss of taste or loss of smell. No, that's not the easy mention to me though. Okay. And as you had a cough. No, not really. Okay. and how about any shortness of breath or wheezing? No.",
+        "topic_id": 9,
+        "summary": " As you add a runny nose or a sore throat or any pain with swallowing? No. And as you add any loss of taste or loss of smell? No, that's not the easy mention to me though .",
+        "keywords": [
+            "wheezing",
+            "throat",
+            "swallowing",
+            "breath",
+            "cough"
+        ],
+        "sentiment": 0.16904761904761906
+    },
+    {
+        "start_time": 288.44,
+        "end_time": 289.44,
+        "text": "Okay.",
+        "topic_id": 10,
+        "summary": "Okay.",
+        "keywords": [
+            "okay"
+        ],
+        "sentiment": 0.5
+    },
+    {
+        "start_time": 289.44,
+        "end_time": 286.96,
+        "text": "And... No, not really. OK, and how about any short disapproval or weasing?",
+        "topic_id": 11,
+        "summary": "And... No, not really. OK, and how about any short disapproval or weasing?",
+        "keywords": [
+            "disapproval",
+            "weasing",
+            "short",
+            "ok",
+            "really"
+        ],
+        "sentiment": -0.125
+    },
+    {
+        "start_time": 286.96,
+        "end_time": 288.44,
+        "text": "No.",
+        "topic_id": 12,
+        "summary": "No.",
+        "keywords": [],
+        "sentiment": 0.0
+    },
+    {
+        "start_time": 288.44,
+        "end_time": 289.6,
+        "text": "OK.",
+        "topic_id": 13,
+        "summary": "OK.",
+        "keywords": [
+            "ok"
+        ],
+        "sentiment": 0.5
+    },
+    {
+        "start_time": 289.6,
+        "end_time": 296.92,
+        "text": "And as you had any pain, anywhere, any chest pain,",
+        "topic_id": 14,
+        "summary": "And as you had any pain, anywhere, any chest pain,",
+        "keywords": [
+            "chest",
+            "pain"
+        ],
+        "sentiment": 0.0
+    },
+    {
+        "start_time": 296.92,
+        "end_time": 301.48,
+        "text": "either they did point to stomach like it seems like he was having",
+        "topic_id": 15,
+        "summary": "either they did point to stomach like it seems like he was having",
+        "keywords": [
+            "stomach",
+            "having",
+            "point",
+            "did",
+            "like"
+        ],
+        "sentiment": 0.0
+    },
+    {
+        "start_time": 301.48,
+        "end_time": 687.6,
+        "text": "with all the vomiting like he was having some stomach pain as well. OK, is there any specific location Let's see what's going on here, let's see what's going on here, let's see what center of his belly, like I don't know if it's like I tried pressing on it and you can feel him pain then, but I think it's just kind of all over his stomach. Okay. And as the out of the urinary problems, like painful, avoiding or being more often. No, that's been okay. I mean, you notice that he rashes or skin changes? No, no, not really. Okay, and has he had any muscle aches or joint pains that he's mentioned? No, he hasn't mentioned anything like that. Okay, and he's had a fever as he had chills. Yeah, so that's what I, that prompted me to take his temperature yesterday, probably afternoon, like we had to wrap him up in like more than two blankets and he was still feeling cold. So yeah, definitely he was having chills. Okay, and and have was there been any concerns with his growth and other weight or height? Feeling thin, pulling along the charts pretty well, like no concerns during his growth. Otherwise he's a very healthy child. Okay so the medical diagnosis previously? No, nothing like that. Okay, and is he meeting all mental milestones okay? Like a gross border fine motor doing well at school. Yeah, I didn't have any issues with walking, running, it's pretty social with all his peers, he's doing well at school, no complaints. Okay, excellent. And to know medical conditions, but has there been any reasons for being in the hospital before? No, not at all. We haven't really gone to the doctor with him after all those vaccinations that we had to do. So, it's been good. Okay, great. I'm sure. I'm immunizations are up to date. Yeah, immunizations all up to date. Excellent, and does you have any allergies? No, not anything that we know of yet. Okay, and just wanted to ask about this birth history., whether any complications throughout pregnancy, other mom being sick or, uh, having any, um, any issues herself. I know, so it was a normal, uh, vaginal delivery, um, you know, issues, uh, he was born at, uh, 39 weeks. I didn't mean to stay in the hospital at all. Yeah, it was a pretty smooth pregnancy compared to some of the other ones. Okay, that's great. Do you remember, by Apkarscore, or his birth weight? I don't exactly remember his app course scores. I think they were like just, they were normal, like there was nothing concerning looked up. And birth weight, I think he was probably around three kilograms. Okay, great. So, yeah, healthy birth weight at term. It sounds like, and, sure, healthy. Does he take any medications regularly? No, no medications. Okay. And, can you tell me about who he's living with currently and who's looking after him? Yeah, so he's living with myself, his mother, and my husband, and he has two older siblings. one is a boy for seven years old and another one, like a 10-year-old girl. Okay, and has anybody in the house been sick? No, no one has been sick recently. However, he does, they did let them go back into school at one point, so I don't know, I don't know. So that was his last week, so I don't know if he caught something from school. Okay, but nobody that you know that's had similar symptoms. No. Okay. And maybe travel anywhere. No, we've been, a home. Okay. And no recent changes to anything in the diet you've mentioned. No, that's fine. Okay. And any concerns for safety in the home, whether physical or verbal abuse, no, no concerns like that. Okay, yeah, a question that we have to ask everybody. And is there any smoking in the home? I know, no, we don't smoke. Okay, great, then. Are there any pets? No, no pets. All right, and in the family, has there been anybody who's had any heart problems or any lung problems?",
+        "topic_id": 16,
+        "summary": " With all the vomiting like he was having some stomach pain as well, it's just kind of all over his stomach . No rashes or skin changes? No, no, not really. I'm immunizations are up to date. No allergies. No, not anything that we know",
+        "keywords": [
+            "fever",
+            "symptoms",
+            "diagnosis",
+            "vomiting",
+            "sick"
+        ],
+        "sentiment": 0.23089133089133093
+    },
+    {
+        "start_time": 692.6,
+        "end_time": 694.88,
+        "text": "We are getting the ten-year-old tested for just a",
+        "topic_id": 17,
+        "summary": "We are getting the ten-year-old tested for just a",
+        "keywords": [
+            "tested",
+            "just",
+            "old",
+            "getting",
+            "year"
+        ],
+        "sentiment": 0.0
+    },
+    {
+        "start_time": 703.2,
+        "end_time": 704.8,
+        "text": "Asma, okay, but nothing diagnosed yet, no. Okay, and anybody in the family",
+        "topic_id": 18,
+        "summary": "Asma, okay, but nothing diagnosed yet, no. Okay, and anybody in the family",
+        "keywords": [
+            "diagnosed",
+            "asma",
+            "family",
+            "anybody",
+            "okay"
+        ],
+        "sentiment": 0.125
+    },
+    {
+        "start_time": 729.0,
+        "end_time": 811.0,
+        "text": "Have any congenital diseases or any genetic diseases? No, not that I know. Okay. Anybody in the family have celiac disease or crones disease? I don't know, I don't know if it's true of any kind of model diseases. Okay, so I think that's everything I wanted to ask about today. Was there anything that maybe I forgot to ask or that I missed that you wanted to tell me? Yeah, normally it's also just like, I was just reading up, can it be like, I don't know if it can decode it as well, if it can do this as well. It is possible. Especially with non-specific symptoms, COVID can cause a variety of different presentations. And for some people, it can be more gastrointestinal issues like your son has with vomiting and diarrhea and belly pain, but it also could be another type of gastrointestinal virus itself or a viral illness like the common cold which can also end up causing symptoms like this as well. So we will go ahead and do a COVID test today along with some other other but work, and maybe increase the hydration as well.",
+        "topic_id": 19,
+        "summary": " COVID can cause a variety of different presentations, especially with non-specific symptoms . For some people, it can be more gastrointestinal issues like your son has with vomiting and diarrhea and belly pain, but it also could be another type of gastrointestinal virus itself or a viral illness like the common",
+        "keywords": [
+            "symptoms",
+            "celiac",
+            "covid",
+            "disease",
+            "diseases"
+        ],
+        "sentiment": 0.11153846153846156
+    },
+    {
+        "start_time": 811.0,
+        "end_time": 817.0,
+        "text": "It sounds like he has lost a lot of fluid over these last couple of days.",
+        "topic_id": 20,
+        "summary": "It sounds like he has lost a lot of fluid over these last couple of days.",
+        "keywords": [
+            "fluid",
+            "days",
+            "sounds",
+            "lost",
+            "couple"
+        ],
+        "sentiment": 0.0
+    },
+    {
+        "start_time": 817.0,
+        "end_time": 824.0,
+        "text": "So we'll check electrolytes and go from there on the test results.",
+        "topic_id": 21,
+        "summary": "So we'll check electrolytes and go from there on the test results.",
+        "keywords": [
+            "electrolytes",
+            "test",
+            "results",
+            "check",
+            "ll"
+        ],
+        "sentiment": 0.0
+    },
+    {
+        "start_time": 824.0,
+        "end_time": 827.0,
+        "text": "All right, sounds good. Thank you so much.",
+        "topic_id": 22,
+        "summary": "All right, sounds good. Thank you so much.",
+        "keywords": [
+            "sounds",
+            "thank",
+            "good",
+            "right"
+        ],
+        "sentiment": 0.3952380952380952
+    }
+]

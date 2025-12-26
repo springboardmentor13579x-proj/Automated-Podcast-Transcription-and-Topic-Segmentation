@@ -1,0 +1,154 @@
+[
+    {
+        "start_time": 0.0,
+        "end_time": 188.0,
+        "text": "And what brings you to the emergency department today? Low back pain. Okay. And where exactly is the back pain? So the the pain's just rated in the in the lower back just in the lower back. Okay. And when did this pain start? It started yesterday. I was unloading groceries for my pickup truck and I wanted to suddenly start it. Okay, and did you kind of make any kind of movements or did you fix something really heavy? I bought sure. I just noticed the pain after that. And what kind of pain are you experiencing is it like a dull cramping pain or is it more like a sharp or stabbing thing? It feels like it's stabbing just right in my lower back. Okay, and on a scale of 1 to 10, one being like the least pain that you felt in your life, 10 being the worst, how much would you rate this pain? If I'm sitting completely still like I am right now, it's just a two out of ten. Okay. And when does it get worse? Any time I move or I bend my back or even cough, it worsens the pain significantly. Okay. And has this pain changed at all since yesterday? No, it's been this same awful pain this whole time. And have you ever had this kind of pain before? I've had a back pain over the years, but nothing like this before. And does it, does it pain going? Or does it just stay in the lower back? I also feel the pain into my right leg. Okay. And is it the same kind of aching or like stabbing pain that goes into your right by? Or is it just like an aching pain? It's an aching pain. And do you have any other symptoms that decides to pain like are you experiencing any kind of weakness or any kind of change any other changes in your health? No, it's just the low back pain, okay, and have you ever experienced any kind of trauma to your back like something and take you or you fall down, anything like that? No, I can't remember any injuries like that in the past.",
+        "topic_id": 1,
+        "summary": " Low back pain is a low back pain, according to the patient . On a scale of 1 to 10, one being like the least pain that you felt in your life, 10 being the worst . Any time I move or I bend my back or even cough, it worsens the",
+        "keywords": [
+            "pain",
+            "cramping",
+            "aching",
+            "symptoms",
+            "sitting"
+        ],
+        "sentiment": 0.11790587580061263
+    },
+    {
+        "start_time": 188.0,
+        "end_time": 209.0,
+        "text": "Okay. Any fevers or chills or night sweats? No fever, no chills, no night sweats. Okay. Any symptoms of feeling really tired, fatigue and things like that? No. I've been okay recently. Okay.",
+        "topic_id": 2,
+        "summary": " No fever, no chills or night sweats, no night sweats . No symptoms of feeling really tired, fatigue and things like that? No. I've been okay recently. Okay. Okay .",
+        "keywords": [
+            "symptoms",
+            "fevers",
+            "fever",
+            "fatigue",
+            "tired"
+        ],
+        "sentiment": 0.32
+    },
+    {
+        "start_time": 209.0,
+        "end_time": 232.0,
+        "text": "Okay. Okay. Okay. Okay. Okay. Okay. Okay. Okay. Okay. Okay. Okay. Okay. Okay. Okay. Okay. Okay. Okay. Okay. Okay. Okay. Okay. Okay. Okay.",
+        "topic_id": 3,
+        "summary": "Okay. Okay. Okay. Okay. Okay. Okay. Okay. Okay. Okay. Okay. Okay. Okay. Okay. Okay. Okay. Okay. Okay. Okay. Okay. Okay. Okay. Okay. Okay.",
+        "keywords": [
+            "okay"
+        ],
+        "sentiment": 0.5
+    },
+    {
+        "start_time": 232.0,
+        "end_time": 445.0,
+        "text": "Okay. Okay. Okay, recently. Okay. Any changes to your skin at all? Any other issues? Yep. Okay. Any pain in your joints at all? Just the back pain. Okay. Any new coughs or any symptoms and rain knows or anything like that? No. Any changes in your bowel movements at all? Like diarrhea, constipation or anything? Nothing like that. It's been regular. Okay. How about any urinary problems? No, nothing to report there. And how is your appetite been normal? Any significant weight loss or weight gain recently? No, the weight's been about the same. Any recent infections that you know? No, I've been feeling well otherwise. Any tingling sensation or numbness in your back or lower limbs? No, no, numbness or tingling. Okay. Any muscle weakness at all? No muscle weakness. And I've even been having any kind of irritable dysfunction, no concerns with erectile dysfunction, in any issues with incognits, like having accidents at night or during the day? No, I haven't had any problems with bowel or bladder incognits. In terms of your past medical history, have you been diagnosed with any conditions like high blood pressure, diabetes? Type 2 diabetes, and you take any medications for it, insulin for diabetes, okay, and any other medications at all? It's just been taking Tylenol for the back pain. It has not worked for you at all, or has it in a difference? Maybe it's taken the edge off a little bit, but it hasn't done too much to help the pain. Any allergies? Nope. Any previous surgeries? I had hemorrhoids for a bit of three years ago. Any hospitalizations before? Nope. I was just day surgery. Any family history of any conditions or like in cancers? My father had prostate cancer. And currently right now, do you work? I'm a retired school teacher. Okay. And where do you look? I live alone in a house, not too far from here actually, okay. And do you drink it all? Um, occasionally, maybe I'll have a glass of red wine on the weekend or something like that, but not too often. Okay. And are you smoke? I've smoked. Yeah. I smoke a pack of cigarettes per day. Okay. And for how long have you smoked as a grads for? About 40 years, 40 years, okay.",
+        "topic_id": 4,
+        "summary": " A retired school teacher has been diagnosed with diabetes, high blood pressure and high cholesterol . He has been taking Tylenol for the back pain, but it hasn't done too much to help the pain . He smokes a pack of cigarettes a day and doesn't drink it all,",
+        "keywords": [
+            "symptoms",
+            "constipation",
+            "diarrhea",
+            "diagnosed",
+            "bowel"
+        ],
+        "sentiment": 0.21126345876345873
+    },
+    {
+        "start_time": 446.0,
+        "end_time": 449.2,
+        "text": "And do you use any kind of recreational drugs?",
+        "topic_id": 5,
+        "summary": "And do you use any kind of recreational drugs?",
+        "keywords": [
+            "recreational",
+            "drugs",
+            "use",
+            "kind"
+        ],
+        "sentiment": 0.6
+    },
+    {
+        "start_time": 450.8,
+        "end_time": 453.44,
+        "text": "I never, okay.",
+        "topic_id": 6,
+        "summary": "I never, okay.",
+        "keywords": [
+            "okay"
+        ],
+        "sentiment": -0.25
+    },
+    {
+        "start_time": 453.44,
+        "end_time": 456.32,
+        "text": "And how's your diet like on a regular basis?",
+        "topic_id": 7,
+        "summary": "And how's your diet like on a regular basis?",
+        "keywords": [
+            "diet",
+            "regular",
+            "like",
+            "basis"
+        ],
+        "sentiment": 0.0
+    },
+    {
+        "start_time": 457.88,
+        "end_time": 462.88,
+        "text": "I feel like it's pretty normal, mostly home cooked meals.",
+        "topic_id": 8,
+        "summary": "I feel like it's pretty normal, mostly home cooked meals.",
+        "keywords": [
+            "meals",
+            "cooked",
+            "normal",
+            "feel",
+            "home"
+        ],
+        "sentiment": 0.3
+    },
+    {
+        "start_time": 462.88,
+        "end_time": 507.6,
+        "text": "It was a variety of vegetables, other meats and fish. I would say it's pretty balanced. Okay. All right. I just have a few more questions for you. Are you currently sexually active? Yes, I am. Okay. And who are you sexually active with any new partners at all? No new partners, just my girlfriend. And how many, I'm sorry, good? Oh, just my girlfriend recently. Okay. And have you been sexually active with more than one partner in the past year?",
+        "topic_id": 9,
+        "summary": " Are you currently sexually active? Yes, I am . Have you been sexually active with more than one partner in the past year? No new partners, just my girlfriend recently .",
+        "keywords": [
+            "vegetables",
+            "balanced",
+            "fish",
+            "variety",
+            "meats"
+        ],
+        "sentiment": 0.15716089466089467
+    },
+    {
+        "start_time": 507.6,
+        "end_time": 529.04,
+        "text": "Yes, I have two women over the past year, okay, and do you use any kind of protection? Yes, always use the condoms. Okay, all right, so now I'm just going to get the patient's",
+        "topic_id": 10,
+        "summary": " Yes, I have two women over the past year, okay, and do you use any kind of protection? Yes, always use the condoms . Yes, all right, so now I'm just going to get the patient's .",
+        "keywords": [
+            "condoms",
+            "protection",
+            "women",
+            "use",
+            "patient"
+        ],
+        "sentiment": 0.3271428571428571
+    },
+    {
+        "start_time": 529.04,
+        "end_time": 531.04,
+        "text": "Bye-dolls!",
+        "topic_id": 11,
+        "summary": "Bye-dolls!",
+        "keywords": [
+            "dolls",
+            "bye"
+        ],
+        "sentiment": 0.0
+    }
+]

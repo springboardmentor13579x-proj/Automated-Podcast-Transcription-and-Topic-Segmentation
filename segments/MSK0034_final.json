@@ -1,0 +1,198 @@
+[
+    {
+        "start_time": 0.0,
+        "end_time": 46.24,
+        "text": "what brings in here today? Yeah, so I'm here with my mom because I am having this pain in my right hip and growing area. I was playing with my friends to maybe yesterday and I fell down. I didn't fall down hard but I had a small fall and since then my hip has been hurting and it's painful for me to bear any weight on my right leg. Okay, did you have this pain at all before your fall or is this something that just started after the fall? It just started after.",
+        "topic_id": 1,
+        "summary": " I was playing with my friends to maybe yesterday and I fell down. I didn't fall down hard but I had a small fall and since then my hip has been hurting and it's painful for me to bear any weight on my right leg .",
+        "keywords": [
+            "fell",
+            "pain",
+            "fall",
+            "hurting",
+            "hip"
+        ],
+        "sentiment": -0.06016865079365079
+    },
+    {
+        "start_time": 47.04,
+        "end_time": 62.56,
+        "text": "Okay, and when did you have the fall? Yesterday. Okay, and can you describe what you were doing from how high did you fall and if on what surface you Are you full on? Sure.",
+        "topic_id": 2,
+        "summary": " Can you describe what you were doing from how high did you fall and if on what surface you were on? Are you full on? Sure. Okay, and when did you have the fall? Yesterday .",
+        "keywords": [
+            "fall",
+            "surface",
+            "high",
+            "yesterday",
+            "doing"
+        ],
+        "sentiment": 0.40199999999999997
+    },
+    {
+        "start_time": 62.56,
+        "end_time": 410.8,
+        "text": "We were playing soccer on a a field and and I just fell on the grass like it was a flat surface. Okay and so did you say it was the right hip that's giving you pain? Yes that's right. Okay did you fall on the right hip? I did. Okay, and after you fell were you able to wait bare like get up and get back up on your feet or was it difficult? It was difficult. I'm still limping. Okay, you're still limping. Have you noticed So any pain anywhere else where is it just your hip? Just my hip. Okay, and where exactly is your pain on the hip? It's like on the side of my hip as well as like in the groin area. Okay, and what kind of pain are you experiencing? Is it a sharp pain or is it a dull aching pain? It's pretty sharp. It's sharp, okay. And do you experience any other symptoms like any dizziness or fainting spells? No. Okay. Are you able to move your hip at all? Like are you able to flex it or extend it, rotate it? I can move it, but it comes with a lot of pain. Okay. And do you find that your hip is at all rotated at words? Yeah, it looks, um, yeah, it looks like it is. Okay. All right. Have you taken any medications for your pain? I just took some ibuprofen. Okay. And other than that, have you recently been sick at all? No, I haven't. Okay, and on a scale of 0 to 10, 10 being the worst first pain you've found in your life, How much would you rate this? How'd it look like an eight? and eight and does the pain travel anywhere or to other parts of your body? No, just in that area. Any numbness or tingling? No. no okay um any fevers or chills um no any skin changes that you have noticed over the hip? no. it's a normal swelling, redness or anything like that. Um, no, it doesn't seem to be red. Maybe some slight swelling. Um, yeah. Okay. Um, any insurance of bread, chest pain? No. Okay. Any pain in any other joints? No. Okay. Um, do you feel any weakness in your upper legs or lower legs at all? No, not that I can tell, no. Okay. And do you have any past medical conditions that you've been diagnosed with? No, I've been pretty healthy otherwise. Okay, and do you take any medication on a daily basis? No. Okay. Any allergies that you know? No. And are all your immunizations up to date? Yeah, they should be. Okay. Have you ever been hospitalized for had any surgeries in the past? no no okay and yeah I'll just ask you as well as your mother during the time she was pregnant with you did you have any kind of complications during pregnancy at all? I know, no complications. Okay. And when you were born, any complications after birth, any stay in the hospital for any reason? No. And was it a vaginal delivery or was it a c-section? It was a vaginal delivery. Okay. And was there the use of any kind of instruments like four subs or vacuum for any reason? No. No. Okay. So it was like a fairly normal pregnancy and were you at term or premature? At term. At term. Okay. All right. And any complications, difficulties while you were growing up at all with your growth, like tighter weight, or any kind of double-up mental issues that you don't know um I hit all my milestones and otherwise doing pretty well on par with my peers in terms of milestones okay and school's going well yeah school's going well okay um and in In terms of your family history, any musculoskeletal or rheumatologic conditions?",
+        "topic_id": 3,
+        "summary": " We were playing soccer on a a field and and and I just fell on the grass like it was a flat surface . It's like on the side of my hip as well as like in the groin area . Do you have any past medical conditions that you've been diagnosed with? No",
+        "keywords": [
+            "hip",
+            "limping",
+            "musculoskeletal",
+            "swelling",
+            "pain"
+        ],
+        "sentiment": 0.1456885456885457
+    },
+    {
+        "start_time": 413.52,
+        "end_time": 415.84,
+        "text": "No, nothing like that in the family.",
+        "topic_id": 4,
+        "summary": "No, nothing like that in the family.",
+        "keywords": [
+            "family",
+            "like"
+        ],
+        "sentiment": 0.0
+    },
+    {
+        "start_time": 418.96,
+        "end_time": 421.52,
+        "text": "And currently right now, who do you look with?",
+        "topic_id": 5,
+        "summary": "And currently right now, who do you look with?",
+        "keywords": [
+            "currently",
+            "look",
+            "right"
+        ],
+        "sentiment": 0.2857142857142857
+    },
+    {
+        "start_time": 422.96,
+        "end_time": 446.2,
+        "text": "I look with both my parents as well as my seven-year-old sister. Okay, all right, and yeah, if I can just, is it okay if I just talk to you alone for a little bit? Sure, yeah. All right, so anything that we talked about here today we'll stay",
+        "topic_id": 6,
+        "summary": " \"I look with both my parents as well as my seven-year-old sister,\" he says . \"It's okay if I just talk to you alone for a little bit? Sure, yeah.\"",
+        "keywords": [
+            "talk",
+            "talked",
+            "parents",
+            "sure",
+            "look"
+        ],
+        "sentiment": 0.3139880952380952
+    },
+    {
+        "start_time": 446.2,
+        "end_time": 451.44,
+        "text": "confidential as long as there's no harm to yourself or others or risk",
+        "topic_id": 7,
+        "summary": "confidential as long as there's no harm to yourself or others or risk",
+        "keywords": [
+            "confidential",
+            "risk",
+            "harm",
+            "long"
+        ],
+        "sentiment": -0.05
+    },
+    {
+        "start_time": 451.44,
+        "end_time": 455.12,
+        "text": "of harm to yourself or others so yeah I'm just going to ask you a few",
+        "topic_id": 8,
+        "summary": "of harm to yourself or others so yeah I'm just going to ask you a few",
+        "keywords": [
+            "harm",
+            "ask",
+            "just",
+            "yeah",
+            "going"
+        ],
+        "sentiment": -0.2
+    },
+    {
+        "start_time": 455.12,
+        "end_time": 459.64,
+        "text": "questions pertaining to your health",
+        "topic_id": 9,
+        "summary": "questions pertaining to your health",
+        "keywords": [
+            "health",
+            "questions",
+            "pertaining"
+        ],
+        "sentiment": 0.0
+    },
+    {
+        "start_time": 459.64,
+        "end_time": 505.0,
+        "text": "sure that sounds good yeah so at home do you find that you're in a safe environment even outside of your home in your neighborhood do you feel safe Thank you so much for watching this video, and I'll see you in the next video, and I'll see you in the next video, and I'll see you in the next video, and I'll see you in the next video, and I'll see you in the next video, and I'll see you in the next video, and I'll see you in the next video, and I'll see you in the next video, and I'll see you in the next video, and I'll see you in the next video, and I'll see you in the next video, and I'll see you in the next video, and I'll see you in the next video, and I'll see you in the next video, and I'll see you in the next video, and I'll see you in the next video, and I'll see you in the next video, and I'll see you in the next video, and I'll see you in the next video, and I'll see you in the next video, and I'll see you in the next video, and I'll see you in the next video, and I'll see you in the next video, and I'll see you in the next video, and I'll see you in the next video, and I'll see you in the next video, and I'll see you in the next video, and I'll see you in the next video, and I'll see you in the next video, and I'll see you in the next video, and I'll see you in the next video, and I'll see you in the next video, and I'll see you in the next video, and I'll see you in the next video, and I'll see you in the next video, and I'll see you in the next video, and I'll see you in the next video, and I'll see you in the next video, and I'll see you in the next video, and I'll see you in the next video, and I'll see you in the next video, and I'll see you in the next video, and I'll see you in the at home, do you find that you're in a safe environment even outside of your home in your neighborhood, do you feel safe? I do. Okay. And how about at school? Do you feel safe? Have you experienced any kind of bullying or anything like that? No. Okay. Have you tried any alcohol Reckoning recreational drugs or cigarettes or do you know any friends that have tried? I know older kids that have tried in the school, but we haven't. Okay, and are you sexually active? No. No.",
+        "topic_id": 10,
+        "summary": " At home do you find that you're in a safe environment even outside of your home in your neighborhood do you feel safe? I do. I'll see you in the next video . Have you experienced any kind of bullying or anything like that? No. Have you tried any alcohol or",
+        "keywords": [
+            "video",
+            "neighborhood",
+            "home",
+            "outside",
+            "sure"
+        ],
+        "sentiment": 0.10310734463276836
+    },
+    {
+        "start_time": 505.0,
+        "end_time": 506.0,
+        "text": "Okay.",
+        "topic_id": 11,
+        "summary": "Okay.",
+        "keywords": [
+            "okay"
+        ],
+        "sentiment": 0.5
+    },
+    {
+        "start_time": 506.0,
+        "end_time": 730.0,
+        "text": "All right. So this is just a few questions I had. I'll call your mom back in. Okay. So yeah, we're just going to try and do a couple of examinations. So are you able to stand up by yourself? Um, I can, but I need a lot of assistance like I have to hold on to the desk or have a Creature something like that. Okay, worries, and then while laying down are you able to lift your right leg with your knees straight? I don't know what's straightening my knees, my leg seems to have permanently turned outward and look shorter than my other leg. And yeah, I forgot to ask you this earlier. I don't think we weighed you when you were coming in. But approximately how much would you say you weigh? Um, I weigh about a hundred and thirty pounds. Okay. And do you know how tall you are? I'm about 48. Okay, all right, so yeah, those were just some of the questions I had today. We'll do a full physical examination, have you come in or sorry and will continue with the full examination today and what currently it seems like it can definitely be from the folly you may have injured yourself and we just want to make sure there's no fractures like a hip fracture. One thing that's also something that we have to investigate is something called slipped capital from moral epithesis. So this is a common hip issue in adolescence, especially from boys aged 10 to 16, and usually it's the left hip that's more affected, but it can be the right. And as adolescence are on a phase where they're growing, there is, if they have some predisposition to slipping of the capital from all of the epithesis, which is right between your hips, you can get some slipping. It can be after a fall or it can happen just as the child is growing. And it can also, it is also defeated with the increasing weight that a child may have. So what we can do is just that for an x-ray of both the hips and see what we can find on the x-ray, and then we'll also do a full examination. And if it does turn out that there is a fracture or there's a slipped cap of the mall, this is, we will need to send out a referral to pediatric orthopedic surgery. Okay. So yeah, first we'll just get the imaging",
+        "topic_id": 12,
+        "summary": " Are you able to stand up by yourself? Um, I can, but I need a lot of assistance like I have to hold on to the desk or have a hand or something like that? I weigh about a hundred and thirty pounds . Do you know how tall you are? I",
+        "keywords": [
+            "leg",
+            "knees",
+            "orthopedic",
+            "examination",
+            "weigh"
+        ],
+        "sentiment": 0.1420530492898914
+    },
+    {
+        "start_time": 730.0,
+        "end_time": 737.44,
+        "text": "done and see what's going on in there and then we'll get back to you shortly. Okay, that sounds great.",
+        "topic_id": 13,
+        "summary": "done and see what's going on in there and then we'll get back to you shortly. Okay, that sounds great.",
+        "keywords": [
+            "okay",
+            "shortly",
+            "great",
+            "sounds",
+            "going"
+        ],
+        "sentiment": 0.43333333333333335
+    },
+    {
+        "start_time": 737.44,
+        "end_time": 740.0,
+        "text": "Thank you so much. Welcome. Take care.",
+        "topic_id": 14,
+        "summary": "Thank you so much. Welcome. Take care.",
+        "keywords": [
+            "welcome",
+            "care",
+            "thank"
+        ],
+        "sentiment": 0.8
+    }
+]

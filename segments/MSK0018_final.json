@@ -1,0 +1,154 @@
+[
+    {
+        "start_time": 0.0,
+        "end_time": 94.08,
+        "text": "what brings you in? I just came in because I just got into like this incident while I was playing rugby. I kind of got tackled and then fell onto my right shoulder. After I got up, I've just been, this had just happened a couple of hours ago, actually, and I've just been in intense pain in my right shoulder and it can seem to move it at all. Okay and sorry when was this exactly? Probably two hours ago. Two hours ago okay and is this pain persistent or is it like on and off? It's a constant, it hasn't gone away at all. One to ten ten means the worst, how bad is this pain? I don't know, like probably like eight or nine. Eight or nine, huh? Okay. And is it a sharp kind of pain or is it dull and pain? It's sharp, like if I try to move it at all, it's like a sharp pain. Okay. Um, and have you ever had anything like this in the past? No, never. Never. Okay. And are you able to move your arm at all or you can't move it. I could move my fingers and hand and elbow, but elbow a little bit, but like yeah I can't move my shoulder whatsoever.",
+        "topic_id": 1,
+        "summary": " I just got into like this incident while I was playing rugby . I kind of got tackled and then fell onto my right shoulder . After I got up, I've just been in intense pain in my shoulder . I could move my fingers and hand and elbow, but elbow a little bit",
+        "keywords": [
+            "shoulder",
+            "elbow",
+            "pain",
+            "arm",
+            "tackled"
+        ],
+        "sentiment": 0.04669047619047619
+    },
+    {
+        "start_time": 99.92,
+        "end_time": 345.0,
+        "text": "And do are you experiencing a tingling or not this? No, I don't think so. No, I don't. Um, have any, uh, mushroom meat here? Um, in that area, I don't know if it's weakness or pain, but yeah, I just can't move it out. And I, I do feel some, like, numbness just above my shoulder no tingling Okay, any pain elsewhere in your body? No. No, okay. Any headaches? No. Confusion or memory loss? No. Wait for us? No. fingers are choked. No. Rashes. No. Change in your vision hearing smaller taste. No. Coughing, sharp as a breath or breathing, no, just pain or heart palpitations. Changes in your bowel movements. Nope. Changes in boiding. Nope. Okay and then with regards to this pain does anything make it better or worse? Not anything that I've tried that to meet a better worse is probably just if I try to move it at all. Okay, and the pins in your shoulder, does it radiate down, uh, or up elsewhere? Uh, mostly towards my shoulder, um, kind of down towards my upper arm as well. Okay, let's see. All right, and are you otherwise healthy? Do you have any other medical conditions? No, yeah, otherwise I'm healthy. I've never been to the doctor much. Okay. All right, and are you on any medications? No. No. Okay. And are you up to date with your immunizations? Yes. Okay. And do you have any allergies? No. Any family history of musculoskeletal diseases? No, not that I know. Okay. Any family history of autoimmune conditions? No. Okay. Do you smoke at all? No. No, um, do you can say marijuana? Nope. Do you drink alcohol? No, uh, just just with friends sometimes on the weekends, they're not really. Okay. Um, and then, where do you live right now and who do you live with? I live just outside of town with my parents in a house. Okay, and have you traveled anywhere recently? No, I've been at home. Okay. Any second text? Nope. No, okay. So now we're just going to move on to the physical exam part of this. And so can you take a look at both your shoulders and let me know if you see any redness or swelling? I don't think I see any redness or swelling, but my right shoulder and my arm just seems a little bit lower than my left one. Okay, okay. Any warmth on that shoulder? No, not that I can feel. you feel? Okay, any warmth on that shoulder?",
+        "topic_id": 2,
+        "summary": " Do you smoke at all? No, um, do you can say marijuana? Nope. Do you drink alcohol? No. No, uh, just with friends sometimes on the weekends, they're not really . Do you have a family history of musculoskeletal diseases? No",
+        "keywords": [
+            "numbness",
+            "tingling",
+            "coughing",
+            "pain",
+            "headaches"
+        ],
+        "sentiment": 0.1707247161051509
+    },
+    {
+        "start_time": 346.2,
+        "end_time": 349.0,
+        "text": "No, not that I can feel.",
+        "topic_id": 3,
+        "summary": "No, not that I can feel.",
+        "keywords": [
+            "feel"
+        ],
+        "sentiment": 0.0
+    },
+    {
+        "start_time": 349.0,
+        "end_time": 353.0,
+        "text": "Okay, any attribute to formities or skin changes?",
+        "topic_id": 4,
+        "summary": "Okay, any attribute to formities or skin changes?",
+        "keywords": [
+            "skin",
+            "formities",
+            "attribute",
+            "changes",
+            "okay"
+        ],
+        "sentiment": 0.5
+    },
+    {
+        "start_time": 356.5,
+        "end_time": 385.24,
+        "text": "For me, I do feel like my shoulders dropped and there's just kind of this little like, little like divots, uh, where, like the shoulder should be. Okay. Okay. And can you palpate that area for me just, um, the bones in that area? So like, right where your arm would connect to your shoulder and then kind of the arm your shoulder blade does that hurt when you press down?",
+        "topic_id": 5,
+        "summary": " For me, I do feel like my shoulders dropped and there's just kind of this little like, little like divots, uh, where, like the shoulder should be . Okay. And can you palpate that area for me just, um, the bones in that area? So",
+        "keywords": [
+            "shoulder",
+            "shoulders",
+            "hurt",
+            "arm",
+            "feel"
+        ],
+        "sentiment": 0.24439484126984126
+    },
+    {
+        "start_time": 490.2,
+        "end_time": 495.2,
+        "text": "Yeah, it hurts a lot. Okay, so some tenderness and pain in the crombing process and scapula and And if you press down on your biceps triceps does that, not as much, no. No, okay. And then can I get you to, um, can you lift your shoulder up at all? Like, to where, to the point where your fingers are touch, like, reaching the ceiling? No, I can't, I can't. Okay. All right. So it sounds like you have a shoulder dislocation. So we are going to do an extra of your shoulder joint first to make sure that it's just a dislocation and there aren't any broken bones or fractures. And then we can resolve this by doing something called a closed reduction to try to put the joint back in its place. And if that closed reduction doesn't work then you may need surgery for like um a week shoulder joint or like ligaments um aren't like strong enough um and it continues to happen okay um otherwise we can keep it immobilized for a few days Thanks for watching, and don't forget to like, share, and subscribe to to happen. Okay. Otherwise, we can keep it immobilized for a few days to few weeks, depending on how bad the dislocation is.",
+        "topic_id": 6,
+        "summary": " Some tenderness and pain in the crombing process and scapula and And if you press down on your biceps triceps does that, not as much, no. No, okay. And then can I get you to, um, can you lift your shoulder up at",
+        "keywords": [
+            "shoulder",
+            "biceps",
+            "dislocation",
+            "ligaments",
+            "scapula"
+        ],
+        "sentiment": 0.06492819349962207
+    },
+    {
+        "start_time": 498.2,
+        "end_time": 499.6,
+        "text": "And then once it's removed,",
+        "topic_id": 7,
+        "summary": "And then once it's removed,",
+        "keywords": [
+            "removed"
+        ],
+        "sentiment": 0.0
+    },
+    {
+        "start_time": 499.6,
+        "end_time": 504.6,
+        "text": "you can do some rehab as well to restore some range of motion.",
+        "topic_id": 8,
+        "summary": "you can do some rehab as well to restore some range of motion.",
+        "keywords": [
+            "rehab",
+            "motion",
+            "restore",
+            "range"
+        ],
+        "sentiment": 0.0
+    },
+    {
+        "start_time": 504.6,
+        "end_time": 506.16,
+        "text": "Does that sound like a good",
+        "topic_id": 9,
+        "summary": "Does that sound like a good",
+        "keywords": [
+            "sound",
+            "does",
+            "good",
+            "like"
+        ],
+        "sentiment": 0.55
+    },
+    {
+        "start_time": 506.16,
+        "end_time": 512.64,
+        "text": "plan? Do you have any questions or concerns in the meantime? No, I think that's that's",
+        "topic_id": 10,
+        "summary": "plan? Do you have any questions or concerns in the meantime? No, I think that's that's",
+        "keywords": [
+            "plan",
+            "concerns",
+            "questions",
+            "meantime",
+            "think"
+        ],
+        "sentiment": 0.0
+    },
+    {
+        "start_time": 512.64,
+        "end_time": 515.92,
+        "text": "great. Okay.",
+        "topic_id": 11,
+        "summary": "great. Okay.",
+        "keywords": [
+            "great",
+            "okay"
+        ],
+        "sentiment": 0.65
+    }
+]

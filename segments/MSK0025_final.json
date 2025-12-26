@@ -1,0 +1,542 @@
+[
+    {
+        "start_time": 0.0,
+        "end_time": 2.6,
+        "text": "We're brings you in here today.",
+        "topic_id": 1,
+        "summary": "We're brings you in here today.",
+        "keywords": [
+            "brings",
+            "today"
+        ],
+        "sentiment": 0.0
+    },
+    {
+        "start_time": 2.6,
+        "end_time": 6.24,
+        "text": "So my back has been killing me.",
+        "topic_id": 2,
+        "summary": "So my back has been killing me.",
+        "keywords": [
+            "killing"
+        ],
+        "sentiment": 0.0
+    },
+    {
+        "start_time": 6.24,
+        "end_time": 9.32,
+        "text": "It's been hurting for the past two months,",
+        "topic_id": 3,
+        "summary": "It's been hurting for the past two months,",
+        "keywords": [
+            "hurting",
+            "months",
+            "past"
+        ],
+        "sentiment": -0.25
+    },
+    {
+        "start_time": 9.32,
+        "end_time": 10.92,
+        "text": "but recently it's gotten worse.",
+        "topic_id": 4,
+        "summary": "but recently it's gotten worse.",
+        "keywords": [
+            "recently",
+            "worse",
+            "gotten"
+        ],
+        "sentiment": -0.2
+    },
+    {
+        "start_time": 10.92,
+        "end_time": 14.24,
+        "text": "I'd say over the past week or two weeks,",
+        "topic_id": 5,
+        "summary": "I'd say over the past week or two weeks,",
+        "keywords": [
+            "weeks",
+            "week",
+            "past",
+            "say"
+        ],
+        "sentiment": -0.25
+    },
+    {
+        "start_time": 14.24,
+        "end_time": 19.24,
+        "text": "it's gone really bad and no over the counter medication.",
+        "topic_id": 6,
+        "summary": "it's gone really bad and no over the counter medication.",
+        "keywords": [
+            "medication",
+            "gone",
+            "bad",
+            "counter",
+            "really"
+        ],
+        "sentiment": -0.6999999999999998
+    },
+    {
+        "start_time": 19.84,
+        "end_time": 21.24,
+        "text": "It's helping with the pain.",
+        "topic_id": 7,
+        "summary": "It's helping with the pain.",
+        "keywords": [
+            "pain",
+            "helping"
+        ],
+        "sentiment": 0.0
+    },
+    {
+        "start_time": 22.64,
+        "end_time": 132.96,
+        "text": "It's I'm finding it hard to walk. I can't feel anything in the growing area Yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, two months ago, but it's progressed to like these other symptoms as well. Yes, that's right. Where did the pain start? It started in my lower back. It started in your lower back, okay. And does the pain, how did you describe the pain? Is it like aching, sharp? It's sharp. Okay. And did anything happen prior to the pain, any injuries at that all that you experienced? Two months ago, I was in a motor vehicle accident. I think my back started hurting then. But they did some imaging and it turned out like one of the discs there was a slip in the disc or something but at that point the pain was just achy and I didn't really have any any of these other issues but over the past two weeks it's gotten sharp and I'm having all these other symptoms. OK. And so you're having the set, like what's called some numbness in your groin, is that unilateral, like on one side, or both sides? It seems like it's both sides. Okay. And, um, so, and then you're also",
+        "topic_id": 8,
+        "summary": " Two months ago, I was in a motor vehicle accident, I think my back started hurting then . But they did some imaging and it turned out like one of the discs there was a slip in the disc or something but at that point the pain was just achy and I didn't",
+        "keywords": [
+            "symptoms",
+            "numbness",
+            "pain",
+            "hurting",
+            "aching"
+        ],
+        "sentiment": 0.07470238095238095
+    },
+    {
+        "start_time": 132.96,
+        "end_time": 141.92,
+        "text": "having the urinary incontinence, um, how long has that been going on for? Yeah, the past week. Okay,",
+        "topic_id": 9,
+        "summary": "having the urinary incontinence, um, how long has that been going on for? Yeah, the past week. Okay,",
+        "keywords": [
+            "incontinence",
+            "urinary",
+            "week",
+            "long",
+            "having"
+        ],
+        "sentiment": 0.06666666666666667
+    },
+    {
+        "start_time": 141.92,
+        "end_time": 169.0,
+        "text": "and what about the numbness in your groin area? Um's been going on for the past week as well. Okay, and how would you describe your pain right now on a scale of 1 to 10, 10 being the worst pain you've felt? I would say it's like an 8 or 9. 8 or 9 Okay, and does it get worse with any any motions at all?",
+        "topic_id": 10,
+        "summary": " On a scale of 1 to 10, 10 being the worst pain you've felt? I would say it's like an 8 or 9. and what about the numbness in your groin area?",
+        "keywords": [
+            "groin",
+            "numbness",
+            "pain",
+            "10",
+            "worse"
+        ],
+        "sentiment": -0.06071428571428572
+    },
+    {
+        "start_time": 171.0,
+        "end_time": 175.0,
+        "text": "I think it's worse with",
+        "topic_id": 11,
+        "summary": "I think it's worse with",
+        "keywords": [
+            "worse",
+            "think"
+        ],
+        "sentiment": -0.4
+    },
+    {
+        "start_time": 178.0,
+        "end_time": 184.0,
+        "text": "I don't know like it's worse with anything any time I tried to move it it hurts.",
+        "topic_id": 12,
+        "summary": "I don't know like it's worse with anything any time I tried to move it it hurts.",
+        "keywords": [
+            "hurts",
+            "worse",
+            "know",
+            "like",
+            "don"
+        ],
+        "sentiment": -0.4
+    },
+    {
+        "start_time": 245.0,
+        "end_time": 249.4,
+        "text": "Okay, so you just improved with the rest, complete rest? Yeah. Okay. Does it travel, does it paint traveling anywhere else? Does it shoot down your legs at all? Yeah, so it does shoot down my legs, and I'm having a hard time walking because of that. Is it both legs or just one? It's mostly on my right, but the left one isn't the same as it used to be either. Okay. Yeah, I'm having a hard time like getting up from a chair and things like that. Okay, and anything that you've tried that has helped relieve some of your symptoms. I've tried like over the counter, I've a profan, I've tried some topical analgesics, nothing seems to be working.",
+        "topic_id": 13,
+        "summary": " Does it travel, does it paint traveling anywhere else? Does it shoot down your legs at all? Yeah, so it does shoot down my legs, and I'm having a hard time walking because of that . Is it both legs or just one? It's mostly on my right,",
+        "keywords": [
+            "walking",
+            "analgesics",
+            "legs",
+            "symptoms",
+            "rest"
+        ],
+        "sentiment": 0.11471306471306472
+    },
+    {
+        "start_time": 254.4,
+        "end_time": 262.0,
+        "text": "And have you experienced any trauma? So you mentioned you had a car accident right two months ago?",
+        "topic_id": 14,
+        "summary": "And have you experienced any trauma? So you mentioned you had a car accident right two months ago?",
+        "keywords": [
+            "trauma",
+            "accident",
+            "experienced",
+            "months",
+            "car"
+        ],
+        "sentiment": 0.5428571428571429
+    },
+    {
+        "start_time": 264.2,
+        "end_time": 285.84,
+        "text": "Yes, that was, yeah, that was two months ago. Okay, and we're in the hospital and we're in the hospital and we're in the hospital and we're in the hospital and we're in the hospital and we're in the hospital and we're in the hospital and we're in the hospital and we're in the hospital and we're in the hospital and we're in the hospital and we're in the hospital and we're in the hospital and we're in the hospital and we're in the hospital and we're in the hospital and we're in the hospital and we're in the hospital and we're in the hospital and we're in the hospital and we're in the hospital and we're in the hospital and we're in the hospital and we're in the hospital and we're in the hospital and we're in the hospital and we're in the hospital and we're in the hospital and we're in the hospital and we're in the hospital and we're in the hospital and we're in the hospital and we're in the hospital and we're in the hospital and we're in the hospital and we're in the hospital and we're in the hospital and we're in the hospital and we're in the hospital and we're in the hospital and we're in the hospital and we're in the hospital and we're in the hospital and we're in the hospital and we're in the hospital and we're in the hospital and we're in the hospital and we're in the hospital and we're in the hospital and we're in the hospital and we're in the hospital and we're in the hospital and we're in the hospital and we're in the hospital and we're in the hospital and we're in the hospital and we're in the hospital and we're in the hospital and we're in the hospital and we're in the hospital and we're in the hospital and we're in the hospital and we're in the hospital and we're in the hospital and we're in the hospital and we're in the hospital and we're in the hospital and we're in the hospital and we're in the hospital and we're in the hospital and we're in the hospital and Okay. And, um, were you in the hospital admitted to the hospital for, uh, for a while or how, what, uh, happened in your treatment? Um, yeah. I was, uh, I was taken to the ER. Uh, they did like a full work up on me. Um, The only thing on my back that they found was a",
+        "topic_id": 15,
+        "summary": " The only thing on my back that they found was a tumor on my stomach . I was, uh, I was taken to the ER. Uh, they did like a full work up on me. Um, they found a tumor in my back. I was admitted to the hospital for",
+        "keywords": [
+            "hospital",
+            "admitted",
+            "months",
+            "yeah",
+            "um"
+        ],
+        "sentiment": 0.27
+    },
+    {
+        "start_time": 285.84,
+        "end_time": 294.16,
+        "text": "slipped disc and then they said that should, that shouldn't cause me too much pain but",
+        "topic_id": 16,
+        "summary": "slipped disc and then they said that should, that shouldn't cause me too much pain but",
+        "keywords": [
+            "slipped",
+            "pain",
+            "disc",
+            "shouldn",
+            "said"
+        ],
+        "sentiment": 0.2
+    },
+    {
+        "start_time": 294.16,
+        "end_time": 300.16,
+        "text": "if I was having any of these symptoms that I'm having now I should go back or see a doctor at",
+        "topic_id": 17,
+        "summary": "if I was having any of these symptoms that I'm having now I should go back or see a doctor at",
+        "keywords": [
+            "symptoms",
+            "doctor",
+            "having"
+        ],
+        "sentiment": 0.0
+    },
+    {
+        "start_time": 300.16,
+        "end_time": 309.68,
+        "text": "least. And otherwise I was fine like I didn't lose a lot of blood or I didn't need any",
+        "topic_id": 18,
+        "summary": "least. And otherwise I was fine like I didn't lose a lot of blood or I didn't need any",
+        "keywords": [
+            "blood",
+            "didn",
+            "fine",
+            "lose",
+            "lot"
+        ],
+        "sentiment": 0.05833333333333335
+    },
+    {
+        "start_time": 310.4,
+        "end_time": 320.96,
+        "text": "surgical interventions at that point. Okay, I see. And have you been having any other symptoms",
+        "topic_id": 19,
+        "summary": "surgical interventions at that point. Okay, I see. And have you been having any other symptoms",
+        "keywords": [
+            "surgical",
+            "interventions",
+            "symptoms",
+            "having",
+            "okay"
+        ],
+        "sentiment": 0.1875
+    },
+    {
+        "start_time": 320.96,
+        "end_time": 325.0,
+        "text": "or any pain in any other joints or muscles?",
+        "topic_id": 20,
+        "summary": "or any pain in any other joints or muscles?",
+        "keywords": [
+            "joints",
+            "pain",
+            "muscles"
+        ],
+        "sentiment": -0.125
+    },
+    {
+        "start_time": 325.0,
+        "end_time": 330.0,
+        "text": "Um, no, no, nothing like that.",
+        "topic_id": 21,
+        "summary": "Um, no, no, nothing like that.",
+        "keywords": [
+            "like",
+            "um"
+        ],
+        "sentiment": 0.0
+    },
+    {
+        "start_time": 330.0,
+        "end_time": 333.0,
+        "text": "Okay. Um, any fevers or chills?",
+        "topic_id": 22,
+        "summary": "Okay. Um, any fevers or chills?",
+        "keywords": [
+            "fevers",
+            "chills",
+            "okay",
+            "um"
+        ],
+        "sentiment": 0.5
+    },
+    {
+        "start_time": 333.0,
+        "end_time": 335.0,
+        "text": "No.",
+        "topic_id": 23,
+        "summary": "No.",
+        "keywords": [],
+        "sentiment": 0.0
+    },
+    {
+        "start_time": 335.0,
+        "end_time": 337.0,
+        "text": "Any night to us?",
+        "topic_id": 24,
+        "summary": "Any night to us?",
+        "keywords": [
+            "night"
+        ],
+        "sentiment": 0.0
+    },
+    {
+        "start_time": 337.0,
+        "end_time": 339.0,
+        "text": "Um, no.",
+        "topic_id": 25,
+        "summary": "Um, no.",
+        "keywords": [
+            "um"
+        ],
+        "sentiment": 0.0
+    },
+    {
+        "start_time": 339.0,
+        "end_time": 341.0,
+        "text": "Any rashes or skin changes?",
+        "topic_id": 26,
+        "summary": "Any rashes or skin changes?",
+        "keywords": [
+            "rashes",
+            "skin",
+            "changes"
+        ],
+        "sentiment": 0.0
+    },
+    {
+        "start_time": 341.0,
+        "end_time": 342.0,
+        "text": "No.",
+        "topic_id": 27,
+        "summary": "No.",
+        "keywords": [],
+        "sentiment": 0.0
+    },
+    {
+        "start_time": 342.0,
+        "end_time": 350.0,
+        "text": "Any kind of chest pain, sort of, sort of, sort of shirtless of breath? I know. Any?",
+        "topic_id": 28,
+        "summary": "Any kind of chest pain, sort of, sort of, sort of shirtless of breath? I know. Any?",
+        "keywords": [
+            "chest",
+            "breath",
+            "pain",
+            "shirtless",
+            "know"
+        ],
+        "sentiment": 0.6
+    },
+    {
+        "start_time": 350.0,
+        "end_time": 373.0,
+        "text": "Any? Any? Any? Any? Any? Any? Any? Any? Any? Any? Any? Any? Any? Any? Any? Any? Any? Any? Any? Any? Any? Any? Any?",
+        "topic_id": 29,
+        "summary": "Any? Any? Any? Any? Any? Any? Any? Any? Any? Any? Any? Any? Any? Any? Any? Any? Any? Any? Any? Any? Any? Any? Any?",
+        "keywords": [],
+        "sentiment": 0.0
+    },
+    {
+        "start_time": 373.0,
+        "end_time": 346.88,
+        "text": "Any? Any? Any? No. Any kind of chest pain, short of certain, sorry, sureness of breath?",
+        "topic_id": 30,
+        "summary": "Any? Any? Any? No. Any kind of chest pain, short of certain, sorry, sureness of breath?",
+        "keywords": [
+            "chest",
+            "breath",
+            "pain",
+            "sureness",
+            "sorry"
+        ],
+        "sentiment": 0.07857142857142857
+    },
+    {
+        "start_time": 348.24,
+        "end_time": 429.12,
+        "text": "I know. Any cough or cold like symptoms? No. Any, so you have some urinary incontinence, any fecal incontinence? No. In any recent changes in your weight? No. Have you been sick at all recently? No. Okay. Any tingling sensation either in your back or shooting on your legs? No. Any burning sensation? A little bit of burning sensation, yeah. Okay. Do you have any numbness in your lower limbs or just numbness around the groin? Just numbness around the groin area, but my lower limbs just seem weak. Okay, so you have muscle weakness. Is it just one like that's weak or both legs? So both seem weak but the right more than the left okay I see and this is weakness seem to get worse or is it around the same as it was when it's started um it's it feels like it's getting worse okay do you have any",
+        "topic_id": 31,
+        "summary": " Have you been sick at all recently? No . Have any recent changes in your weight? No. Have any symptoms of urinary incontinence? No, so you have some urinary . No. I know. I see and this is weakness seem to get worse or is it around the",
+        "keywords": [
+            "symptoms",
+            "groin",
+            "sick",
+            "incontinence",
+            "urinary"
+        ],
+        "sentiment": -0.0468984962406015
+    },
+    {
+        "start_time": 429.12,
+        "end_time": 443.92,
+        "text": "past medical conditions you have been diagnosed with um I had um hypothyroid so I'm I've been taking as employed for that.",
+        "topic_id": 32,
+        "summary": "past medical conditions you have been diagnosed with um I had um hypothyroid so I'm I've been taking as employed for that.",
+        "keywords": [
+            "hypothyroid",
+            "medical",
+            "employed",
+            "diagnosed",
+            "taking"
+        ],
+        "sentiment": -0.125
+    },
+    {
+        "start_time": 443.92,
+        "end_time": 446.92,
+        "text": "Okay, any other medications?",
+        "topic_id": 33,
+        "summary": "Okay, any other medications?",
+        "keywords": [
+            "medications",
+            "okay"
+        ],
+        "sentiment": 0.1875
+    },
+    {
+        "start_time": 446.92,
+        "end_time": 448.92,
+        "text": "No.",
+        "topic_id": 34,
+        "summary": "No.",
+        "keywords": [],
+        "sentiment": 0.0
+    },
+    {
+        "start_time": 448.92,
+        "end_time": 605.52,
+        "text": "Okay, any other G's training medications? No. Any hospitalizations or previous surgeries? No. Any family history of any musculoskeletal or rheumatologic conditions? No. Okay. Currently, do you work? I do. I work from home right now. I'm a teacher. Okay. And did you do any work previously that required heavy lifting or string use activities regarding your back at all? I know, no, nothing like that. And what's your home and living situation like right now? Um, I home with to my children. Okay. And are you able to do things at home that you were before like, or do you need some extra help from your family members or extra help from other workers, anything like that? Yeah, my family's definitely been helping me out a lot over these past few weeks because, yeah, like I said, like I'm having some weakness in my legs. I can't move around as much because I'm in so much pain. And then like are all these like bladder accidents so yeah they've been helping me out with every day things okay I see and currently do you smoke no okay do you drink alcohol no and any recreational drugs like Where are you going? No. And any recreational drugs like marijuana? No. Okay. I'm just kidding yet. You two do a few things on just as part of the physical examination. Sure. Are you able to bend down or extend your back at all or is it too painful? Yeah, I can't do that. It's too painful. Do you notice any kind of redness swelling in and around your back? Um, not that I can tell. Okay, and how about if you press down on that your lower back, does it hurt?",
+        "topic_id": 35,
+        "summary": " Currently, do you work? I do. I work from home right now. I'm a teacher . Currently do you smoke no okay do you drink alcohol no and any recreational drugs like marijuana? No. And how about if you press down on that your lower back, does it hurt",
+        "keywords": [
+            "surgeries",
+            "hospitalizations",
+            "rheumatologic",
+            "bladder",
+            "medications"
+        ],
+        "sentiment": 0.044131161236424396
+    },
+    {
+        "start_time": 606.56,
+        "end_time": 607.92,
+        "text": "Yeah, it hurts.",
+        "topic_id": 36,
+        "summary": "Yeah, it hurts.",
+        "keywords": [
+            "hurts",
+            "yeah"
+        ],
+        "sentiment": 0.0
+    },
+    {
+        "start_time": 612.8,
+        "end_time": 613.36,
+        "text": "Okay. And are you experiencing the numbness right now in your grown area?",
+        "topic_id": 37,
+        "summary": "Okay. And are you experiencing the numbness right now in your grown area?",
+        "keywords": [
+            "numbness",
+            "grown",
+            "experiencing",
+            "area",
+            "okay"
+        ],
+        "sentiment": 0.39285714285714285
+    },
+    {
+        "start_time": 613.84,
+        "end_time": 614.88,
+        "text": "I am.",
+        "topic_id": 38,
+        "summary": "I am.",
+        "keywords": [],
+        "sentiment": 0.0
+    },
+    {
+        "start_time": 768.0,
+        "end_time": 768.8,
+        "text": "All right. Are you able to raise your legs when in a lying position with straight legs, knees, not bending at all? Are you able to raise without any pain? No, I don't know, I don't know, I don't know, I don't know, I don't know, I don't know, I don't know, I don't know, I don't know, I don't know, I don't know, I don't know, I don't know, I don't know, I don't know, I don't know, I don't know, I don't know, I don't know, I don't know, I don't know, I don't know, I don't know, I don't know, I don't know, I don't know, I don't know, I don't know, I don't know, I don't know, I don't know, I don't know, I don't know, I don't know, I don't know, I don't know, I don't know, I don't know, I don't know, I don't know, I don't know, I don't know, I don't know, I don't know, I don't know, I don't know, I don't know, I don't know, I don't know, I don't know, I don't know, I don't know, I don't know, I don't know, I don't know, I don't know, I don't know, I don't know, I don't know, I don't know, I don't know, I don't know, I don't know, I don't know, I don't know, I don't know, I don't know, I don't know, I don't know, I don't know, I don't know, I don't know, I don't know, I don't know, I don't know, I don't know, I don't know, I don't know, I don't know, I don't know, I don't know, I don't know, I don't know, I don't know, I don't raise without any pain. No, I can't do that. It's yeah, it's too painful. Yeah, let's see. All right, so those were all the questions I had for you. So it seems it's great. It's good that you came to the emergency department. Do you have any questions at all? I'm no just like how can I fix this? Yeah, so based on your symptom, it's something that's a pretty urgent. It seems like you may be having something called a kota, a koina syndrome that may be caused by your back pain and that's why you're feeling the growing what we call saddle anesthesia and then the urinary incontinence. So this may be from the injury that you had with the car accident and it may be due to some compression of what we call compression of the nerves in the area which might be giving you some of these symptoms. So the first thing we do need to do is get an MRI of your lower back just to make sure there's nothing going on like for example like any masses in the area or any kind of abscesses that might be we maybe worried about just to make sure just to see what's going on in there that's causing these symptoms, and then based on what we find, we will target the cause of these symptoms, like for example, if it's an infection that's causing this, you might need to be admitted and require antibiotics. If there's any masses causing it, you may require surgery, for example, if it's mainly related to your back, it is something that we will have to treat with an admission. So it's good that you came in here today. Do you have any",
+        "topic_id": 39,
+        "summary": " Are you able to raise your legs when in a lying position with straight legs, knees, not bending at all? No, I don't know, I . Don't raise without any pain. No, it's too painful. It seems like you may be having something called a k",
+        "keywords": [
+            "knees",
+            "legs",
+            "bending",
+            "position",
+            "raise"
+        ],
+        "sentiment": 0.2761278195488722
+    },
+    {
+        "start_time": 774.16,
+        "end_time": 775.44,
+        "text": "other questions or concerns? No, that was it. Thank you so much for your help.",
+        "topic_id": 40,
+        "summary": "other questions or concerns? No, that was it. Thank you so much for your help.",
+        "keywords": [
+            "concerns",
+            "questions",
+            "help",
+            "thank"
+        ],
+        "sentiment": 0.037500000000000006
+    },
+    {
+        "start_time": 778.0,
+        "end_time": null,
+        "text": "You're welcome and we'll get back to you shortly.",
+        "topic_id": 41,
+        "summary": "You're welcome and we'll get back to you shortly.",
+        "keywords": [
+            "welcome",
+            "shortly",
+            "ll"
+        ],
+        "sentiment": 0.26666666666666666
+    }
+]

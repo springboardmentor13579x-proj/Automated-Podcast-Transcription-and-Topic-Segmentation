@@ -1,0 +1,14 @@
+[
+    {
+        "start_time": 0.0,
+        "end_time": 1.0,
+        "text": "had a fair sum.",
+        "topic_id": 1,
+        "summary": "had a fair sum.",
+        "keywords": [
+            "sum",
+            "fair"
+        ],
+        "sentiment": 0.7
+    }
+]

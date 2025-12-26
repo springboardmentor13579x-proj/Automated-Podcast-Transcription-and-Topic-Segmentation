@@ -1,0 +1,452 @@
+[
+    {
+        "start_time": 0.0,
+        "end_time": 106.56,
+        "text": "My back is just really hurts, I feel really stiff in the morning and yeah, it's just been going on for a few months now. Okay, so for a few months stiffness in the morning, so your back hurts, where exactly would you say it hurts? I can't really pinpoint any specific locations at that hurt most kind of hurts all over. I can't really pinpoint any specific locations that hurt most kind of hurts like all down my, my back. Okay, all the way up to I guess, um, your neck and all the way down to your lower back. Uh, I wouldn't really say the neck. Yeah, I guess more of the lower parts. Maybe like the middle of my back and I say down and down Okay, and what kind of pain would you say it is it like a dull aching pain? Is it a sharp stabbing pain? How would you describe it? It's a dull pain And on a scale of zero to ten with zero being the least amount of pain you've felt in your life and having the worst, how much would you rate it? It's about a four or five, I mean some days it can be better, but yeah some days it can be worse. Okay. And when did this start? I think this started about like four or five months ago. It's been going on. Yeah, for probably about half a year now. Okay. And when it first started a, was there anything that caused the back pain like any kind of trauma or injury. Anything that you can think of that might",
+        "topic_id": 1,
+        "summary": " My back is just really hurts, I feel really stiff in the morning and yeah, it's just been going on for a few months now. I can't really pinpoint any specific locations at that hurt most kind of hurts all over . On a scale of zero to ten with zero being",
+        "keywords": [
+            "pain",
+            "aching",
+            "stiffness",
+            "neck",
+            "hurts"
+        ],
+        "sentiment": 0.07991287094547966
+    },
+    {
+        "start_time": 106.56,
+        "end_time": 114.16,
+        "text": "have led to this? No, nothing about it. I can think of. It's sort of, it's come on so slowly like",
+        "topic_id": 2,
+        "summary": "have led to this? No, nothing about it. I can think of. It's sort of, it's come on so slowly like",
+        "keywords": [
+            "led",
+            "think",
+            "come",
+            "slowly",
+            "like"
+        ],
+        "sentiment": -0.30000000000000004
+    },
+    {
+        "start_time": 114.16,
+        "end_time": 120.96,
+        "text": "when I first started noticing the back pain. It was maybe like a zero to a one. I didn't really",
+        "topic_id": 3,
+        "summary": "when I first started noticing the back pain. It was maybe like a zero to a one. I didn't really",
+        "keywords": [
+            "pain",
+            "zero",
+            "like",
+            "didn",
+            "started"
+        ],
+        "sentiment": 0.15
+    },
+    {
+        "start_time": 120.96,
+        "end_time": 145.0,
+        "text": "notice it too much. But over these last five, six months, it has gotten, has gotten a bit worse. Okay. So it kind of came on progressively. It didn't just come on suddenly at some point. Right. Yeah. It's been getting worse. Okay. And have you ever had any previous episodes that are similar to this?",
+        "topic_id": 4,
+        "summary": " It didn't just come on suddenly at some point. It's been getting worse. But over these last five, six months, it has gotten, has gotten a bit worse. notice it too much .",
+        "keywords": [
+            "episodes",
+            "progressively",
+            "suddenly",
+            "months",
+            "worse"
+        ],
+        "sentiment": 0.10173160173160171
+    },
+    {
+        "start_time": 145.0,
+        "end_time": 287.0,
+        "text": "Not in my back pain. I do get pain in my right knee and in my hand sometimes, but those pains just kind of come and go. Okay, minute those pain starts. Um, those ones started, uh, from, yeah, a similar timeline around six months ago. Okay. Okay. And, and the back pain that you're having, uh, does it radiate or move to any other part of your body? No, I don't feel in anywhere else. Okay. And have you tried anything anything that has helped relieve some of the pain any medications or anything yeah I've tried some Tylenol and Adville and the Adville is actually helped to take in the edge off a little bit but the next morning I have the stiffness and pain again okay and Thanks pain are there any kind of factors that make the pain worse like bending down or standing straight up or laying down anything that makes your pain worse? No, nothing that I can think of that really makes it any worse. Okay. And is your pain worse when you wake up in the morning or is it worse as the day progresses? It's worse than the morning. It gets a bit better as the day goes on. I asked about an hour into the day. I feel my best. It takes a little bit of time to move around a little bit first and approximately how much time would you say after you wake up the stiffness and pain goes away? I would say maybe 30 to 60 minutes. Okay. All right. And you haven't had any trauma injuries recently, right? No trauma or injuries. Okay. And no fevers or chills? No. Okay. Any lights No, any fatigure malaise.",
+        "topic_id": 5,
+        "summary": " Back pain started from around six months ago . No trauma or injuries, no fevers or chills . No fevers, chills, any fatigure malaise. Not in my back pain .",
+        "keywords": [
+            "pains",
+            "pain",
+            "tylenol",
+            "stiffness",
+            "knee"
+        ],
+        "sentiment": 0.11688542938542944
+    },
+    {
+        "start_time": 287.0,
+        "end_time": 428.6,
+        "text": "Yeah, I have been a bit more fatigue than usual, and yeah, I've had some malaise as well. Okay. And for how long have you had this? It's been similarly getting a little bit more progressive. Some days, I'm just feeling like I just want to lay around and rest, because I'm feeling just so burnt out, and other days I'm okay, but I'm certainly more tired than usual. Okay, I, other than that, have you noticed any kind of rashes or skin changes or changes in your nails at all? Um, No, I haven't noticed any any rashes or any nail changes. Okay. Any shortness of breath? No. No. Any changes in your bowel movements or urinary patterns? No, I haven't had any diarrhea or any urinary problems. Okay. Have you noticed any changes in your appetite or your weight? No, my appetite's been normal and my weight's been stable. Okay, and have you noticed any difficulties or changes with your vision or any high problems? No, I haven't noticed anything like that. Have you noticed any kind of numbness or tingling sensation in your limbs specifically like your back and your legs? No, no, no tingling. Or numbness. Okay. Any muscle weakness at all? No, I haven't noticed any muscle weakness. Okay. And have you been sick at all recently with any viral or bacterial infections? Um, I had, um, um, and I was diarrhea, like several months ago and I had some antibiotics, but that was",
+        "topic_id": 6,
+        "summary": " Some days, I'm just feeling like I just want to lay around and rest, because I'm feeling just so burnt out, and other days I'm okay, but I'm certainly more tired than usual . Have you noticed any changes in your appetite or weight? No, my appetite",
+        "keywords": [
+            "fatigue",
+            "tired",
+            "numbness",
+            "tingling",
+            "malaise"
+        ],
+        "sentiment": 0.18178571428571427
+    },
+    {
+        "start_time": 428.6,
+        "end_time": 429.6,
+        "text": "it.",
+        "topic_id": 7,
+        "summary": "it.",
+        "keywords": [],
+        "sentiment": 0.0
+    },
+    {
+        "start_time": 429.6,
+        "end_time": 545.0,
+        "text": "Yeah, so a few months ago and other than that, currently are you sexually active? Yes, I am, I have a girlfriend and we've we started dating about about six months ago. Okay, and do either of you have any history of any SCI's at all? I know history of SCI's. Okay, all right, and is your partner fine or she having any symptoms at all? No, she hasn't been having any symptoms. And we've been using a condom mostly. Okay. All right. And otherwise, are you generally healthy or do you have any medical conditions? Yeah, I'm generally, I do have asthma actually, and just I had diarrhea a few months ago after eating at a buffet. So I think maybe yeah, I was food poisoning or maybe something like that. But yeah, so asthma and that's it. Okay, and do you use any medications for your asthma? Yeah, you saw the blue inhaler. Sometimes I guess the just when I when I need it, but that hasn't been very often. Okay, and do you have any allergies to any medications or any environmental factors? I do have environmental allergies, I'm not sure if it's like ragweed or or pollen, but something like that.",
+        "topic_id": 8,
+        "summary": " Currently are you sexually active? Yes, I am, I have a girlfriend and we've we started dating about about six months ago . And we've been using a condom mostly . And otherwise, are you generally healthy or do you have any medical conditions? Yeah, I'm generally,",
+        "keywords": [
+            "asthma",
+            "allergies",
+            "symptoms",
+            "inhaler",
+            "pollen"
+        ],
+        "sentiment": 0.1664880952380952
+    },
+    {
+        "start_time": 546.2,
+        "end_time": 547.52,
+        "text": "Okay.",
+        "topic_id": 9,
+        "summary": "Okay.",
+        "keywords": [
+            "okay"
+        ],
+        "sentiment": 0.5
+    },
+    {
+        "start_time": 547.52,
+        "end_time": 550.88,
+        "text": "And have you had any hospitalizations or previous surgeries?",
+        "topic_id": 10,
+        "summary": "And have you had any hospitalizations or previous surgeries?",
+        "keywords": [
+            "surgeries",
+            "hospitalizations",
+            "previous"
+        ],
+        "sentiment": -0.16666666666666666
+    },
+    {
+        "start_time": 555.92,
+        "end_time": 557.24,
+        "text": "Never.",
+        "topic_id": 11,
+        "summary": "Never.",
+        "keywords": [],
+        "sentiment": 0.0
+    },
+    {
+        "start_time": 557.24,
+        "end_time": 558.6,
+        "text": "Okay.",
+        "topic_id": 12,
+        "summary": "Okay.",
+        "keywords": [
+            "okay"
+        ],
+        "sentiment": 0.5
+    },
+    {
+        "start_time": 558.6,
+        "end_time": 561.6,
+        "text": "Any family history of any medical conditions,",
+        "topic_id": 13,
+        "summary": "Any family history of any medical conditions,",
+        "keywords": [
+            "medical",
+            "family",
+            "history",
+            "conditions"
+        ],
+        "sentiment": 0.0
+    },
+    {
+        "start_time": 561.6,
+        "end_time": 605.0,
+        "text": "any autoimmune conditions or any musculoskeletal conditions? Yeah, my mother has psoriasis, so she's had to, I don't use, like, and stuff like that for her skin. Okay, and currently right now do you work? I do, yeah, I work at a bank. Okay, and your mother, so she had psoriasis, did she ever have any",
+        "topic_id": 14,
+        "summary": " I work at a bank, and my mother has psoriasis, so she's had to, I don't use, like, and stuff like that for her skin . Okay, and currently right now do you work? I do .",
+        "keywords": [
+            "psoriasis",
+            "autoimmune",
+            "musculoskeletal",
+            "skin",
+            "mother"
+        ],
+        "sentiment": 0.42857142857142855
+    },
+    {
+        "start_time": 605.0,
+        "end_time": 606.0,
+        "text": "strokes?",
+        "topic_id": 15,
+        "summary": "strokes?",
+        "keywords": [
+            "strokes"
+        ],
+        "sentiment": 0.0
+    },
+    {
+        "start_time": 606.0,
+        "end_time": 608.0,
+        "text": "All types of psoriasis?",
+        "topic_id": 16,
+        "summary": "All types of psoriasis?",
+        "keywords": [
+            "psoriasis",
+            "types"
+        ],
+        "sentiment": 0.0
+    },
+    {
+        "start_time": 608.0,
+        "end_time": 611.0,
+        "text": "I don't believe so.",
+        "topic_id": 17,
+        "summary": "I don't believe so.",
+        "keywords": [
+            "believe",
+            "don"
+        ],
+        "sentiment": 0.0
+    },
+    {
+        "start_time": 611.0,
+        "end_time": 616.0,
+        "text": "I think she had just, um, issues with her, with her skin.",
+        "topic_id": 18,
+        "summary": "I think she had just, um, issues with her, with her skin.",
+        "keywords": [
+            "skin",
+            "issues",
+            "think",
+            "just",
+            "um"
+        ],
+        "sentiment": 0.0
+    },
+    {
+        "start_time": 616.0,
+        "end_time": 618.0,
+        "text": "Okay.",
+        "topic_id": 19,
+        "summary": "Okay.",
+        "keywords": [
+            "okay"
+        ],
+        "sentiment": 0.5
+    },
+    {
+        "start_time": 618.0,
+        "end_time": 624.0,
+        "text": "And so you work, and then what's her living situation like?",
+        "topic_id": 20,
+        "summary": "And so you work, and then what's her living situation like?",
+        "keywords": [
+            "living",
+            "situation",
+            "work",
+            "like"
+        ],
+        "sentiment": 0.0
+    },
+    {
+        "start_time": 624.0,
+        "end_time": 625.0,
+        "text": "Yeah, so I live with my girlfriend in a condo. So, in this video, in this video, in this video, in this video, in this video, in this video, in this video, in this video, in this video, in this video, in this video, in this video, in this video, in this video, in this video, in this video, in this video, in this video, in this video, in this video, in this video, in this video, in this video, in this video, in this video, in this video, in this video, in this video, in this video, in this video, in this video, in this video, in this video, in this video, in this video, in this video, in this video, in this video, in this video, in this video, in this video, in this video, in this video, in this video, in this video, in this video, in this video, in this video, in this video, in this video, in this video, in this video, in this video, in this video, in this video, in this video, in this video, in this video, in this video, in this video, in this video, in this video, in this video, in this video, in this video, in this video, in this video, in this video, in this video, in this video, in this video, in this video, in this video, in this video, in this video, in this video, in this video, in this video, in this video, in this video, in this video, in this video, in this video, in this video, in this video, in this video, in this video, in this video, in this video, in this video, in this video, in this video, in this video, in this video, in this video, in this video, in this video, in this video, in this video, in this video, in this video, in this video, in this video, in this video, in this video, in this video, in this video, in this video, in this video, in this video, in this So you work and then what's your living situation like?",
+        "topic_id": 21,
+        "summary": " So you work and then what's your living situation like? So I live with my girlfriend in a condo .",
+        "keywords": [
+            "condo",
+            "video",
+            "living",
+            "live",
+            "girlfriend"
+        ],
+        "sentiment": 0.13636363636363635
+    },
+    {
+        "start_time": 631.0,
+        "end_time": 632.0,
+        "text": "Yeah, so I live with my girlfriend in a condo in the city here.",
+        "topic_id": 22,
+        "summary": "Yeah, so I live with my girlfriend in a condo in the city here.",
+        "keywords": [
+            "condo",
+            "girlfriend",
+            "city",
+            "live",
+            "yeah"
+        ],
+        "sentiment": 0.13636363636363635
+    },
+    {
+        "start_time": 638.0,
+        "end_time": 639.0,
+        "text": "Okay, and do you use any recreational drugs like marijuana?",
+        "topic_id": 23,
+        "summary": "Okay, and do you use any recreational drugs like marijuana?",
+        "keywords": [
+            "marijuana",
+            "drugs",
+            "recreational",
+            "use",
+            "okay"
+        ],
+        "sentiment": 0.5
+    },
+    {
+        "start_time": 641.0,
+        "end_time": 710.96,
+        "text": "Yes, sometimes. Yeah, I'll smoke back once or twice per week with a friend or something like that. Okay, and do you smoke? No cigarettes, no, never. Okay, and do you drink alcohol? Sometimes, yeah, I'll have a beer issue on weekends or a cocktail with Reds. Okay. All right. So those were just some of the questions I had. Now I'm just going to quickly ask some specific questions. So have you noticed any kind of swelling in the areas that you are having pain or redness or anything like that? No, I haven't noticed really any redness or swelling. Okay, you know, so are you able to bend down and stand up straight or extend",
+        "topic_id": 24,
+        "summary": " Have you noticed any swelling in the areas that you are having pain or redness? No, I haven't noticed really any redness or swelling . Do you smoke? No cigarettes, no, never. Okay, and do you drink alcohol? Sometimes, yeah, I'll have a",
+        "keywords": [
+            "swelling",
+            "redness",
+            "smoke",
+            "cigarettes",
+            "beer"
+        ],
+        "sentiment": 0.2471916971916972
+    },
+    {
+        "start_time": 710.96,
+        "end_time": 748.88,
+        "text": "backwards without pain, or are you in any pain? I do get, it's a bit stiff, um, I, um, yeah, I'm not really too sure, like, not really, it's more, more, more stiff, okay, um, and yeah, other than that, do you have any questions or concerns?",
+        "topic_id": 25,
+        "summary": " I do get, it's a bit stiff, um, yeah, yeah . I'm not really too sure, like, not really, not very, it is more stiff, okay, and yeah, other than that, do you have any questions?",
+        "keywords": [
+            "backwards",
+            "stiff",
+            "pain",
+            "questions",
+            "concerns"
+        ],
+        "sentiment": 0.12182539682539684
+    },
+    {
+        "start_time": 905.36,
+        "end_time": 908.04,
+        "text": "Um, yeah, I was just wondering, um, yeah, like what, uh, what this can be possibly? Yeah, so definitely what, this this seems like it started like three months to six months ago and it's been going on and it's happening in the morning and how old did you see you were? I'm 20 26. Okay yeah so and it seems progressive and you're getting some pain in your other joints as well and it's mainly from your middle to lower back it can be multiple things that we would have to rule out so you first you have a family history of psoriasis. So it can be psoriasic arthritis. You don't have any other skin changes or any other symptoms. It can also be since you have had a... you were sick four months ago with what might be cast for arthritis. It can be sometimes a few months afterwards, you can get something called the active arthritis, where you get this progressive painting your joints and stiffness. And otherwise, it can also be something called antelocingspondilitis, which can present in men, your age, and it's kind of like a progressive dull back pain and that has some morning stiffness as well. So yeah there's definitely multiple things that it can be. So first we would need to do a full physical examination and book an appointment for that in person. And we will get some lab work done as well as the x-ray of the spine, and their Saker-Eliac joints, and we'll also get some blood work with CBC, CRP, and ESR, so those are just inflammatory markers, as well as the rheumatoid factor and can you clear antibody. So there's just some things that will test for different kind of rheumatological issues and to see if you have any arthritis. So yeah, those are, and then we'll also get an x-ray of your hands and knees, since you're having pain there as well. So yeah, those are some steps that we'll take.",
+        "topic_id": 26,
+        "summary": " It can be psoriasic arthritis, arthritis, antelocingspondilitis, arthritis or even active arthritis . The pain is mainly from your middle to lower back and it can be from your hands and knees .",
+        "keywords": [
+            "arthritis",
+            "rheumatological",
+            "psoriasis",
+            "antelocingspondilitis",
+            "rheumatoid"
+        ],
+        "sentiment": 0.046245421245421234
+    },
+    {
+        "start_time": 908.04,
+        "end_time": 911.24,
+        "text": "Do you have any questions or concerns?",
+        "topic_id": 27,
+        "summary": "Do you have any questions or concerns?",
+        "keywords": [
+            "concerns",
+            "questions"
+        ],
+        "sentiment": 0.0
+    },
+    {
+        "start_time": 911.24,
+        "end_time": 914.16,
+        "text": "No, that sounds great.",
+        "topic_id": 28,
+        "summary": "No, that sounds great.",
+        "keywords": [
+            "sounds",
+            "great"
+        ],
+        "sentiment": 0.8
+    },
+    {
+        "start_time": 914.16,
+        "end_time": 915.52,
+        "text": "Thank you.",
+        "topic_id": 29,
+        "summary": "Thank you.",
+        "keywords": [
+            "thank"
+        ],
+        "sentiment": 0.0
+    },
+    {
+        "start_time": 915.52,
+        "end_time": 916.16,
+        "text": "All right, yeah.",
+        "topic_id": 30,
+        "summary": "All right, yeah.",
+        "keywords": [
+            "right",
+            "yeah"
+        ],
+        "sentiment": 0.2857142857142857
+    },
+    {
+        "start_time": 916.16,
+        "end_time": 919.8,
+        "text": "So we'll get in touch with you shortly.",
+        "topic_id": 31,
+        "summary": "So we'll get in touch with you shortly.",
+        "keywords": [
+            "shortly",
+            "touch",
+            "ll"
+        ],
+        "sentiment": 0.0
+    },
+    {
+        "start_time": 919.8,
+        "end_time": 920.52,
+        "text": "Sounds great.",
+        "topic_id": 32,
+        "summary": "Sounds great.",
+        "keywords": [
+            "great",
+            "sounds"
+        ],
+        "sentiment": 0.8
+    },
+    {
+        "start_time": 920.52,
+        "end_time": 921.84,
+        "text": "Thank you.",
+        "topic_id": 33,
+        "summary": "Thank you.",
+        "keywords": [
+            "thank"
+        ],
+        "sentiment": 0.0
+    },
+    {
+        "start_time": 921.84,
+        "end_time": 925.0,
+        "text": "All right, take care. Let's go. great. Thank you. All right, take it.",
+        "topic_id": 34,
+        "summary": "All right, take care. Let's go. great. Thank you. All right, take it.",
+        "keywords": [
+            "care",
+            "great",
+            "thank",
+            "let",
+            "right"
+        ],
+        "sentiment": 0.45714285714285713
+    }
+]

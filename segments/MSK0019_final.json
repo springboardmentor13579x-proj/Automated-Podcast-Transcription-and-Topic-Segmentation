@@ -1,0 +1,648 @@
+[
+    {
+        "start_time": 0.0,
+        "end_time": 113.36,
+        "text": "Just in having this pain in my right, right elbow and it's just been getting worse over the last few days. I started having it around three days ago and it's just been getting worse with any kind of gripping motion or Yes, it's just been and worse so you started started 3 days ago has it been persistent since it's been pretty persistent but it's mainly when I'm doing some activities or lifting anything and yes I've just been trying to rest it mostly. Okay that's good and you said it's worse with the activity and better with rash. Have you tried anything else for it? I hadville, uh, it seemed to help a little bit, but, uh, it just comes back. Okay. Um, and if you were to describe the quality of this pain, would you say sharp, burning, It's more like if I don't extend my wrist, it's kind of like a-key, but then it's kind of like a-key, but then it's kind of like a-key, but then it's kind of like a-key, but then it's kind of like a-key, but then it's kind of like a-key, but then it's kind of like a-key, but then it's kind of like a-key, but then it's kind of like a-key, but then it's kind of like a-key, but then it's kind of like a-key, but then it's kind of like a-key, but then it's kind of like a-key, but then it's kind of like a-key, but then it's kind of like a-key, but then it's kind of like a-key, but then it's kind of like a-key, but then it's kind of like a-key, but then it's kind of like a-key, but then it's kind of like a-key, but then it's kind of like a-key, but then it's kind of like a-key, but then it's kind of like a-key, but then it's kind of like a-key, but then it's kind of like a-key, but then it's kind of like a-key, but then it's kind of like a-key, but then it's kind of like a-key, but then it's kind of like a-key, but then it's kind of like a-key, but then it's kind of like a-key, but then it's kind of like a-key, but then it's kind of like a-key, but then it's kind of like a-key, but then it's kind of like a-key, but then it's kind of like a-key, but then it's kind of like a-key, but then it's kind of like a-key, but then it's kind of like A.K. but then if I extend my wrist, I feel like a sharp pain on the outside of my elbow. Okay, all right, all right, and then in terms of severity 1 to 10 10 being the worst pin you've ever felt how bad is the pain?",
+        "topic_id": 1,
+        "summary": " I started having it around three days ago and it's just been getting worse with any kind of gripping motion or . It's mainly when I'm doing some activities or lifting anything and yes I've just been trying to rest it mostly . Have you tried anything else for it? I had",
+        "keywords": [
+            "elbow",
+            "rash",
+            "wrist",
+            "pain",
+            "severity"
+        ],
+        "sentiment": 0.38366702741702763
+    },
+    {
+        "start_time": 115.36,
+        "end_time": 145.0,
+        "text": "probably like a 6 or 7 okay all right and have you ever experienced a type of pain before? No, I-I-I-I-I-I-I-I-I-I-, in terms of like, timeline, is it getting worse?",
+        "topic_id": 2,
+        "summary": " No, in terms of like, timeline, is it getting worse? No. probably like a 6 or 7 okay all right . Have you ever experienced a type of pain before? No .",
+        "keywords": [
+            "pain",
+            "worse",
+            "experienced",
+            "like",
+            "timeline"
+        ],
+        "sentiment": 0.2964285714285715
+    },
+    {
+        "start_time": 145.0,
+        "end_time": 149.0,
+        "text": "Just somewhere the past three days, I feel like it's...",
+        "topic_id": 3,
+        "summary": "Just somewhere the past three days, I feel like it's...",
+        "keywords": [
+            "days",
+            "feel",
+            "past",
+            "just",
+            "like"
+        ],
+        "sentiment": -0.25
+    },
+    {
+        "start_time": 149.0,
+        "end_time": 153.0,
+        "text": "I've tried not to use it that much.",
+        "topic_id": 4,
+        "summary": "I've tried not to use it that much.",
+        "keywords": [
+            "use",
+            "tried",
+            "ve"
+        ],
+        "sentiment": 0.2
+    },
+    {
+        "start_time": 153.0,
+        "end_time": 158.0,
+        "text": "Like, when I was at work, I have to use like tools a lot.",
+        "topic_id": 5,
+        "summary": "Like, when I was at work, I have to use like tools a lot.",
+        "keywords": [
+            "tools",
+            "like",
+            "use",
+            "work",
+            "lot"
+        ],
+        "sentiment": 0.0
+    },
+    {
+        "start_time": 158.0,
+        "end_time": 164.0,
+        "text": "I noticed that when I was using a screwdriver, like it had hurt a lot.",
+        "topic_id": 6,
+        "summary": "I noticed that when I was using a screwdriver, like it had hurt a lot.",
+        "keywords": [
+            "screwdriver",
+            "hurt",
+            "like",
+            "noticed",
+            "using"
+        ],
+        "sentiment": 0.0
+    },
+    {
+        "start_time": 164.0,
+        "end_time": 188.1,
+        "text": "So it hasn't been getting worse, but if I try to do anything at work, work it down down down down down down down down down down down down down down noticed any numbness or tingling? No, nothing like that. No, okay. About pain elsewhere on your body.",
+        "topic_id": 7,
+        "summary": " No numbness or tingling? No, nothing like that. No, okay. About pain elsewhere on your body . So it hasn't been getting worse, but if I try to do anything at work, work it down .",
+        "keywords": [
+            "numbness",
+            "tingling",
+            "pain",
+            "work",
+            "worse"
+        ],
+        "sentiment": -0.17673611111111115
+    },
+    {
+        "start_time": 188.1,
+        "end_time": 190.3,
+        "text": "Sorry, what was that?",
+        "topic_id": 8,
+        "summary": "Sorry, what was that?",
+        "keywords": [
+            "sorry"
+        ],
+        "sentiment": -0.5
+    },
+    {
+        "start_time": 190.3,
+        "end_time": 194.3,
+        "text": "Pain elsewhere on your body. Oh, no, no pain elsewhere.",
+        "topic_id": 9,
+        "summary": "Pain elsewhere on your body. Oh, no, no pain elsewhere.",
+        "keywords": [
+            "pain",
+            "body",
+            "oh"
+        ],
+        "sentiment": 0.0
+    },
+    {
+        "start_time": 194.3,
+        "end_time": 195.3,
+        "text": "Okay.",
+        "topic_id": 10,
+        "summary": "Okay.",
+        "keywords": [
+            "okay"
+        ],
+        "sentiment": 0.5
+    },
+    {
+        "start_time": 195.3,
+        "end_time": 197.9,
+        "text": "And have you noticed any muscle weakness?",
+        "topic_id": 11,
+        "summary": "And have you noticed any muscle weakness?",
+        "keywords": [
+            "weakness",
+            "muscle",
+            "noticed"
+        ],
+        "sentiment": 0.0
+    },
+    {
+        "start_time": 197.9,
+        "end_time": 199.9,
+        "text": "Uh, no.",
+        "topic_id": 12,
+        "summary": "Uh, no.",
+        "keywords": [
+            "uh"
+        ],
+        "sentiment": 0.0
+    },
+    {
+        "start_time": 199.9,
+        "end_time": 201.9,
+        "text": "No, any headaches?",
+        "topic_id": 13,
+        "summary": "No, any headaches?",
+        "keywords": [
+            "headaches"
+        ],
+        "sentiment": 0.0
+    },
+    {
+        "start_time": 201.9,
+        "end_time": 202.9,
+        "text": "Nope.",
+        "topic_id": 14,
+        "summary": "Nope.",
+        "keywords": [
+            "nope"
+        ],
+        "sentiment": 0.0
+    },
+    {
+        "start_time": 202.9,
+        "end_time": 204.5,
+        "text": "Dizziness?",
+        "topic_id": 15,
+        "summary": "Dizziness?",
+        "keywords": [
+            "dizziness"
+        ],
+        "sentiment": 0.0
+    },
+    {
+        "start_time": 204.5,
+        "end_time": 210.5,
+        "text": "Nope. Uh, weight loss? Uh, nope. Thank you very much.",
+        "topic_id": 16,
+        "summary": "Nope. Uh, weight loss? Uh, nope. Thank you very much.",
+        "keywords": [
+            "weight",
+            "loss",
+            "nope",
+            "thank",
+            "uh"
+        ],
+        "sentiment": 0.26
+    },
+    {
+        "start_time": 210.5,
+        "end_time": 233.5,
+        "text": "Thank you very much. Thank you very much. Thank you very much. Thank you very much. Thank you very much. Thank you very much. Thank you very much. Thank you very much. Thank you very much. Thank you very much. Thank you very much. Thank you very much. Thank you very much. Thank you very much. Thank you very much. Thank you very much. Thank you very much. Thank you very much. Thank you very much. Thank you very much. Thank you very much. Thank you very much. Thank you very much.",
+        "topic_id": 17,
+        "summary": " Thank you very much. Thank you, thank you, and thank you very, very, much . Thank you . You will be able to watch the re-election of this year's election results .",
+        "keywords": [
+            "thank"
+        ],
+        "sentiment": 0.25999999999999984
+    },
+    {
+        "start_time": 233.5,
+        "end_time": 228.72,
+        "text": "Thank you very much. Thank you very much. Thank you very much. Thank you very much. The dizziness. Nope. Uh, weight loss. Uh, nope. Fevers or chills. Nope. Uh, rashes. Nope. Uh, I tend to send your vision hearing smaller taste. Nope. Uh, coughing, shortness of breath, they're reusing, no, chest pain or heart palpitations, no",
+        "topic_id": 18,
+        "summary": " The dizziness, weight loss, rashes, chest pain or heart palpitations, no . Fevers or chills, chills and rashes are all out of control .",
+        "keywords": [
+            "dizziness",
+            "fevers",
+            "palpitations",
+            "coughing",
+            "rashes"
+        ],
+        "sentiment": 0.20800000000000002
+    },
+    {
+        "start_time": 228.72,
+        "end_time": 236.72,
+        "text": "changes in your bowel movements, no, nausea vomiting, no, change in your",
+        "topic_id": 19,
+        "summary": "changes in your bowel movements, no, nausea vomiting, no, change in your",
+        "keywords": [
+            "nausea",
+            "bowel",
+            "vomiting",
+            "changes",
+            "change"
+        ],
+        "sentiment": 0.0
+    },
+    {
+        "start_time": 236.72,
+        "end_time": 243.56,
+        "text": "voiding, no, okay, and are you otherwise healthy? do you have any long-standing medical",
+        "topic_id": 20,
+        "summary": "voiding, no, okay, and are you otherwise healthy? do you have any long-standing medical",
+        "keywords": [
+            "voiding",
+            "medical",
+            "healthy",
+            "okay",
+            "long"
+        ],
+        "sentiment": 0.08333333333333333
+    },
+    {
+        "start_time": 243.56,
+        "end_time": 245.44,
+        "text": "conditions?",
+        "topic_id": 21,
+        "summary": "conditions?",
+        "keywords": [
+            "conditions"
+        ],
+        "sentiment": 0.0
+    },
+    {
+        "start_time": 249.28,
+        "end_time": 249.92,
+        "text": "Yeah, I know I've been healthy. No other issues in my life.",
+        "topic_id": 22,
+        "summary": "Yeah, I know I've been healthy. No other issues in my life.",
+        "keywords": [
+            "healthy",
+            "life",
+            "issues",
+            "know",
+            "yeah"
+        ],
+        "sentiment": 0.28125
+    },
+    {
+        "start_time": 251.92,
+        "end_time": 253.92,
+        "text": "Okay, that's good. How about",
+        "topic_id": 23,
+        "summary": "Okay, that's good. How about",
+        "keywords": [
+            "okay",
+            "good"
+        ],
+        "sentiment": 0.6
+    },
+    {
+        "start_time": 256.72,
+        "end_time": 258.32,
+        "text": "medications are you on any?",
+        "topic_id": 24,
+        "summary": "medications are you on any?",
+        "keywords": [
+            "medications"
+        ],
+        "sentiment": 0.0
+    },
+    {
+        "start_time": 259.6,
+        "end_time": 263.12,
+        "text": "No, no medications have just been taking some medical for this pain.",
+        "topic_id": 25,
+        "summary": "No, no medications have just been taking some medical for this pain.",
+        "keywords": [
+            "pain",
+            "medications",
+            "taking",
+            "medical",
+            "just"
+        ],
+        "sentiment": 0.0
+    },
+    {
+        "start_time": 263.76,
+        "end_time": 268.76,
+        "text": "Okay, I think. And have an immunizations are you up to date? Yep.",
+        "topic_id": 26,
+        "summary": "Okay, I think. And have an immunizations are you up to date? Yep.",
+        "keywords": [
+            "immunizations",
+            "yep",
+            "okay",
+            "date",
+            "think"
+        ],
+        "sentiment": 0.5
+    },
+    {
+        "start_time": 268.76,
+        "end_time": 269.76,
+        "text": "Do you have any help?",
+        "topic_id": 27,
+        "summary": "Do you have any help?",
+        "keywords": [
+            "help"
+        ],
+        "sentiment": 0.0
+    },
+    {
+        "start_time": 269.76,
+        "end_time": 270.76,
+        "text": "Yep.",
+        "topic_id": 28,
+        "summary": "Yep.",
+        "keywords": [
+            "yep"
+        ],
+        "sentiment": 0.0
+    },
+    {
+        "start_time": 270.76,
+        "end_time": 271.76,
+        "text": "Do you have any help?",
+        "topic_id": 29,
+        "summary": "Do you have any help?",
+        "keywords": [
+            "help"
+        ],
+        "sentiment": 0.0
+    },
+    {
+        "start_time": 271.76,
+        "end_time": 273.76,
+        "text": "Yep.",
+        "topic_id": 30,
+        "summary": "Yep.",
+        "keywords": [
+            "yep"
+        ],
+        "sentiment": 0.0
+    },
+    {
+        "start_time": 273.76,
+        "end_time": 274.76,
+        "text": "Do you have any help?",
+        "topic_id": 31,
+        "summary": "Do you have any help?",
+        "keywords": [
+            "help"
+        ],
+        "sentiment": 0.0
+    },
+    {
+        "start_time": 274.76,
+        "end_time": 275.76,
+        "text": "Yep.",
+        "topic_id": 32,
+        "summary": "Yep.",
+        "keywords": [
+            "yep"
+        ],
+        "sentiment": 0.0
+    },
+    {
+        "start_time": 275.76,
+        "end_time": 276.76,
+        "text": "Do you have any help?",
+        "topic_id": 33,
+        "summary": "Do you have any help?",
+        "keywords": [
+            "help"
+        ],
+        "sentiment": 0.0
+    },
+    {
+        "start_time": 276.76,
+        "end_time": 277.76,
+        "text": "Yep.",
+        "topic_id": 34,
+        "summary": "Yep.",
+        "keywords": [
+            "yep"
+        ],
+        "sentiment": 0.0
+    },
+    {
+        "start_time": 277.76,
+        "end_time": 278.76,
+        "text": "Do you have any help?",
+        "topic_id": 35,
+        "summary": "Do you have any help?",
+        "keywords": [
+            "help"
+        ],
+        "sentiment": 0.0
+    },
+    {
+        "start_time": 278.76,
+        "end_time": 279.76,
+        "text": "Yep.",
+        "topic_id": 36,
+        "summary": "Yep.",
+        "keywords": [
+            "yep"
+        ],
+        "sentiment": 0.0
+    },
+    {
+        "start_time": 279.76,
+        "end_time": 280.76,
+        "text": "Do you have any help?",
+        "topic_id": 37,
+        "summary": "Do you have any help?",
+        "keywords": [
+            "help"
+        ],
+        "sentiment": 0.0
+    },
+    {
+        "start_time": 280.76,
+        "end_time": 281.76,
+        "text": "Yep.",
+        "topic_id": 38,
+        "summary": "Yep.",
+        "keywords": [
+            "yep"
+        ],
+        "sentiment": 0.0
+    },
+    {
+        "start_time": 281.76,
+        "end_time": 282.76,
+        "text": "Do you have any help?",
+        "topic_id": 39,
+        "summary": "Do you have any help?",
+        "keywords": [
+            "help"
+        ],
+        "sentiment": 0.0
+    },
+    {
+        "start_time": 282.76,
+        "end_time": 283.76,
+        "text": "Yep.",
+        "topic_id": 40,
+        "summary": "Yep.",
+        "keywords": [
+            "yep"
+        ],
+        "sentiment": 0.0
+    },
+    {
+        "start_time": 283.76,
+        "end_time": 291.76,
+        "text": "Do you have any help? Do you have any help? Do you have any help? Do you have any help? Do you have any help? Do you have any help? Do you have any help? Do you have any help?",
+        "topic_id": 41,
+        "summary": " Do you have any help? Do you need help? Share your stories with CNN iReport . Share your photos with us on Facebook and Twitter .",
+        "keywords": [
+            "help"
+        ],
+        "sentiment": 0.0
+    },
+    {
+        "start_time": 291.76,
+        "end_time": 329.28,
+        "text": "Do you have any help? Do you have any help? Do you haveizations are you up to date? Yep. Do you have any allergies? Uh, no. Uh, family history of any musculoskeletal issues. No one, um, just, uh, I guess my dad, uh, he's... He's getting some knee pain and have pain now, starting little, starting now, but like that's about it. How old is he? My dad is 60. Okay. And any lung or heart conditions? No. I don't mean conditions. Not that I know. Okay. And how about cancer's uh I think my uh and on my mother's side uh she she had um um uterine cancer. Okay I see. All right um any ally or sorry here uh answer So that, um, do you, do you smoke? Uh, no?",
+        "topic_id": 42,
+        "summary": " Do you have any allergies? Uh, no. Uh, family history of any musculoskeletal issues? No one, um, just, uh, I guess my dad is getting some knee pain and have pain now, starting little, starting now, but like that's about",
+        "keywords": [
+            "cancer",
+            "lung",
+            "pain",
+            "allergies",
+            "smoke"
+        ],
+        "sentiment": 0.08857142857142856
+    },
+    {
+        "start_time": 329.28,
+        "end_time": 346.0,
+        "text": "No. um any hour or sorry here after that um do you smoke no um do you can see many marijuana no uh do you drink alcohol uh just like maybe some wine on wine beer every couple of days? Okay. Like maybe some wine on wine beer every couple of days.",
+        "topic_id": 43,
+        "summary": " No. um any hour or sorry here after that . Do you smoke no um do you can see many marijuana no uh do you drink alcohol? No. Um, just like maybe some wine on wine beer every couple of days?",
+        "keywords": [
+            "marijuana",
+            "drink",
+            "wine",
+            "smoke",
+            "alcohol"
+        ],
+        "sentiment": 0.16666666666666666
+    },
+    {
+        "start_time": 347.0,
+        "end_time": 348.0,
+        "text": "Okay.",
+        "topic_id": 44,
+        "summary": "Okay.",
+        "keywords": [
+            "okay"
+        ],
+        "sentiment": 0.5
+    },
+    {
+        "start_time": 351.0,
+        "end_time": 362.0,
+        "text": "And where do you live right now and who do you live with? I live with my wife and four-year-old daughter.",
+        "topic_id": 45,
+        "summary": "And where do you live right now and who do you live with? I live with my wife and four-year-old daughter.",
+        "keywords": [
+            "daughter",
+            "wife",
+            "live",
+            "old",
+            "year"
+        ],
+        "sentiment": 0.1737012987012987
+    },
+    {
+        "start_time": 364.0,
+        "end_time": 425.32,
+        "text": "Okay. Any concerns for STI's? Nope. Any succontext recently? No. Have you traveled anywhere recently? Nope. Okay. Well, let's move on to the physical exam part of this interview then, so I'm going to get you to look at both your arms and hands and you let me know if you see any redness or swelling in your right arm compared to your left. Okay. So, like, with movement? I know. I just, on inspection, do you see any redness or swelling? No, I don't really see anything that's too different, no. No, okay. Do you see any deformities,",
+        "topic_id": 46,
+        "summary": " Any concerns for STI's? Nope. Any succontext recently? No. Have you traveled anywhere recently? Nope . Do you see any deformities? No, I don't really see anything that's too different .",
+        "keywords": [
+            "sti",
+            "swelling",
+            "redness",
+            "inspection",
+            "concerns"
+        ],
+        "sentiment": 0.1577922077922078
+    },
+    {
+        "start_time": 425.32,
+        "end_time": 510.24,
+        "text": "active fear of skin changes in your right, compared to your left arm or hand? No, if you look pretty similar to me. Okay. All right, and then I'm gonna get you to press down on certain areas of your right arm. So you can start with the back of your elbow, does that hurt? and I just like a back of your elbow does that hurt? Just like right on the elbow it doesn't hurt but when I go on the outside part it does hurt on the back. Okay, so like the lateral aspect of your elbow. Yeah, it's like sore if I press down. Okay, and how about the medial aspect of your elbow? So I'm inside, on the inside not so much, um, maybe a little bit not not that much. Okay, how about when you press down on your biceps or triceps? Uh, nothing. Nothing. How about when you, um, press down on your like forearm, extensor muscle groups? Um, just, yeah, so just on the outside of my forearm, close to where the elbow pain is if I go down a little bit and press down, it does definitely feel sore. Okay, and then have it with your, um, forearm flexor flexors. So on the inside, um,.",
+        "topic_id": 47,
+        "summary": " You can start with the back of your elbow, does that hurt? And how about when you press down on your biceps or triceps? Nothing. Nothing. How about pressing down on forearm flexor flexors?",
+        "keywords": [
+            "forearm",
+            "elbow",
+            "biceps",
+            "arm",
+            "muscle"
+        ],
+        "sentiment": 0.09880952380952382
+    },
+    {
+        "start_time": 510.24,
+        "end_time": 533.24,
+        "text": ". . . . . . . . . . . . . . . . . . . . . . .",
+        "topic_id": 48,
+        "summary": ". . . . . . . . . . . . . . . . . . . . . . .",
+        "keywords": [],
+        "sentiment": 0.0
+    },
+    {
+        "start_time": 533.24,
+        "end_time": 709.0,
+        "text": "..... for a flexor flexors so on the inside not so much no no okay and now I'm gonna get you to walk through some movements with me and can you get a piece of paper And actually, can you get a pencil and grip it as tight as you can and do you find that you feel weak when you do that? I'm not weak, but it does definitely like when I picked up the pencil and was my wrist up it did it did a cause some some pain Okay, all right, so Would you mind extending or like straightening out your elbow all the way and then also straightening out your wrist Does that hurt? Stringing out, it doesn't hurt Even with like the wrist Straighten out Yeah, if I completely straight on my wrist then like I just feel a bit of a Soreness, but not as much pain as when I am lifting something with my wrist or just raising my wrist outwards. Okay, okay, how about when you flex your wrist all the way? Um, that hurts a little bit, not nearly as much as when I extend it. Okay, um, those are all the questions I have for you today. Did you have any questions of your own for myself? Yeah, I was just wondering what this might be. Yeah, so um, it sounds like you have something called a tennis elbow or lateral epicondolitis. And it's usually related to some overuse injury, so whether at work or if you play a lot of tennis or some sort of sport that overuse is a certain muscle group, particularly like the forearm extensors. And so basically for this, we suggest a few things. We'll start with like some conservative management like activity modifications, so at work if you're We repetitive movement maybe not do them so much and take frequent breaks you can try some like ibuprofen will refer you to some physiotherapy to help those muscles around that area and if those still do still don't work, we can try some other things like operative management, but we'll come back to that in about 6 to 12 months and once we try all of the other stuff, does that sound okay?",
+        "topic_id": 49,
+        "summary": " It sounds like you have something called a tennis elbow or lateral epicondolitis . It's usually related to some overuse injury, so whether at work or if you play a lot of tennis or some sort of sport that overuse is a certain muscle group, particularly like the forearm",
+        "keywords": [
+            "forearm",
+            "flexors",
+            "wrist",
+            "flexor",
+            "flex"
+        ],
+        "sentiment": 0.1165391156462585
+    },
+    {
+        "start_time": 709.0,
+        "end_time": 711.0,
+        "text": "Yeah, that sounds good. Thank you.",
+        "topic_id": 50,
+        "summary": "Yeah, that sounds good. Thank you.",
+        "keywords": [
+            "yeah",
+            "thank",
+            "sounds",
+            "good"
+        ],
+        "sentiment": 0.7
+    },
+    {
+        "start_time": 711.0,
+        "end_time": 712.0,
+        "text": "Yeah, no worries.",
+        "topic_id": 51,
+        "summary": "Yeah, no worries.",
+        "keywords": [
+            "worries",
+            "yeah"
+        ],
+        "sentiment": 0.0
+    }
+]

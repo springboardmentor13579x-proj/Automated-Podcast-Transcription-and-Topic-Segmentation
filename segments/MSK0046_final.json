@@ -1,0 +1,315 @@
+[
+    {
+        "start_time": 0.0,
+        "end_time": 45.0,
+        "text": "We'll bring you in here today. I'm here because my left hand kind of just like at the base of my thumb has been hurting for the past two days and it seems to be getting worse and it's at a left-handed so it's really hard for me to write or do anything or have to clench or grip things. Okay, and how long has this been going on for? Um, so for the past two days, but it's got, it got bad yesterday. Okay, and have you had any, if you were to describe the pain worth and locate it exactly.",
+        "topic_id": 1,
+        "summary": " I'm here because my left hand kind of just like at the base of my thumb has been hurting for the past two days and it seems to be getting worse and it's at a left-handed so it's really hard for me to write or do anything or have to clench",
+        "keywords": [
+            "hand",
+            "pain",
+            "thumb",
+            "handed",
+            "hurting"
+        ],
+        "sentiment": -0.045512820512820504
+    },
+    {
+        "start_time": 47.0,
+        "end_time": 48.0,
+        "text": "It's just at the base of my thumb.",
+        "topic_id": 2,
+        "summary": "It's just at the base of my thumb.",
+        "keywords": [
+            "thumb",
+            "base",
+            "just"
+        ],
+        "sentiment": -0.8
+    },
+    {
+        "start_time": 108.0,
+        "end_time": 112.0,
+        "text": "You know where the flushy part of your hand is? Okay, yep. Yeah, so just over there. Okay, and what kind of pain is it? Is it sharp or is it aching? It's like a baseline, it's an achy pain, but if I try to move it or try to write or use a computer or anything like that, it becomes sharp. and on a scale of zero to 10, 10mm, we're seeing your thoughts and you're like, how much would you rate it? I'd say like a six. Okay. And this is pain, move anywhere else in your hand, or does it just stay where you described? Um, it just stays there. Okay, and what kind of motions, uh, caused the most pain?",
+        "topic_id": 3,
+        "summary": " On a scale of zero to 10, 10mm, we're seeing your thoughts and you're like, how much would you rate it? I'd say like a six. How much of the pain, move anywhere else in your hand, or does it just stay where you described?",
+        "keywords": [
+            "pain",
+            "aching",
+            "hand",
+            "sharp",
+            "flushy"
+        ],
+        "sentiment": 0.365
+    },
+    {
+        "start_time": 112.0,
+        "end_time": 114.0,
+        "text": "Hmm.",
+        "topic_id": 4,
+        "summary": "Hmm.",
+        "keywords": [
+            "hmm"
+        ],
+        "sentiment": 0.0
+    },
+    {
+        "start_time": 114.0,
+        "end_time": 120.0,
+        "text": "I'd say like, um, you know, trying to touch my pinky with my thumb.",
+        "topic_id": 5,
+        "summary": "I'd say like, um, you know, trying to touch my pinky with my thumb.",
+        "keywords": [
+            "touch",
+            "thumb",
+            "pinky",
+            "trying",
+            "um"
+        ],
+        "sentiment": 0.0
+    },
+    {
+        "start_time": 120.0,
+        "end_time": 122.0,
+        "text": "Yep.",
+        "topic_id": 6,
+        "summary": "Yep.",
+        "keywords": [
+            "yep"
+        ],
+        "sentiment": 0.0
+    },
+    {
+        "start_time": 122.0,
+        "end_time": 124.0,
+        "text": "That hurts.",
+        "topic_id": 7,
+        "summary": "That hurts.",
+        "keywords": [
+            "hurts"
+        ],
+        "sentiment": 0.0
+    },
+    {
+        "start_time": 124.0,
+        "end_time": 145.12,
+        "text": "Um, just like trying to rotate it hurts. Okay. Can I be trying anything for the pain that I told you? Um, I know I haven't really tried too much. I've just tried not to use it as much.",
+        "topic_id": 8,
+        "summary": " Can I be trying anything for the pain that I told you? Um, I know I haven't really tried too much. I've just tried not to use it as much. Um, just like trying to rotate it hurts .",
+        "keywords": [
+            "pain",
+            "rotate",
+            "hurts",
+            "trying",
+            "tried"
+        ],
+        "sentiment": 0.27499999999999997
+    },
+    {
+        "start_time": 192.8,
+        "end_time": 201.2,
+        "text": "Let's see. Okay. And um... Has this ever like have you ever had any injuries to this hand any trauma? Uh, either recently or in the past? No, nothing like that. Okay. Alright, and is, uh, do you do any kind of repetitive work that requires about encrypting or lifting, um, with, with that hand, anything repetitive? So, I do a lot of work at, uh, the I guess I tend to type a lot with my left hand, so maybe that, and sorry, I also take lots of notes like handwritten notes with my left",
+        "topic_id": 9,
+        "summary": " Has this ever like have you ever had any injuries to this hand any trauma? Uh, either recently or in the past? No, nothing like that .",
+        "keywords": [
+            "hand",
+            "handwritten",
+            "injuries",
+            "trauma",
+            "repetitive"
+        ],
+        "sentiment": 0.03500000000000001
+    },
+    {
+        "start_time": 201.2,
+        "end_time": 202.2,
+        "text": "hand.",
+        "topic_id": 10,
+        "summary": "hand.",
+        "keywords": [
+            "hand"
+        ],
+        "sentiment": 0.0
+    },
+    {
+        "start_time": 202.2,
+        "end_time": 204.2,
+        "text": "Okay, so are you left handed?",
+        "topic_id": 11,
+        "summary": "Okay, so are you left handed?",
+        "keywords": [
+            "handed",
+            "left",
+            "okay"
+        ],
+        "sentiment": 0.25
+    },
+    {
+        "start_time": 204.2,
+        "end_time": 227.64,
+        "text": "Yes. Okay. All right. It's a pain, a pain, a pain, a pain, a pain, it's your healthy. Yes. Do you take any medications on a regular basis? no no okay any allergies to any medications",
+        "topic_id": 12,
+        "summary": " Do you take any medications on a regular basis? no no okay . Do you have allergies to any medications? No .",
+        "keywords": [
+            "allergies",
+            "pain",
+            "medications",
+            "yes",
+            "healthy"
+        ],
+        "sentiment": 0.20714285714285713
+    },
+    {
+        "start_time": 227.64,
+        "end_time": 507.6,
+        "text": "no allergies okay any previous surgeries or hospitalizations no no any family history of any medications other musculoskeletal over to logic any conditions no nothing like that nothing like that. Okay. Any cancers in the family? I know there's a lot of cancer in the family. There's colon cancer, breast cancer, or variant cancer. Okay. and are they first degree relatives who have those cancer? No first degree relatives just like aunts and uncles. Okay, all right, and currently are you working right now or have you had any time all four or any more to five duties? Um, so I'm still working online. I've just haven't been taking notes by hand anymore. I see. And is that helpful? Uh, yeah, it has helped a little bit because I'm not moving my hand as much, so it helps with pain okay have you taken any Tylenol and anything for the pain? No I haven't and currently right now what is your living situation like? I love it an apartment by myself okay and do you currently smoke cigarettes I smoke I use the smoke like five years ago and I only did that for like a year or two I it wasn't much, but I don't smoke anymore. Okay, that's good. Any alcohol? I don't have like a beer on the weekend. Okay, any recreational drugs like marijuana? I will take an edible like once a month and yeah those were just some of the questions I had and we're just going to do a few things for examining that area so are you able to make a fist? I can, but it hurts. Okay, and it hurts in that location that you mentioned? Yes. Okay. How about if you make a fist about your thumb, does it still hurt, or is it just when you are moving the thumb? It's just when I'm moving the thumb. Okay, and if you were able to, are you able to rotate your wrist? Yes, I can rotate my wrist. Is it that hurt at all? No. Okay. Now I just want you to do this one test. It's called a single-fine test, so I want you to let your thumb press it up down against your palm. Okay, and then hold your head. Sorry. No, go ahead. Yeah, and then after you do that, bring your fingers above your thumb, so just cover your thumb. Okay. Kind of like a fist that your thumb is on the inside of your fingers. Okay. And then bring your arm out. Okay. And with your other hand, can you from above push your wrist downwards? So your pinky finger is pointing through the pointing in the ground. Okay, yep. Yeah, it does that hurt at all, like when you, so this is just called all nerve devinervization of your, uh, of your ribs. Uh, does that hurt at all? Yes, that is very painful. Okay. All right. Um, and then you're also having pain gripping and, okay, so those are kind of all the things I want to ask. It seems that you may be",
+        "topic_id": 13,
+        "summary": " No previous surgeries or hospitalizations no no any family history of any medications other musculoskeletal over to logic any conditions no nothing like that . No allergies okay any previous surgeries . No first degree relatives just like aunts and uncles . No alcohol or recreational drugs like marijuana .",
+        "keywords": [
+            "cancer",
+            "allergies",
+            "cancers",
+            "cigarettes",
+            "family"
+        ],
+        "sentiment": 0.264247651441529
+    },
+    {
+        "start_time": 507.6,
+        "end_time": 514.96,
+        "text": "having something called the Victoravians, you know, sort of like this. It's caused by some",
+        "topic_id": 14,
+        "summary": "having something called the Victoravians, you know, sort of like this. It's caused by some",
+        "keywords": [
+            "victoravians",
+            "caused",
+            "like",
+            "know",
+            "called"
+        ],
+        "sentiment": 0.0
+    },
+    {
+        "start_time": 514.96,
+        "end_time": 522.56,
+        "text": "repetitive motions that I can need to be scripting and from transit happens to new mothers who are",
+        "topic_id": 15,
+        "summary": "repetitive motions that I can need to be scripting and from transit happens to new mothers who are",
+        "keywords": [
+            "motions",
+            "transit",
+            "mothers",
+            "scripting",
+            "repetitive"
+        ],
+        "sentiment": -0.05681818181818182
+    },
+    {
+        "start_time": 522.56,
+        "end_time": 554.0,
+        "text": "left in their children as well as their care workers. They can also happen in other work environments. And so what we will first just need to do, is we may need to just move up something like osteoarthritis. You are fairly young, but if there was ever an injury in the past, you kind of have early osteoarthritis in the area, so we just want to get an x-ray.",
+        "topic_id": 16,
+        "summary": " Osteoarthritis left in children as well as their care workers . They can also happen in other work environments . You are fairly young, but if there was ever an injury in the past, you kind of have early osteoarritis in the area .",
+        "keywords": [
+            "osteoarthritis",
+            "injury",
+            "workers",
+            "children",
+            "left"
+        ],
+        "sentiment": 0.09642857142857142
+    },
+    {
+        "start_time": 554.0,
+        "end_time": 561.82,
+        "text": "I'm going back to the way we kind of feel that the issue is usually conservatively in the",
+        "topic_id": 17,
+        "summary": "I'm going back to the way we kind of feel that the issue is usually conservatively in the",
+        "keywords": [
+            "conservatively",
+            "issue",
+            "way",
+            "going",
+            "usually"
+        ],
+        "sentiment": 0.11666666666666665
+    },
+    {
+        "start_time": 561.82,
+        "end_time": 605.44,
+        "text": "ball split and it's split for your. That's absolutely some of these symptoms. Restrict some of your movements reduces some of the swelling and if it does By our personnel, it's just due to some conservative management and see if that helps us only have been a few days. If I'm too small, I might have a first yell at this dude, or something's",
+        "topic_id": 18,
+        "summary": " Restrict some of your movements reduces some of the swelling and if it does By our personnel, it's just due to some conservative management and see if that helps us only have been a few days . If I'm too small, I might have a first yell at this dude, or something",
+        "keywords": [
+            "swelling",
+            "symptoms",
+            "ball",
+            "split",
+            "movements"
+        ],
+        "sentiment": -0.020833333333333332
+    },
+    {
+        "start_time": 605.44,
+        "end_time": 609.0,
+        "text": "evidence management, and see if that helps us only have been a few days.",
+        "topic_id": 19,
+        "summary": "evidence management, and see if that helps us only have been a few days.",
+        "keywords": [
+            "evidence",
+            "management",
+            "days",
+            "helps"
+        ],
+        "sentiment": -0.1
+    },
+    {
+        "start_time": 609.0,
+        "end_time": 615.0,
+        "text": "So hopefully we'll be try first helps, and then we can go on from there.",
+        "topic_id": 20,
+        "summary": "So hopefully we'll be try first helps, and then we can go on from there.",
+        "keywords": [
+            "try",
+            "hopefully",
+            "helps",
+            "ll"
+        ],
+        "sentiment": 0.25
+    },
+    {
+        "start_time": 615.0,
+        "end_time": 617.0,
+        "text": "Okay, yeah, that sounds great.",
+        "topic_id": 21,
+        "summary": "Okay, yeah, that sounds great.",
+        "keywords": [
+            "okay",
+            "yeah",
+            "great",
+            "sounds"
+        ],
+        "sentiment": 0.65
+    },
+    {
+        "start_time": 617.0,
+        "end_time": 619.0,
+        "text": "Thank you. Welcome, thank you.",
+        "topic_id": 22,
+        "summary": "Thank you. Welcome, thank you.",
+        "keywords": [
+            "welcome",
+            "thank"
+        ],
+        "sentiment": 0.8
+    },
+    {
+        "start_time": 619.0,
+        "end_time": 620.0,
+        "text": "You too.",
+        "topic_id": 23,
+        "summary": "You too.",
+        "keywords": [],
+        "sentiment": 0.0
+    }
+]

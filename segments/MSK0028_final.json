@@ -1,0 +1,367 @@
+[
+    {
+        "start_time": 0.0,
+        "end_time": 47.12,
+        "text": "how may I help you? I just came in because I've been having just just yesterday it started this sudden just pain over the front of my kind of like a shoulder and also elbow and it was right after I was just doing some workout and this pain just started and it's just like a stabbing sharp pain that hasn't really gone away since then. And so what activity were you doing specifically? So I was doing, so I was just doing weight training,",
+        "topic_id": 1,
+        "summary": " I just came in because I've been having just this sudden just pain over the front of my kind of like a shoulder and also elbow and it was right after I was just doing some workout and this pain just started and it's just like a stabbing sharp pain .",
+        "keywords": [
+            "shoulder",
+            "elbow",
+            "pain",
+            "stabbing",
+            "workout"
+        ],
+        "sentiment": 0.06011904761904762
+    },
+    {
+        "start_time": 47.12,
+        "end_time": 88.08,
+        "text": "and I was kind of flexing my elbows. And I was working on my biceps. I was on that machine where you, so I wasn't using weights or doing curls, but I was working on my biceps. And I think I did hear, um, I don't think I heard like any pop or anything, but right after that, I just had this sudden sharp pain in my shoulder as well as my elbow. Okay. Um, should you, you think you heard a pop at that time? I'm not sure if I heard a pop actually.",
+        "topic_id": 2,
+        "summary": " I was working on my biceps. and I was kind of flexing my elbows. I think I did hear, um, I don't think I heard like any pop or anything, but right after that, I just had this sudden sharp pain in my shoulder as well as my",
+        "keywords": [
+            "elbow",
+            "pop",
+            "shoulder",
+            "elbows",
+            "biceps"
+        ],
+        "sentiment": 0.1443877551020408
+    },
+    {
+        "start_time": 88.08,
+        "end_time": 89.56,
+        "text": "I think I might have though.",
+        "topic_id": 3,
+        "summary": "I think I might have though.",
+        "keywords": [
+            "think"
+        ],
+        "sentiment": 0.0
+    },
+    {
+        "start_time": 90.8,
+        "end_time": 91.96,
+        "text": "Okay.",
+        "topic_id": 4,
+        "summary": "Okay.",
+        "keywords": [
+            "okay"
+        ],
+        "sentiment": 0.5
+    },
+    {
+        "start_time": 91.96,
+        "end_time": 131.28,
+        "text": "And did the pain start immediately or a bit later on? The pain, I think it started pretty soon after, like probably within like the half an hour of that happening. Okay, and where is the pain located now? The pain right now is kind of right at the front of my right elbow, as well as near my shoulder, as well.",
+        "topic_id": 5,
+        "summary": " The pain, I think it started pretty soon after, like probably within like the half an hour of that happening . The pain right now is kind of right at the front of my right elbow, as well as near my shoulder .",
+        "keywords": [
+            "elbow",
+            "shoulder",
+            "pain",
+            "immediately",
+            "near"
+        ],
+        "sentiment": 0.23783068783068784
+    },
+    {
+        "start_time": 132.96,
+        "end_time": 185.84,
+        "text": "Okay. And I think you mentioned the pain is as being sharp. Is that how you would describe the character of the pain? Yeah, it's sharp, but yeah, it just feels like something's stabbing in there. Okay, and does the pain radiate anywhere else? No, it's kind of in the same area as I described. Okay, has there been anything you tried to make the pain better? No, and I no things I tried like I don't know things really worked Okay And sorry, how long is that how many days is the pain been on going on for just just started yesterday? yesterday, okay, and since then has the pain been getting any better or any worse, I",
+        "topic_id": 6,
+        "summary": " The pain is sharp, but it just feels like something's stabbing in there . The pain has been on going on for just a few days, but hasn't been getting better or worse .",
+        "keywords": [
+            "pain",
+            "stabbing",
+            "sharp",
+            "feels",
+            "worse"
+        ],
+        "sentiment": 0.17647058823529416
+    },
+    {
+        "start_time": 188.32,
+        "end_time": 189.2,
+        "text": "Think it's the same I",
+        "topic_id": 7,
+        "summary": "Think it's the same I",
+        "keywords": [
+            "think"
+        ],
+        "sentiment": 0.0
+    },
+    {
+        "start_time": 193.28,
+        "end_time": 194.72,
+        "text": "Probably a bit worse than so it just happened last evening and I",
+        "topic_id": 8,
+        "summary": "Probably a bit worse than so it just happened last evening and I",
+        "keywords": [
+            "worse",
+            "happened",
+            "probably",
+            "evening",
+            "just"
+        ],
+        "sentiment": -0.2
+    },
+    {
+        "start_time": 198.08,
+        "end_time": 198.96,
+        "text": "I didn't end up coming last night, but I wanted to make sure I",
+        "topic_id": 9,
+        "summary": "I didn't end up coming last night, but I wanted to make sure I",
+        "keywords": [
+            "night",
+            "end",
+            "coming",
+            "didn",
+            "wanted"
+        ],
+        "sentiment": 0.25
+    },
+    {
+        "start_time": 202.88,
+        "end_time": 210.24,
+        "text": "Just come in this morning since it's just been a really painful night Okay, and have you done anything that's made the pain worse since last night?",
+        "topic_id": 10,
+        "summary": "Just come in this morning since it's just been a really painful night Okay, and have you done anything that's made the pain worse since last night?",
+        "keywords": [
+            "painful",
+            "pain",
+            "morning",
+            "night",
+            "worse"
+        ],
+        "sentiment": -0.15
+    },
+    {
+        "start_time": 218.68,
+        "end_time": 220.2,
+        "text": "Go off. Try to just rest and I try to use some ice. But nothing, nothing's been working. And I kind of also have like this.",
+        "topic_id": 11,
+        "summary": "Go off. Try to just rest and I try to use some ice. But nothing, nothing's been working. And I kind of also have like this.",
+        "keywords": [
+            "ice",
+            "rest",
+            "try",
+            "working",
+            "use"
+        ],
+        "sentiment": 0.6
+    },
+    {
+        "start_time": 228.8,
+        "end_time": 229.8,
+        "text": "It's weird. It just like this mask right where my buy sepsis are kind of just makes my buy sepsis look really big. Okay. Okay.",
+        "topic_id": 12,
+        "summary": "It's weird. It just like this mask right where my buy sepsis are kind of just makes my buy sepsis look really big. Okay. Okay.",
+        "keywords": [
+            "sepsis",
+            "mask",
+            "weird",
+            "big",
+            "like"
+        ],
+        "sentiment": 0.23095238095238094
+    },
+    {
+        "start_time": 229.8,
+        "end_time": 251.8,
+        "text": "Okay. Okay. Okay. Okay. Okay. Okay. Okay. Okay.",
+        "topic_id": 13,
+        "summary": "Okay. Okay. Okay. Okay. Okay. Okay. Okay. Okay.",
+        "keywords": [
+            "okay"
+        ],
+        "sentiment": 0.5
+    },
+    {
+        "start_time": 251.8,
+        "end_time": 306.8,
+        "text": "Okay. Okay. Okay really big. Okay. All right, well, I'll skip a look at that during the physical exam component. Thank you. And so, I think are you seeing swelling there as well, or is it, is that part painful? Yeah, it's painful. They're swelling there as well. Okay. And how severe is the pain on a scale of 10 to 1? 10 being the worst pain that you've ever experienced and won being the least. Probably at least a name maybe a 9. Okay, so the pain is pretty severe that it sounds like. Okay, have you had any fevers or chills? No. Have you had any unexpected weight loss? Nope. Okay and have you had any appetite loss? Nope. Okay and have you had any headaches? Nope. How about any sensory changes like changes to vision or hearing?",
+        "topic_id": 14,
+        "summary": " Are you seeing swelling there as well, or is it, is that part painful? Yeah, it's painful. And how severe is the pain on a scale of 10 to 1? 10 being the worst pain that you've ever experienced and won being the least . Have you had any",
+        "keywords": [
+            "swelling",
+            "fevers",
+            "headaches",
+            "pain",
+            "painful"
+        ],
+        "sentiment": 0.1467857142857143
+    },
+    {
+        "start_time": 308.8,
+        "end_time": 314.4,
+        "text": "I don't know nothing like that. Any changes to your sense of smell or sense of taste?",
+        "topic_id": 15,
+        "summary": "I don't know nothing like that. Any changes to your sense of smell or sense of taste?",
+        "keywords": [
+            "smell",
+            "taste",
+            "changes",
+            "sense",
+            "like"
+        ],
+        "sentiment": 0.0
+    },
+    {
+        "start_time": 315.6,
+        "end_time": 318.96,
+        "text": "Nope. Have you had a runny nose or a sore throat?",
+        "topic_id": 16,
+        "summary": "Nope. Have you had a runny nose or a sore throat?",
+        "keywords": [
+            "throat",
+            "nope",
+            "runny",
+            "sore",
+            "nose"
+        ],
+        "sentiment": 0.0
+    },
+    {
+        "start_time": 320.08,
+        "end_time": 446.24,
+        "text": "No, nothing like that. Okay. Have you had a cough? Nope. Any shortness of breath? No, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, nothing like that. Okay. Have you had a cough? Nope. Any shortness of breath? Nope. Okay. Any wheezing? Nope. Have you had any chest pain? Nope. Have you had any heart palpitations or feeling like your heart's racing? Nope. Any lightheadedness or dizziness? Nope. Okay. And have you had any abdominal pain? Nope. Any nausea or vomiting? Nope. Any changes to your bowel movements such as diarrhea, constipation, or even blood in the stool? No, nothing like that. Okay, any urination problems such as pain or frequency? Nope. Okay, and have you noticed any changes to your skin like rashes or changes to your nails or hair? Nope. All right, and have you had any neurological symptoms such as numbness or tingling? No, I don't think so. Okay, and have you had any muscle weakness? Just in that area, I can't really, like, I can't really flex and really move my upper arm in my elbow. Okay. Do you have any pains in any other joints? I know that's only my right upper arm. um and have you had any confusion or memory loss? No. Okay um and in the past have you been diagnosed with any other medical conditions?",
+        "topic_id": 17,
+        "summary": " Have you had a cough or shortness of breath? Have you noticed any changes to your skin like rashes or changes to nails or hair? No, and have you had any neurological symptoms such as numbness or tingling? No. No, I don't think so.",
+        "keywords": [
+            "breath",
+            "wheezing",
+            "cough",
+            "numbness",
+            "diarrhea"
+        ],
+        "sentiment": 0.1842261904761905
+    },
+    {
+        "start_time": 454.96,
+        "end_time": 456.56,
+        "text": "No, I've been pretty healthy. I think I do have like pre-diabetes, but I'm not on any medication.",
+        "topic_id": 18,
+        "summary": "No, I've been pretty healthy. I think I do have like pre-diabetes, but I'm not on any medication.",
+        "keywords": [
+            "diabetes",
+            "healthy",
+            "medication",
+            "pre",
+            "ve"
+        ],
+        "sentiment": 0.375
+    },
+    {
+        "start_time": 464.64,
+        "end_time": 809.0,
+        "text": "Okay, and have you had any issues with your shoulder before like like a sub-ecrob, like impingement syndrome or like a rotator cuff, pains or problems in the past. A few years ago, I did have some pain with like some, they told me not to do like overhead work, like just things that require, like with the physio, I need to just do some strengthening as well. And it was, it was in the same shoulder. Okay. And do you take any medications regularly? No. Okay, and do you have any allergies? No. Have you had any hospitalizations or prior surgeries? I had my tonsils removed, and I was probably 10 or something, but that's about it. OK. And for this shoulder in the past, did you have any imaging done like an ultrasound or MRI, maybe to look at the structures? No, it was just kind of went away. I just did some physiognomy. Did it really do any imaging? I see. Okay. And can you tell me a little about your living situation right now? If you're you're living with and where? Yes, I'm living with my wife and a daughter and I'm living just in a condominium in the city. Okay, and are you working right now? Yeah, so I'm an accountant. I'm working from home, so it's not that bad, but I might just take a few days off if depending on what I have to do with this injury. Okay, and do you, and hobby-wise, you mentioned like weightlifting, are you an active person, like bodybuilding, and that sort of thing regularly? Um, I just actually probably started this past year. I used to work on a lot in university and in my early 30s, but then I stopped. And this year I've kind of gone back into it. Okay, that's good that you're staying active. And do you smoke cigarettes? No, I probably tried a couple of times in high school and university, but just it was never my thing. Okay and how about cannabis like smoking marijuana or using any of those types of products? No, I try to stay away from any drugs. Okay, including recreational drugs. Yeah. Okay, and are there any musculos Thanksletal or neurological problems that run in the family? Not that I know. Okay, now how about any autoimmune diseases? No, I don't think so. Okay. So next I just wanted to ask you to have a look at the at the arm compared to the other side. Are you noticing any swelling redness or? Yeah, any swelling or redness? I do see some just like kind of like in the middle of this area, some redness kind of looks like some bruising in that region. And I also feel like when I try to flex of flex, my biceps kind of have moved upwards okay is this the mass or a love that you were mentioning earlier that you kind of can notice in your right arm. Yeah, yeah, okay. is there any temperature change like does it feel warm on that side? No, I can't really tell if it's warm or not. Okay, and And you see, are you able to bend your elbow all the way up, the deflects it all the way up, or is a range of motion limited? It's pretty limited, it's pretty tough to flex, it's really painful, and then I also can't like, I can't turn my arm, I can't suponate. Okay, so yeah, is that, so you have produced supination as well? And how are your shoulder movement? Are you able to, like, if you're lifting your arm straight out in front of you, are you able to lift them all the way up above your head?",
+        "topic_id": 19,
+        "summary": " A few years ago, I did have some pain with like some, they told me not to do like overhead work, like just things that require, like with the physio, I need to just do some strengthening as well . And it was, it was in the same shoulder.",
+        "keywords": [
+            "shoulder",
+            "pains",
+            "tonsils",
+            "cuff",
+            "mri"
+        ],
+        "sentiment": 0.20724174855127234
+    },
+    {
+        "start_time": 811.0,
+        "end_time": 815.0,
+        "text": "Like at the sides are in front of me. In front of you.",
+        "topic_id": 20,
+        "summary": "Like at the sides are in front of me. In front of you.",
+        "keywords": [
+            "sides",
+            "like"
+        ],
+        "sentiment": 0.0
+    },
+    {
+        "start_time": 818.0,
+        "end_time": 915.36,
+        "text": "Yeah, the shoulder seems to be okay. I'm able to lift up, but it's just if I try to move my upper arms at all, it hurts a lot. Okay. Okay, I'm sorry, I'm sorry at the shoulder with the movement. There is discomfort in the affected side, but I can move it much more than I can move my elbows or anything like that. Okay, I see. So I think that was everything that I wanted to ask about and and look for on a physical today was or anything I maybe missed or anything like that. I know I think I don't have any other questions. Okay, so based on the history and what you're telling me for the physical as well, of having a history of exercising and also shoulder pain with overhead movements, which are risk factors for developing a biceps tendon, tear or biceps tendon injury, and having the swelling and bruising as well as reduced function of biceps or elbow flexion. They don't all suggest that there is a biceps tend to tear or injury there. And so we'll want to get an ultrasound or MRI to look at, we'll start with the ultrasound,",
+        "topic_id": 21,
+        "summary": " I'm able to lift up, but it's just if I try to move my upper arms at all, it hurts a lot. There is discomfort in the affected side, but I can move it much more than I can do my elbows or anything like that. I think that was",
+        "keywords": [
+            "shoulder",
+            "biceps",
+            "elbow",
+            "tendon",
+            "arms"
+        ],
+        "sentiment": 0.18269230769230768
+    },
+    {
+        "start_time": 915.36,
+        "end_time": 923.44,
+        "text": "but then possibly get an MRI as well to look at the extent of the tissue damage.",
+        "topic_id": 22,
+        "summary": "but then possibly get an MRI as well to look at the extent of the tissue damage.",
+        "keywords": [
+            "mri",
+            "tissue",
+            "damage",
+            "extent",
+            "possibly"
+        ],
+        "sentiment": 0.0
+    },
+    {
+        "start_time": 923.44,
+        "end_time": 930.92,
+        "text": "But if there is just a long-head of biceps tear, it will usually be treated conservatively.",
+        "topic_id": 23,
+        "summary": "But if there is just a long-head of biceps tear, it will usually be treated conservatively.",
+        "keywords": [
+            "biceps",
+            "tear",
+            "treated",
+            "conservatively",
+            "head"
+        ],
+        "sentiment": -0.25
+    },
+    {
+        "start_time": 930.92,
+        "end_time": 953.92,
+        "text": ". . . . . . . . . . . . . . . . . . . . . . .",
+        "topic_id": 24,
+        "summary": ". . . . . . . . . . . . . . . . . . . . . . .",
+        "keywords": [],
+        "sentiment": 0.0
+    },
+    {
+        "start_time": 953.92,
+        "end_time": 928.8,
+        "text": "..... damage. But if there is just a long had a biceps tear, it will usually be treated",
+        "topic_id": 25,
+        "summary": "..... damage. But if there is just a long had a biceps tear, it will usually be treated",
+        "keywords": [
+            "biceps",
+            "damage",
+            "tear",
+            "treated",
+            "just"
+        ],
+        "sentiment": -0.15
+    },
+    {
+        "start_time": 928.8,
+        "end_time": 938.4,
+        "text": "conservatively. And so we'll just need to look to see what the extent of the injury is.",
+        "topic_id": 26,
+        "summary": "conservatively. And so we'll just need to look to see what the extent of the injury is.",
+        "keywords": [
+            "conservatively",
+            "injury",
+            "ll",
+            "extent",
+            "look"
+        ],
+        "sentiment": 0.0
+    }
+]

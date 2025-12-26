@@ -1,0 +1,523 @@
+[
+    {
+        "start_time": 0.0,
+        "end_time": 68.72,
+        "text": "what brings you in? I just came in today, I think I think now that there's something of something that was, I heard a snap I wasn't just a dance class and we have like these long presses with a traditional dance class and my foot slipped right onto a God call caught in my bed and it's just kind of slipped and I followed right on my my leg kind of twisted and I followed out and I just stayed down and I knew something was not right and something was broken. When did this happen? Just uh, I'll see it in like an hour ago. Hour ago. Okay. Are you able to bear any weight on it at all? No, not really. I do come in the ambulance. Okay. Okay. And if you were to localize this pain, where exactly is it? It's pretty much, my whole lore like is painful,",
+        "topic_id": 1,
+        "summary": " \"I just came in today, I think I think now that there's something of something that was, I heard a snap\" \"My foot slipped right onto a God call caught in my bed and it's just kind of slipped and I followed right on my my leg kind of twisted",
+        "keywords": [
+            "pain",
+            "slipped",
+            "painful",
+            "ambulance",
+            "leg"
+        ],
+        "sentiment": 0.12072310405643741
+    },
+    {
+        "start_time": 68.72,
+        "end_time": 73.0,
+        "text": "but I think where it looks like a stroke",
+        "topic_id": 2,
+        "summary": "but I think where it looks like a stroke",
+        "keywords": [
+            "stroke",
+            "looks",
+            "think",
+            "like"
+        ],
+        "sentiment": 0.0
+    },
+    {
+        "start_time": 73.0,
+        "end_time": 80.4,
+        "text": "is like the middle part of my lore like. The middle part, okay, middle part of your lore like.",
+        "topic_id": 3,
+        "summary": "is like the middle part of my lore like. The middle part, okay, middle part of your lore like.",
+        "keywords": [
+            "lore",
+            "middle",
+            "like",
+            "okay"
+        ],
+        "sentiment": 0.125
+    },
+    {
+        "start_time": 80.4,
+        "end_time": 81.8,
+        "text": "So kind of where you've been?",
+        "topic_id": 4,
+        "summary": "So kind of where you've been?",
+        "keywords": [
+            "kind",
+            "ve"
+        ],
+        "sentiment": 0.6
+    },
+    {
+        "start_time": 81.8,
+        "end_time": 127.98,
+        "text": "Right, you've been in the ocean there. OK, so in the shin area. OK. Thank you for watching, and I'll see you in the next video, and I'll see you in the next video, and I'll see you in the next video, and I'll see you in the next video, and I'll see you in the next video, and I'll see you in the next video, and I'll see you in the next video, and I'll see you in the next video, and I'll see you in the next video, and I'll see you in the next video, and I'll see you in the next video, and I'll see you in the next video, and I'll see you in the next video, and I'll see you in the next video, and I'll see you in the next video, and I'll see you in the next video, and I'll see you in the next video, and I'll see you in the next video, and I'll see you in the next video, and I'll see you in the next video, and I'll see you in the next video, and I'll see you in the next video, and I'll see you in the next video, and I'll see you in the next video, and I'll see you in the next video, and I'll see you in the next video, and I'll see you in the next video, and I'll see you in the next video, and I'll see you in the next video, and I'll see you in the next video, and I'll see you in the next video, and I'll see you in the next video, and I'll see you in the next video, and I'll see you in the next video, and I'll see you in the next video, and I'll see you in the next video, and I'll see you in the next video, and I'll see you in the next video, and I'll see you in the next video, and I'll see you in the next video, and I'll see you in the next video, and I'll see you in the next video, and I'll see you in the next video, and I'll where you've been right now, in a shin area. Okay. Um, have you tried anything for it? I know it's only been an hour. Uh, no, nothing. I just, I just want to make sure I keep it as still as possible. I didn't want to even try anything. Okay, yeah, that makes sense. If you were to describe this pain, would you say it's sharp dull, achy, dropping? It's like sharp and dropping. It's like probably one of the worst pains that I've felt in my life. Okay, okay. And one to 10, 10, be the worst pain ever, how bad is it?",
+        "topic_id": 5,
+        "summary": " The pain is sharp dull, achy, dropping, like sharp and dropping . It's like probably one of the worst pains that I've felt in my life. How bad is it? \"One to 10, 10, be the worst pain ever\"",
+        "keywords": [
+            "shin",
+            "ocean",
+            "video",
+            "sure",
+            "watching"
+        ],
+        "sentiment": 0.01382936507936508
+    },
+    {
+        "start_time": 127.98,
+        "end_time": 129.98,
+        "text": "I tend, for sure.",
+        "topic_id": 6,
+        "summary": "I tend, for sure.",
+        "keywords": [
+            "tend",
+            "sure"
+        ],
+        "sentiment": 0.5
+    },
+    {
+        "start_time": 129.98,
+        "end_time": 130.98,
+        "text": "Ten, okay.",
+        "topic_id": 7,
+        "summary": "Ten, okay.",
+        "keywords": [
+            "okay"
+        ],
+        "sentiment": 0.25
+    },
+    {
+        "start_time": 130.98,
+        "end_time": 134.98,
+        "text": "Have you, so you said you've never experienced this before?",
+        "topic_id": 8,
+        "summary": "Have you, so you said you've never experienced this before?",
+        "keywords": [
+            "experienced",
+            "ve",
+            "said"
+        ],
+        "sentiment": -0.4
+    },
+    {
+        "start_time": 134.98,
+        "end_time": 142.0,
+        "text": "Um, do you feel like it's getting worse? The pain or it has been pretty much the same since it started or is it getting better?",
+        "topic_id": 9,
+        "summary": "Um, do you feel like it's getting worse? The pain or it has been pretty much the same since it started or is it getting better?",
+        "keywords": [
+            "pain",
+            "worse",
+            "feel",
+            "started",
+            "better"
+        ],
+        "sentiment": 0.11000000000000001
+    },
+    {
+        "start_time": 142.0,
+        "end_time": 175.0,
+        "text": "Uh, I would say it's the same. It's like, I mean as much pain as I was earlier. Okay. Thank you for watching, and I'll see you in the next video, and I'll see you in the next video, and I'll see you in the next video, and I'll see you in the next video, and I'll see you in the next video, and I'll see you in the next video, and I'll see you in the next video, and I'll see you in the next video, and I'll see you in the next video, and I'll see you in the next video, and I'll see you in the next video, and I'll see you in the next video, and I'll see you in the next video, and I'll see you in the next video, and I'll see you in the next video, and I'll see you in the next video, and I'll see you in the next video, and I'll see you in the next video, and I'll see you in the next video, and I'll see you in the next video, and I'll see you in the next video, and I'll see you in the next video, and I'll see you in the next video, and I'll see you in the next video, and I'll see you in the next video, and I'll see you in the next video, and I'll see you in the next video, and I'll see you in the next video, and I'll see you in the next video, and I'll see you in the next video, and I'll see you in the next video, and I'll see you in the next video, and I'll see you in the next video, and I'll see you in the next video, and I'll see you in the next video, and I'll see you in the next video, and I'll see you in the next video, and I'll see you in the next video, and I'll see you in the next video, and I'll see you in the next video, and I'll see you in the next video, and I'll see you in the next video, and I'll see you in the next video, and I would say it's the same it's like I'm in as much pain as I was over here. Okay and so do you know how you felt like on the floor? Like, did you go like, leg first or was it, was it, was it, was it, was it, was it, was it, was it, was it, was it, was it, was it, was it, was it, was it, was it, was it, was it, was it, was it, was it, was it, was it, was it, was it, was it, was it, was it, was it, was it, was it, was it, was it, was it, was it, was it, was it, was it, was it, was it, was it, was it, was it, was it, was it, was it, was it, was it, was it, was it, was it, was it, was it, was it, was it, was it, was it, was it, was it, was it, was it, was it, was it, was it, was it, was it, was it, was it, was it, was it, was it, was it, was it, was it, was it, was it, was it, was it, was it, was it, was it, was it, was it, was it, was it, was it, was it, was it, was it, was it, was it, was it, was it, was it, was it, was it, was it, was it, was it, was it, was it, was it, was it, was it, was it, was it, was it, was it, was it, was it, was it, was it, was it, was it, was it, was it, was it, was it, was it, was it, was it, was it, was it, was it, was it, was it, was it, was it, was it, was it, was it, was it, was it, was it, was it, was it, was it, was it, was it, was it, was it, was it, you go like like first or was it was your kind of like the mechanism of your fall? Did you break the fall at all with your arms?",
+        "topic_id": 10,
+        "summary": " Do you know how you felt like on the floor? Like, did you go like, leg first or was it like the mechanism of the fall at all with your arms? Did you break your arms or break your legs at all during the fall? Okay, I would say it's",
+        "keywords": [
+            "video",
+            "watching",
+            "pain",
+            "felt",
+            "ll"
+        ],
+        "sentiment": 0.04050925925925926
+    },
+    {
+        "start_time": 177.0,
+        "end_time": 266.0,
+        "text": "No, I didn't break it kind of just so I was kind of I feel like when I was slipping it it was at first my leg was hyper extended but it kind of just felt like it snapped and it went straight down so there was some kind of twisting as well as some hyper extension but it just kind of slipping on my dress and then just straight down. Okay, okay. Um, otherwise do you have any pain else for on your body? No, I have what any numbness or tingling in the area. Um, I do feel some numbness thing ranges below, where what happened, but it like comes and goes. Okay, and then how about how about any feelings of like losing sensation or feeling cold in that area? No, I can feel everything in that area. It's hard to tell, like it's just very painful right now. Okay, yeah, that's understandable. How about headaches? No, no, headaches. Any fainting or dizziness?",
+        "topic_id": 11,
+        "summary": " No, I didn't break it kind of just so I was kind of I feel like when I was slipping it it was at first my leg was hyper extended but it just felt like it snapped and it went straight down so there was some kind of twisting as well as some hyper extension",
+        "keywords": [
+            "numbness",
+            "tingling",
+            "slipping",
+            "sensation",
+            "painful"
+        ],
+        "sentiment": 0.18114682539682544
+    },
+    {
+        "start_time": 266.0,
+        "end_time": 268.0,
+        "text": "No.",
+        "topic_id": 12,
+        "summary": "No.",
+        "keywords": [],
+        "sentiment": 0.0
+    },
+    {
+        "start_time": 268.0,
+        "end_time": 272.0,
+        "text": "Um, confusion or memory loss?",
+        "topic_id": 13,
+        "summary": "Um, confusion or memory loss?",
+        "keywords": [
+            "memory",
+            "loss",
+            "confusion",
+            "um"
+        ],
+        "sentiment": 0.0
+    },
+    {
+        "start_time": 272.0,
+        "end_time": 274.0,
+        "text": "I don't know.",
+        "topic_id": 14,
+        "summary": "I don't know.",
+        "keywords": [
+            "know",
+            "don"
+        ],
+        "sentiment": 0.0
+    },
+    {
+        "start_time": 274.0,
+        "end_time": 278.0,
+        "text": "Um, weight loss recently.",
+        "topic_id": 15,
+        "summary": "Um, weight loss recently.",
+        "keywords": [
+            "recently",
+            "loss",
+            "weight",
+            "um"
+        ],
+        "sentiment": 0.0
+    },
+    {
+        "start_time": 278.0,
+        "end_time": 279.0,
+        "text": "No?",
+        "topic_id": 16,
+        "summary": "No?",
+        "keywords": [],
+        "sentiment": 0.0
+    },
+    {
+        "start_time": 279.0,
+        "end_time": 281.0,
+        "text": "Fever's are chills.",
+        "topic_id": 17,
+        "summary": "Fever's are chills.",
+        "keywords": [
+            "fever",
+            "chills"
+        ],
+        "sentiment": 0.0
+    },
+    {
+        "start_time": 281.0,
+        "end_time": 282.0,
+        "text": "No.",
+        "topic_id": 18,
+        "summary": "No.",
+        "keywords": [],
+        "sentiment": 0.0
+    },
+    {
+        "start_time": 282.0,
+        "end_time": 348.0,
+        "text": "Uh, changes to your hair, nails are skin, like rashes. No, nothing that I'll notice. No, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, hair, nails or skin, like rashes. No, nothing that I'll notice. No, any changes to your vision hearing smell or taste? Nope. Um, tabloat cauffing, uh, sure to suppress or wheezing. No, nothing like that. No, okay. Um, have a test pain or a palpitations? No. No, anything just your bowel movements? No, not that I've noticed. Uh, not your vomiting. Yep. abdominal pains? Nope. Changes to urinary habits? Nope, nothing very fast. No, okay. And are you otherwise healthy? Yeah, I've been pretty healthy. I don't take any medications regularly. I don't have any medical conditions. Okay, that's good. Any hospitalizations or surgeries in the past?",
+        "topic_id": 19,
+        "summary": " No, changes to your hair, nails are skin, like rashes. No, anything just your bowel movements? No, not that I've noticed. Changes to urinary habits? Nope, nothing very fast. And are you otherwise healthy? Yeah, I've been pretty healthy. I",
+        "keywords": [
+            "nails",
+            "hair",
+            "rashes",
+            "skin",
+            "changes"
+        ],
+        "sentiment": 0.205
+    },
+    {
+        "start_time": 348.0,
+        "end_time": 358.0,
+        "text": "You know, just for my pregnancies, I had two pregnancies, both of them delivered",
+        "topic_id": 20,
+        "summary": "You know, just for my pregnancies, I had two pregnancies, both of them delivered",
+        "keywords": [
+            "pregnancies",
+            "delivered",
+            "know",
+            "just"
+        ],
+        "sentiment": 0.0
+    },
+    {
+        "start_time": 358.0,
+        "end_time": 365.0,
+        "text": "vaginally, but no issues with that. Just after that, no hospitalizations or surgeries.",
+        "topic_id": 21,
+        "summary": "vaginally, but no issues with that. Just after that, no hospitalizations or surgeries.",
+        "keywords": [
+            "vaginally",
+            "surgeries",
+            "hospitalizations",
+            "issues",
+            "just"
+        ],
+        "sentiment": 0.0
+    },
+    {
+        "start_time": 365.0,
+        "end_time": 368.0,
+        "text": "Okay, okay.",
+        "topic_id": 22,
+        "summary": "Okay, okay.",
+        "keywords": [
+            "okay"
+        ],
+        "sentiment": 0.5
+    },
+    {
+        "start_time": 368.0,
+        "end_time": 373.0,
+        "text": "And then are you up to date with all your immunizations?",
+        "topic_id": 23,
+        "summary": "And then are you up to date with all your immunizations?",
+        "keywords": [
+            "immunizations",
+            "date"
+        ],
+        "sentiment": 0.0
+    },
+    {
+        "start_time": 373.0,
+        "end_time": 374.0,
+        "text": "Yep.",
+        "topic_id": 24,
+        "summary": "Yep.",
+        "keywords": [
+            "yep"
+        ],
+        "sentiment": 0.0
+    },
+    {
+        "start_time": 374.0,
+        "end_time": 376.0,
+        "text": "Okay, that's good.",
+        "topic_id": 25,
+        "summary": "Okay, that's good.",
+        "keywords": [
+            "okay",
+            "good"
+        ],
+        "sentiment": 0.6
+    },
+    {
+        "start_time": 376.0,
+        "end_time": 379.0,
+        "text": "Do you have any allergies?",
+        "topic_id": 26,
+        "summary": "Do you have any allergies?",
+        "keywords": [
+            "allergies"
+        ],
+        "sentiment": 0.0
+    },
+    {
+        "start_time": 379.0,
+        "end_time": 381.0,
+        "text": "No, not that I know.",
+        "topic_id": 27,
+        "summary": "No, not that I know.",
+        "keywords": [
+            "know"
+        ],
+        "sentiment": 0.0
+    },
+    {
+        "start_time": 381.0,
+        "end_time": 383.0,
+        "text": "Okay.",
+        "topic_id": 28,
+        "summary": "Okay.",
+        "keywords": [
+            "okay"
+        ],
+        "sentiment": 0.5
+    },
+    {
+        "start_time": 383.0,
+        "end_time": 528.4,
+        "text": "And then is there a family history of like musculoskeletal issues? Thanks for watching, and I'll see you in the next video, and I'll see you in the next video, and I'll see you in the next video, and I'll see you in the next video, and I'll see you in the next video, and I'll see you in the next video, and I'll see you in the next video, and I'll see you in the next video, and I'll see you in the next video, and I'll see you in the next video, and I'll see you in the next video, and I'll see you in the next video, and I'll see you in the next video, and I'll see you in the next video, and I'll see you in the next video, and I'll see you in the next video, and I'll see you in the next video, and I'll see you in the next video, and I'll see you in the next video, and I'll see you in the next video, and I'll see you in the next video, and I'll see you in the next video, and I'll see you in the next video, and I'll see you in the next video, and I'll see you in the next video, and I'll see you in the next video, and I'll see you in the next video, and I'll see you in the next video, and I'll see you in the next video, and I'll see you in the next video, and I'll see you in the next video, and I'll see you in the next video, and I'll see you in the next video, and I'll see you in the next video, and I'll see you in the next video, and I'll see you in the next video, and I'll see you in the next video, and I'll see you in the next video, and I'll see you in the next video, and I'll see you in the next video, and I'll see you in the next video, and I'll see you in the next video, and I'll see you in the next video, and then is it a family history of like musculoskeletal issues? So my mother has something called osteoporosis. Okay, yeah. But that's all that I can think of. How old was she when she was diagnosed with that? Probably in her 50s. Like 50s, I would say. Have you ever been tested for that? No, I've never had tested. Okay, all right. And then any then any, um, family history of longer heart conditions? No, uh, have our autoimmune conditions. Uh, no, that's what I know. Any cancers? Um, I think one of my aunts also, uh, inconsistible. Okay. Okay. How old was she when she was diagnosed with that? Um, like, pretty. Uh, recently, it's probably like in her 60s. Okay. Okay. And then have you been in touch with anyone sick recently? No. No, okay. Have you done any travel recently? No. Okay. Um those were all the questions I had for you. Did you have any questions of your own or anything you wanted to add before we moved to the physical exam component? No, I just want to get this fixed as soon as possible. Okay, that sounds good. Yeah, we'll try our best. Thank you. Okay, so now looking at your legs like side by side, do you notice any redness or swelling in your right leg compared to your left? Yeah, it's all swollen and red. This looks so much different than my other leg. Okay, yeah, and do you notice any obvious like breaks in the skin no there's",
+        "topic_id": 29,
+        "summary": " You have a family history of longer heart conditions and autoimmune conditions . Have you ever been tested for that? No, I've never had tested. Have you done any travel recently? No. No, okay . Do you notice any obvious breaks in the skin no there's obvious like breaks",
+        "keywords": [
+            "family",
+            "aunts",
+            "musculoskeletal",
+            "video",
+            "legs"
+        ],
+        "sentiment": 0.09290606653620352
+    },
+    {
+        "start_time": 528.4,
+        "end_time": 542.68,
+        "text": "no breaks in the skin but like when I felt like I can definitely see like the band there is like a band in the bone so I definitely do think this is broken okay and do you notice any like And boni pieces that are pushing on the skin?",
+        "topic_id": 30,
+        "summary": " No breaks in the skin but like when I felt like I can definitely see like the band there is like a band in the bone so I definitely do think this is broken okay and do you notice any like boni pieces that are pushing on the skin?",
+        "keywords": [
+            "breaks",
+            "broken",
+            "band",
+            "skin",
+            "felt"
+        ],
+        "sentiment": 0.024999999999999994
+    },
+    {
+        "start_time": 543.68,
+        "end_time": 545.4,
+        "text": "No. No, okay.",
+        "topic_id": 31,
+        "summary": "No. No, okay.",
+        "keywords": [
+            "okay"
+        ],
+        "sentiment": -0.25
+    },
+    {
+        "start_time": 546.24,
+        "end_time": 565.0,
+        "text": "Uh, any bruises in the area? Yeah, the whole area seems very gut and angry. Um, does, uh, besides the bruising and the misalignment, do you notice any other obvious deformities, any muscle activity in that area?",
+        "topic_id": 32,
+        "summary": " \"Yeah, the whole area seems very gut and angry,\" she says . \"Do you notice any other obvious deformities, any muscle activity in that area?\" she asks .",
+        "keywords": [
+            "bruising",
+            "bruises",
+            "deformities",
+            "misalignment",
+            "muscle"
+        ],
+        "sentiment": -0.045
+    },
+    {
+        "start_time": 565.0,
+        "end_time": 567.0,
+        "text": "No. No, okay.",
+        "topic_id": 33,
+        "summary": "No. No, okay.",
+        "keywords": [
+            "okay"
+        ],
+        "sentiment": -0.25
+    },
+    {
+        "start_time": 567.0,
+        "end_time": 572.0,
+        "text": "And then I'll play a thing your hand on one leg compared to the other.",
+        "topic_id": 34,
+        "summary": "And then I'll play a thing your hand on one leg compared to the other.",
+        "keywords": [
+            "leg",
+            "hand",
+            "play",
+            "compared",
+            "thing"
+        ],
+        "sentiment": -0.125
+    },
+    {
+        "start_time": 572.0,
+        "end_time": 578.0,
+        "text": "Does it seem warmer? Yeah, I feel like it's warmer.",
+        "topic_id": 35,
+        "summary": "Does it seem warmer? Yeah, I feel like it's warmer.",
+        "keywords": [
+            "warmer",
+            "feel",
+            "does",
+            "like",
+            "yeah"
+        ],
+        "sentiment": 0.0
+    },
+    {
+        "start_time": 578.0,
+        "end_time": 580.0,
+        "text": "Okay.",
+        "topic_id": 36,
+        "summary": "Okay.",
+        "keywords": [
+            "okay"
+        ],
+        "sentiment": 0.5
+    },
+    {
+        "start_time": 580.0,
+        "end_time": 687.84,
+        "text": "And then I'm going to try to get you to do some movements. Um, can you move your right leg at all, like, can you move your right leg at all, like, can you move your right leg at all, like, can you move your right leg at all, like, can you move your right leg at all, like, can you move your right leg at all, like, can you move your right leg at all, like, can you move your right leg at all, like, can you move your right leg at all, like, can you move your right leg at all, like, can you move your right leg at all, like, can you move your right leg at all, like, can you move your right leg at all, like, can you move your right leg at all, like, can you move your right leg at all, like, can you move your right leg at all, like, can you move your right leg at all, like, can you move your right leg at all, like, can you move your right leg at all, like, can you move your right leg at all, like, can you move your right leg at all, like, can you move your right leg at all, like, can you move your right leg at all, like, can you move your right leg at all, like, can you move your right leg at all, like, can you move your right leg at all, like, can you move your right leg at all, like, can you move your right leg at all, like, can you move your right leg at all, like, can you move your right leg at all, like, can you move your right leg at all, like, can you move your right leg at all, like, can you move your right leg at all, like, can you move your right leg at all, like, can you move your right leg at all, like, can you move your right leg at all, like, can you move your right leg at all, like, can you move your right leg at all, like, can you move your right leg at all, movements and can you move your right leg at all? Like can you flex and extend your knees? No, not at all, like I am just scared to try. Okay, and have a weight bearing are you able to stand up at all on that leg? Now, I just thought I'm going to call me ambulance, I knew it was just not possible. Okay, all right. I guess that's where all the questions that I have for you. I think you may have a tibial fracture. So, we'll start with some x-rays to be sure and to try to take a look at like where the fracture is and how we can approach that. Because everything is swollen and angry down there, will probably try and apply a splint until the swelling goes down and then we can refer you to an orthopedic surgeon for the surgery itself so that Thanks for involve like, you know, them doing like an intramedulary nail, plates and screws, and like some sort of fixation. But after the surgery, your fractional probably take about 46 months to",
+        "topic_id": 37,
+        "summary": " Can you flex and extend your knees? No, not at all, like I am just scared to try. I just thought I'm going to call me ambulance, I knew it was just not possible. I think you may have a tibial fracture. Can you move your right",
+        "keywords": [
+            "movements",
+            "leg",
+            "splint",
+            "flex",
+            "knees"
+        ],
+        "sentiment": 0.2620634920634922
+    },
+    {
+        "start_time": 687.84,
+        "end_time": 696.08,
+        "text": "heal completely. So in that period, we can talk about like pain management and physiotherapy as well,",
+        "topic_id": 38,
+        "summary": "heal completely. So in that period, we can talk about like pain management and physiotherapy as well,",
+        "keywords": [
+            "heal",
+            "physiotherapy",
+            "pain",
+            "talk",
+            "period"
+        ],
+        "sentiment": 0.1
+    },
+    {
+        "start_time": 696.08,
+        "end_time": 703.6,
+        "text": "just to keep the muscles in that area strong and to increase your range of motion. Does that sound okay?",
+        "topic_id": 39,
+        "summary": "just to keep the muscles in that area strong and to increase your range of motion. Does that sound okay?",
+        "keywords": [
+            "muscles",
+            "area",
+            "motion",
+            "increase",
+            "does"
+        ],
+        "sentiment": 0.4444444444444444
+    },
+    {
+        "start_time": 706.6,
+        "end_time": 708.6,
+        "text": "Okay, that sounds good. Thank you so much. Okay, yeah, no worries.",
+        "topic_id": 40,
+        "summary": "Okay, that sounds good. Thank you so much. Okay, yeah, no worries.",
+        "keywords": [
+            "worries",
+            "okay",
+            "sounds",
+            "yeah",
+            "thank"
+        ],
+        "sentiment": 0.5666666666666667
+    }
+]

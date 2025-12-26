@@ -1,0 +1,546 @@
+[
+    {
+        "start_time": 0.0,
+        "end_time": 25.92,
+        "text": "nice to meet you what's your name. It's my name's Scott it's nice to meet you too. Alright so Scott how old are you? I'm 15. 15 okay what brings you in today? I've had a sore throat now for a couple of weeks and it's just not going away a couple of weeks okay so about two weeks",
+        "topic_id": 1,
+        "summary": " Scott how old are you? I'm 15 okay what brings you in today? I've had a sore throat now for a couple of weeks and it's just not going away . nice to meet you what's your name? Scott .",
+        "keywords": [
+            "throat",
+            "scott",
+            "sore",
+            "meet",
+            "today"
+        ],
+        "sentiment": 0.45999999999999996
+    },
+    {
+        "start_time": 25.92,
+        "end_time": 130.0,
+        "text": "three weeks yeah about two to three weeks okay what is it feel like is it kind of like a burning feeling is it more like an itchy feeling what does it feel like? I would say It's kind of yeah, like like Bernie or burning or, or scratchy. Okay, and, um, does it hurt when you swallow? It does, yeah, my throat hurts when I'm eating or, um, I, or swallowing it like liquids as well, but cold stuff seems to make it feel a little bit better. Okay, good. And does your neck hurt, too? A little tender. I've noticed the some lumps at the front of my neck that have been a bit sore. Okay. And is it mostly sore kind of like midline or is it more sore to one side versus the other? Um, it's maybe the right side is a little bit more sore, but I can feel it on both sides of my neck. Okay, and how bad would you say your discomfort is? Want to 10, 10 being the worst? I would say maybe a two or three. If I move my neck, I can feel it more, but otherwise I can just barely notice that it's there. Okay, so it's not preventing you from sleeping, going to school, playing things like that.",
+        "topic_id": 2,
+        "summary": " It's not preventing you from sleeping, going to school, playing things like that . It's kind of like like Bernie or burning or, or scratchy . Cold stuff seems to make it feel a little bit better .",
+        "keywords": [
+            "throat",
+            "discomfort",
+            "neck",
+            "sore",
+            "lumps"
+        ],
+        "sentiment": 0.23392857142857137
+    },
+    {
+        "start_time": 131.04,
+        "end_time": 135.68,
+        "text": "No, it's more so the sore throat when swallowing.",
+        "topic_id": 3,
+        "summary": "No, it's more so the sore throat when swallowing.",
+        "keywords": [
+            "throat",
+            "swallowing",
+            "sore"
+        ],
+        "sentiment": 0.5
+    },
+    {
+        "start_time": 136.88,
+        "end_time": 178.0,
+        "text": "Okay, okay. Have you noticed a fever at all? I have, yeah, I felt hot and I checked my temperature this morning and it was 38.7 I think it was. Is that a fever? Yeah, I'd say that's a fever. We can also do another temperature check today. Okay. Yeah, but that definitely sounds like a fever. Have you noticed Rashes anywhere? Yeah, I've had this, this like red, I guess pink rash that I have noticed.",
+        "topic_id": 4,
+        "summary": " Have you noticed a fever at all? I have, yeah, I felt hot and I checked my temperature this morning and it was 38.7 I think it was. Is that a fever? Yeah, I'd say that's a fever. We can also do another temperature check today",
+        "keywords": [
+            "fever",
+            "rash",
+            "temperature",
+            "rashes",
+            "hot"
+        ],
+        "sentiment": 0.2357142857142857
+    },
+    {
+        "start_time": 179.0,
+        "end_time": 184.0,
+        "text": "It's come over by chest and and and belly area.",
+        "topic_id": 5,
+        "summary": "It's come over by chest and and and belly area.",
+        "keywords": [
+            "belly",
+            "chest",
+            "area",
+            "come"
+        ],
+        "sentiment": 0.0
+    },
+    {
+        "start_time": 228.08,
+        "end_time": 229.08,
+        "text": "Okay, how big is it? Is it more than a centimeter? Uh-huh. Yeah, it's pretty well. I mean, it's kind of spread out over an area. Like, it's not all continuous, I guess. you can kind of see patches or blocks. Okay and is it raised? No it's it's not raised. Okay okay is it itchy? No it's Got it, Chi. Okay, painful. No, not painful. Okay.",
+        "topic_id": 6,
+        "summary": " Is it more than a centimeter? Uh-huh. Yeah, it's pretty well . Is it painful? No, not painful. Is it itchy? No it's Got it, Chi. Got it .",
+        "keywords": [
+            "itchy",
+            "centimeter",
+            "painful",
+            "patches",
+            "area"
+        ],
+        "sentiment": 0.30624999999999997
+    },
+    {
+        "start_time": 229.08,
+        "end_time": 311.68,
+        "text": "And is it bleeding or oozing anything like plus? No, it's not. Nothing like that. It's just pink and red and it's just kind of showing up over the last little while. I've noticed it on my, like, hands a little bit too. Okay, and you said the started when like was this before the sort throughout or after? I can't resist like remember the onset. I think that the source wrote started first and the rash came a little bit later. OK, OK, and have you noticed that your glands are swollen? I think so. Maybe that's what's a swollen in my neck. Okay, okay. Um, have a coughing? No, I haven't had a cough. No, and have a to stuffy nose or a runny nose. Nothing like that. Okay, body aches. Yeah, I felt some muscle aches for sure. Okay, upper limbs or lower limbs.",
+        "topic_id": 7,
+        "summary": " It's just pink and red and it's just kind of showing up over the last little while . I've noticed it on my hands a little bit too. And is it bleeding or oozing anything like plus? No, it's not. Nothing like that. No, and have",
+        "keywords": [
+            "rash",
+            "swollen",
+            "coughing",
+            "neck",
+            "glands"
+        ],
+        "sentiment": 0.2326388888888889
+    },
+    {
+        "start_time": 312.96,
+        "end_time": 317.92,
+        "text": "I see, it kind of whole body. I just feel like my muscles and joints are",
+        "topic_id": 8,
+        "summary": "I see, it kind of whole body. I just feel like my muscles and joints are",
+        "keywords": [
+            "joints",
+            "muscles",
+            "body",
+            "feel",
+            "just"
+        ],
+        "sentiment": 0.4
+    },
+    {
+        "start_time": 320.32,
+        "end_time": 436.0,
+        "text": "sore. Okay, yeah. And um, are do you have any headaches? Uh, no, I haven't really had any headaches. No, okay. And how's your appetite? Are you still eating well? Um, it might be a little bit down. I just kind of haven't been feeling so great so I'm probably being less the last few weeks. Yeah. Have you been around anyone who may have been sick recently? Um, yeah, actually I think, um, uh, a few of my friends, or there was somebody in my gym class and we were that excited like they had similar symptoms. Okay, okay, and what was this? Um, I don't know if you think about it, probably about, um, three or four weeks ago. Okay, and were they ever treated for that, did they see a doctor? I'm not sure. No, okay, no worries. I just remember that being off for school because they were sick. Okay, yeah. Any issues with your eyes? No. No. Nothing like trusting or plus coming out of your eyes, red eye, anything like that. No. Well, they have looked Maybe a little bit more red than usual, but I haven't noticed anything in terms of itchiness or discharge.",
+        "topic_id": 9,
+        "summary": " Have you been around anyone who may have been sick recently? Um, yeah, actually I think, um, uh, a few of my friends, or there was somebody in my gym class and we were that excited like they had similar symptoms . I just kind of haven't been feeling",
+        "keywords": [
+            "symptoms",
+            "sick",
+            "headaches",
+            "eye",
+            "eyes"
+        ],
+        "sentiment": 0.05175736961451246
+    },
+    {
+        "start_time": 436.0,
+        "end_time": 443.0,
+        "text": "Okay, any nausea or vomiting? No, no nausea or vomiting.",
+        "topic_id": 10,
+        "summary": "Okay, any nausea or vomiting? No, no nausea or vomiting.",
+        "keywords": [
+            "nausea",
+            "vomiting",
+            "okay"
+        ],
+        "sentiment": 0.5
+    },
+    {
+        "start_time": 443.0,
+        "end_time": 509.0,
+        "text": "Okay, how about your stools? Have they been normal? Have you had diarrhea, constipation, anything like that? I can't wait and I can't wait and I can't wait and I can't wait and urine. Um, that's been okay. Okay, okay. Um, have you ever had these symptoms before? Um, I mean, I've had sore throats in the past, but not while feeling like this though. Yeah. Okay. When was the last time you had a sore throat? Um, I don't know, maybe what I was a kid. Okay. It's been a while. Yeah, like a strep throat kind of thing or a more viral. Yeah, I do remember getting, uh, antibiotics when I was younger. Okay. Okay. And are you otherwise healthy? Do you have any medical conditions? Um, I was diagnosed with, um, with asthma.",
+        "topic_id": 11,
+        "summary": " Have you ever had these symptoms before? Um, I mean, I've had sore throats in the past, but not while feeling like this? Have you had diarrhea, constipation, anything like that?",
+        "keywords": [
+            "throat",
+            "symptoms",
+            "throats",
+            "diagnosed",
+            "antibiotics"
+        ],
+        "sentiment": 0.30514705882352944
+    },
+    {
+        "start_time": 509.0,
+        "end_time": 534.28,
+        "text": "Okay. Otherwise, healthy, do you have any medical conditions? I was diagnosed with asthma. Okay, and are you on any medications for that? Yeah, so I just use mental in as needed, but otherwise, oh, and then I take flowbed daily, so I think that's",
+        "topic_id": 12,
+        "summary": " I was diagnosed with asthma . I just use mental in as needed, but otherwise, oh, and then I take flowbed daily, so I think that's that . Otherwise, healthy, do you have any medical conditions?",
+        "keywords": [
+            "asthma",
+            "flowbed",
+            "diagnosed",
+            "daily",
+            "healthy"
+        ],
+        "sentiment": 0.2333333333333333
+    },
+    {
+        "start_time": 534.28,
+        "end_time": 541.2,
+        "text": "the one. There's there's a couple inhalers that I take. Okay, okay, and any other",
+        "topic_id": 13,
+        "summary": "the one. There's there's a couple inhalers that I take. Okay, okay, and any other",
+        "keywords": [
+            "inhalers",
+            "couple",
+            "okay"
+        ],
+        "sentiment": 0.2916666666666667
+    },
+    {
+        "start_time": 541.2,
+        "end_time": 550.84,
+        "text": "medications? Sometimes they'll take like reacting or some other type of allergy.",
+        "topic_id": 14,
+        "summary": "medications? Sometimes they'll take like reacting or some other type of allergy.",
+        "keywords": [
+            "allergy",
+            "medications",
+            "reacting",
+            "like",
+            "type"
+        ],
+        "sentiment": -0.125
+    },
+    {
+        "start_time": 550.84,
+        "end_time": 573.84,
+        "text": ". . . . . . . . . . . . . . . . . . . . . . .",
+        "topic_id": 15,
+        "summary": ". . . . . . . . . . . . . . . . . . . . . . .",
+        "keywords": [],
+        "sentiment": 0.0
+    },
+    {
+        "start_time": 573.84,
+        "end_time": 566.0,
+        "text": "..... and any other medications? Sometimes they'll take, like, react in, or some other type of allergy pill, but that's it. Okay. What are you allergic to? Well, I don't say, like, mostly seasonal allergies, but like, um, yeah, like seasonal holidays and dust, baby.",
+        "topic_id": 16,
+        "summary": " Sometimes they'll take, like, react in, or some other type of allergy pill, but that's it . What are you allergic to? Well, mostly seasonal allergies .",
+        "keywords": [
+            "allergies",
+            "allergy",
+            "allergic",
+            "medications",
+            "seasonal"
+        ],
+        "sentiment": 0.1875
+    },
+    {
+        "start_time": 566.56,
+        "end_time": 571.2,
+        "text": "Okay. And, um, are you up to date with all your immunizations?",
+        "topic_id": 17,
+        "summary": "Okay. And, um, are you up to date with all your immunizations?",
+        "keywords": [
+            "immunizations",
+            "okay",
+            "date",
+            "um"
+        ],
+        "sentiment": 0.5
+    },
+    {
+        "start_time": 572.8,
+        "end_time": 575.92,
+        "text": "Yeah, my mom makes me get, uh, flu shot every year.",
+        "topic_id": 18,
+        "summary": "Yeah, my mom makes me get, uh, flu shot every year.",
+        "keywords": [
+            "flu",
+            "mom",
+            "shot",
+            "year",
+            "makes"
+        ],
+        "sentiment": 0.0
+    },
+    {
+        "start_time": 576.32,
+        "end_time": 606.4,
+        "text": "Okay, good. Um, and, um, okay. Have you, uh, seen another doctor for the symptoms at all? Have you been worked up for that any blood work testing done for it already? No, I thought I would have felt better by now, and so I haven't seen anybody, but it's kind of just been going on now, not seeming to get better. So I want to come see somebody. Yeah for sure. Have you tried",
+        "topic_id": 19,
+        "summary": " Have you, uh, seen another doctor for the symptoms at all? Have you been worked up for that any blood work testing done for it already? No, I thought I would have felt better by now, and so I haven't seen anybody, but it's kind of just been",
+        "keywords": [
+            "symptoms",
+            "felt",
+            "seen",
+            "haven",
+            "blood"
+        ],
+        "sentiment": 0.5428571428571429
+    },
+    {
+        "start_time": 606.4,
+        "end_time": 627.14,
+        "text": "anything for your symptoms any medications anything over the counter? Yeah I've tried some Tylenol and it's I think what is it Adville? The definitely is helped with some of the kind of It's in pains, but they've come right back.",
+        "topic_id": 20,
+        "summary": " Tylenol has helped with some of the kind of pains, but they've come right back .",
+        "keywords": [
+            "pains",
+            "tylenol",
+            "symptoms",
+            "adville",
+            "medications"
+        ],
+        "sentiment": 0.22142857142857142
+    },
+    {
+        "start_time": 627.14,
+        "end_time": 629.14,
+        "text": "Hmm.",
+        "topic_id": 21,
+        "summary": "Hmm.",
+        "keywords": [
+            "hmm"
+        ],
+        "sentiment": 0.0
+    },
+    {
+        "start_time": 629.14,
+        "end_time": 665.92,
+        "text": "Okay. Um, some of the kind of aches and pains, um, but they've come right back. Hmm. Okay, um, any family history of, uh, lung issues, heart issues? Um, no, nothing like that. No. Yeah. Okay, have what cancers? Uh, I think my grandfather had, um, like, pancreatic cancer. Okay. Okay. Um, all right. So, do you live at home, correct? Yeah. I live with my parents and my younger sister. She's 12. She's 12. Is she healthy?",
+        "topic_id": 22,
+        "summary": " Some of the aches and pains, um, but they've come right back. Um, no, nothing like that. No. I live with my parents and my younger sister. She's 12. Is she healthy?",
+        "keywords": [
+            "pains",
+            "cancer",
+            "cancers",
+            "healthy",
+            "pancreatic"
+        ],
+        "sentiment": 0.34185814185814184
+    },
+    {
+        "start_time": 666.8,
+        "end_time": 684.56,
+        "text": "Yeah, she is. Okay, good. And have you guys traveled recently? No, we've been, we've been at home. Okay. Okay. And, and do you smoke? No, I don't smoke.",
+        "topic_id": 23,
+        "summary": "Yeah, she is. Okay, good. And have you guys traveled recently? No, we've been, we've been at home. Okay. Okay. And, and do you smoke? No, I don't smoke.",
+        "keywords": [
+            "smoke",
+            "traveled",
+            "recently",
+            "good",
+            "home"
+        ],
+        "sentiment": 0.44000000000000006
+    },
+    {
+        "start_time": 684.56,
+        "end_time": 688.0,
+        "text": "No, I have about marijuana. I've tried it once or twice. And do you smoke? No, I don't smoke. No, I have about marijuana.",
+        "topic_id": 24,
+        "summary": "No, I have about marijuana. I've tried it once or twice. And do you smoke? No, I don't smoke. No, I have about marijuana.",
+        "keywords": [
+            "marijuana",
+            "smoke",
+            "don",
+            "ve",
+            "twice"
+        ],
+        "sentiment": 0.0
+    },
+    {
+        "start_time": 688.0,
+        "end_time": 695.0,
+        "text": "I've tried it once or twice, but I was just those couple times.",
+        "topic_id": 25,
+        "summary": "I've tried it once or twice, but I was just those couple times.",
+        "keywords": [
+            "twice",
+            "tried",
+            "just",
+            "times",
+            "ve"
+        ],
+        "sentiment": 0.0
+    },
+    {
+        "start_time": 695.0,
+        "end_time": 699.0,
+        "text": "Nothing that I do or use regularly.",
+        "topic_id": 26,
+        "summary": "Nothing that I do or use regularly.",
+        "keywords": [
+            "regularly",
+            "use"
+        ],
+        "sentiment": 0.0
+    },
+    {
+        "start_time": 699.0,
+        "end_time": 701.0,
+        "text": "Okay.",
+        "topic_id": 27,
+        "summary": "Okay.",
+        "keywords": [
+            "okay"
+        ],
+        "sentiment": 0.5
+    },
+    {
+        "start_time": 701.0,
+        "end_time": 745.44,
+        "text": "And how about alcohol? No, no alcohol. No alcohol, okay. AAAAAAAAHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHH not. No, okay. Um, is there a possibility that, uh, or actually sorry, should should be face it. Have you kissed anyone recently? Uh, I, well, I, I guess I kind of have a girlfriend now. Um, that and I started, uh, hanging out with about two months ago. Okay. Okay. And so I guess yes. Okay, all right. Well, that's good. I",
+        "topic_id": 28,
+        "summary": " Have you kissed anyone recently? No, no alcohol. No alcohol, okay. And how about alcohol? No alcohol. AAAAAAAAHHHHHHHHHHHHhhhhhhhhhhhhhhh . No alcohol . No, okay, okay .",
+        "keywords": [
+            "alcohol",
+            "kissed",
+            "girlfriend",
+            "okay",
+            "possibility"
+        ],
+        "sentiment": 0.28357142857142853
+    },
+    {
+        "start_time": 748.04,
+        "end_time": 750.64,
+        "text": "Have has she had any of these symptoms?",
+        "topic_id": 29,
+        "summary": "Have has she had any of these symptoms?",
+        "keywords": [
+            "symptoms"
+        ],
+        "sentiment": 0.0
+    },
+    {
+        "start_time": 752.12,
+        "end_time": 762.92,
+        "text": "Well, she she was it wasn't feeling well for a while back, but I Don't think it was this bad for her. Okay",
+        "topic_id": 30,
+        "summary": "Well, she she was it wasn't feeling well for a while back, but I Don't think it was this bad for her. Okay",
+        "keywords": [
+            "feeling",
+            "bad",
+            "wasn",
+            "okay",
+            "think"
+        ],
+        "sentiment": -0.06666666666666661
+    },
+    {
+        "start_time": 764.52,
+        "end_time": 768.88,
+        "text": "And she and she's better now Okay. And she's better now. Yeah, she's better now.",
+        "topic_id": 31,
+        "summary": "And she and she's better now Okay. And she's better now. Yeah, she's better now.",
+        "keywords": [
+            "better",
+            "okay",
+            "yeah"
+        ],
+        "sentiment": 0.5
+    },
+    {
+        "start_time": 768.88,
+        "end_time": 773.8,
+        "text": "Okay. All right.",
+        "topic_id": 32,
+        "summary": "Okay. All right.",
+        "keywords": [
+            "okay",
+            "right"
+        ],
+        "sentiment": 0.39285714285714285
+    },
+    {
+        "start_time": 773.8,
+        "end_time": 776.72,
+        "text": "So you mentioned you're not sexually active.",
+        "topic_id": 33,
+        "summary": "So you mentioned you're not sexually active.",
+        "keywords": [
+            "sexually",
+            "active",
+            "mentioned"
+        ],
+        "sentiment": 0.06666666666666667
+    },
+    {
+        "start_time": 776.72,
+        "end_time": 780.88,
+        "text": "If you were to be, make sure you use protection.",
+        "topic_id": 34,
+        "summary": "If you were to be, make sure you use protection.",
+        "keywords": [
+            "protection",
+            "use",
+            "sure",
+            "make"
+        ],
+        "sentiment": 0.5
+    },
+    {
+        "start_time": 782.76,
+        "end_time": 865.32,
+        "text": "And okay, so everything at home is okay, No one's no one's no one's no one's no one's no one's no one's no one's no one's no one's no one's no one's no one's no one's no one's no one's no one's no one's no one's no one's no one's no one's no one's no one's no one's no one's no one's no one's no one's no one's no one's no one's no one's no one's no one's no one's no one's no one's no one's no one's no one's no one's no one's no one's no one's no one's no one's no one's no one's no one's no one's no one's no one's no one's no one's no one's no one's no one's no one's no one's no one's no one's no one's no one's no one's no one's no one's no one's no one's no one's no one's no one's no one's no one's no one's no one's no one's no one's no one's no one's no one's no one's no one's no one's no one's no one's no one's no one's no one's no one's no one's no one's no one's no one's no one's no one's no one's no one's no one's no one's no one's no one's no one's no one's no one's no one's no one's no one's no one's no one's no one's no one's no one's no one's no one's no one's no one's no one's no one's no one's no one's no one's no one's no one's no one's no one's no one's no one's no one's no one's no one's no one's no one's no one's no one's no one's no one's no one's no one's no one's no one's no one's no one's sick at home. You mentioned right? Yeah no one's no one's sick at home. Okay and school is going okay. Yeah school's been been going okay for the most most part. It's been tough these last few weeks feeling like this though. Yeah, for sure. And are you and your girlfriend in an exclusive relationship? I think so, yeah. Okay. I asked because there's something called what you may be familiar with is called the kissing disease in medical terminology. It's called mono as caused by a virus called EBV and so it could be that. So we're covering all our bases. Oh, I've heard of motto before. Yeah. Okay. Mm-hmm. It's likely it could be up there in terms of what you have. So I think those were all the questions I had for you. Did you have any questions for me anything you wanted to add?",
+        "topic_id": 35,
+        "summary": " No one's no one's sick at home . School is going okay for the most most part . Are you and your girlfriend in an exclusive relationship? I think so, yeah. I asked because there's something called what you may be familiar with is called the kissing disease in medical terminology",
+        "keywords": [
+            "motto",
+            "okay",
+            "feeling",
+            "home",
+            "sick"
+        ],
+        "sentiment": 0.191750208855472
+    },
+    {
+        "start_time": 888.0,
+        "end_time": 892.0,
+        "text": "No, I think that's you cover everything. Okay, all right, so I will we'll go off a few we'll try to cover a basis and get you tested for Mono which you you'd have to do like a monospot test and we can can do a rapid test as well. The CV has something called strep throat.",
+        "topic_id": 36,
+        "summary": " The CV has something called strep throat. No, I think that's you cover everything. We'll get you tested for Mono which you you'd have to do like a monospot test and we can can can do a rapid test .",
+        "keywords": [
+            "mono",
+            "monospot",
+            "cv",
+            "strep",
+            "throat"
+        ],
+        "sentiment": 0.1952380952380952
+    },
+    {
+        "start_time": 892.0,
+        "end_time": 896.0,
+        "text": "But yeah, we'll see what those results come back as and we'll go from there.",
+        "topic_id": 37,
+        "summary": "But yeah, we'll see what those results come back as and we'll go from there.",
+        "keywords": [
+            "results",
+            "come",
+            "yeah",
+            "ll"
+        ],
+        "sentiment": 0.0
+    },
+    {
+        "start_time": 896.0,
+        "end_time": 900.0,
+        "text": "Does that sound good? Yeah, no, that sounds good.",
+        "topic_id": 38,
+        "summary": "Does that sound good? Yeah, no, that sounds good.",
+        "keywords": [
+            "sounds",
+            "yeah",
+            "does",
+            "sound",
+            "good"
+        ],
+        "sentiment": 0.6
+    },
+    {
+        "start_time": 900.0,
+        "end_time": 902.0,
+        "text": "Okay, thank you.",
+        "topic_id": 39,
+        "summary": "Okay, thank you.",
+        "keywords": [
+            "okay",
+            "thank"
+        ],
+        "sentiment": 0.5
+    }
+]

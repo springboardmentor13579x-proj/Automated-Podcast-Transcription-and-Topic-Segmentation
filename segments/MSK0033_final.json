@@ -1,0 +1,435 @@
+[
+    {
+        "start_time": 0.0,
+        "end_time": 109.36,
+        "text": "Well, brings you in here today. I've been having this pain in my knee. That's been going on now for a few weeks. It's kind of rid of them. I can feel it right below my knee cap and at first it was really only bothering me after activity, but now it's starting to hurt during as well, and so it's starting to limit my ability to play basketball. Okay, and so you said this started just two weeks ago? Yeah, but about a few weeks ago, okay, and has the pain, so it's been getting a bit worse in the productivity, and it's right the lower your knee cap, is it the right leg or the left leg? Yeah, it's on the right side, it's my right side, okay, and what kind of pain are you experiencing is it kind of a sharp pain or is it dull aching pain it's it's pretty achy yeah it's achy okay and does the pain travel anywhere else or doesn't it's just right below your kneecap? It's ripple when kneecap, yeah, I feel like it's over a kind of a small area. It's a pretty specific spot, I hope I press on that area at all. It gives me a pretty, it's a sharp pain if I press on it. Oh, it's a sharp pain, okay. And on a scale of zero to 10, 10 being the worst pain you're felt in your life, how much",
+        "topic_id": 1,
+        "summary": " I've been having this pain in my knee for a few weeks. I can feel it right below my knee cap and at first it was only bothering me after activity, but now it's starting to hurt during as well, and so it is starting to limit my ability to play basketball",
+        "keywords": [
+            "knee",
+            "aching",
+            "kneecap",
+            "pain",
+            "hurt"
+        ],
+        "sentiment": 0.14992997198879549
+    },
+    {
+        "start_time": 109.36,
+        "end_time": 112.08,
+        "text": "would you rate this pain?",
+        "topic_id": 2,
+        "summary": "would you rate this pain?",
+        "keywords": [
+            "pain",
+            "rate"
+        ],
+        "sentiment": 0.0
+    },
+    {
+        "start_time": 112.08,
+        "end_time": 120.12,
+        "text": "I, it's about a six or seven. Six or seven, okay.",
+        "topic_id": 3,
+        "summary": "I, it's about a six or seven. Six or seven, okay.",
+        "keywords": [
+            "seven",
+            "okay"
+        ],
+        "sentiment": 0.5
+    },
+    {
+        "start_time": 120.12,
+        "end_time": 129.96,
+        "text": "And is it a constant pain, or like, do you get the pain when you're not playing basketball or doing other activities?.",
+        "topic_id": 4,
+        "summary": "And is it a constant pain, or like, do you get the pain when you're not playing basketball or doing other activities?.",
+        "keywords": [
+            "pain",
+            "basketball",
+            "playing",
+            "like",
+            "doing"
+        ],
+        "sentiment": -0.0625
+    },
+    {
+        "start_time": 129.96,
+        "end_time": 152.96,
+        "text": ". . . . . . . . . . . . . . . . . . . . . . .",
+        "topic_id": 5,
+        "summary": ". . . . . . . . . . . . . . . . . . . . . . .",
+        "keywords": [],
+        "sentiment": 0.0
+    },
+    {
+        "start_time": 152.96,
+        "end_time": 265.52,
+        "text": "..... And is it a constant pain or like, do you get the pain when you're not playing basketball or doing other activities? I'll get it. If I'm like, sometimes I'll feel it. If I'm going up like walking upstairs or like if I'm sitting for a long, long time and I get up, it'll feel a bit sore But it's mostly if I'm like doing activity so like running or jumping Like strenuous stuff like that Okay, see and has this ever happened before? No, I haven't had any issues with my knee before. Okay. And otherwise, are you having any other symptoms besides the pain like any numbness tingling? No, nothing like that. It's just the pain. Okay. and any weakness in your legs? No, we, no weakness. Okay, and have you tried anything that improves the pain at all or anything that makes it worse? I have tried taking some pilot all in an admiral in that we're in, and it has helped with the pain. I've tried icing it to after practice and stuff like that, which does seem to help a little bit, but yeah, that's about it. That's about it. Okay. Okay. And other than that, did you like have a fall or did you have any injuries recently before you started having this pain? No, it's kind of come on on its own. No falls or trauma to the knee. Okay. And other than that are you healthy? Do you have any medical conditions at all? All right. Yeah. I don't have anything healthy. Okay. Any medications that you take on a regular basis?",
+        "topic_id": 6,
+        "summary": " It's mostly if I'm like doing activity so like running or jumping like strenuous stuff like that . I've tried icing it to after practice and icing it a little bit, but yeah, that's about it. No falls or trauma to the knee. No weakness in your legs",
+        "keywords": [
+            "knee",
+            "numbness",
+            "tingling",
+            "pain",
+            "symptoms"
+        ],
+        "sentiment": 0.22300824175824177
+    },
+    {
+        "start_time": 267.92,
+        "end_time": 268.64,
+        "text": "Uh, no, not nothing. I don't take anything.",
+        "topic_id": 7,
+        "summary": "Uh, no, not nothing. I don't take anything.",
+        "keywords": [
+            "don",
+            "uh"
+        ],
+        "sentiment": 0.0
+    },
+    {
+        "start_time": 271.84,
+        "end_time": 275.92,
+        "text": "Okay. Um, any allergies? No allergies. Okay.",
+        "topic_id": 8,
+        "summary": "Okay. Um, any allergies? No allergies. Okay.",
+        "keywords": [
+            "allergies",
+            "okay",
+            "um"
+        ],
+        "sentiment": 0.5
+    },
+    {
+        "start_time": 281.76,
+        "end_time": 360.0,
+        "text": "And have you been, uh, sick recently at all with fevers, chills, any cold or viral symptoms? Um, no, I haven't had anything like that. I've been feeling well. Okay. Any changes in your skin like any rashes? No, I haven't had any any rashes. Okay, and any kind of shortness of bread, chest pain, nope. Nothing like that. Okay. And any changes in your bowel movements or urinary patterns? No, I haven't had any changes there. Okay. And do you have any, uh, recent or like, past history of any hospitalizations or surgeries? No, I haven't had anything like that. Okay, and any family history of any musculoskeletal conditions or any, uh, anything that runs in the family? Um, no, nothing like that. No. Okay. Okay. Um, and currently right now, uh, do you go to school?",
+        "topic_id": 9,
+        "summary": " Have you been, uh, sick recently at all with fevers, chills, any cold or viral symptoms? Um, no, I haven't had anything like that. I've been feeling well. Any changes in your skin like any rashes? No, I've had any",
+        "keywords": [
+            "fevers",
+            "symptoms",
+            "sick",
+            "hospitalizations",
+            "bowel"
+        ],
+        "sentiment": 0.14795918367346936
+    },
+    {
+        "start_time": 360.0,
+        "end_time": 447.0,
+        "text": "Do you work at all? Yeah, I go to school. Um, and uh, I play on the, uh, Thanks for watching, and I'll see you in the next video, and I'll see you in the next video, and I'll see you in the next video, and I'll see you in the next video, and I'll see you in the next video, and I'll see you in the next video, and I'll see you in the next video, and I'll see you in the next video, and I'll see you in the next video, and I'll see you in the next video, and I'll see you in the next video, and I'll see you in the next video, and I'll see you in the next video, and I'll see you in the next video, and I'll see you in the next video, and I'll see you in the next video, and I'll see you in the next video, and I'll see you in the next video, and I'll see you in the next video, and I'll see you in the next video, and I'll see you in the next video, and I'll see you in the next video, and I'll see you in the next video, and I'll see you in the next video, and I'll see you in the next video, and I'll see you in the next video, and I'll see you in the next video, and I'll see you in the next video, and I'll see you in the next video, and I'll see you in the next video, and I'll see you in the next video, and I'll see you in the next video, and I'll see you in the next video, and I'll see you in the next video, and I'll see you in the next video, and I'll see you in the next video, and I'll see you in the next video, and I'll see you in the next video, and I'll see you in the next video, and I'll see you in the next video, and I'll see you in the next video, and I'll see you in the next video, and I'll see you in the next video, and I go to school and I play on the soccer team and the basketball team. It's basketball season right now and in grade 10. Okay, in grade 10. Okay, and a school going doing well any issues at all with bullying or anything like that? No, school's been going well. I've been doing well in my courses and I have a good group of friends, so I enjoy it. It's fun. Okay, and what's your home situation like, do you live with? So I live with both of my parents and I have a younger sister as well. She's in grade 7. And we have a dog as well. Okay. And do you generally feel safe at home as well as outside of your home environment? I do, yeah, I get along well with my parents and we, yeah, my parents are great. That's good. And this is just one to let you know that anything that you talk about in here with us stays confidential",
+        "topic_id": 10,
+        "summary": " I go to school and I play on the soccer team and the basketball team . I live with both of my parents and I have a younger sister as well . I get along well with my parents . I've been doing well in my courses and have a good group of friends, so",
+        "keywords": [
+            "video",
+            "school",
+            "play",
+            "work",
+            "watching"
+        ],
+        "sentiment": 0.10347402597402595
+    },
+    {
+        "start_time": 447.0,
+        "end_time": 507.28,
+        "text": "and won't leave this room unless there is potential harm to yourself or others. So have you tried any recreational drugs like marijuana, have you tried smoking or alcohol at all? No, I've been trying to stay away from that sort that sort of thing. I know other people in my classroom have and stuff, but I was just trying to stay as ready as I can for the sports. OK, that's good. And yeah, so are you up to date with all humanizations?? Yeah, yeah, my mom made sure that's I got all of that stuff done. Okay, all right, so yeah, those are some questions I had. I just have a few more questions with regards to this examining your knee. Are you able to walk or do you have any kind of a limp?",
+        "topic_id": 11,
+        "summary": " Have you tried any recreational drugs like marijuana, have you tried smoking or alcohol at all? No, I've been trying to stay away from that sort that sort of thing . Are you able to walk or do you have any kind of a limp? Are you up to date with all",
+        "keywords": [
+            "knee",
+            "limp",
+            "walk",
+            "sports",
+            "recreational"
+        ],
+        "sentiment": 0.28928571428571426
+    },
+    {
+        "start_time": 508.36,
+        "end_time": 511.44,
+        "text": "Yeah, I know a limp, but I could walk, okay.",
+        "topic_id": 12,
+        "summary": "Yeah, I know a limp, but I could walk, okay.",
+        "keywords": [
+            "limp",
+            "walk",
+            "know",
+            "okay",
+            "yeah"
+        ],
+        "sentiment": 0.15
+    },
+    {
+        "start_time": 511.44,
+        "end_time": 524.44,
+        "text": "Okay, and are you able to run? Yeah, I can run, but when I do, it causes some pain. I'm able to still run, but yeah, it hurts.",
+        "topic_id": 13,
+        "summary": "Okay, and are you able to run? Yeah, I can run, but when I do, it causes some pain. I'm able to still run, but yeah, it hurts.",
+        "keywords": [
+            "run",
+            "pain",
+            "hurts",
+            "able",
+            "okay"
+        ],
+        "sentiment": 0.5
+    },
+    {
+        "start_time": 524.64,
+        "end_time": 609.68,
+        "text": "Okay, and so you, when you palpate your lore and you just under the Patel, you said it's a sharp pain, right? Yeah, exactly. And then what I if it's and it feels kind of achy, what when like after practice or something like that, but if you press on it, it's sharp. And any kind of like are you able to flex and extend your knee right now if you try? I can, yeah. Okay, and have you noticed any kind of rotation of your knee at all? No, nothing like that. No, okay. Okay, and no weakness below your knee, right? No weakness. I just feel like my muscles are really tight. Like my thigh, my hamstring muscles. I think I need to stretch them out. Some more, need to just feel tight Okay, and do you notice any kind of swelling or redness Are bruising in the area? No No, okay, and your ankle and hips You don't have any pain or issues with movement, right? No, no, no, no, no my ankle or hip. Okay. All right. Yeah. So those",
+        "topic_id": 14,
+        "summary": " I just feel like my muscles are really tight. Like my thigh, my hamstring muscles. I think I need to stretch them out. Some more, need to just feel tight. No weakness below your knee, right? No weakness . Do you notice any swelling or redness in the",
+        "keywords": [
+            "knee",
+            "patel",
+            "hamstring",
+            "stretch",
+            "swelling"
+        ],
+        "sentiment": 0.28136645962732915
+    },
+    {
+        "start_time": 609.68,
+        "end_time": 615.52,
+        "text": "are just all the questions I had for you today. Do you have any questions? I was just, yeah,",
+        "topic_id": 15,
+        "summary": "are just all the questions I had for you today. Do you have any questions? I was just, yeah,",
+        "keywords": [
+            "questions",
+            "just",
+            "today",
+            "yeah"
+        ],
+        "sentiment": 0.0
+    },
+    {
+        "start_time": 615.52,
+        "end_time": 647.84,
+        "text": "what I can do to make this go away. Yeah. So definitely this is something that is what we call all um, um, um, um, um, um, um, play sports like volleyball or basketball. But right now we don't really need to do any kind of",
+        "topic_id": 16,
+        "summary": " \"Right now we don't really need to do any kind of . kind of thing that is what we call all um, um, . um . what I can do to make this go away,\" she says . But right now, she says, \"I can do anything I can",
+        "keywords": [
+            "volleyball",
+            "sports",
+            "basketball",
+            "play",
+            "don"
+        ],
+        "sentiment": 0.2714285714285714
+    },
+    {
+        "start_time": 647.84,
+        "end_time": 653.52,
+        "text": "imaging or anything like that. It seems like you're in the earlier phases and it's good that you",
+        "topic_id": 17,
+        "summary": "imaging or anything like that. It seems like you're in the earlier phases and it's good that you",
+        "keywords": [
+            "imaging",
+            "phases",
+            "good",
+            "like",
+            "earlier"
+        ],
+        "sentiment": 0.35
+    },
+    {
+        "start_time": 653.52,
+        "end_time": 660.8,
+        "text": "came in. We definitely do need to manage it with some conservative management where we're going to",
+        "topic_id": 18,
+        "summary": "came in. We definitely do need to manage it with some conservative management where we're going to",
+        "keywords": [
+            "manage",
+            "management",
+            "conservative",
+            "going",
+            "came"
+        ],
+        "sentiment": 0.0
+    },
+    {
+        "start_time": 661.76,
+        "end_time": 687.04,
+        "text": "keep having taking a look at it as well as I would recommend icing it every like for a half an hour, like around four to six times a day, especially after you're doing your activities. Then you can you can take the pal, continuing the Tylenol and Adville as well as long as you're following the maximum",
+        "topic_id": 19,
+        "summary": " I would recommend icing it every like for a half an hour, like around four to six times a day, especially after you're doing your activities . Then you can you can take the pal, continuing the Tylenol and Adville as well as long as you're following the",
+        "keywords": [
+            "tylenol",
+            "icing",
+            "pal",
+            "taking",
+            "recommend"
+        ],
+        "sentiment": -0.05416666666666667
+    },
+    {
+        "start_time": 687.04,
+        "end_time": 692.64,
+        "text": "amount per day depending on if you're taking extra strength, Tylenol for example versus",
+        "topic_id": 20,
+        "summary": "amount per day depending on if you're taking extra strength, Tylenol for example versus",
+        "keywords": [
+            "tylenol",
+            "strength",
+            "day",
+            "taking",
+            "depending"
+        ],
+        "sentiment": 0.0
+    },
+    {
+        "start_time": 692.64,
+        "end_time": 699.6,
+        "text": "the regular strength. And then I will also refer you to some physiotherapy that will",
+        "topic_id": 21,
+        "summary": "the regular strength. And then I will also refer you to some physiotherapy that will",
+        "keywords": [
+            "strength",
+            "physiotherapy",
+            "regular",
+            "refer"
+        ],
+        "sentiment": 0.0
+    },
+    {
+        "start_time": 700.56,
+        "end_time": 727.56,
+        "text": "kind of teach you some strengthening and stretching exercises that you can do to help what we call like. You might be having is just some information in your Patelor tendon, right below your Patelor. So we need to strengthen the muscles around it.",
+        "topic_id": 22,
+        "summary": " You might be having is just some information in your Patelor tendon, right below . So we need to strengthen the muscles around it. kind of teach you some strengthening and stretching exercises that you can do .",
+        "keywords": [
+            "patelor",
+            "stretching",
+            "exercises",
+            "tendon",
+            "strengthen"
+        ],
+        "sentiment": 0.44285714285714284
+    },
+    {
+        "start_time": 727.56,
+        "end_time": 731.12,
+        "text": "So we'll do some referral to physiotherapy",
+        "topic_id": 23,
+        "summary": "So we'll do some referral to physiotherapy",
+        "keywords": [
+            "physiotherapy",
+            "referral",
+            "ll"
+        ],
+        "sentiment": 0.0
+    },
+    {
+        "start_time": 731.12,
+        "end_time": 737.32,
+        "text": "and then we'll see how you do based on all those treatment",
+        "topic_id": 24,
+        "summary": "and then we'll see how you do based on all those treatment",
+        "keywords": [
+            "treatment",
+            "based",
+            "ll"
+        ],
+        "sentiment": 0.0
+    },
+    {
+        "start_time": 737.32,
+        "end_time": 737.92,
+        "text": "options.",
+        "topic_id": 25,
+        "summary": "options.",
+        "keywords": [
+            "options"
+        ],
+        "sentiment": 0.0
+    },
+    {
+        "start_time": 737.92,
+        "end_time": 742.64,
+        "text": "And then if it gets worse, or if it doesn't get better,",
+        "topic_id": 26,
+        "summary": "And then if it gets worse, or if it doesn't get better,",
+        "keywords": [
+            "worse",
+            "better",
+            "doesn",
+            "gets"
+        ],
+        "sentiment": 0.04999999999999999
+    },
+    {
+        "start_time": 742.64,
+        "end_time": 746.6,
+        "text": "we might need to do some imaging, either ultrasound",
+        "topic_id": 27,
+        "summary": "we might need to do some imaging, either ultrasound",
+        "keywords": [
+            "ultrasound",
+            "imaging",
+            "need"
+        ],
+        "sentiment": 0.0
+    },
+    {
+        "start_time": 746.6,
+        "end_time": 768.88,
+        "text": "or MRI, and then see where to go from there. But for now, does that sound okay with you? It does, yeah, thank you. So you said that you think it's like a metallur-tendeditis or something like that? Yeah, it's a metallur-tendeditis. It's commonly called the jumpers knee knee and it should resolve with the steps that we",
+        "topic_id": 28,
+        "summary": " It's commonly called the jumpers knee knee knee and it should resolve with the steps that we take . or MRI, and then see where to go from there .",
+        "keywords": [
+            "mri",
+            "knee",
+            "tendeditis",
+            "jumpers",
+            "metallur"
+        ],
+        "sentiment": 0.20000000000000004
+    },
+    {
+        "start_time": 768.88,
+        "end_time": 776.24,
+        "text": "especially since it seems like you're in the earlier stages so it seems like it should be",
+        "topic_id": 29,
+        "summary": "especially since it seems like you're in the earlier stages so it seems like it should be",
+        "keywords": [
+            "stages",
+            "earlier",
+            "especially",
+            "like"
+        ],
+        "sentiment": 0.0
+    },
+    {
+        "start_time": 776.96,
+        "end_time": 781.12,
+        "text": "pretty responsive but if it isn't there are other steps we can discuss in the future.",
+        "topic_id": 30,
+        "summary": "pretty responsive but if it isn't there are other steps we can discuss in the future.",
+        "keywords": [
+            "responsive",
+            "steps",
+            "discuss",
+            "future",
+            "isn"
+        ],
+        "sentiment": 0.041666666666666664
+    },
+    {
+        "start_time": 782.64,
+        "end_time": 784.64,
+        "text": "Okay that sounds great thank you.",
+        "topic_id": 31,
+        "summary": "Okay that sounds great thank you.",
+        "keywords": [
+            "okay",
+            "great",
+            "sounds",
+            "thank"
+        ],
+        "sentiment": 0.65
+    }
+]

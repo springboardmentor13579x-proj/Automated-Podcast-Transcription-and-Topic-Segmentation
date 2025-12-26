@@ -1,0 +1,298 @@
+[
+    {
+        "start_time": 0.0,
+        "end_time": 51.36,
+        "text": "how may I help you? Hi I'm here with my three-year-old daughter and she's been holding her elbow awkwardly and she seems like she's in pain so it was just wondering if something happened to her elbow and if you can fix it. Yeah for sure okay so So, is she holding her arm, um, like, in any particular position, like with her elbow, got a flat store, is her arm extended? Um, it seems kind of flexious holding it, um, awkwardly. Um, she can't, she's not, she's not stretching it. Okay. And when did",
+        "topic_id": 1,
+        "summary": " Three-year-old daughter holding her elbow awkwardly and she seems like she's in pain so it was just wondering if something happened to her elbow .",
+        "keywords": [
+            "elbow",
+            "arm",
+            "stretching",
+            "awkwardly",
+            "flexious"
+        ],
+        "sentiment": 0.13020833333333331
+    },
+    {
+        "start_time": 51.36,
+        "end_time": 63.12,
+        "text": "this start? When did you first notice? I noticed this yesterday. Okay. And has she been holding",
+        "topic_id": 2,
+        "summary": "this start? When did you first notice? I noticed this yesterday. Okay. And has she been holding",
+        "keywords": [
+            "holding",
+            "yesterday",
+            "start",
+            "notice",
+            "noticed"
+        ],
+        "sentiment": 0.375
+    },
+    {
+        "start_time": 63.12,
+        "end_time": 108.96,
+        "text": "her arm kind of like this the whole time? Yeah, there's just like a slight bend to it. It's not fully straightened, it's not fully like fully flexed. It's just kind of hanging out her side. Okay. And has there been anything that's made the pain worse? No, I don't think so. I think she's just been holding it awkwardly like that. I'm assuming so it doesn't cause more pain. Okay. And is the pain sharp",
+        "topic_id": 3,
+        "summary": " There's just like a slight bend to it. It's not fully straightened, not fully like fully flexed, it's just kind of hanging out her side . No, I don't think so. I think she's just been holding it awkwardly like that. I'm assuming",
+        "keywords": [
+            "pain",
+            "arm",
+            "flexed",
+            "bend",
+            "awkwardly"
+        ],
+        "sentiment": 0.16083333333333333
+    },
+    {
+        "start_time": 108.96,
+        "end_time": 122.4,
+        "text": "burning or achy? I think it's sharp. The sharp pain. Okay. And is the pain radiating anywhere else like",
+        "topic_id": 4,
+        "summary": "burning or achy? I think it's sharp. The sharp pain. Okay. And is the pain radiating anywhere else like",
+        "keywords": [
+            "pain",
+            "burning",
+            "sharp",
+            "achy",
+            "radiating"
+        ],
+        "sentiment": 0.08333333333333333
+    },
+    {
+        "start_time": 122.4,
+        "end_time": 167.88,
+        "text": "pain in the hand or wrist or pain up into the arm or shoulder. I don't think so. Okay, and has there been, um, like, was there anything that happened around the, the time that you first noticed her holding her arm like this, such as a fall or maybe like somebody pulling on on her hand, like swinging her from her arm or anything like that. Um, I know her father was estimating her arms yesterday. They were playing in the park. Um, so maybe. Okay. So she's just reading from her arms, that's true.",
+        "topic_id": 5,
+        "summary": " There have been no pain in the hand or wrist or pain up into the arm or shoulder . She's just reading from her arms, that's true, her father says .",
+        "keywords": [
+            "wrist",
+            "shoulder",
+            "arm",
+            "arms",
+            "pain"
+        ],
+        "sentiment": 0.32
+    },
+    {
+        "start_time": 169.76,
+        "end_time": 176.76,
+        "text": "Okay, and has she talked about having any numbness",
+        "topic_id": 6,
+        "summary": "Okay, and has she talked about having any numbness",
+        "keywords": [
+            "numbness",
+            "talked",
+            "having",
+            "okay"
+        ],
+        "sentiment": 0.5
+    },
+    {
+        "start_time": 176.76,
+        "end_time": 178.2,
+        "text": "or tingling?",
+        "topic_id": 7,
+        "summary": "or tingling?",
+        "keywords": [
+            "tingling"
+        ],
+        "sentiment": 0.0
+    },
+    {
+        "start_time": 178.2,
+        "end_time": 179.68,
+        "text": "No.",
+        "topic_id": 8,
+        "summary": "No.",
+        "keywords": [],
+        "sentiment": 0.0
+    },
+    {
+        "start_time": 179.68,
+        "end_time": 184.2,
+        "text": "Okay, and any muscle weakness that you've noticed?",
+        "topic_id": 9,
+        "summary": "Okay, and any muscle weakness that you've noticed?",
+        "keywords": [
+            "weakness",
+            "muscle",
+            "noticed",
+            "ve",
+            "okay"
+        ],
+        "sentiment": 0.5
+    },
+    {
+        "start_time": 233.2,
+        "end_time": 250.24,
+        "text": "At no, no muscle weakness. Okay. And has she had any fevers or chills? No. Okay, and has she had any headaches? No. Has she had any sensory changes like any issues with vision or hearing. I know. Any issues with sense of smell or taste? No. Has she had a cough or sore throat? No. Okay. Has she had any night sweats? No. and as she had any weight loss? No. Okay. And as she had a runny nose or a sore throat? No. How could a cough or shortness of breath? No. How did she had any wheezing or chest pain? No. All right. And any abdominal pain?.",
+        "topic_id": 10,
+        "summary": " Has she had a runny nose or a sore throat? No. How did a cough or shortness of breath? How did she had any wheezing or chest pain? And any abdominal pain?",
+        "keywords": [
+            "fevers",
+            "throat",
+            "headaches",
+            "wheezing",
+            "cough"
+        ],
+        "sentiment": 0.00714285714285714
+    },
+    {
+        "start_time": 250.24,
+        "end_time": 273.24,
+        "text": ". . . . . . . . . . . . . . . . . . . . . . .",
+        "topic_id": 11,
+        "summary": ". . . . . . . . . . . . . . . . . . . . . . .",
+        "keywords": [],
+        "sentiment": 0.0
+    },
+    {
+        "start_time": 273.24,
+        "end_time": 308.0,
+        "text": "..... No, how did she had any reasing or chest pain? No. All right, and any abdominal pain? No. Any nausea or vomiting? No. Any diarrhea, a constipation, or blood in the stool? No. Any changes through urinary patterns? I know. Okay, and as you had any appetite loss? No. And how is her energy been? I spend the same to just not doing as much because her arm is in pain. Okay, but no fatigue? No. I see. Okay, and how about any memory loss or confusion? I know nothing like that. Does she have any muscle aches or body pains or or any joint pains anywhere else? No. Okay, and how about skin changes such as brushesashes or any changes to her hair or nails?",
+        "topic_id": 12,
+        "summary": " No, how did she had any reasing or chest pain? No. Any nausea or vomiting? No . Any diarrhea, a constipation, or blood in the stool? No, and as you had any appetite loss? And how is her energy been?",
+        "keywords": [
+            "pains",
+            "nausea",
+            "fatigue",
+            "vomiting",
+            "appetite"
+        ],
+        "sentiment": 0.21696428571428572
+    },
+    {
+        "start_time": 308.0,
+        "end_time": 310.0,
+        "text": "No, nothing like that.",
+        "topic_id": 13,
+        "summary": "No, nothing like that.",
+        "keywords": [
+            "like"
+        ],
+        "sentiment": 0.0
+    },
+    {
+        "start_time": 310.0,
+        "end_time": 329.0,
+        "text": "Okay, and in the past, has she had any medical problems or has she been diagnosed with any medical conditions before? No, she's been pretty healthy otherwise. Okay, does she take any medications? No.",
+        "topic_id": 14,
+        "summary": " Does she take any medications? No. No. She's been pretty healthy otherwise .",
+        "keywords": [
+            "diagnosed",
+            "medications",
+            "medical",
+            "healthy",
+            "does"
+        ],
+        "sentiment": 0.21428571428571427
+    },
+    {
+        "start_time": 329.0,
+        "end_time": 352.0,
+        "text": "No. No. No. No. No. No. No. No. No. No. No. No. No. No. No. No. No. No. No. No. No. No. No.",
+        "topic_id": 15,
+        "summary": "No. No. No. No. No. No. No. No. No. No. No. No. No. No. No. No. No. No. No. No. No. No. No.",
+        "keywords": [],
+        "sentiment": 0.0
+    },
+    {
+        "start_time": 352.0,
+        "end_time": 329.04,
+        "text": "No. No. No any medications? No.",
+        "topic_id": 16,
+        "summary": "No. No. No any medications? No.",
+        "keywords": [
+            "medications"
+        ],
+        "sentiment": 0.0
+    },
+    {
+        "start_time": 329.76,
+        "end_time": 340.96,
+        "text": "Does she add any allergies? No. And has she been hospitalized for any reason or has she had any surgeries? No.",
+        "topic_id": 17,
+        "summary": "Does she add any allergies? No. And has she been hospitalized for any reason or has she had any surgeries? No.",
+        "keywords": [
+            "allergies",
+            "surgeries",
+            "hospitalized",
+            "does",
+            "reason"
+        ],
+        "sentiment": 0.0
+    },
+    {
+        "start_time": 342.48,
+        "end_time": 486.48,
+        "text": "Okay. Any concerns for reaching developmental milestones such as walking, talking, and social interactions? No. No issues there. No problems. Okay. And then how about just growth and development as you're getting taller and gaining weight? Yeah. I love let that's been pretty good Okay, now that's good and were there any concerns with the the pregnancy with her any like gestational diabetes high blood pressure or infections? No, everything went smoothly Okay, was she at term or were she pre term? She was at term she was like um 37 and a half weeks or something like that. Okay and was it a vaginal delivery or c-section? It was a vaginal delivery. Okay and was there any any reason for it to stay in hospital afterwards? No. Okay. And can you tell me a little bit about the living situation currently? Like, who's the primary caregiver for her and who she's living with and whereabouts? And she's living with both her parents and myself as well as her dad, and she has a seven-year-old brother and we live in a house just outside of London. I see, okay, and is she going to day care right now or anything like that? I know, she's at home with me. Okay, has she been around anybody who's been sick? No. And have you traveled anywhere? No. Okay, and any concern for like physical or emotional violence in the home? I know, nothing like that. No, okay. And is there anybody who smokes in the home? Um, no, no one smokes at home. Okay. Um, and are there any musculoskeletal or neurological conditions that run in the family?",
+        "topic_id": 18,
+        "summary": " She was at term or pre term when she was 37 and a half weeks . She has a seven-year-old brother and we live in a house just outside of London . Any concerns for reaching developmental milestones such as walking, talking, and social interactions? No. No issues there",
+        "keywords": [
+            "pregnancy",
+            "gestational",
+            "hospital",
+            "developmental",
+            "vaginal"
+        ],
+        "sentiment": 0.20161927153306466
+    },
+    {
+        "start_time": 488.08,
+        "end_time": 499.12,
+        "text": "I'm no. How about any heart or lung conditions? No. Okay, so I'll ask you",
+        "topic_id": 19,
+        "summary": "I'm no. How about any heart or lung conditions? No. Okay, so I'll ask you",
+        "keywords": [
+            "lung",
+            "heart",
+            "conditions",
+            "ask",
+            "okay"
+        ],
+        "sentiment": -0.25
+    },
+    {
+        "start_time": 499.12,
+        "end_time": 728.0,
+        "text": "to just have a look at her elbow now and let me know if you're seeing any swelling or redness. Okay. So the elbows look fine and neither elbow appears red or swollen. Okay, and are you seeing any muscle atrophy or any joint deformity or malalignment? No, I don't see that. Also, actually it might be slightly, it looks a little bit awkward the way she's holding it so I can't tell if it's misaligned. Okay and any skin changes over the obo? No. All right and if you you're to press over various portions of the elbow or there are any areas that that cause pain, like the lateral side, medial side, or anterior, or posterior, it hurts. She's in pain whenever I touch anywhere in the elbow area. Okay. And is there any pain with movement? Yes. Whenever I try to bend it or straighten it out all the way, she compl complaints of pain. Okay, how about moving the rest or shoulder? No, that's fine. Okay, so that that was everything that I wanted to ask about and and look for on the physical today. Did you have anything else that perhaps I forgot to mention? That might important? No, that was kind of it. I just was wondering how we can fix her elbow. Yeah, certainly. So it will be, so I want to get an elbow x-ray. But typically, to fix this type of injury. So currently I'm thinking this could be a like a radial head subloxation and possibly a radial head fracture, but most likely a radial head subloxation where there's a mechanism of pulling on a child's arm, and it's just that what could happen is the part of the radius, such as a forearm bone, can pull out of the ligament that's holding it down, just because of the structures there, not yet fully matured and strong, and somebody who's that young And so it will cause pain, reduce range of motion at the elbow and you won't really see much swelling or redness and with just a physical exam maneuver you can reduce it and put the head of the radius back into place and things will be usually back to normal. But if there is a fracture, which we'll look for on x-ray then the pain may be last a little bit longer, but a mobilization of the arm is not required, and most kids will regain",
+        "topic_id": 20,
+        "summary": " The child is in pain whenever I touch anywhere in the elbow area, it hurts . She's in pain when I try to bend it or straighten it out all the way, she says . An elbow x-ray will be needed to fix this type of injury, but typically,",
+        "keywords": [
+            "elbow",
+            "swelling",
+            "elbows",
+            "shoulder",
+            "forearm"
+        ],
+        "sentiment": 0.16088588588588587
+    },
+    {
+        "start_time": 728.0,
+        "end_time": 734.0,
+        "text": "full mobility in a short time after they get to it.",
+        "topic_id": 21,
+        "summary": "full mobility in a short time after they get to it.",
+        "keywords": [
+            "mobility",
+            "short",
+            "time"
+        ],
+        "sentiment": 0.175
+    },
+    {
+        "start_time": 734.0,
+        "end_time": 738.0,
+        "text": "Okay, that sounds good. Thank you.",
+        "topic_id": 22,
+        "summary": "Okay, that sounds good. Thank you.",
+        "keywords": [
+            "okay",
+            "sounds",
+            "thank",
+            "good"
+        ],
+        "sentiment": 0.6
+    }
+]

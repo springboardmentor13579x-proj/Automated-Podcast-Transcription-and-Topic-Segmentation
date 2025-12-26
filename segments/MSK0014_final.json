@@ -1,0 +1,235 @@
+[
+    {
+        "start_time": 0.0,
+        "end_time": 48.0,
+        "text": "how may I help you came in here today. I usually don't come to the doctor that much unless I absolutely need it. Five days ago, I started having this pain and swelling in my right knee. So, and at first, I thought it was just like my arthritis acting up, but it's been getting more swollen and painful than usual, so I just wanted to comment and check it out. Okay, so when did your first notice that the pain like when did it get more swollen and painful than usual? So like I would say around five days ago, it started getting more and usually I do get pain in some of my joints, but I don't really get swelling, so that was a bit different.",
+        "topic_id": 1,
+        "summary": " Five days ago, I started having this pain and swelling in my right knee . At first, I thought it was just like my arthritis acting up, but it's been getting more swollen and painful than usual .",
+        "keywords": [
+            "swelling",
+            "swollen",
+            "arthritis",
+            "knee",
+            "pain"
+        ],
+        "sentiment": 0.05476190476190476
+    },
+    {
+        "start_time": 49.0,
+        "end_time": 64.0,
+        "text": "Okay, and is the joint hot as well, or is there a temperature change? It is, it does feel like if I touch the joint, it does feel a bit warmer than the surrounding areas.",
+        "topic_id": 2,
+        "summary": " Is the joint hot as well, or is there a temperature change? It is, it does feel like if I touch the joint, it feels a bit warmer than the surrounding areas .",
+        "keywords": [
+            "joint",
+            "warmer",
+            "hot",
+            "touch",
+            "temperature"
+        ],
+        "sentiment": 0.375
+    },
+    {
+        "start_time": 70.16,
+        "end_time": 201.68,
+        "text": "Okay, and does it look red? It, it, it, it, it, it, it, it, it, it, it, it, it, it, it, it, it, it, it, it, it, it, it, it, it, it, it, it, it, it, it, it, it, it, it, it, it, it, it, it, it, it, it, it, it, it, it, it, it, it, it, it, it, it, it, it, it, it, it, it, it, it, it, it, it, it, it, it, it, it, it, it, it, it, it, it, it, it, it, it, it, it, it, it, it, it, it, it, it, it, it, it, it, it, it, it, it, it, it, it, it, it, it, it, it, it, it, it, it, it, it, it, it, it, it, it, it, it, it, it, it, it, it, it, it, it, it, it, it, it, it, it, it, it, it, it, it, it, it, it, it, it, it, it, it, it, it, it, it, it, it, it, it, it, it, it, it, it, it, it, it, it, it, it, it, it, it, it, it, it, it, it, it, it, it, it, it, it, it, it, it, it, it, it, it, it, it, it, it, it, it, it, it, it, it, it, it, it, it, it, it, it, it, it, it, it, it, it, it, it, it, it, it definitely looks more red than my other knee. Okay, and so I wish knee is it that's bothering you're right now. It's the right knee. Okay. And so this paid, it's been going on for the last five days. Has it been getting better worse or staying the same? I think it's getting, it's getting worse, but it's like a bit better right now. Okay. It comes in goes and severity though. Okay. And how would you describe the pain, the character of it? Is it sharp, dull, or achy? It's like someone is stabbing me in the knee. It hurts the most when I'm moving the knee. Okay. And does the pain radiate anywhere? I don't think so, no. Okay, so you're feeling adjust in the the knee and you said moving the knee is painful. Is there anything else that makes the pain worse? Um, not really like a resting and definitely helps. Yeah, but I just have to keep it a bit immobilized. Okay, and is there anything that makes the pain better that you've tried, like maybe medications or any ice packs or anything like that? Not really, I do take some pain killers, just some adfill, which seems to help a little bit. Okay, and is the pain worse at any particular time of the day like you have morning stiffness?",
+        "topic_id": 3,
+        "summary": " It's like someone is stabbing me in the knee. It hurts the most when I'm moving the knee . I do take some pain killers, just some adfill, which seems to help a little bit . I think it's getting worse, but it's like a bit better right",
+        "keywords": [
+            "red",
+            "comes",
+            "adfill",
+            "goes",
+            "radiate"
+        ],
+        "sentiment": 0.0956845238095238
+    },
+    {
+        "start_time": 201.68,
+        "end_time": 346.48,
+        "text": "Yeah, usually with my normal arthritis, I do get some morning stiffness, but this is Thank you very much for watching this video and I'll see. And did you have any trauma or any injury to the knee? No, I didn't. Okay. I did have like a steroid injection to the same knee just a week ago, but no, I haven't fallen on it. I haven't had any operations. Okay. And have you had any fevers or chills? No. Okay, have you had any changes to any of your senses like vision hearing or your sense of smell or taste? No, nothing like that. Have you had a runny nose or a sore throat? No. Have you had any cough or shortness of breath? Nope. How about any wheezing? Nope. Have you had any chest pain or have you had any chest pain? No. How about any lightheadedness or dizziness? No. Okay. And have you had any nausea or vomiting? No, I know. All right, have you had any loss of appetite? Nope. And have you had any abdominal pain? Nope. Have you had any changes to your bowel movements, just diarrhea or constipation or incontinence, no. Any urinary problems like painful urination or frequency? No, not really. Yeah, any skin changes like crashes anywhere? No. Okay. And any squad, other painful joints or muscle aches or body pains? yeah i just get my general like i've osteoarthritis so i like it's it's been a pretty long time though i get some pain in my hips sometimes my knees so it's that's been going on for a while but this is",
+        "topic_id": 4,
+        "summary": " Have you had any changes to any of your senses like vision hearing or your sense of smell or taste? No, nothing like that. Have you ever had a runny nose or a sore throat? No. Have any headaches, constipation or incontinence? No . Have you",
+        "keywords": [
+            "osteoarthritis",
+            "pains",
+            "arthritis",
+            "knee",
+            "nausea"
+        ],
+        "sentiment": -0.0399579831932773
+    },
+    {
+        "start_time": 346.88,
+        "end_time": 351.6,
+        "text": "something I've never experienced though like this significant pain and swelling and redness.",
+        "topic_id": 5,
+        "summary": "something I've never experienced though like this significant pain and swelling and redness.",
+        "keywords": [
+            "swelling",
+            "pain",
+            "redness",
+            "experienced",
+            "ve"
+        ],
+        "sentiment": -0.012500000000000011
+    },
+    {
+        "start_time": 353.28,
+        "end_time": 359.36,
+        "text": "Okay, um, and have you had any changes to your memory or any confusion?",
+        "topic_id": 6,
+        "summary": "Okay, um, and have you had any changes to your memory or any confusion?",
+        "keywords": [
+            "memory",
+            "changes",
+            "confusion",
+            "um",
+            "okay"
+        ],
+        "sentiment": 0.5
+    },
+    {
+        "start_time": 361.52,
+        "end_time": 362.16,
+        "text": "No.",
+        "topic_id": 7,
+        "summary": "No.",
+        "keywords": [],
+        "sentiment": 0.0
+    },
+    {
+        "start_time": 363.92,
+        "end_time": 368.2,
+        "text": "Okay, and have you had any unexpected weight loss? No.",
+        "topic_id": 8,
+        "summary": "Okay, and have you had any unexpected weight loss? No.",
+        "keywords": [
+            "unexpected",
+            "loss",
+            "weight",
+            "okay"
+        ],
+        "sentiment": 0.3
+    },
+    {
+        "start_time": 368.2,
+        "end_time": 391.2,
+        "text": "No. No. No. No. No. No. No. No. No. No. No. No. No. No. No. No. No. No. No. No. No. No. No.",
+        "topic_id": 9,
+        "summary": "No. No. No. No. No. No. No. No. No. No. No. No. No. No. No. No. No. No. No. No. No. No. No.",
+        "keywords": [],
+        "sentiment": 0.0
+    },
+    {
+        "start_time": 391.2,
+        "end_time": 391.28,
+        "text": "No. No. No? No, okay. In the past, have you been diagnosed with any medical conditions? I, uh, I have a, uh, osteoarthritis in both",
+        "topic_id": 10,
+        "summary": "No. No. No? No, okay. In the past, have you been diagnosed with any medical conditions? I, uh, I have a, uh, osteoarthritis in both",
+        "keywords": [
+            "osteoarthritis",
+            "diagnosed",
+            "medical",
+            "okay",
+            "conditions"
+        ],
+        "sentiment": -0.16666666666666666
+    },
+    {
+        "start_time": 391.28,
+        "end_time": 399.68,
+        "text": "my knees and, uh, hips, uh, my high blood pressure, um, I did have, um, a heart attack, uh, four",
+        "topic_id": 11,
+        "summary": "my knees and, uh, hips, uh, my high blood pressure, um, I did have, um, a heart attack, uh, four",
+        "keywords": [
+            "knees",
+            "hips",
+            "heart",
+            "blood",
+            "high"
+        ],
+        "sentiment": 0.16
+    },
+    {
+        "start_time": 399.68,
+        "end_time": 585.04,
+        "text": "years ago, and I also have, uh, had heart failure, and also I'm just a bit on the, uh, Thank you very much for watching this video, thank you very much for watching this video, thank you very much for watching this video, thank you very much for watching this video, thank you very much for watching this video, thank you very much for watching this video, thank you very much for watching this video, thank you very much for watching this video, thank you very much for watching this video, thank you very much for watching this video, thank you very much for watching this video, thank you very much for watching this video, thank you very much for watching this video, thank you very much for watching this video, thank you very much for watching this video, thank you very much for watching this video, thank you very much for watching this video, thank you very much for watching this video, thank you very much for watching this video, thank you very much for watching this video, thank you very much for watching this video, thank you very much for watching this video, thank you very much for watching this video, thank you very much for watching this video, thank you very much for watching this video, thank you very much for watching this video, thank you very much for watching this video, thank you very much for watching this video, thank you very much for watching this video, thank you very much for watching this video, thank you very much for watching this video, thank you very much for watching this video, thank you very much for watching this video, thank you very much for watching this video, thank you very much for watching this video, thank you very much for watching this video, thank you very much for watching this video, thank you very much for watching this video, thank you very much for watching this video, thank you very much for watching this video, thank you very much for watching this video, thank you very much for watching this video, thank you very much for watching this video, thank you very much for watching this video, thank you very much for watching this video, thank you very much for watching this video, thank you very much for watching this video, thank you very overweight side. Okay, are you currently taking any medications? Yeah, so I am taking just a fear of some of my blood pressure, but yeah, that's about it right now. And like just pain killers over the counter. Okay, and any allergies to medications? Just to have a penicillin allergy? Okay, and what's the rash, or sorry, what's the reaction? I don't really remember, I was a child at that time. I don't remember what we actually really got. I see. Okay, and have you had any prior hospitalizations or surgeries? Surgery's I did have my appendix removed when I was young and also I was hospitalized after my heart attack a couple years ago. Okay, did you have any surgeries on your heart like a cabbage or... I had a couple of stints put in. Okay, and you take aspirin for that, yeah, okay, all right, and could you tell me a little bit about where you're living and to your living with? Yeah, I live with my wife and daughter and I kind of live in a small little townhouse just in the city. Okay. Are you currently working or are you retired? I kind of had you retire after just my past medical history like the heart attack and then there was just too much stress at work. It was too much for me. But yeah, I'm just at home right now. My wife still works. Yeah, I'm taking it more easy now. Okay. with being at home are you able to manage the majority of activities of daily living on your own, or are you receiving help? No, not receiving any help, I can do most things myself, my wife does most of our shopping and cooking notes.",
+        "topic_id": 12,
+        "summary": " Are you currently working or are you retired? I kind of had you retire after just my past medical history like the heart attack and then there was just too much stress at work. It was too much for me. But yeah, I'm just at home right now. I'm taking",
+        "keywords": [
+            "heart",
+            "did",
+            "removed",
+            "thank",
+            "video"
+        ],
+        "sentiment": 0.24990159065740453
+    },
+    {
+        "start_time": 586.16,
+        "end_time": 588.16,
+        "text": "Okay, and",
+        "topic_id": 13,
+        "summary": "Okay, and",
+        "keywords": [
+            "okay"
+        ],
+        "sentiment": 0.5
+    },
+    {
+        "start_time": 589.92,
+        "end_time": 597.76,
+        "text": "Do you drink alcohol? Um, yeah, I do. I do drink probably drink like",
+        "topic_id": 14,
+        "summary": "Do you drink alcohol? Um, yeah, I do. I do drink probably drink like",
+        "keywords": [
+            "drink",
+            "alcohol",
+            "like",
+            "yeah",
+            "um"
+        ],
+        "sentiment": 0.0
+    },
+    {
+        "start_time": 598.88,
+        "end_time": 600.16,
+        "text": "through your four beers a night.",
+        "topic_id": 15,
+        "summary": "through your four beers a night.",
+        "keywords": [
+            "beers",
+            "night"
+        ],
+        "sentiment": 0.0
+    },
+    {
+        "start_time": 602.16,
+        "end_time": 843.0,
+        "text": "Okay, um, and are these folk cigarettes? I used to, I used to, I used to, I used to, I used to, I used to, I used to, I used to, I used to, I used to, I used to, I used to, I used to, I used to, I used to, I used to, I used to, I used to, I used to, I used to, I used to, I used to, I used to, I used to, I used to, I used to, I used to, I used to, I used to, I used to, I used to, I used to, I used to, I used to, I used to, I used to, I used to, I used to, I used to, I used to, I used to, I used to, I used to, I used to, I used to, I used to, I used to, I used to, I used to, I used to, I used to, I used to, I used to, I used to, I used to, I used to, I used to, I used to, I used to, I used to, I used to, I used to, I used to, I used to, I used to, I used to, I used to, I used to, I used to, I used to, I used to, I used to, I used to, I used to, I used to, I used to, I used to, I used to, I used to, I used to, I used to, I used to, I used to, I used to, I used to, I used to, I used to, I used to, I used to, I used to, I used to, I used to, I used to, I used to, I used to, I used to, I used to, I used to, I used to, I used to, I used to, I used to, I used to, I used to, I used to, I used to, I used to, I used to, I used to folks say grats, I used to, I forced myself to quit after my heart attack. Okay, now that's good. I'm glad that you quit. How long did you spoke for? And how much were you smoking during that time? Probably smoke for more than 30 years and I was smoking probably one to two packs a day at most. Okay. And okay, and then about your family history, is there anybody in the family that has any heart or lung conditions? Yes, the heart disease runs in my family, my brother, my dad, they both both have had heart attacks. but yeah, on my mom's side, everyone's pretty healthy though. Okay, that's good, and, um, all right, so, uh, just wanted to be, uh, I guess, uh, physical exam piece you've already mentioned that it's red, it's swollen and is warm to touch compared to the other knee and painful to move. Are you having any limping with your gates? Yeah, I barely, like, I can't really put too much way or move that knee around. So, yeah, if I stood up, I would have a limp. Okay. And is there any instability to either a various or a balgist dress? I I know I don't think so. Okay, and any instability when testing the ACL or PCL with the anterior and posterior kind of translation test pulling and pushing it. No, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, pulling, and pushing it, no. Okay. And any, I don't think I asked this, any, I'm also weakness. No. Any nobness, tingling, no, or burning sensations? No. Okay. All, all right. So that was everything that I wanted to check. Was there anything that I, anything that I've made best? Are any final questions? No, um, yeah, no. I was just, I just don't know if like this is serious. And if I need surgery or something, because it's been really painful. Yeah, certainly. So right now, the top thing on top two things on a differential would be a goat or pseudo goat. Do you have some risk factors for that, including diuretic medication as well as alcohol and obesity, are all risk factors for it. However, you also had a knee injection a week ago, which could predispose to an infection. So, gut and septic arthritis are the two things that we're thinking about, and so we'll do a knee aspiration and send that off for some investigations, and that will help us determine which what the cause is, and we can experience the appropriate treatment.",
+        "topic_id": 16,
+        "summary": "Okay, um, and are these folk cigarettes? I used to, I used to, I used to, I used to, I used to, I us...",
+        "keywords": [
+            "cigarettes",
+            "smoking",
+            "smoke",
+            "quit",
+            "folk"
+        ],
+        "sentiment": 0.236220238095238
+    },
+    {
+        "start_time": 843.0,
+        "end_time": 846.0,
+        "text": "Okay, sounds good.",
+        "topic_id": 17,
+        "summary": "Okay, sounds good.",
+        "keywords": [
+            "okay",
+            "sounds",
+            "good"
+        ],
+        "sentiment": 0.6
+    }
+]

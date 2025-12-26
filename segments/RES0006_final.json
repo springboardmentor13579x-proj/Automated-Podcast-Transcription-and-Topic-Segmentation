@@ -1,0 +1,102 @@
+[
+    {
+        "start_time": 0.0,
+        "end_time": 3.0,
+        "text": "What brings you in to CS?",
+        "topic_id": 1,
+        "summary": "What brings you in to CS?",
+        "keywords": [
+            "cs",
+            "brings"
+        ],
+        "sentiment": 0.0
+    },
+    {
+        "start_time": 3.0,
+        "end_time": 192.48,
+        "text": "So I've just been having this cough that I feel has just been getting worse, and I've also been feeling a bit short of breath for the last few months. OK, could you tell me when the cough started? So I would say it started around two months ago. Okay, and has the cough been dry or have you been bringing up sputum? It's usually always produces like the sputum and it's usually white or yellowish and color. Okay and how much sputum are you producing each day? Sometimes it's useful to think about tea spoons or table spoons. I would say every time I call a teaspoon, and I probably have like, I don't know, maybe five to ten teaspoons a day. No, okay. And is there any particular time a day that the the cough is worse? It's not really, it's pretty pretty much the same. Sometimes it is worse in the morning. So yeah morning and sometimes it gets better when I go up for smoke. Okay. And have you noticed any blood? No, I haven't noticed any blood. Okay. and have you had shortness of breath, when did that start? There are on two months ago or on the same time. Okay and is this, do you have shortness of breath at rest or is it when you exert yourself? It can happen like at any time, but worse when I am exerting myself. Okay. And have you had a cough before? Not as frequently, I would say not really. It just started in the last two to three months. Okay, and have you had shortness of breath like this before? Just throughout my life I've had asthma. So when I am exercising too much or exposed to dust, sometimes I have shortness of breath. Okay, has there been anything besides the exerting yourself that's made that either the cough or shortness of breath worse? Over the last year, I've had a couple chest infections after going to the ER and they gave me some antibiotics. But yeah, when that happens, it usually gets worse the shortness of breath and the cough.",
+        "topic_id": 2,
+        "summary": " I've just been having this cough that I feel has just been getting worse, and I've also been feeling a bit short of breath for the last few months . So I would say it started around two months ago . Have you noticed any blood? No, I haven't noticed any",
+        "keywords": [
+            "cough",
+            "teaspoon",
+            "sputum",
+            "tea",
+            "asthma"
+        ],
+        "sentiment": 0.07302631578947369
+    },
+    {
+        "start_time": 193.76,
+        "end_time": 200.64,
+        "text": "Okay, and your symptoms feel like any of those times right now?",
+        "topic_id": 3,
+        "summary": "Okay, and your symptoms feel like any of those times right now?",
+        "keywords": [
+            "symptoms",
+            "feel",
+            "times",
+            "okay",
+            "like"
+        ],
+        "sentiment": 0.39285714285714285
+    },
+    {
+        "start_time": 202.48,
+        "end_time": 329.68,
+        "text": "No, I don't feel like I have a fever and no other symptoms just the shortness of breath and So, let's take a look at the sound of the sound of it better? I've been tinging some talent all cold hasn't really helped too much. I've tried mine healers. They sometimes helped, but I've never had this frequent coughing insurance of breath before. Okay, and how is your energy been? Have you been experiencing fatigue? When it gets really bad, then I can't really step out of the house, but other than that, I feel like my energy is still there. Okay, and you have, have you had any feeders or chills? No. Okay, how about a loss of smell? No. I'm a loss of taste. Nope. Okay, and how you had any chest pain? No, just sometimes when I'm like coughing a lot, it gets a little bit uncomfortable, but other than that, no. Okay, I'd be adding any instances where you felt like your heart was racing? No. Okay. How about being lightheaded or like you were going to pass out? Nope. Okay. Have you had a runny nose or a sore throat? Nope. Okay. And how about headaches? No headaches. All right. And have you had any wheezing? Sometimes I've noticed it, but I had it before like with asthma as well, but not not that much. Okay. Um, and how about abdominal pain? No",
+        "topic_id": 4,
+        "summary": " No, I don't feel like I have a fever and no other symptoms just the shortness of breath and So, let's take a look at the sound of the sound better? I've been tinging some talent all cold hasn't really helped too much .",
+        "keywords": [
+            "symptoms",
+            "fever",
+            "coughing",
+            "cold",
+            "wheezing"
+        ],
+        "sentiment": 0.09836309523809526
+    },
+    {
+        "start_time": 329.68,
+        "end_time": 340.4,
+        "text": "abdominal pain. All right. Any urinary problems? Nope. Any bowel problems? Nope. Any rashes?",
+        "topic_id": 5,
+        "summary": "abdominal pain. All right. Any urinary problems? Nope. Any bowel problems? Nope. Any rashes?",
+        "keywords": [
+            "abdominal",
+            "bowel",
+            "urinary",
+            "pain",
+            "rashes"
+        ],
+        "sentiment": 0.2857142857142857
+    },
+    {
+        "start_time": 341.68,
+        "end_time": 667.0,
+        "text": "Nope. Okay. And then how about any muscle aches or joint aches or body aches? No, nothing like that. All right. How you mentioned asthma? But have you been diagnosed with any other medical conditions? No, just asthma. Okay. And do you use inhalers? Are there any other medications you're currently using? No, just the salbutimol and like the steroid inhaler. Okay. And how often are you using both of those? So the steroid one I using pretty much every day, but it's how beautiful I found I've been using a lot more recently. I would say probably at least six to ten times in a week. Okay. I had a reminder to me, I forgot to ask, um, have you noticed any changes to your voice? Uh, no, not really. Okay. Um, and, um, I was wondering if you had any allergies to medications. No, not that I know of. All right. And have you been in the hospital recently? Nope. All right. So when was the last time that you had antibiotics? I would say like six months ago. Okay. And any surgeries? Nope. Okay. And do you get a flu shot this year? Yep. Okay, great. And I was wondering if you could tell me a little bit about your living situation. So I live in London and small apartment with my wife. Okay, do you have any pets around? No, no pets. All right, and any exposures that work to like dust or any types of like chemicals like that? No, not really of my work is pretty much a desk job, so nothing like that. Okay, and you spoke cigarettes? Yeah, yeah, I spoke a lot of cigarettes, just like I would say 30 cigarettes a day. Okay, how long have you smoked for? Let's say probably at least 25 years. Okay and sorry could you remind me of your age again? So I'm 60 years old now. Okay so you started smoking around 35. Yeah, okay. Have you tried to quit? Yeah, tried to quit. I have even quit a couple of times, but then just got back onto it. Yeah, not really ready to quit. Okay. That's fair enough. If there's something that you wanted to talk about quitting smoking and another appointment, we can arrange follow up for that. Do you drink alcohol? Not that much. Just to say one or two be beers on the weekend. All right, uh, and do you use any recreational drugs like cocaine for still that? No, or IB drugs? No, nothing like that. All right. And is it anything similar like this happened to your family before? I think my sister has a COPD, like she smokes a lot too, but that's that's what I don't know if that's genetic. Okay, um, um, so, uh, anybody the family have cancers. Oh? No, not that I know. All right. So, that was all the questions that I wanted to ask on history. Was there any other questions that you had? I know not really just wanted to get to the bottom of this. Okay, for sure. So we will run some investigations and like we get a chest X, right? Because it's been a couple of months that these symptoms have been going on for, but I think it could be related to your smoking and most likely chronic bronchitis, but we can definitely we'll be looking into this and then also with possibly some pulmonary function tests as well.",
+        "topic_id": 6,
+        "summary": " Have you been diagnosed with any other medical conditions? No, just asthma . Have you noticed any changes to your voice? Uh, no, not really . Do you drink alcohol? Not that much. Do you get a flu shot this year? Yep. No, not that I know",
+        "keywords": [
+            "asthma",
+            "symptoms",
+            "bronchitis",
+            "inhalers",
+            "inhaler"
+        ],
+        "sentiment": 0.20570758606472897
+    },
+    {
+        "start_time": 667.0,
+        "end_time": 669.0,
+        "text": "Okay, sounds good.",
+        "topic_id": 7,
+        "summary": "Okay, sounds good.",
+        "keywords": [
+            "okay",
+            "sounds",
+            "good"
+        ],
+        "sentiment": 0.6
+    }
+]

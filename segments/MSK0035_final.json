@@ -1,0 +1,589 @@
+[
+    {
+        "start_time": 0.0,
+        "end_time": 2.0,
+        "text": "how may I help you?",
+        "topic_id": 1,
+        "summary": "how may I help you?",
+        "keywords": [
+            "help"
+        ],
+        "sentiment": 0.0
+    },
+    {
+        "start_time": 2.0,
+        "end_time": 85.0,
+        "text": "Um, so I was skiing yesterday and I fell on my arm and now it's my hands very painful and it looks swollen and bruised so I thought I should come in and get a checked out. Yeah, certainly. All right, so you fell while you're skiing. So did you use your hand to brace the fall? Like was your hand kind of with your wrist extended backwards? Yes. Yeah, so I kind of had my arm stretched out and fell right on it. Okay, and did you feel pain right away? Yes. Okay. And during the fall, did you injure any other parts of your body like your elbow or shoulder or even your head? No, I don't think so. I didn't have any pain anywhere else. Okay. And are you able to move your risk, currently?",
+        "topic_id": 2,
+        "summary": " I was skiing yesterday and I fell on my arm and now it's my hands very painful and it looks swollen and bruised so I thought I should come in and get a checked out . I didn't have any pain anywhere else .",
+        "keywords": [
+            "fell",
+            "skiing",
+            "injure",
+            "bruised",
+            "swollen"
+        ],
+        "sentiment": 0.22760204081632654
+    },
+    {
+        "start_time": 87.0,
+        "end_time": 90.0,
+        "text": "I can, but it's very painful.",
+        "topic_id": 3,
+        "summary": "I can, but it's very painful.",
+        "keywords": [
+            "painful"
+        ],
+        "sentiment": -0.9099999999999999
+    },
+    {
+        "start_time": 91.0,
+        "end_time": 92.0,
+        "text": "Okay.",
+        "topic_id": 4,
+        "summary": "Okay.",
+        "keywords": [
+            "okay"
+        ],
+        "sentiment": 0.5
+    },
+    {
+        "start_time": 93.0,
+        "end_time": 101.0,
+        "text": "And so when did this happen? Was it yesterday? Yes, it was yesterday.",
+        "topic_id": 5,
+        "summary": "And so when did this happen? Was it yesterday? Yes, it was yesterday.",
+        "keywords": [
+            "yesterday",
+            "happen",
+            "did",
+            "yes"
+        ],
+        "sentiment": 0.0
+    },
+    {
+        "start_time": 102.0,
+        "end_time": 109.5,
+        "text": "Okay, and how would you describe the pain? Is it a sharp pain and dull pain and achy? It's...",
+        "topic_id": 6,
+        "summary": "Okay, and how would you describe the pain? Is it a sharp pain and dull pain and achy? It's...",
+        "keywords": [
+            "pain",
+            "sharp",
+            "dull",
+            "achy",
+            "okay"
+        ],
+        "sentiment": 0.027777777777777773
+    },
+    {
+        "start_time": 109.5,
+        "end_time": 133.0,
+        "text": "It's... It's... It's... It's... It's... It's... It's... It's... It's... It's... It's... It's... It's... It's... It's... It's... It's... It's... It's... It's... It's... It's... It's... It's...",
+        "topic_id": 7,
+        "summary": "It's... It's... It's... It's... It's... It's... It's... It's... It's... It's... It's... It's... It's... It's... It's... It's... It's... It's... It's... It's... It's... It's... It's... It's...",
+        "keywords": [],
+        "sentiment": 0.0
+    },
+    {
+        "start_time": 133.0,
+        "end_time": 107.36,
+        "text": "It's... It's... It's... It's... It's... it was yesterday. Okay, and how would you describe the pain? Is it a sharp pain and",
+        "topic_id": 8,
+        "summary": "It's... It's... It's... It's... It's... it was yesterday. Okay, and how would you describe the pain? Is it a sharp pain and",
+        "keywords": [
+            "pain",
+            "sharp",
+            "yesterday",
+            "okay"
+        ],
+        "sentiment": 0.1875
+    },
+    {
+        "start_time": 107.36,
+        "end_time": 208.24,
+        "text": "dull pain, achy? It's pretty sharp. Sharp. Okay, and are you feeling the pain really anywhere else like now into your hand or up into your arm? No, it's pretty local and the pain yeah's pretty. It's right below the thumb area and just kind of on my wrist on the right side. Okay. Is there anything you've done that's made it better? Like if you tried any medications or any ice or topical creams. I've been taking ibuprofen for the pain and trying not to move it too much and best been helping a little bit. Okay. And is the pain constant or intermittent? It's constant. Okay. And have you done anything that's made the pain worse? Um, I guess moving it. Okay. Um, and what is the severity of the pain on a scale I want to tan with tan being the worst pain you've ever felt? Um, I give it like a five or six. Okay, have you had an injury like this to your your wrist or your hand before? No. All right. And are you having any neurological symptoms",
+        "topic_id": 9,
+        "summary": " It's right below the thumb area and just kind of on my wrist on the right side . I've been taking ibuprofen for the pain and trying not to move it too much has helped a little bit .",
+        "keywords": [
+            "tan",
+            "pain",
+            "symptoms",
+            "wrist",
+            "ibuprofen"
+        ],
+        "sentiment": 0.1843694885361552
+    },
+    {
+        "start_time": 208.24,
+        "end_time": 267.0,
+        "text": "such as numbness, tingling, or sensory loss over any areas? No. Okay. And how about muscle weakness? Yes. No. All right. And so have you been having any fevers or chills? I know nothing like that. Have you been having any headaches? No. How about any sensory changes like changes to your vision or hearing or are or loss of smell or loss of taste? No, nothing like that. Okay. Have you had a runny nose or felt congested? No. Have you had a sore throat or a cough? No. Have you had any shortness of breath or are weasing? No. Have you had any chest pain? No. Have you had any shortness of breath or wheezing? No. Have you had any chest pain?",
+        "topic_id": 10,
+        "summary": " Have you had a runny nose or felt congested? No. Have had a sore throat or a cough? No . Have you been having any shortness of breath or wheezing? No, nothing like that. How about any sensory changes like changes to your vision or hearing",
+        "keywords": [
+            "fevers",
+            "numbness",
+            "headaches",
+            "tingling",
+            "congested"
+        ],
+        "sentiment": 0.13392857142857142
+    },
+    {
+        "start_time": 267.0,
+        "end_time": 268.0,
+        "text": "No.",
+        "topic_id": 11,
+        "summary": "No.",
+        "keywords": [],
+        "sentiment": 0.0
+    },
+    {
+        "start_time": 268.0,
+        "end_time": 273.0,
+        "text": "Have you had any heart palpitations or feeling like your heart's racing?",
+        "topic_id": 12,
+        "summary": "Have you had any heart palpitations or feeling like your heart's racing?",
+        "keywords": [
+            "palpitations",
+            "heart",
+            "feeling",
+            "racing",
+            "like"
+        ],
+        "sentiment": 0.0
+    },
+    {
+        "start_time": 273.0,
+        "end_time": 274.0,
+        "text": "I know.",
+        "topic_id": 13,
+        "summary": "I know.",
+        "keywords": [
+            "know"
+        ],
+        "sentiment": 0.0
+    },
+    {
+        "start_time": 274.0,
+        "end_time": 277.0,
+        "text": "Have you had any dizziness or fainting?",
+        "topic_id": 14,
+        "summary": "Have you had any dizziness or fainting?",
+        "keywords": [
+            "dizziness",
+            "fainting"
+        ],
+        "sentiment": 0.0
+    },
+    {
+        "start_time": 277.0,
+        "end_time": 278.0,
+        "text": "No.",
+        "topic_id": 15,
+        "summary": "No.",
+        "keywords": [],
+        "sentiment": 0.0
+    },
+    {
+        "start_time": 278.0,
+        "end_time": 280.0,
+        "text": "Okay.",
+        "topic_id": 16,
+        "summary": "Okay.",
+        "keywords": [
+            "okay"
+        ],
+        "sentiment": 0.5
+    },
+    {
+        "start_time": 280.0,
+        "end_time": 285.6,
+        "text": "Did you lose consciousness at all during the fall?",
+        "topic_id": 17,
+        "summary": "Did you lose consciousness at all during the fall?",
+        "keywords": [
+            "consciousness",
+            "fall",
+            "lose",
+            "did"
+        ],
+        "sentiment": 0.0
+    },
+    {
+        "start_time": 285.6,
+        "end_time": 286.96,
+        "text": "No.",
+        "topic_id": 18,
+        "summary": "No.",
+        "keywords": [],
+        "sentiment": 0.0
+    },
+    {
+        "start_time": 286.96,
+        "end_time": 296.4,
+        "text": "OK, and have you had any nausea or vomiting?",
+        "topic_id": 19,
+        "summary": "OK, and have you had any nausea or vomiting?",
+        "keywords": [
+            "nausea",
+            "vomiting",
+            "ok"
+        ],
+        "sentiment": 0.5
+    },
+    {
+        "start_time": 296.4,
+        "end_time": 297.64,
+        "text": "No.",
+        "topic_id": 20,
+        "summary": "No.",
+        "keywords": [],
+        "sentiment": 0.0
+    },
+    {
+        "start_time": 297.64,
+        "end_time": 299.4,
+        "text": "Any abdominal pain?",
+        "topic_id": 21,
+        "summary": "Any abdominal pain?",
+        "keywords": [
+            "abdominal",
+            "pain"
+        ],
+        "sentiment": 0.0
+    },
+    {
+        "start_time": 299.4,
+        "end_time": 300.64,
+        "text": "No.",
+        "topic_id": 22,
+        "summary": "No.",
+        "keywords": [],
+        "sentiment": 0.0
+    },
+    {
+        "start_time": 300.64,
+        "end_time": 306.52,
+        "text": "Any changes to your bowel habits? Like diarrhea, constipation, or blood in the stool? I know. OK. Yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah like diarrhea, constipation, or blood in the stool?",
+        "topic_id": 23,
+        "summary": " Any changes to your bowel habits? Like diarrhea, constipation, or blood in the stool? I know. OK. I know .",
+        "keywords": [
+            "bowel",
+            "constipation",
+            "stool",
+            "diarrhea",
+            "habits"
+        ],
+        "sentiment": 0.5
+    },
+    {
+        "start_time": 306.52,
+        "end_time": 308.08,
+        "text": "I know.",
+        "topic_id": 24,
+        "summary": "I know.",
+        "keywords": [
+            "know"
+        ],
+        "sentiment": 0.0
+    },
+    {
+        "start_time": 308.08,
+        "end_time": 312.12,
+        "text": "Okay, and how about any urinary problems like pain",
+        "topic_id": 25,
+        "summary": "Okay, and how about any urinary problems like pain",
+        "keywords": [
+            "urinary",
+            "pain",
+            "problems",
+            "okay",
+            "like"
+        ],
+        "sentiment": 0.5
+    },
+    {
+        "start_time": 312.12,
+        "end_time": 313.72,
+        "text": "or frequency?",
+        "topic_id": 26,
+        "summary": "or frequency?",
+        "keywords": [
+            "frequency"
+        ],
+        "sentiment": 0.0
+    },
+    {
+        "start_time": 313.72,
+        "end_time": 316.08,
+        "text": "I know nothing like that.",
+        "topic_id": 27,
+        "summary": "I know nothing like that.",
+        "keywords": [
+            "know",
+            "like"
+        ],
+        "sentiment": 0.0
+    },
+    {
+        "start_time": 316.08,
+        "end_time": 325.0,
+        "text": "All right, and have you had any muscle aches or body pains or like any other musculoskeletal pains besides the wrist?",
+        "topic_id": 28,
+        "summary": "All right, and have you had any muscle aches or body pains or like any other musculoskeletal pains besides the wrist?",
+        "keywords": [
+            "pains",
+            "wrist",
+            "aches",
+            "musculoskeletal",
+            "muscle"
+        ],
+        "sentiment": 0.08035714285714285
+    },
+    {
+        "start_time": 325.0,
+        "end_time": 327.0,
+        "text": "No.",
+        "topic_id": 29,
+        "summary": "No.",
+        "keywords": [],
+        "sentiment": 0.0
+    },
+    {
+        "start_time": 327.0,
+        "end_time": 330.0,
+        "text": "Okay.",
+        "topic_id": 30,
+        "summary": "Okay.",
+        "keywords": [
+            "okay"
+        ],
+        "sentiment": 0.5
+    },
+    {
+        "start_time": 330.0,
+        "end_time": 336.0,
+        "text": "And have you had any appetite loss or fatigue?",
+        "topic_id": 31,
+        "summary": "And have you had any appetite loss or fatigue?",
+        "keywords": [
+            "appetite",
+            "fatigue",
+            "loss"
+        ],
+        "sentiment": 0.0
+    },
+    {
+        "start_time": 336.0,
+        "end_time": 338.0,
+        "text": "No.",
+        "topic_id": 32,
+        "summary": "No.",
+        "keywords": [],
+        "sentiment": 0.0
+    },
+    {
+        "start_time": 338.0,
+        "end_time": 339.0,
+        "text": "All right.",
+        "topic_id": 33,
+        "summary": "All right.",
+        "keywords": [
+            "right"
+        ],
+        "sentiment": 0.2857142857142857
+    },
+    {
+        "start_time": 339.0,
+        "end_time": 341.0,
+        "text": "And have you had any night sweats?",
+        "topic_id": 34,
+        "summary": "And have you had any night sweats?",
+        "keywords": [
+            "sweats",
+            "night"
+        ],
+        "sentiment": 0.0
+    },
+    {
+        "start_time": 341.0,
+        "end_time": 342.0,
+        "text": "No.",
+        "topic_id": 35,
+        "summary": "No.",
+        "keywords": [],
+        "sentiment": 0.0
+    },
+    {
+        "start_time": 342.0,
+        "end_time": 470.56,
+        "text": "And have you had any unexpected weight loss over the last several months? I know. Okay. Thanks for watching, and I'll see you in the next video, and I'll see you in the next video, and I'll see you in the next video, and I'll see you in the next video, and I'll see you in the next video, and I'll see you in the next video, and I'll see you in the next video, and I'll see you in the next video, and I'll see you in the next video, and I'll see you in the next video, and I'll see you in the next video, and I'll see you in the next video, and I'll see you in the next video, and I'll see you in the next video, and I'll see you in the next video, and I'll see you in the next video, and I'll see you in the next video, and I'll see you in the next video, and I'll see you in the next video, and I'll see you in the next video, and I'll see you in the next video, and I'll see you in the next video, and I'll see you in the next video, and I'll see you in the next video, and I'll see you in the next video, and I'll see you in the next video, and I'll see you in the next video, and I'll see you in the next video, and I'll see you in the next video, and I'll see you in the next video, and I'll see you in the next video, and I'll see you in the next video, and I'll see you in the next video, and I'll see you in the next video, and I'll see you in the next video, and I'll see you in the next video, and I'll see you in the next video, and I'll see you in the next video, and I'll see you in the next video, and I'll see you in the next video, and I'll see you in the next video, and I'll see you in the next video, and I know. Okay. And have you been diagnosed with any medical conditions in the past? Do you see a physician regularly for any reason? I know. Okay. So do you take any medications regularly prescribed or over-the? I don't know. All right, and have you had any hospitalizations or surgeries in the past? No. Okay, um, and you have any allergies? Nope. All right, and are your immunizations up to date? I think so. I think I just need to get the guard as so. Okay. And have you gotten like the first dose of that yet? Or are you still waiting to get that? I'm still waiting to get that. Okay. And could you tell me just a little bit about your living situation currently? I hear you're living with and whereabouts. I live by myself in an apartment downtown. Okay. And are you in school or are you working right now? I'm in school. Okay, and have you been around anybody who's been sick? I don't know. No one's been sick around me. I haven't really been leaving my home. I see you. Okay. And have you traveled anywhere recently? I know. All right. And just saying active, which is good. Do you do any other activities besides the skiing? Hmm, I do. Um, okay, go snowboarding in the winter. I go camping. I like pink tennis paint tennis, and volleyball. Okay, cool. Yeah,",
+        "topic_id": 36,
+        "summary": " Have you had any unexpected weight loss over the last several months? I know. Have you been around anybody who's been sick? I don't know. I haven't really been leaving my home . Do you do any other activities besides the skiing? Hmm, I do. I like",
+        "keywords": [
+            "loss",
+            "months",
+            "video",
+            "leaving",
+            "weight"
+        ],
+        "sentiment": 0.06778248123184831
+    },
+    {
+        "start_time": 470.56,
+        "end_time": 481.52,
+        "text": "it sounds fun. And did you smoke cigarettes? No, I don't. Okay. And do you drink alcohol?",
+        "topic_id": 37,
+        "summary": "it sounds fun. And did you smoke cigarettes? No, I don't. Okay. And do you drink alcohol?",
+        "keywords": [
+            "cigarettes",
+            "smoke",
+            "alcohol",
+            "fun",
+            "drink"
+        ],
+        "sentiment": 0.4
+    },
+    {
+        "start_time": 482.8,
+        "end_time": 625.0,
+        "text": "I'll have a beer once in a while. Okay, how often is once in a while like how many drinks per week? Oh, not that many. I'll maybe have like two every other week. I see. Okay, and do you use cannabis or any cannabis products? I'll take an edible once in a while as well, like maybe once a month. Okay, and how about the use of any other recreational drugs? No. All right, um, and in the family, are there any history of neurological or musculoskeletal problems? No. How about any autoimmune conditions such as hypothyroidism? No. Okay. So next, I'll ask you to just have a look at the rest for the physical exam portion. And are you seeing any swelling or redness? Um, no, I don't see anything like that. Okay. And if you touch the joints around the wrist on both sides here, is the right wrist? Does it feel hot? No. Actually, yes, it does. Okay. All right. And, but there's those swelling there. There's maybe a little bit of swelling compared to my left. Okay. And are you noticing any muscle extra fee or or any deformity at wrist. I guess there's like a slight bruise. Okay, and are there any like raised bumps if you put your finger over it over the body edges? I had no bumps but just a general kind of swelling in the area that makes it look raised. All right, and if you palpate or press on some areas are of the wrist, are there any areas that you're feeling pain like at the distal radio ahead? The distal alna or any areas of the wrist?",
+        "topic_id": 38,
+        "summary": " Are you seeing any swelling or redness? Um, no, I don't see anything like that. I'll have a beer once in a while. I use cannabis or any cannabis products? I'll take an edible once a month as well . No history of neurological or muscul",
+        "keywords": [
+            "swelling",
+            "neurological",
+            "autoimmune",
+            "wrist",
+            "hypothyroidism"
+        ],
+        "sentiment": 0.21069223985890648
+    },
+    {
+        "start_time": 625.0,
+        "end_time": 629.0,
+        "text": "Um, there's some pain at the distal radius for sure.",
+        "topic_id": 39,
+        "summary": "Um, there's some pain at the distal radius for sure.",
+        "keywords": [
+            "distal",
+            "radius",
+            "pain",
+            "um",
+            "sure"
+        ],
+        "sentiment": 0.5
+    },
+    {
+        "start_time": 629.0,
+        "end_time": 633.0,
+        "text": "Okay. Uh, all right.",
+        "topic_id": 40,
+        "summary": "Okay. Uh, all right.",
+        "keywords": [
+            "okay",
+            "uh",
+            "right"
+        ],
+        "sentiment": 0.39285714285714285
+    },
+    {
+        "start_time": 633.0,
+        "end_time": 636.0,
+        "text": "And, um, is this on the, um,",
+        "topic_id": 41,
+        "summary": "And, um, is this on the, um,",
+        "keywords": [
+            "um"
+        ],
+        "sentiment": 0.0
+    },
+    {
+        "start_time": 636.0,
+        "end_time": 644.0,
+        "text": "back of the hand or the, the, the palm side? It's on the palm side.",
+        "topic_id": 42,
+        "summary": "back of the hand or the, the, the palm side? It's on the palm side.",
+        "keywords": [
+            "palm",
+            "hand"
+        ],
+        "sentiment": 0.0
+    },
+    {
+        "start_time": 644.0,
+        "end_time": 749.52,
+        "text": "Okay. Do you feel any, uh, Thank you very much for watching this video and I'll see you in the next video, see you in the next video, see you in the next video, and see you in the next video, and see you in the next video, and see you in the next video, and see you in the next video, and see you in the next video, and see you in the next video, and see you in the next video, and see you in the next video, and see you in the next video, and see you in the next video, and see you in the next video, and see you in the next video, and see you in the next video, and see you in the next video, and see you in the next video, and see you in the next video, and see you in the next video, and see you in the next video, and see you in the next video, and see you in the next video, and see you in the next video, and see you in the next video, and see you in the next video, and see you in the next video, and see you in the next video, and see you in the next video, and see you in the next video, and see you in the next video, and see you in the next video, and see you in the next video, and see you in the next video, and see you in the next video, and see you in the next video, and see you in the next video, and see you in the next video, and see you in the next video, and see you in the next video, and see you in the next video, and see you in the next video, and see you in the next video, and see you in the next video, and see you in the next video, and see you in the next video, and see you in the next video, and see you in the next video, and see you in the next video, and see you in the next video, and see you in the next video, and see you in the next video, and see you in the next video, and see you in palm side. Okay. Do you feel any pain if you push in the what's called the anatomical stuff box? So it's at the base of the thumb on yeah at the base of the thumb on the back of your hands. Face of a thumb. I know, I don't feel any pain there. Okay, and, okay, so no pain at the door so anatomical stuff box, and in terms of range of motion, are you able to flex and extend your wrist? I am. Okay. And then how about move it like side to side, kind of deviating it? I can do all of these things, it just hurts a lot. Okay. Are you able to make a fist? Yes. All right, and do you have any problems at the elbow? Or are you able to to flex and extend the elbow, okay? I can flex and extend, okay. Okay, so I think that was everything that I wanted to check today. Did you have any questions or got concerns? No, just do I need any sort of surgery for this? And when you're in an x-ray, how do I go about trying to treat this? Yeah, so I think an x-ray would be the first step here because from what",
+        "topic_id": 43,
+        "summary": " Do you feel any pain if you push in the what's called the anatomical stuff box? Are you able to make a fist? Yes. Do you have any problems at the elbow? Do you need any sort of surgery for this? And when you're in an x-ray,",
+        "keywords": [
+            "video",
+            "watching",
+            "motion",
+            "feel",
+            "don"
+        ],
+        "sentiment": 0.08049603174603175
+    },
+    {
+        "start_time": 749.52,
+        "end_time": 754.88,
+        "text": "you're describing and particularly with the mechanism of the injury and where you're feeling",
+        "topic_id": 44,
+        "summary": "you're describing and particularly with the mechanism of the injury and where you're feeling",
+        "keywords": [
+            "injury",
+            "feeling",
+            "mechanism",
+            "describing",
+            "particularly"
+        ],
+        "sentiment": 0.16666666666666666
+    },
+    {
+        "start_time": 754.88,
+        "end_time": 807.28,
+        "text": "pain can be a common cause of a distal radial fracture which is one of the forearm bones and so yeah we'll need an x-ray to look to see if there is a distal radial fracture, which is one of the four arm bones. And so yeah, we'll need an x-ray to look to see if there is a distilled radial fracture. And it's not sounding like this right now, but another thing that we'll look for on the x-ray of the hand, too, is a scapeoid fracture, to make sure that that's okay, but you didn't have any pain in the area of the skateboard which is reassuring but we still want to image and make sure although the most likely thing would be the distal radial fracture and if that's the case then there'll be like what we'll have to go into a cast for a period of time and depending on how much",
+        "topic_id": 45,
+        "summary": " pain can be a common cause of a distal radial fracture which is one of the forearm bones . If that's the case then there'll be like what we'll have to go into a cast for a period of time . Another thing that we'll look for on the x-ray",
+        "keywords": [
+            "fracture",
+            "skateboard",
+            "forearm",
+            "distal",
+            "pain"
+        ],
+        "sentiment": 0.27321428571428574
+    },
+    {
+        "start_time": 807.28,
+        "end_time": 814.32,
+        "text": "a joint involvement there is there might be the possibility of surgery but cannot comment too much",
+        "topic_id": 46,
+        "summary": "a joint involvement there is there might be the possibility of surgery but cannot comment too much",
+        "keywords": [
+            "joint",
+            "surgery",
+            "involvement",
+            "possibility",
+            "comment"
+        ],
+        "sentiment": 0.2
+    },
+    {
+        "start_time": 814.32,
+        "end_time": 821.04,
+        "text": "on on that just yet we'll need to get the imaging first. Okay that sounds good thank you.",
+        "topic_id": 47,
+        "summary": "on on that just yet we'll need to get the imaging first. Okay that sounds good thank you.",
+        "keywords": [
+            "imaging",
+            "need",
+            "thank",
+            "okay",
+            "ll"
+        ],
+        "sentiment": 0.48333333333333334
+    }
+]

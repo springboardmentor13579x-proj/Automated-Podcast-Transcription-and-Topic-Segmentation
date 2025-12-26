@@ -1,0 +1,554 @@
+[
+    {
+        "start_time": 0.0,
+        "end_time": 73.0,
+        "text": "Now we're going to see you in today. I've just been feeling like very nagging for it. It feels like all the time right now. When did the start? It's been over a week. Maybe not quite two weeks, but like around. Yeah. You be like nine days. And is it, do you always have the sensation of nausea, or is it related? What does it do to come and go? I think it's like worship and smelling something really bad and it's worth in the morning. But I feel like a flower is coming there. I see. Okay. Have you had any vomiting? Uh, yeah, like, um, yeah, like a lot of the days, I'll throw up like one switch by.",
+        "topic_id": 1,
+        "summary": " I've just been feeling like very nagging for it. It feels like all the time right now. I think it's like worship and smelling something really bad and it's worth in the morning. But I feel like a flower is coming there.",
+        "keywords": [
+            "nausea",
+            "vomiting",
+            "feeling",
+            "feel",
+            "smelling"
+        ],
+        "sentiment": 0.09761904761904765
+    },
+    {
+        "start_time": 73.0,
+        "end_time": 74.0,
+        "text": "Hmm.",
+        "topic_id": 2,
+        "summary": "Hmm.",
+        "keywords": [
+            "hmm"
+        ],
+        "sentiment": 0.0
+    },
+    {
+        "start_time": 74.0,
+        "end_time": 79.0,
+        "text": "And this is all then over the past week, week, two weeks or so.",
+        "topic_id": 3,
+        "summary": "And this is all then over the past week, week, two weeks or so.",
+        "keywords": [
+            "week",
+            "weeks",
+            "past"
+        ],
+        "sentiment": -0.25
+    },
+    {
+        "start_time": 79.0,
+        "end_time": 81.0,
+        "text": "Yeah. Hmm.",
+        "topic_id": 4,
+        "summary": "Yeah. Hmm.",
+        "keywords": [
+            "hmm",
+            "yeah"
+        ],
+        "sentiment": 0.0
+    },
+    {
+        "start_time": 81.0,
+        "end_time": 83.0,
+        "text": "Okay.",
+        "topic_id": 5,
+        "summary": "Okay.",
+        "keywords": [
+            "okay"
+        ],
+        "sentiment": 0.5
+    },
+    {
+        "start_time": 83.0,
+        "end_time": 107.0,
+        "text": "Um, any other symptoms that you have? Ooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo, but I don't think that's like related. I think maybe I've just been drinking a lot of water.",
+        "topic_id": 6,
+        "summary": "Um, any other symptoms that you have? Ooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo, but I don't think that's like related. I think maybe I've just been drinking a lot of water.",
+        "keywords": [
+            "symptoms",
+            "water",
+            "drinking",
+            "ve",
+            "maybe"
+        ],
+        "sentiment": -0.0625
+    },
+    {
+        "start_time": 107.0,
+        "end_time": 111.0,
+        "text": "So, yeah.",
+        "topic_id": 7,
+        "summary": "So, yeah.",
+        "keywords": [
+            "yeah"
+        ],
+        "sentiment": 0.0
+    },
+    {
+        "start_time": 111.0,
+        "end_time": 115.0,
+        "text": "How often do you have to pee?",
+        "topic_id": 8,
+        "summary": "How often do you have to pee?",
+        "keywords": [
+            "pee"
+        ],
+        "sentiment": 0.0
+    },
+    {
+        "start_time": 115.0,
+        "end_time": 123.0,
+        "text": "Um, it's like, I feel like every couple hours right now.",
+        "topic_id": 9,
+        "summary": "Um, it's like, I feel like every couple hours right now.",
+        "keywords": [
+            "feel",
+            "hours",
+            "like",
+            "right",
+            "um"
+        ],
+        "sentiment": 0.2857142857142857
+    },
+    {
+        "start_time": 123.0,
+        "end_time": 124.0,
+        "text": "Okay.",
+        "topic_id": 10,
+        "summary": "Okay.",
+        "keywords": [
+            "okay"
+        ],
+        "sentiment": 0.5
+    },
+    {
+        "start_time": 124.0,
+        "end_time": 206.0,
+        "text": "So we'll save every two hours, every hour, every five hours. Bye, bye, bye, bye, bye, bye, bye, bye, bye, bye, bye night did it be like it doesn't wake me up it's like a wake up because I hear something, then I'll be like, oh, I think this is probably a good spot for us. Yeah. Do you feel like you have control over when you are going to bathroom? Is it difficult for you to hold it in? Oh, I think control. It's just like, I'm comfortable, right? I see. I see, I see. So you have your nerve frequency, but do you feel like... So you said that you can control it. You don't feel like you need to run to the bathroom or you'll be in your pants. No, I don't feel like that. Okay. Do you have any pain when you're peeing? No. No. Okay. All right. Um, do you feel like you've been more thirsty recently? Why do you feel you've been drinking more? More water. I think just because I was getting, I was like I enough, I just feel like I was a little",
+        "topic_id": 11,
+        "summary": " Do you feel like you have control over when you are going to the bathroom? Is it difficult for you to hold it in? Oh, I think control control . Do you have any pain when you're peeing? No. I don't feel like I need to run to the",
+        "keywords": [
+            "peeing",
+            "bathroom",
+            "thirsty",
+            "feel",
+            "wake"
+        ],
+        "sentiment": 0.21030219780219778
+    },
+    {
+        "start_time": 206.0,
+        "end_time": 231.6,
+        "text": "deep hydrated. Yeah, I see, okay. Have you other than the nausea and the vomiting? Have you I, uh, stomach related issues, any belly pain, or changes",
+        "topic_id": 12,
+        "summary": "deep hydrated. Yeah, I see, okay. Have you other than the nausea and the vomiting? Have you I, uh, stomach related issues, any belly pain, or changes",
+        "keywords": [
+            "hydrated",
+            "stomach",
+            "nausea",
+            "vomiting",
+            "belly"
+        ],
+        "sentiment": 0.09375
+    },
+    {
+        "start_time": 231.6,
+        "end_time": 233.6,
+        "text": "in the round movement?",
+        "topic_id": 13,
+        "summary": "in the round movement?",
+        "keywords": [
+            "round",
+            "movement"
+        ],
+        "sentiment": -0.2
+    },
+    {
+        "start_time": 233.6,
+        "end_time": 238.6,
+        "text": "I don't know, I don't think so.",
+        "topic_id": 14,
+        "summary": "I don't know, I don't think so.",
+        "keywords": [
+            "think",
+            "don",
+            "know"
+        ],
+        "sentiment": 0.0
+    },
+    {
+        "start_time": 238.6,
+        "end_time": 241.6,
+        "text": "Well, it's been like, it feels like a little crampy.",
+        "topic_id": 15,
+        "summary": "Well, it's been like, it feels like a little crampy.",
+        "keywords": [
+            "crampy",
+            "feels",
+            "like",
+            "little"
+        ],
+        "sentiment": -0.1875
+    },
+    {
+        "start_time": 241.6,
+        "end_time": 246.6,
+        "text": "I thought it maybe could be my period, but like, not on my period.",
+        "topic_id": 16,
+        "summary": "I thought it maybe could be my period, but like, not on my period.",
+        "keywords": [
+            "period",
+            "thought",
+            "maybe",
+            "like"
+        ],
+        "sentiment": 0.0
+    },
+    {
+        "start_time": 246.6,
+        "end_time": 249.6,
+        "text": "Hmm. Hmm.",
+        "topic_id": 17,
+        "summary": "Hmm. Hmm.",
+        "keywords": [
+            "hmm"
+        ],
+        "sentiment": 0.0
+    },
+    {
+        "start_time": 249.6,
+        "end_time": 247.0,
+        "text": "Ah. It feels like a little crampy, I thought it maybe could be my period, but like not on my period.",
+        "topic_id": 18,
+        "summary": "Ah. It feels like a little crampy, I thought it maybe could be my period, but like not on my period.",
+        "keywords": [
+            "crampy",
+            "period",
+            "feels",
+            "ah",
+            "maybe"
+        ],
+        "sentiment": -0.1875
+    },
+    {
+        "start_time": 250.0,
+        "end_time": 253.0,
+        "text": "When did you last have your period?",
+        "topic_id": 19,
+        "summary": "When did you last have your period?",
+        "keywords": [
+            "period",
+            "did"
+        ],
+        "sentiment": 0.0
+    },
+    {
+        "start_time": 256.0,
+        "end_time": 259.0,
+        "text": "Oh, let me think.",
+        "topic_id": 20,
+        "summary": "Oh, let me think.",
+        "keywords": [
+            "think",
+            "oh",
+            "let"
+        ],
+        "sentiment": 0.0
+    },
+    {
+        "start_time": 261.0,
+        "end_time": 267.36,
+        "text": "Like six weeks ago, I guess that would be. I don't know. I don't really like keep",
+        "topic_id": 21,
+        "summary": "Like six weeks ago, I guess that would be. I don't know. I don't really like keep",
+        "keywords": [
+            "weeks",
+            "ago",
+            "guess",
+            "like",
+            "don"
+        ],
+        "sentiment": 0.2
+    },
+    {
+        "start_time": 267.36,
+        "end_time": 283.6,
+        "text": "track. Okay. Do you know if you get your periods regularly or are your periods irregular? I think I think they're usually pretty regular, but I don't like, I don't to calculate it to the day.",
+        "topic_id": 22,
+        "summary": " Do you know if you get your periods regularly or are your periods irregular? I think I think they're usually pretty regular, but I don't like to calculate it to the day .",
+        "keywords": [
+            "periods",
+            "irregular",
+            "track",
+            "regularly",
+            "regular"
+        ],
+        "sentiment": 0.1875
+    },
+    {
+        "start_time": 283.6,
+        "end_time": 287.6,
+        "text": "True, yeah. So, yeah.",
+        "topic_id": 23,
+        "summary": "True, yeah. So, yeah.",
+        "keywords": [
+            "true",
+            "yeah"
+        ],
+        "sentiment": 0.35
+    },
+    {
+        "start_time": 287.6,
+        "end_time": 311.56,
+        "text": "Is it normal for you to go with the weeks without a period? Uh... Something to think of it. I don't think so. All right. Um, okay. I'll just ask you a couple more questions about your symptoms, so I know that",
+        "topic_id": 24,
+        "summary": " Is it normal for you to go with the weeks without a period? Uh... Something to think of it. I don't think so. All right. I'll just ask you a couple more questions about your symptoms, so I know that .",
+        "keywords": [
+            "period",
+            "symptoms",
+            "weeks",
+            "normal",
+            "um"
+        ],
+        "sentiment": 0.35892857142857143
+    },
+    {
+        "start_time": 311.56,
+        "end_time": 370.4,
+        "text": "you've been nauseous and have plummeted a couple of times with past two weeks, and you have had some cramps in your belly, have you had any flu-like symptoms? Nothing like that. I don't think so. Any headaches? Any fevers? No, muscle aches? I don't know. Okay. Um, I have, I have, I have, I have, I have, any blood in your stool? No. No. Okay. Have you... You haven't had any, um, palpitations or just being or anything",
+        "topic_id": 25,
+        "summary": " Have you had any flu-like symptoms? Nothing like that. No headaches, any fevers? No, muscle aches? I don't know. No blood in your stool? No. No. Okay. You haven't had any, um, palpitations or just being",
+        "keywords": [
+            "nauseous",
+            "symptoms",
+            "flu",
+            "cramps",
+            "fevers"
+        ],
+        "sentiment": 0.0
+    },
+    {
+        "start_time": 370.4,
+        "end_time": 378.92,
+        "text": "on that sort. No. All right. Um, can you, uh, tell me about your past medical history and",
+        "topic_id": 26,
+        "summary": "on that sort. No. All right. Um, can you, uh, tell me about your past medical history and",
+        "keywords": [
+            "medical",
+            "history",
+            "past",
+            "tell",
+            "um"
+        ],
+        "sentiment": 0.011904761904761899
+    },
+    {
+        "start_time": 378.92,
+        "end_time": 432.24,
+        "text": "medical issues, medical conditions that you have? Uh, like, nothing, nothing really. Okay. Thanks for watching, and don't forget to like and subscribe for more videos, and don't forget to like and subscribe for more videos, and don't forget to like and subscribe for more videos, and don't forget to like and subscribe for more videos, and don't forget to like and subscribe for more videos, and don't forget to like and subscribe for more videos, and don't forget to like and subscribe for more videos, and don't forget to like and subscribe for more videos, and don't forget to like and subscribe for more videos, and don't forget to like and subscribe for more videos, and don't forget to like and subscribe for more videos, and don't forget to like and subscribe for more videos, and don't forget to like and subscribe for more videos, and don't forget to like and subscribe for more videos, and don't forget to like and subscribe for more videos, and don't forget to like and subscribe for more videos, and don't forget to like and subscribe for more videos, and don't forget to like and subscribe for more videos, and don't forget to like and subscribe for more videos, and don't forget to like and subscribe for more videos, and don't forget to like and subscribe for more videos, and don't forget to like and don't forget to like and subscribe for more videos, and don't forget to like and don't forget to like and don't forget to like and don't forget to like and don't forget to like and don't forget to like and don't forget to like and don't forget to like and don't forget to like and don't forget to like and don't forget to like and don't forget to like and don't forget to like and don't forget to like and don't forget to like and don't forget to like and don't forget to like and don't forget to like and don't forget to like and don't forget to like and don't forget to like and don't forget to like and don't forget to like and don't forget to like and don't forget to like and don I mean, I've been taking like, like, I've been chewing like those ginger things that are supposed to help with nausea, but they weren't really helpful. Uh, I see. Um, any allergy? Uh, it's just like nickel. Like questions about if your social history, who",
+        "topic_id": 27,
+        "summary": " Medical issues, medical conditions that you have? Uh, like, nothing, nothing really . Uh, I see. Um, it's just like nickel. I mean, I've been chewing like those ginger things that are supposed to help with nausea, but they weren't really helpful .",
+        "keywords": [
+            "subscribe",
+            "videos",
+            "helpful",
+            "watching",
+            "medical"
+        ],
+        "sentiment": 0.40071839080459765
+    },
+    {
+        "start_time": 432.24,
+        "end_time": 437.6,
+        "text": "do you currently live at?",
+        "topic_id": 28,
+        "summary": "do you currently live at?",
+        "keywords": [
+            "currently",
+            "live"
+        ],
+        "sentiment": 0.13636363636363635
+    },
+    {
+        "start_time": 437.6,
+        "end_time": 447.6,
+        "text": "Um, like, I, I just, uh, I live, this, while one will meet.",
+        "topic_id": 29,
+        "summary": "Um, like, I, I just, uh, I live, this, while one will meet.",
+        "keywords": [
+            "meet",
+            "live",
+            "just",
+            "uh",
+            "like"
+        ],
+        "sentiment": 0.13636363636363635
+    },
+    {
+        "start_time": 447.6,
+        "end_time": 461.6,
+        "text": "Hmm. Um. Um. Um. Um. Um. Um. Um. Um. Um. Um. Um. Um. Um.",
+        "topic_id": 30,
+        "summary": "Hmm. Um. Um. Um. Um. Um. Um. Um. Um. Um. Um. Um. Um. Um.",
+        "keywords": [
+            "hmm",
+            "um"
+        ],
+        "sentiment": 0.0
+    },
+    {
+        "start_time": 461.6,
+        "end_time": 469.0,
+        "text": "Um. Um. Um don't do that. You don't smoke, okay. Have you, do you can do alcohol?al? Ah, no, I'm very, really today. I was going to headache.",
+        "topic_id": 31,
+        "summary": "Um. Um. Um don't do that. You don't smoke, okay. Have you, do you can do alcohol?al? Ah, no, I'm very, really today. I was going to headache.",
+        "keywords": [
+            "headache",
+            "alcohol",
+            "smoke",
+            "al",
+            "um"
+        ],
+        "sentiment": 0.21153846153846154
+    },
+    {
+        "start_time": 469.0,
+        "end_time": 473.0,
+        "text": "Okay. When most of the last drinks that you had.",
+        "topic_id": 32,
+        "summary": "Okay. When most of the last drinks that you had.",
+        "keywords": [
+            "drinks",
+            "okay"
+        ],
+        "sentiment": 0.3333333333333333
+    },
+    {
+        "start_time": 473.0,
+        "end_time": 478.0,
+        "text": "Oh, gosh, like, like a month ago probably.",
+        "topic_id": 33,
+        "summary": "Oh, gosh, like, like a month ago probably.",
+        "keywords": [
+            "ago",
+            "probably",
+            "gosh",
+            "month",
+            "like"
+        ],
+        "sentiment": 0.0
+    },
+    {
+        "start_time": 478.0,
+        "end_time": 483.0,
+        "text": "Okay. Um, and you can do many elicid drugs?",
+        "topic_id": 34,
+        "summary": "Okay. Um, and you can do many elicid drugs?",
+        "keywords": [
+            "drugs",
+            "elicid",
+            "okay",
+            "um"
+        ],
+        "sentiment": 0.5
+    },
+    {
+        "start_time": 483.0,
+        "end_time": 490.0,
+        "text": "No, no. All right. Um, are you currently sexually active? I'm sorry.",
+        "topic_id": 35,
+        "summary": "No, no. All right. Um, are you currently sexually active? I'm sorry.",
+        "keywords": [
+            "active",
+            "sexually",
+            "sorry",
+            "um",
+            "currently"
+        ],
+        "sentiment": -0.11587301587301586
+    },
+    {
+        "start_time": 490.0,
+        "end_time": 513.0,
+        "text": "I'm sorry. I'm sorry. I'm sorry. I'm sorry. I'm sorry. I'm sorry. I'm sorry. I'm sorry. I'm sorry. I'm sorry. I'm sorry. I'm sorry. I'm sorry. I'm sorry. I'm sorry. I'm sorry. I'm sorry. I'm sorry. I'm sorry. I'm sorry. I'm sorry. I'm sorry. I'm sorry.",
+        "topic_id": 36,
+        "summary": " \"I'm sorry. I'm sorry.\" \"I've got to apologize. I've had a lot of things to do with my family and friends.\" \"It's not the first time I've been in the hospital. It's the last time it's been in a hospital.",
+        "keywords": [
+            "sorry"
+        ],
+        "sentiment": -0.5
+    },
+    {
+        "start_time": 513.0,
+        "end_time": 486.0,
+        "text": "I'm sorry. I'm sorry. I'm sorry. I'm sorry. I'm sorry. And you can do many illicit drugs? No, no, no, all right.",
+        "topic_id": 37,
+        "summary": "I'm sorry. I'm sorry. I'm sorry. I'm sorry. I'm sorry. And you can do many illicit drugs? No, no, no, all right.",
+        "keywords": [
+            "illicit",
+            "drugs",
+            "sorry",
+            "right"
+        ],
+        "sentiment": -0.2448979591836735
+    },
+    {
+        "start_time": 486.0,
+        "end_time": 528.0,
+        "text": "Are you currently sexually active? Yeah, this is my boyfriend. And do you use protection while having sex? Ah, yeah, we use condoms. Okay, I used to be on both control, but it always made me feel like the kind of sticks. So, I don't know if you've done any more. Mm-hmm. See, okay. Uh, and, um, let's see, family history. Do you, do you have any medical conditions that run in your family?",
+        "topic_id": 38,
+        "summary": " Are you currently sexually active? Yeah, this is my boyfriend . And do you use protection while having sex? Ah, yeah, we use condoms . Do you, do you have any medical conditions that run in your family?",
+        "keywords": [
+            "condoms",
+            "protection",
+            "control",
+            "sex",
+            "sticks"
+        ],
+        "sentiment": 0.3277777777777778
+    },
+    {
+        "start_time": 534.0,
+        "end_time": 540.0,
+        "text": "Like, I don't think so. I guess my dad has like high blood pressure.",
+        "topic_id": 39,
+        "summary": "Like, I don't think so. I guess my dad has like high blood pressure.",
+        "keywords": [
+            "pressure",
+            "dad",
+            "high",
+            "blood",
+            "like"
+        ],
+        "sentiment": 0.16
+    },
+    {
+        "start_time": 540.0,
+        "end_time": 565.0,
+        "text": "Yeah, that's, yeah, that's, I don't think there's anything else. All right, all right, well, thank you so much for spending time with me today. I think of gathered all the information that I would have liked. I will go talk to my attending, we'll come back, maybe ask a couple more questions, and then share the plan with you. Okay, thank you.",
+        "topic_id": 40,
+        "summary": " I think of gathered all the information that I would have liked. I will go talk to my attending, we'll come back, maybe ask a couple more questions, and then share the plan with you. All right, all right, well, thank you so much for spending time with",
+        "keywords": [
+            "attending",
+            "plan",
+            "gathered",
+            "questions",
+            "information"
+        ],
+        "sentiment": 0.33877551020408164
+    },
+    {
+        "start_time": 565.0,
+        "end_time": 566.0,
+        "text": "Welcome.",
+        "topic_id": 41,
+        "summary": "Welcome.",
+        "keywords": [
+            "welcome"
+        ],
+        "sentiment": 0.8
+    }
+]

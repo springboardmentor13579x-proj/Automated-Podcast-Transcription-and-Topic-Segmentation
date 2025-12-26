@@ -1,0 +1,314 @@
+[
+    {
+        "start_time": 0.0,
+        "end_time": 2.54,
+        "text": "What brings you here today?",
+        "topic_id": 1,
+        "summary": "What brings you here today?",
+        "keywords": [
+            "today",
+            "brings"
+        ],
+        "sentiment": 0.0
+    },
+    {
+        "start_time": 2.54,
+        "end_time": 66.8,
+        "text": "Yeah, I have this paid in my cast. OK, and where is the painting exactly? I'm just ready to over on the left side. OK, and when did this paint start? It started just 30 minutes ago. OK, and did just come on randomly or were you doing something strenuous? I was just showing the driveway and it came on. Okay, and has that pain been getting worse at all over the last one half an hour? No, it just came on suddenly and it's sorry, you had the pain has been there this whole time and it's gotten worse ever since it started. Okay, and how would you describe the pain? Is it kind of like an aching pain or is it a sharp or tight tightness kind of pain? How would you describe it? It feels dull. I feel like there's a lot of pressure on my",
+        "topic_id": 2,
+        "summary": " The pain has been there this whole time and it's gotten worse ever since it started . I feel like there's a lot of pressure on my body, he says . I was just showing the driveway and it came on suddenly and it just came on .",
+        "keywords": [
+            "pain",
+            "aching",
+            "painting",
+            "paint",
+            "tightness"
+        ],
+        "sentiment": 0.08514739229024941
+    },
+    {
+        "start_time": 66.8,
+        "end_time": 73.44,
+        "text": "chest. And how do you rate the pain right now on a scale of 0 to 10? You're being the least",
+        "topic_id": 3,
+        "summary": "chest. And how do you rate the pain right now on a scale of 0 to 10? You're being the least",
+        "keywords": [
+            "chest",
+            "pain",
+            "rate",
+            "10",
+            "scale"
+        ],
+        "sentiment": -0.007142857142857145
+    },
+    {
+        "start_time": 73.44,
+        "end_time": 82.08,
+        "text": "one of the pain you've helped in your life, 10 being the worst. 7. 7? Okay. Have you had any",
+        "topic_id": 4,
+        "summary": "one of the pain you've helped in your life, 10 being the worst. 7. 7? Okay. Have you had any",
+        "keywords": [
+            "pain",
+            "10",
+            "worst",
+            "life",
+            "ve"
+        ],
+        "sentiment": -0.25
+    },
+    {
+        "start_time": 82.08,
+        "end_time": 86.48,
+        "text": "similar episodes before? No, I've never had any chest pain before",
+        "topic_id": 5,
+        "summary": "similar episodes before? No, I've never had any chest pain before",
+        "keywords": [
+            "episodes",
+            "chest",
+            "pain",
+            "similar",
+            "ve"
+        ],
+        "sentiment": 0.0
+    },
+    {
+        "start_time": 87.52,
+        "end_time": 95.28,
+        "text": "Okay, and is the pain just staying in the region the left chest area that you mentioned or is it traveling to any other part of your body?",
+        "topic_id": 6,
+        "summary": "Okay, and is the pain just staying in the region the left chest area that you mentioned or is it traveling to any other part of your body?",
+        "keywords": [
+            "chest",
+            "pain",
+            "left",
+            "region",
+            "area"
+        ],
+        "sentiment": 0.125
+    },
+    {
+        "start_time": 96.24,
+        "end_time": 98.72,
+        "text": "No, I'm kind of just feeling it right here on the left side",
+        "topic_id": 7,
+        "summary": "No, I'm kind of just feeling it right here on the left side",
+        "keywords": [
+            "feeling",
+            "left",
+            "right",
+            "just",
+            "kind"
+        ],
+        "sentiment": -0.004761904761904763
+    },
+    {
+        "start_time": 99.84,
+        "end_time": 125.2,
+        "text": "Okay, is there anything that you do that makes the pain that they've got worse or go away or get better? I think it's a bit worse if I'm moving around or when I was walking in here, I think it made it a bit worse, but nothing is seem to make it any better since it's starting. Okay, and does it change it all from",
+        "topic_id": 8,
+        "summary": " I think it's a bit worse if I'm moving around or when I was walking in here, it made it worse, but nothing is seem to make it any better since it's starting .",
+        "keywords": [
+            "pain",
+            "moving",
+            "walking",
+            "worse",
+            "change"
+        ],
+        "sentiment": 0.09999999999999999
+    },
+    {
+        "start_time": 125.92,
+        "end_time": 135.44,
+        "text": "you changing positions like if you're standing up or sitting down or laying down? It's, I think it's a little bit worse when what I'm laying down.",
+        "topic_id": 9,
+        "summary": "you changing positions like if you're standing up or sitting down or laying down? It's, I think it's a little bit worse when what I'm laying down.",
+        "keywords": [
+            "positions",
+            "laying",
+            "sitting",
+            "standing",
+            "changing"
+        ],
+        "sentiment": -0.21083333333333337
+    },
+    {
+        "start_time": 136.56,
+        "end_time": 142.4,
+        "text": "Okay, and other than the pain that you've been having, you've been having any other symptoms like",
+        "topic_id": 10,
+        "summary": "Okay, and other than the pain that you've been having, you've been having any other symptoms like",
+        "keywords": [
+            "pain",
+            "symptoms",
+            "having",
+            "ve",
+            "okay"
+        ],
+        "sentiment": 0.08333333333333333
+    },
+    {
+        "start_time": 143.12,
+        "end_time": 210.0,
+        "text": "a call for difficulty breathing or any pain when you're breathing in, or out. I've felt a little bit short of breath or having difficulty breathing since yesterday when the pain starts, but just the difficulty breathing. Okay, and have you recently injured your chest or surrounding area at all, from fall or anything like that? I do play rugby and was tackled by another player yesterday, but, but my chest felt fine after that. Okay, so, but the pain is starting off and I'll go. Yeah. Okay. Have you, have you been traveling at all recently? No, but at home. Okay. Has anyone around you been sick at all? No. No.",
+        "topic_id": 11,
+        "summary": " I've felt a little bit short of breath or having difficulty breathing since yesterday when the pain starts, but just the difficulty breathing . I do play rugby and was tackled by another player yesterday, but, but my chest felt fine after that . Have you been traveling at all recently? No",
+        "keywords": [
+            "breathing",
+            "breath",
+            "pain",
+            "sick",
+            "chest"
+        ],
+        "sentiment": 0.13771645021645024
+    },
+    {
+        "start_time": 210.0,
+        "end_time": 251.92,
+        "text": "Okay. Have you been having symptoms like nausea or vomiting or any fever's or chills? No, nausea or vomiting, but I do feel a little bit hot today. Okay. Have you measured your temperature at all? I don't know what to do, Okay. And have you been having any kind of swelling in your legs or feet? No swelling in my legs. Okay.",
+        "topic_id": 12,
+        "summary": " Have you been having symptoms like nausea or vomiting or any fever's or chills? Have you measured your temperature at all? I don't know what to do, Okay. No swelling in my legs or feet .",
+        "keywords": [
+            "fever",
+            "swelling",
+            "symptoms",
+            "temperature",
+            "hot"
+        ],
+        "sentiment": 0.3803571428571429
+    },
+    {
+        "start_time": 251.92,
+        "end_time": 255.12,
+        "text": "Have you been feeling tired at all? Like increasingly fatigued?",
+        "topic_id": 13,
+        "summary": "Have you been feeling tired at all? Like increasingly fatigued?",
+        "keywords": [
+            "fatigued",
+            "tired",
+            "feeling",
+            "increasingly",
+            "like"
+        ],
+        "sentiment": -0.4
+    },
+    {
+        "start_time": 256.4,
+        "end_time": 258.76,
+        "text": "No, my energy has been good.",
+        "topic_id": 14,
+        "summary": "No, my energy has been good.",
+        "keywords": [
+            "energy",
+            "good"
+        ],
+        "sentiment": 0.7
+    },
+    {
+        "start_time": 258.76,
+        "end_time": 259.6,
+        "text": "Okay.",
+        "topic_id": 15,
+        "summary": "Okay.",
+        "keywords": [
+            "okay"
+        ],
+        "sentiment": 0.5
+    },
+    {
+        "start_time": 259.6,
+        "end_time": 261.56,
+        "text": "Have you been having any kind of something",
+        "topic_id": 16,
+        "summary": "Have you been having any kind of something",
+        "keywords": [
+            "having",
+            "kind"
+        ],
+        "sentiment": 0.6
+    },
+    {
+        "start_time": 261.56,
+        "end_time": 263.92,
+        "text": "or palpitations or feel like your heart",
+        "topic_id": 17,
+        "summary": "or palpitations or feel like your heart",
+        "keywords": [
+            "palpitations",
+            "heart",
+            "feel",
+            "like"
+        ],
+        "sentiment": 0.0
+    },
+    {
+        "start_time": 263.92,
+        "end_time": 408.84,
+        "text": "has been racing at all? It's, It does feel like it's beating faster and out. Usually it only feels like this when I'm playing sports. Okay. And have you noticed any changes in your skin at all? I mean, rashes, no rashes. Okay. Have you had any cough or runny nose or sore throat, any kind of those symptoms in the past month? A few weeks ago, when I was just all of a runny, but that went away on its own. I haven't had any cough. Okay. And have you been feeling dizzy at all or have you fainted? No, does he listen? No, I have fainted at all. Okay. Just a few more questions. Have you had any diagnosis made by any physician or anything like diabetes or high blood pressure. Yeah, I've been told I have high cholesterol and high blood pressure. Okay. And do you take any medications for these things? I do take medications for both blood pressure and cholesterol and resume of the statin and Lucidapro and I take a multivitamin. And do you have any allergies any medications at all? No allergies. Okay. Have you at all in the past been hospitalized for any reason? No hospitalizations. Any previous surgeries? No. Okay. And within your family has anyone that passed away from a heart attack or in cancer or someone in the family? No. Yeah. Okay. And currently right now do you live alone? Do you live with someone and where do you live? Like an apartment house? I live in a house with my parents.",
+        "topic_id": 18,
+        "summary": " Have you noticed any changes in your skin at all? I mean, rashes, no rashes . Have you had any cough or runny nose or sore throat, any kind of those symptoms in the past month? Have you been feeling dizzy at all or have you fainted",
+        "keywords": [
+            "dizzy",
+            "fainted",
+            "symptoms",
+            "diagnosis",
+            "statin"
+        ],
+        "sentiment": 0.18776931401931407
+    },
+    {
+        "start_time": 408.84,
+        "end_time": 409.84,
+        "text": "Okay.",
+        "topic_id": 19,
+        "summary": "Okay.",
+        "keywords": [
+            "okay"
+        ],
+        "sentiment": 0.5
+    },
+    {
+        "start_time": 409.84,
+        "end_time": 467.76,
+        "text": "And... I live in a house with my parents and you currently work. Yeah, I drive a bus for the city. Okay. And in your daily routine, did you say you get enough exercise throughout the week? Yeah, usually on Sundays I'll go for a run. Okay. And how about your diet? Well, how's your diet? Like, just regularly? Usually, I feel like it's fairly balanced overall. I might eat out a little bit too often, but try to eat as many vegetables as I can. Okay. And do you smoke? Is it a great fit all? I do, yes. I've been smoking for the last 20 years, roughly. Okay, how much do you smoke",
+        "topic_id": 20,
+        "summary": " I live in a house with my parents and I drive a bus for the city . Usually, I feel like it's fairly balanced overall. I might eat out a little bit too often, but try to eat as many vegetables as I can . I've been smoking for the last 20",
+        "keywords": [
+            "smoking",
+            "routine",
+            "smoke",
+            "exercise",
+            "diet"
+        ],
+        "sentiment": 0.22493686868686869
+    },
+    {
+        "start_time": 467.76,
+        "end_time": 479.36,
+        "text": "corner on an average day? Um, but a half a pack to a pack a day. Okay. And do you drink? No alcohol.",
+        "topic_id": 21,
+        "summary": "corner on an average day? Um, but a half a pack to a pack a day. Okay. And do you drink? No alcohol.",
+        "keywords": [
+            "corner",
+            "pack",
+            "alcohol",
+            "day",
+            "drink"
+        ],
+        "sentiment": 0.061111111111111116
+    },
+    {
+        "start_time": 480.64,
+        "end_time": 532.4,
+        "text": "Okay. And any recreational drugs like marijuana, no marijuana, but I have used crystal meth in the past. Okay, and when was the last time that you used crystal meth? Six days ago. Six days ago? Okay, and how often do you use Crystal Mark? I would say if a couple of times a month, a couple of times a month, okay, all right, and for how long have you been using Crystal Mark for the last seven years, seven years. Okay. All right. Thank you.",
+        "topic_id": 22,
+        "summary": " When was the last time that you used crystal meth? Six days ago? When did you use Crystal Mark? I would say if a couple of times a month . How often do you have been using Crystal Mark for the last seven years, seven years . And any recreational drugs like marijuana",
+        "keywords": [
+            "meth",
+            "crystal",
+            "marijuana",
+            "drugs",
+            "month"
+        ],
+        "sentiment": 0.2519480519480519
+    }
+]

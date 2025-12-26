@@ -1,0 +1,448 @@
+[
+    {
+        "start_time": 0.0,
+        "end_time": 145.08,
+        "text": "how may I help you? I'm here because I've been having some pain in my left me for the past two months and it's not getting better, it feels stiff and I just haven't been able to, you know, use it as well as as well as I was using it before, and it's just limited some daily activities. Okay, and where, so it's the pain isn't your left knee. Where are you feeling the pain specifically? Is it at the front of the knee, the sides, or the back? Could you point to it? It feels like it's mostly on the front. OK. Like deep within that kneecap. OK. And you said the pain started two months ago? Yes. Well, it's always been a little like tender, but now it's more painful. Okay, and so has it been getting worse? I would say so slowly getting Okay, and when you get a pain in the left knee, how long does it typically last for? It usually hurts while I'm doing neck, while I'm moving it, or just but if I if I rest the pain eventually goes away um but when I first wake up in the morning that joint feels stiff and then when when I start using it I'm using it more it's less stiff when it becomes painful okay so you have some stiffness in the morning? I do. How long is it last for like 30 minutes, 60 minutes or longer? The stiffness or pain? Yeah, the stiffness. The stiffness goes away in like, yeah, 15 to 30 minutes.",
+        "topic_id": 1,
+        "summary": " The pain in your left knee started two months ago, but it's not getting better, it feels stiff and I just haven't been able to, you know, use it as well as as well . It usually hurts while I'm doing neck, while moving it, or just but",
+        "keywords": [
+            "knee",
+            "pain",
+            "painful",
+            "hurts",
+            "kneecap"
+        ],
+        "sentiment": 0.05828081232492997
+    },
+    {
+        "start_time": 145.72,
+        "end_time": 146.68,
+        "text": "Okay.",
+        "topic_id": 2,
+        "summary": "Okay.",
+        "keywords": [
+            "okay"
+        ],
+        "sentiment": 0.5
+    },
+    {
+        "start_time": 152.12,
+        "end_time": 153.24,
+        "text": "And how would you describe the pain in terms of its character?",
+        "topic_id": 3,
+        "summary": "And how would you describe the pain in terms of its character?",
+        "keywords": [
+            "pain",
+            "character",
+            "terms"
+        ],
+        "sentiment": 0.0
+    },
+    {
+        "start_time": 154.08,
+        "end_time": 155.44,
+        "text": "Hmm.",
+        "topic_id": 4,
+        "summary": "Hmm.",
+        "keywords": [
+            "hmm"
+        ],
+        "sentiment": 0.0
+    },
+    {
+        "start_time": 156.44,
+        "end_time": 157.92,
+        "text": "It feels...",
+        "topic_id": 5,
+        "summary": "It feels...",
+        "keywords": [
+            "feels"
+        ],
+        "sentiment": 0.0
+    },
+    {
+        "start_time": 158.68,
+        "end_time": 160.08,
+        "text": "Hmm.",
+        "topic_id": 6,
+        "summary": "Hmm.",
+        "keywords": [
+            "hmm"
+        ],
+        "sentiment": 0.0
+    },
+    {
+        "start_time": 161.6,
+        "end_time": 163.0,
+        "text": "It feels, um...",
+        "topic_id": 7,
+        "summary": "It feels, um...",
+        "keywords": [
+            "feels",
+            "um"
+        ],
+        "sentiment": 0.0
+    },
+    {
+        "start_time": 189.96,
+        "end_time": 206.68,
+        "text": "I guess most of the time it's like, it's like like a dull nine kind of pain, but it can be sharp. Okay, and is there anything that makes the pain worse? Just with a lot of activity gets worse. And do you feel it radiate anywhere else? No. Okay and how would you describe the severity of your pain on the scale of 10 being the worst pain you've ever felt and one being kind of very minimal pain? Um, I would give it maybe a salmon.",
+        "topic_id": 8,
+        "summary": " Most of the time it's like like like a dull nine kind of pain, but it can be sharp . Just with a lot of activity gets worse . Do you feel it radiate anywhere else? No. No.",
+        "keywords": [
+            "pain",
+            "severity",
+            "felt",
+            "worse",
+            "10"
+        ],
+        "sentiment": -0.036060606060606064
+    },
+    {
+        "start_time": 206.68,
+        "end_time": 208.68,
+        "text": "Okay.",
+        "topic_id": 9,
+        "summary": "Okay.",
+        "keywords": [
+            "okay"
+        ],
+        "sentiment": 0.5
+    },
+    {
+        "start_time": 208.68,
+        "end_time": 227.0,
+        "text": "Um, I would give it maybe a seven. Okay, and have you had any injuries to your knee before? No, not that I can think of. No, okay. Um, and, um, have you been having any, uh, any weight loss recently?",
+        "topic_id": 10,
+        "summary": " Have you had any injuries to your knee before? No, not that I can think of. Um, and, um, have you been having any, uh, any weight loss recently? Um, I would give it maybe a seven .",
+        "keywords": [
+            "knee",
+            "weight",
+            "seven",
+            "injuries",
+            "loss"
+        ],
+        "sentiment": 0.08333333333333333
+    },
+    {
+        "start_time": 227.0,
+        "end_time": 230.0,
+        "text": "No weight gain.",
+        "topic_id": 11,
+        "summary": "No weight gain.",
+        "keywords": [
+            "weight",
+            "gain"
+        ],
+        "sentiment": 0.0
+    },
+    {
+        "start_time": 230.0,
+        "end_time": 232.0,
+        "text": "We gain, okay.",
+        "topic_id": 12,
+        "summary": "We gain, okay.",
+        "keywords": [
+            "gain",
+            "okay"
+        ],
+        "sentiment": 0.5
+    },
+    {
+        "start_time": 232.0,
+        "end_time": 243.0,
+        "text": "How much weight have you gained over the last several months? Over the past six months, I'd say I'd gained about 20 pounds.",
+        "topic_id": 13,
+        "summary": "How much weight have you gained over the last several months? Over the past six months, I'd say I'd gained about 20 pounds.",
+        "keywords": [
+            "weight",
+            "pounds",
+            "20",
+            "gained",
+            "months"
+        ],
+        "sentiment": -0.012499999999999997
+    },
+    {
+        "start_time": 243.0,
+        "end_time": 325.0,
+        "text": "Okay. Have you had changes in your diet and or exercise? Thank you for watching, and I'll see you in the next video, and I'll see you in the next video, and I'll see you in the next video, and I'll see you in the next video, and I'll see you in the next video, and I'll see you in the next video, and I'll see you in the next video, and I'll see you in the next video, and I'll see you in the next video, and I'll see you in the next video, and I'll see you in the next video, and I'll see you in the next video, and I'll see you in the next video, and I'll see you in the next video, and I'll see you in the next video, and I'll see you in the next video, and I'll see you in the next video, and I'll see you in the next video, and I'll see you in the next video, and I'll see you in the next video, and I'll see you in the next video, and I'll see you in the next video, and I'll see you in the next video, and I'll see you in the next video, and I'll see you in the next video, and I'll see you in the next video, and I'll see you in the next video, and I'll see you in the next video, and I'll see you in the next video, and I'll see you in the next video, and I'll see you in the next video, and I'll see you in the next video, and I'll see you in the next video, and I'll see you in the next video, and I'll see you in the next video, and I'll see you in the next video, and I'll see you in the next video, and I'll see you in the next video, and I'll see you in the next video, and I'll see you in the next video, and I'll see you in the next video, and I'll see you in the next video, and I'll see you in the next video,. Okay. Have you had changes in your diet and or exercise? Um, I guess I've been eating a little bit more. Um, but no changes in exercise. Okay. And have you been having any fevers or chills? No. Okay, how about any night sweats? Uh, no night sweats. Okay. And have you had any changes to your vision or hearing? No. Okay, have you had any changes to your sense of smell or sense of taste? Uh, nope. Okay, maybe I had a runny nose or a sore throat? No. Maybe I had a cough or any shortness of breath? No, nothing like that. Okay. How about any wheezing? No wheezing. All right are any chest pain or uh... heart palpitations no right at you had any light headed this or a business no all right so that you any confusion or memory loss no all right so that you had any changes in appetite, like a loss of appetite?",
+        "topic_id": 14,
+        "summary": " Have you had any changes in your diet and or exercise? Have you been having any fevers or chills? No . Have any changes to your sense of smell or sense of taste? No. No changes in appetite, like a loss of appetite .",
+        "keywords": [
+            "exercise",
+            "video",
+            "diet",
+            "eating",
+            "ve"
+        ],
+        "sentiment": 0.06770320197044334
+    },
+    {
+        "start_time": 325.0,
+        "end_time": 332.0,
+        "text": "No, if anything had a gain in appetite.",
+        "topic_id": 15,
+        "summary": "No, if anything had a gain in appetite.",
+        "keywords": [
+            "appetite",
+            "gain"
+        ],
+        "sentiment": 0.0
+    },
+    {
+        "start_time": 332.0,
+        "end_time": 337.0,
+        "text": "All right, so now you had any nausea or vomiting?",
+        "topic_id": 16,
+        "summary": "All right, so now you had any nausea or vomiting?",
+        "keywords": [
+            "nausea",
+            "vomiting",
+            "right"
+        ],
+        "sentiment": 0.2857142857142857
+    },
+    {
+        "start_time": 337.0,
+        "end_time": 338.0,
+        "text": "No.",
+        "topic_id": 17,
+        "summary": "No.",
+        "keywords": [],
+        "sentiment": 0.0
+    },
+    {
+        "start_time": 338.0,
+        "end_time": 340.0,
+        "text": "Any abdominal pain?",
+        "topic_id": 18,
+        "summary": "Any abdominal pain?",
+        "keywords": [
+            "abdominal",
+            "pain"
+        ],
+        "sentiment": 0.0
+    },
+    {
+        "start_time": 340.0,
+        "end_time": 342.0,
+        "text": "No.",
+        "topic_id": 19,
+        "summary": "No.",
+        "keywords": [],
+        "sentiment": 0.0
+    },
+    {
+        "start_time": 342.0,
+        "end_time": 344.0,
+        "text": "All right.",
+        "topic_id": 20,
+        "summary": "All right.",
+        "keywords": [
+            "right"
+        ],
+        "sentiment": 0.2857142857142857
+    },
+    {
+        "start_time": 344.0,
+        "end_time": 429.24,
+        "text": "And how about any urinary problems? No urinary problems. And any changes to your bowel habits like diarrhea or blood in the stool? No. All right, so have you had any rashes or skin changes or changes to your hair or nails? No, nothing like that. Okay, and any other joint pains or have you have any joint swelling? Uh, I have some joint swelling. It's not very visible, but it's at a pure slightly more swollen than my left sorry than my right knee. Okay, so just a little bit of swelling in your left knee, but no other joints? No. Okay. And have you been diagnosed with any medical calculations before? I have diabetes, high blood pressure, and high cholesterol, and I'm overweight. Okay. Do you take any medications for any of those conditions? I'm on insulin for diabetes. I'm on ramiprol for high blood pressure and I'm also",
+        "topic_id": 21,
+        "summary": " Have any changes to bowel habits like diarrhea or blood in the stool? No. And how about any urinary problems? No urinary problems . Have you had any rashes or skin changes or changes to hair or nails? No, nothing like that .",
+        "keywords": [
+            "diabetes",
+            "swelling",
+            "pains",
+            "diagnosed",
+            "swollen"
+        ],
+        "sentiment": 0.11398496240601502
+    },
+    {
+        "start_time": 429.24,
+        "end_time": 433.72,
+        "text": "want to statin for the cholesterol.",
+        "topic_id": 22,
+        "summary": "want to statin for the cholesterol.",
+        "keywords": [
+            "statin",
+            "cholesterol",
+            "want"
+        ],
+        "sentiment": 0.0
+    },
+    {
+        "start_time": 433.72,
+        "end_time": 438.04,
+        "text": "Okay, and do you have any allergies to medications?",
+        "topic_id": 23,
+        "summary": "Okay, and do you have any allergies to medications?",
+        "keywords": [
+            "allergies",
+            "medications",
+            "okay"
+        ],
+        "sentiment": 0.5
+    },
+    {
+        "start_time": 438.04,
+        "end_time": 439.04,
+        "text": "No.",
+        "topic_id": 24,
+        "summary": "No.",
+        "keywords": [],
+        "sentiment": 0.0
+    },
+    {
+        "start_time": 439.04,
+        "end_time": 491.28,
+        "text": "All right, and have you had any surgeries in the past? No. All right. Thanks for watching, and see you next time, thanks for watching, and thanks for watching, and see you next time, and see you next time, and see you next time, and see you next time, and see you next time, and see you next time, and see you next time, and see you next time, and see you next time, and see you next time, and see you next time, and see you next time, and see you next time, and see you next time, and see you next time, and see you next time, and see you next time, and see you next time, and see you next time, and see you next time, and see you next time, and see you next time, and see you next time, and see you next time, and see you next time, and see you next time, and see you next time, and see you next time, and see you next time, and see you next time, and see you next time, and see you next time, and see you next time, and see you next time, and see you next time, and see you next time, and see you next time, and see you next time, and see you next time, and see you next time, and see you next time, and see you next time, and see you next time, and see you next time, and see you next time, and see you next time, and see you next time, and see you next time, and see you next time, and see you next time, and see you next time, and see you next time, and see you next time, and see you next time, and see you next time, and see you next time, and see you next time, and see you next time, and see you next time, and see you next time, and see you next time, and see you next time, and see you next time, and see you next time, and see you next time, and see you next time, and see you next time, and see you next time, and see you next time, and see you next time, and have you had any surgeries in the past? No. All right, and are your immunizations up to date? I think so. All right, and can you tell me a little bit about your living situation currently, like who you're living with and whereabouts? Um, I live with my husband in a house downtown. Okay, um, and are you working currently? No, I retired early. Okay, and do you drink alcohol, I'll have a glass of wine every night. Okay, so about",
+        "topic_id": 25,
+        "summary": " Have you had any surgeries in the past? No. No. I retired early. I live with my husband in a house downtown . Do you drink alcohol, I'll have a glass of wine every night, and see you next time? I think so, and are your immunizations",
+        "keywords": [
+            "surgeries",
+            "time",
+            "watching",
+            "past",
+            "okay"
+        ],
+        "sentiment": 0.03172409976387249
+    },
+    {
+        "start_time": 491.28,
+        "end_time": 501.92,
+        "text": "seven drinks per week? Yes. Okay, and do you smoke cigarettes? No, I don't. All right,",
+        "topic_id": 26,
+        "summary": "seven drinks per week? Yes. Okay, and do you smoke cigarettes? No, I don't. All right,",
+        "keywords": [
+            "cigarettes",
+            "drinks",
+            "week",
+            "seven",
+            "smoke"
+        ],
+        "sentiment": 0.39285714285714285
+    },
+    {
+        "start_time": 501.92,
+        "end_time": 528.72,
+        "text": "how about the use of any recreational drugs like cannabis or anything else. No. All right. And is there any like musculoskeletal or like autoimmune conditions that run in the family? No musculoskeletal issues that I know",
+        "topic_id": 27,
+        "summary": " No. how about the use of any recreational drugs like cannabis or anything else . No musculoskeletal issues that run in the family .",
+        "keywords": [
+            "musculoskeletal",
+            "autoimmune",
+            "recreational",
+            "family",
+            "drugs"
+        ],
+        "sentiment": 0.2857142857142857
+    },
+    {
+        "start_time": 528.72,
+        "end_time": 535.96,
+        "text": "diabetes runs in the family okay um all right so that was everything I wanted",
+        "topic_id": 28,
+        "summary": "diabetes runs in the family okay um all right so that was everything I wanted",
+        "keywords": [
+            "diabetes",
+            "family",
+            "runs",
+            "wanted",
+            "right"
+        ],
+        "sentiment": 0.39285714285714285
+    },
+    {
+        "start_time": 535.96,
+        "end_time": 541.88,
+        "text": "to ask on history so next I just wanted to do a physical exam and just",
+        "topic_id": 29,
+        "summary": "to ask on history so next I just wanted to do a physical exam and just",
+        "keywords": [
+            "history",
+            "physical",
+            "exam",
+            "ask",
+            "wanted"
+        ],
+        "sentiment": 0.0
+    },
+    {
+        "start_time": 541.88,
+        "end_time": 550.28,
+        "text": "looking at the the left knee are you seeing any swelling or redness on the knee.",
+        "topic_id": 30,
+        "summary": "looking at the the left knee are you seeing any swelling or redness on the knee.",
+        "keywords": [
+            "swelling",
+            "knee",
+            "redness",
+            "left",
+            "seeing"
+        ],
+        "sentiment": 0.0
+    },
+    {
+        "start_time": 550.28,
+        "end_time": 573.28,
+        "text": ". . . . . . . . . . . . . . . . . . . . . . .",
+        "topic_id": 31,
+        "summary": ". . . . . . . . . . . . . . . . . . . . . . .",
+        "keywords": [],
+        "sentiment": 0.0
+    },
+    {
+        "start_time": 573.28,
+        "end_time": 751.0,
+        "text": "..... a physical exam and just looking at the left knee, are you seeing any swelling or redness on the knee? Um, it appears slightly more swollen than my right knee. Okay, are you seeing any redness? No redness. Okay, and are there any temperature changes? Like, does the knee feel hot or warm? No. Okay, and if you press along the joint line, do you feel any pain? Um, yeah, it feels a little tender. Okay, and how about pain over any of the muscles like the thigh muscles or the ham strings or the calf muscles? No, those are fine. Okay. And then how about any pain over the patella or kneecap? Um, that's that's a little bit more painful. Okay, and are you able to bend your knee like like flex it and straighten it? I can do that. It's just painful when I do that. Okay. And then, how about walking, are you, are you, are you, are you, are you, are you, are you, are you, are you, are you, are you, are you, are you, are you, are you, are you, are you, are you, are you, are you, are you, are you, are you, are you, are you, are you, are you, are you, are you, are you, are you, are you, are you, are you, are you, are you, are you, are you, are you, are you, are you, are you, are you, are you, are you, are you, are you, are you, are you, are you, are you, are you, are you, are you, are you, are you, are you, are you, are you, are you, are you, are you, are you, are you, are you, are you, are you, are you, are you, are you, are you, are you, are you, are you, are you, are you, are you, are you, are you, are you, are you, are you, are you, are you, are you, are you, are you, are you, are you, are you, are you, are you, are you, are you, are you, are you, are you, are you, are you, are you, are you, are you, are you, are you, are you, are you, are you, are you, are you, are you, are you, are you, are you, are you, are you, are you, are you, are you, are you, are you, are you, are you, are you, are you, are you, are you, are you, are you, are you, are you, are you, are you, are you, are you, are you, are you, are you, are you, are you, are you, are you, are you, are you, are walking? Are you? Do you have an intelligent gate or or or a limp? No, no, I guess. I'm putting more weight on my right knee so it might appear to some people that I do have a slight limp. Okay, and any issues with moving your hip for your ankle? No. Okay. So I think that was everything I wanted to ask and check today. Did you have any questions? Yeah, so how do you how can I treat my knee? Yeah, certainly so it sounds like this could be most likely osteoarthritis of the left knee which is something that would be best treated with trying to stay as active as you can, but also pacing your activities as well so that you're not doing so much that the next day you're in significant amount of pain, but it's important to remember that activity will help with keeping your knee mobile, but also actually help with reducing pain as well. And then also, you could use Tylenol as a medication for it. What would it recommend? I'm your pro friend or NSAIDs on a long-term basis, although you could take those if you're having like an acute flare-up of your pain, and then also like topical agents such as like Voltaire and or something like that, you could put on your knee and if it's really bad and it keeps continuing on, we can consider something like a steroid injection as well.",
+        "topic_id": 32,
+        "summary": " A physical exam and just looking at the left knee, are you seeing any swelling or redness on the knee? Um, it appears slightly more swollen than my right knee . Are you? Do you have an intelligent gate or or or a limp? No, no, I guess.",
+        "keywords": [
+            "knee",
+            "patella",
+            "kneecap",
+            "swelling",
+            "thigh"
+        ],
+        "sentiment": 0.18028792912513839
+    },
+    {
+        "start_time": 751.0,
+        "end_time": 754.0,
+        "text": "Okay, yeah, that sounds good.",
+        "topic_id": 33,
+        "summary": "Okay, yeah, that sounds good.",
+        "keywords": [
+            "okay",
+            "yeah",
+            "good",
+            "sounds"
+        ],
+        "sentiment": 0.6
+    },
+    {
+        "start_time": 754.0,
+        "end_time": 755.0,
+        "text": "Thank you.",
+        "topic_id": 34,
+        "summary": "Thank you.",
+        "keywords": [
+            "thank"
+        ],
+        "sentiment": 0.0
+    },
+    {
+        "start_time": 755.0,
+        "end_time": 756.0,
+        "text": "All right, thank you.",
+        "topic_id": 35,
+        "summary": "All right, thank you.",
+        "keywords": [
+            "thank",
+            "right"
+        ],
+        "sentiment": 0.2857142857142857
+    }
+]

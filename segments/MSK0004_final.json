@@ -1,0 +1,310 @@
+[
+    {
+        "start_time": 0.0,
+        "end_time": 227.76,
+        "text": "brings in here today. Hi there, I've just last night, I was, I went for a run and I twisted my ankle, I think, I stepped on something and it really hurts. Okay, and so when did you have the injury? and it was just yesterday. Okay. Yeah, it was just yesterday. It happened. Okay. And do you remember if you twisted it? So you twisted your ankle, like, did it twist? Inwards or outwards? Inwards. Yeah. I feel like I inverted my ankle. Okay. And so since then, were you able to stand up and were you not able to bear any weight? No, I was able to kind of finish the, I just finished the lock. I was able to walk home because it didn't hurt that bad immediately. It was a bit painful, but the pain really started a few hours later and has been pretty much constant ever since. Okay, so it kind of got worse over time over the last day. Yeah. And do you notice any kind of bruising, redness, falling, any skin changes? No, I haven't really noticed really any swelling or skin changes. Yeah, no skin changes and no swelling. Okay. And how would you describe the pain? Is it like a dull aching pain or a sharp stabbing pain, dull and achy. Okay. And has this happened to you in your ankle before? I feel like I've done something like this when I was younger, maybe playing basketball or something like this when I was a kid. Yeah, I have to say by ankle before. Okay. And does this pain just stay in? Where's the pain exactly on the right side of your ankle or on your left, like, interior side? It's on the right, kind of outside of the ankle. And which ankle is this just to clarify? Oh, sorry the right ankle okay so onto it hurts on the right side of the right ankle yeah exactly okay um and uh does the pain radiate or move anywhere uh in your feet uh it can kind of feel it around on the the sole of my foot as well, but mostly on that outside though. Okay. And is there anything that makes the pain better or worse? It gets worse really if I move my ankle or if I'm standing on it. Okay. And anything that makes it better? Just if I rest and avoid moving it. Okay. Have you noticed any fevers or skills? No. Okay. Any pain in any other joins besides your ankle? No, just my, my right ankle.",
+        "topic_id": 1,
+        "summary": " I went for a run and I twisted my ankle, I think, I stepped on something and it really hurts. I feel like I inverted my ankle. I was able to walk home because it didn't hurt that bad immediately. It was a bit painful, but the pain really started",
+        "keywords": [
+            "ankle",
+            "swelling",
+            "injury",
+            "twisted",
+            "bruising"
+        ],
+        "sentiment": 0.1425547996976568
+    },
+    {
+        "start_time": 230.08,
+        "end_time": 232.32,
+        "text": "Okay, any appetite or weight changes?",
+        "topic_id": 2,
+        "summary": "Okay, any appetite or weight changes?",
+        "keywords": [
+            "appetite",
+            "weight",
+            "changes",
+            "okay"
+        ],
+        "sentiment": 0.5
+    },
+    {
+        "start_time": 237.6,
+        "end_time": 240.88,
+        "text": "No, I've been just training for this race coming up. So, I mean, I've been just trying to work on my fitness a little bit,",
+        "topic_id": 3,
+        "summary": "No, I've been just training for this race coming up. So, I mean, I've been just trying to work on my fitness a little bit,",
+        "keywords": [
+            "fitness",
+            "race",
+            "training",
+            "just",
+            "ve"
+        ],
+        "sentiment": -0.25
+    },
+    {
+        "start_time": 240.88,
+        "end_time": 244.32,
+        "text": "but my weight's been relatively stable.",
+        "topic_id": 4,
+        "summary": "but my weight's been relatively stable.",
+        "keywords": [
+            "stable",
+            "weight",
+            "relatively"
+        ],
+        "sentiment": 0.0
+    },
+    {
+        "start_time": 249.76,
+        "end_time": 259.04,
+        "text": "Okay. Any weakness in your right, right, right, right,ness or tingling sensation? No numbness or tingling and no",
+        "topic_id": 5,
+        "summary": "Okay. Any weakness in your right, right, right, right,ness or tingling sensation? No numbness or tingling and no",
+        "keywords": [
+            "numbness",
+            "tingling",
+            "weakness",
+            "sensation",
+            "ness"
+        ],
+        "sentiment": 0.3392857142857143
+    },
+    {
+        "start_time": 259.04,
+        "end_time": 309.28,
+        "text": "muscle weakness either. Okay, right. Have you diagnosed with any medical conditions in the past? I had diarrhea a few months ago, and I was given a fluoroquine alone as an antibiotic. Okay, so those two months ago, okay, and any medications that you're on currently? I take vitamin D and some other vitamins to vitamin A as well, I guess, to just help my skin and then the vitamin D for",
+        "topic_id": 6,
+        "summary": " Have you diagnosed with any medical conditions in the past? I had diarrhea a few months ago, and I was given a fluoroquine alone as an antibiotic . I take vitamin D and some other vitamins to vitamin A as well, I guess, to just help my skin .",
+        "keywords": [
+            "diarrhea",
+            "weakness",
+            "fluoroquine",
+            "vitamin",
+            "vitamins"
+        ],
+        "sentiment": 0.13452380952380952
+    },
+    {
+        "start_time": 309.28,
+        "end_time": 315.84,
+        "text": "right, my bones, okay. Any allergies to any medications or any environmental issues?",
+        "topic_id": 7,
+        "summary": "right, my bones, okay. Any allergies to any medications or any environmental issues?",
+        "keywords": [
+            "allergies",
+            "bones",
+            "medications",
+            "environmental",
+            "okay"
+        ],
+        "sentiment": 0.39285714285714285
+    },
+    {
+        "start_time": 318.24,
+        "end_time": 322.88,
+        "text": "No, I would just know. Any hospitalizations or previous surgeries?",
+        "topic_id": 8,
+        "summary": "No, I would just know. Any hospitalizations or previous surgeries?",
+        "keywords": [
+            "surgeries",
+            "hospitalizations",
+            "previous",
+            "know",
+            "just"
+        ],
+        "sentiment": -0.16666666666666666
+    },
+    {
+        "start_time": 323.92,
+        "end_time": 385.0,
+        "text": "No. Okay. Any family history of any musculoskeletal conditions, any rheumatological conditions, anything that you know? Uh, my grandparents have arthritis and my, uh, like my dad had, had got before. Okay. And do your grandparents have rheumatoid arthritis or osteoarthritis? Do you know? I think osteoarthritis. Okay. And do you currently work? I do, yeah. I work as a software engineer. Okay. And what's your living situation like currently? Right now, I'm actually just living alone in an apartment. Okay. And do you smoke at all? No, never. I can't with all this training for the race and stuff like that.",
+        "topic_id": 9,
+        "summary": " Do you smoke at all? No, never. I can't with all this training for the race and stuff like that . Do you have a family history of any musculoskeletal conditions? Do you know? I think osteoarthritis. No. Okay. And do",
+        "keywords": [
+            "arthritis",
+            "osteoarthritis",
+            "rheumatological",
+            "grandparents",
+            "rheumatoid"
+        ],
+        "sentiment": 0.2544642857142857
+    },
+    {
+        "start_time": 386.48,
+        "end_time": 387.8,
+        "text": "Okay, that's good.",
+        "topic_id": 10,
+        "summary": "Okay, that's good.",
+        "keywords": [
+            "okay",
+            "good"
+        ],
+        "sentiment": 0.6
+    },
+    {
+        "start_time": 387.8,
+        "end_time": 391.36,
+        "text": "Any recreational drugs like marijuana, cocaine, heroin,",
+        "topic_id": 11,
+        "summary": "Any recreational drugs like marijuana, cocaine, heroin,",
+        "keywords": [
+            "heroin",
+            "drugs",
+            "marijuana",
+            "cocaine",
+            "recreational"
+        ],
+        "sentiment": 0.0
+    },
+    {
+        "start_time": 391.36,
+        "end_time": 392.72,
+        "text": "and anything like that before?",
+        "topic_id": 12,
+        "summary": "and anything like that before?",
+        "keywords": [
+            "like"
+        ],
+        "sentiment": 0.0
+    },
+    {
+        "start_time": 393.8,
+        "end_time": 396.52,
+        "text": "No, I'm never used anything like that in the past.",
+        "topic_id": 13,
+        "summary": "No, I'm never used anything like that in the past.",
+        "keywords": [
+            "used",
+            "past",
+            "like"
+        ],
+        "sentiment": -0.25
+    },
+    {
+        "start_time": 396.52,
+        "end_time": 398.24,
+        "text": "Okay, and how about alcohol?",
+        "topic_id": 14,
+        "summary": "Okay, and how about alcohol?",
+        "keywords": [
+            "alcohol",
+            "okay"
+        ],
+        "sentiment": 0.5
+    },
+    {
+        "start_time": 399.64,
+        "end_time": 402.16,
+        "text": "Rarely, I'll have maybe an awesome wine",
+        "topic_id": 15,
+        "summary": "Rarely, I'll have maybe an awesome wine",
+        "keywords": [
+            "wine",
+            "rarely",
+            "awesome",
+            "maybe",
+            "ll"
+        ],
+        "sentiment": 0.65
+    },
+    {
+        "start_time": 402.16,
+        "end_time": 403.6,
+        "text": "like once every couple of months,",
+        "topic_id": 16,
+        "summary": "like once every couple of months,",
+        "keywords": [
+            "months",
+            "like",
+            "couple"
+        ],
+        "sentiment": 0.0
+    },
+    {
+        "start_time": 403.6,
+        "end_time": 530.0,
+        "text": "but it's pretty infrequent. Okay. All right, so I just have a few questions. So right now, or your right ankle, do you have, so you mentioned you don't have any swelling, but do you notice any kind of redness or warmth at all? No, I don't have to like that. Okay, if you press down in your angle, does it hurt a lot? I a little bit of pain on it, right, I like outside, but it's not, I mean, this is where it's that bad. So no, yeah, I'll say no. Okay, And if you kind of are you able to move your ankle at all? I can. Yeah. I can move it around a little bit. I'm trying to avoid that though. Just because it does hurt, but I can move it around. Okay. And are you able to stand up and lock or are you not able to do that right now? I can, yeah, I just short periods of time because it's just at the pain, but I can walk on it. Okay. Yeah, so definitely what we'll do is we might need to get like a proper physical examination done to make sure there's no fracture and most likely though it seems that this may just be an ankle sprain and due to you inverting your ankle the other day. But what we can do is usually we just immobilize the ankle and then recommend applying ice. You can take some and says like add both of the pain to help you and it should it should get better on its own with some physiotherapy later on as well.",
+        "topic_id": 17,
+        "summary": " I a little bit of pain on it, right, I like outside, but it's not, I mean, this is where it's that bad. So no, yeah, I'll say no. Okay, if you press down in your angle, does it hurt a lot?",
+        "keywords": [
+            "ankle",
+            "sprain",
+            "swelling",
+            "fracture",
+            "physiotherapy"
+        ],
+        "sentiment": 0.15845182980599645
+    },
+    {
+        "start_time": 530.0,
+        "end_time": 548.4,
+        "text": "However, if we find that on physical examination, you are having a significant pain on palpation or any kind of bony pain, we might also require you to get an x-ray of the right foot",
+        "topic_id": 18,
+        "summary": " If we find significant pain on palpation or any kind of bony pain, we might also require you to get an x-ray of the right foot . However, if we find that on physical examination, you are having a significant pain .",
+        "keywords": [
+            "pain",
+            "palpation",
+            "foot",
+            "bony",
+            "examination"
+        ],
+        "sentiment": 0.3151785714285714
+    },
+    {
+        "start_time": 548.4,
+        "end_time": 556.4,
+        "text": "and ankle, as well as just your lower leg. So yeah, we'll have you come and come in and",
+        "topic_id": 19,
+        "summary": "and ankle, as well as just your lower leg. So yeah, we'll have you come and come in and",
+        "keywords": [
+            "ankle",
+            "leg",
+            "come",
+            "lower",
+            "just"
+        ],
+        "sentiment": 0.0
+    },
+    {
+        "start_time": 556.4,
+        "end_time": 561.0,
+        "text": "person and then go from there and see if you need an x-ray.",
+        "topic_id": 20,
+        "summary": "person and then go from there and see if you need an x-ray.",
+        "keywords": [
+            "ray",
+            "person",
+            "need"
+        ],
+        "sentiment": 0.0
+    },
+    {
+        "start_time": 561.0,
+        "end_time": 564.0,
+        "text": "Okay, that sounds good. Thank you.",
+        "topic_id": 21,
+        "summary": "Okay, that sounds good. Thank you.",
+        "keywords": [
+            "okay",
+            "sounds",
+            "thank",
+            "good"
+        ],
+        "sentiment": 0.6
+    },
+    {
+        "start_time": 564.0,
+        "end_time": 567.0,
+        "text": "All right, take care. Bye.",
+        "topic_id": 22,
+        "summary": "All right, take care. Bye.",
+        "keywords": [
+            "bye",
+            "care",
+            "right"
+        ],
+        "sentiment": 0.2857142857142857
+    }
+]

@@ -1,0 +1,541 @@
+[
+    {
+        "start_time": 0.0,
+        "end_time": 28.8,
+        "text": "what brings you in. Hi, yesterday, I was grocery shopping and just in the parking lot, somebody bumped into my car and this morning I woke up and my neck is just really painful. It hurt yesterday a little bit, but it was so mild I didn't think much of it but today it's quite",
+        "topic_id": 1,
+        "summary": " Yesterday, somebody bumped into my car in the parking lot, and this morning I woke up and my neck is just really painful . It hurt yesterday a little bit, but it was so mild I didn't think much of it but today it's quite painful .",
+        "keywords": [
+            "neck",
+            "painful",
+            "hurt",
+            "mild",
+            "morning"
+        ],
+        "sentiment": -0.08854166666666667
+    },
+    {
+        "start_time": 28.8,
+        "end_time": 41.2,
+        "text": "a bit worse. Okay so can you tell me how this accident happened were you sitting in the passenger seat and the driver's seat and was the impact from like behind at the back of your car or at",
+        "topic_id": 2,
+        "summary": " The accident happened at the back of a car in the passenger seat and the driver's seat . It happened in the back seat of the car . The driver and passenger were involved in the accident .",
+        "keywords": [
+            "accident",
+            "impact",
+            "passenger",
+            "seat",
+            "happened"
+        ],
+        "sentiment": -0.07500000000000001
+    },
+    {
+        "start_time": 41.2,
+        "end_time": 267.0,
+        "text": "the front? It was at the back so I was the driver and was just going over at a speed bump Buh-ah-ah-ah-ah-ah-ah- must not have been, they bumped into me. There's just some scratches on the bumper. They didn't hit too hard, but I guess maybe hard enough. Okay, and did the neck pain start immediately after? No, it's like not immediately. Yeah, I think it started a bit later on and then we're a bit of it today. Okay. Um, all right. And is there pain anywhere else on your body? Uh, like my, no, just really my neck. Okay. Okay. And does anything feel broken? Are there bruises anywhere any obvious signs of trauma? No, I can't. I didn't notice anything like that. And I can move my neck around. so I don't think anything is broken. Okay. Just for it's a lot. All right, and is the pain constantly there? What does the come and go? It kind of comes and goes. It's worse worse with movement if I just kind of sits still I don't notice much pain, but if I'm bettering my head forward or Mostly backwards, so I'll get I'll get pain Okay, and you said this happened yesterday, right? Yeah, yeah, this happened yesterday afternoon. Okay. And does anything make this better like have you tried ice, any topicals, any positions that that helps with the pain? I did try some like an admiral last night, but I think when the pain was coming on and it must have helped me sleep, I guess, but I haven't tried any ice or anything like that. Just mostly, I guess, resting. Okay, so you said the pain is at the back of the neck. Does it radiate anywhere up into your head or down into your shoulders or a little or upper back Maybe a little bit to the upper back like when the like Trap trapezius muscle area for the trap Like it if I push on those muscles around that area I do do get a little bit of tenderness. Okay, and if you were to describe the quality of this pain, would you say sharp dull, achy, throbbing, and how would you describe it? I would say it's sharp, yeah, especially if I do any movements, like it'll, feels like, I mean, it's stabbed in the neck. Okay. All right, and have you ever had a pain like this in the past? No, this is the first time. Okay, and do you feel like it's getting worse the pain since it started yesterday?",
+        "topic_id": 3,
+        "summary": " There's just some scratches on the bumper of the car and I don't think anything is broken . I would say it's sharp, yeah, especially if I do any movements, like it'll, feels like, it's stabbed in the neck. It's worse worse with movement if",
+        "keywords": [
+            "neck",
+            "pain",
+            "scratches",
+            "tenderness",
+            "trauma"
+        ],
+        "sentiment": 0.10955493308434483
+    },
+    {
+        "start_time": 267.0,
+        "end_time": 280.0,
+        "text": "Yeah, I could be not at first I didn't even have any pain at all. Maybe we're just the adrenaline pump in or whatever, but now I can notice the pain.",
+        "topic_id": 4,
+        "summary": " \"I could be not at first I didn't even have any pain at all. Maybe we're just the adrenaline pump in or whatever, but now I can notice the pain,\" he says .",
+        "keywords": [
+            "pain",
+            "adrenaline",
+            "maybe",
+            "yeah",
+            "just"
+        ],
+        "sentiment": 0.25
+    },
+    {
+        "start_time": 280.0,
+        "end_time": 282.0,
+        "text": "Okay.",
+        "topic_id": 5,
+        "summary": "Okay.",
+        "keywords": [
+            "okay"
+        ],
+        "sentiment": 0.5
+    },
+    {
+        "start_time": 282.0,
+        "end_time": 286.16,
+        "text": "Okay, and I want to tend to be the worst thing you've ever felt, how bad is this pain? It would be. Thank you very much for watching this video, and I'll see you in the next video, and I'll see you in the next video, and I'll see you in the next video, and I'll see you in the next video, and I'll see you in the next video, and I'll see you in the next video, and I'll see you in the next video, and I'll see you in the next video, and I'll see you in the next video, and I'll see you in the next video, and I'll see you in the next video, and I'll see you in the next video, and I'll see you in the next video, and I'll see you in the next video, and I'll see you in the next video, and I'll see you in the next video, and I'll see you in the next video, and I'll see you in the next video, and I'll see you in the next video, and I'll see you in the next video, and I'll see you in the next video, and I'll see you in the next video, and I'll see you in the next video, and I'll see you in the next video, and I'll see you in the next video, and I'll see you in the next video, and I'll see you in the next video, and I'll see you in the next video, and I'll see you in the next video, and I'll see you in the next video, and I'll see you in the next video, and I'll see you in the next video, and I'll see you in the next video, and I'll see you in the next video, and I'll see you in the next video, and I'll see you in the next video, and I'll see you in the next video, and I'll see you in the next video, and I'll see you in the next video, and I'll see you in the next video, and I'll see you in the next video, and I'll see you in the next video, and I'll see you in the next video, and I want to tend to be the risk to you've ever felt how bad is this pain",
+        "topic_id": 6,
+        "summary": " I want to tend to be the worst thing you've ever felt, how bad is this pain? It would be. Thank you very much for watching this video .",
+        "keywords": [
+            "pain",
+            "video",
+            "felt",
+            "worst",
+            "tend"
+        ],
+        "sentiment": -0.03416666666666666
+    },
+    {
+        "start_time": 287.44,
+        "end_time": 289.44,
+        "text": "It would be",
+        "topic_id": 7,
+        "summary": "It would be",
+        "keywords": [],
+        "sentiment": 0.0
+    },
+    {
+        "start_time": 291.52,
+        "end_time": 293.92,
+        "text": "I would say probably a six or a seven",
+        "topic_id": 8,
+        "summary": "I would say probably a six or a seven",
+        "keywords": [
+            "seven",
+            "probably",
+            "say"
+        ],
+        "sentiment": 0.0
+    },
+    {
+        "start_time": 295.92,
+        "end_time": 298.96,
+        "text": "Okay, okay, and",
+        "topic_id": 9,
+        "summary": "Okay, okay, and",
+        "keywords": [
+            "okay"
+        ],
+        "sentiment": 0.5
+    },
+    {
+        "start_time": 300.96,
+        "end_time": 303.2,
+        "text": "Have you had any tingling or numbness?",
+        "topic_id": 10,
+        "summary": "Have you had any tingling or numbness?",
+        "keywords": [
+            "numbness",
+            "tingling"
+        ],
+        "sentiment": 0.0
+    },
+    {
+        "start_time": 449.24,
+        "end_time": 446.0,
+        "text": "No, I haven't had anything like that. Okay, a dizziness or fainting cells. No. Confusion or memory loss? No. Any headaches? Um, I don't know. No, okay. Um, and and is this affecting your sleep at all no well I guess the last thing it was a little bit more difficult because I was just I slept on I just on my back so that I wasn't moving around as much, so that was a little bit awkward but I was able to sleep though. I know you said you have some pain with certain movements, but do you find it's hard to move your neck at all? It feels a bit stiff, but like I'm to move it, but yeah, it feels stiff. Okay. Any issues with vision like is it blurry? No. No. How about ringing in your ears? No. No. Okay. Any kind of, sorry, yes, that. Any issues concentrating on tasks? Yeah, this morning, I guess it's been a little bit more difficult to focus on things, but maybe I was just worried,, worried, like focusing on the, the pain in my neck. Yeah, for sure. Um, any favors or tools? No. Um, any changes in your weight? Um, no, my weight's been been the same. Um, any changes to your hearing no that's been been normal uh smell or taste that's been normal um chest pain or part palpitations no nothing like that okay no cough shirt and it's a rat shirt and it's a the bathroom using? No, none of that. Okay. Have cough, shortness or breath, shortness or breath or reusing.",
+        "topic_id": 11,
+        "summary": " No dizziness or fainting cells. Confusion or memory loss? No . Confusion, memory loss or headaches? No. No, I haven't had anything like that. Have cough, shortness or breath or reusing? No, no, any changes in your hearing",
+        "keywords": [
+            "dizziness",
+            "headaches",
+            "slept",
+            "fainting",
+            "neck"
+        ],
+        "sentiment": 0.05112670068027211
+    },
+    {
+        "start_time": 446.0,
+        "end_time": 447.0,
+        "text": "Nope.",
+        "topic_id": 12,
+        "summary": "Nope.",
+        "keywords": [
+            "nope"
+        ],
+        "sentiment": 0.0
+    },
+    {
+        "start_time": 447.0,
+        "end_time": 448.0,
+        "text": "None of that.",
+        "topic_id": 13,
+        "summary": "None of that.",
+        "keywords": [],
+        "sentiment": 0.0
+    },
+    {
+        "start_time": 448.0,
+        "end_time": 449.0,
+        "text": "Okay.",
+        "topic_id": 14,
+        "summary": "Okay.",
+        "keywords": [
+            "okay"
+        ],
+        "sentiment": 0.5
+    },
+    {
+        "start_time": 449.0,
+        "end_time": 452.0,
+        "text": "Have what issues with your bowel movements?",
+        "topic_id": 15,
+        "summary": "Have what issues with your bowel movements?",
+        "keywords": [
+            "bowel",
+            "movements",
+            "issues"
+        ],
+        "sentiment": 0.0
+    },
+    {
+        "start_time": 452.0,
+        "end_time": 453.0,
+        "text": "No.",
+        "topic_id": 16,
+        "summary": "No.",
+        "keywords": [],
+        "sentiment": 0.0
+    },
+    {
+        "start_time": 453.0,
+        "end_time": 455.0,
+        "text": "I haven't had any diarrhea or any, yeah.",
+        "topic_id": 17,
+        "summary": "I haven't had any diarrhea or any, yeah.",
+        "keywords": [
+            "diarrhea",
+            "haven",
+            "yeah"
+        ],
+        "sentiment": 0.0
+    },
+    {
+        "start_time": 455.0,
+        "end_time": 456.0,
+        "text": "Any, any constipation.",
+        "topic_id": 18,
+        "summary": "Any, any constipation.",
+        "keywords": [
+            "constipation"
+        ],
+        "sentiment": 0.0
+    },
+    {
+        "start_time": 456.0,
+        "end_time": 457.0,
+        "text": "Nothing like that.",
+        "topic_id": 19,
+        "summary": "Nothing like that.",
+        "keywords": [
+            "like"
+        ],
+        "sentiment": 0.0
+    },
+    {
+        "start_time": 457.0,
+        "end_time": 458.0,
+        "text": "Okay.",
+        "topic_id": 20,
+        "summary": "Okay.",
+        "keywords": [
+            "okay"
+        ],
+        "sentiment": 0.5
+    },
+    {
+        "start_time": 458.0,
+        "end_time": 463.0,
+        "text": "Any, um, nausea or vomit? Uh, no nausea or vomiting.",
+        "topic_id": 21,
+        "summary": "Any, um, nausea or vomit? Uh, no nausea or vomiting.",
+        "keywords": [
+            "nausea",
+            "vomiting",
+            "vomit",
+            "um",
+            "uh"
+        ],
+        "sentiment": 0.0
+    },
+    {
+        "start_time": 463.0,
+        "end_time": 605.0,
+        "text": "Um, change in your appetite. And no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no,'m changing your appetite. And no, my appetite's been good. Okay. Have we changed us in the urine? No. I haven't had any changes to ready urinary symptoms at all. Okay. That's good. And are you otherwise healthy? Do you have any one standing medical conditions? No, I am otherwise healthy. I just take birth control and a multi-bite event, but that's it. So no medical conditions. Okay, all right, that's good. And do have you had any hospitalizations or surgeries in the past? No, I haven't. No, okay. Um, I have about medications. Are you on any? Uh, just the, um, the birth control that I I'm taking I've been taking that for about five years now five years, okay Any side effects or any issues with that? No, it's been good day I've been really happy with it overall to they help regulate my cycles Okay, okay good. And then are you up to date with your immunizations? I am, yes, I'll get the flu shot every year. Okay, that's good. Do you have any allergies? I do, yeah, but it's I think they're just all environmental because I'll typically get issues with seasonal changes and then Then it goes away. Oh, I see. Okay. I'm any family history of one or heart conditions I think my dad has high blood pressure and diabetes and but no heart or or long conditions. Okay, I'm having a musculoskeletal issues. I think maybe I'll see our arthritis and my grandpa grandparents, but So... Okay. But yeah. Um...",
+        "topic_id": 22,
+        "summary": " Have we changed us in the urine? No. I haven't had any changes to ready urinary symptoms at all . Are you otherwise healthy? Do you have any one standing medical conditions? No, I am otherwise healthy. I just take birth control and a multi-bite event, but",
+        "keywords": [
+            "appetite",
+            "taking",
+            "medications",
+            "bite",
+            "happy"
+        ],
+        "sentiment": 0.37686371100164195
+    },
+    {
+        "start_time": 605.0,
+        "end_time": 645.44,
+        "text": "How about um... autoimmune conditions? No, nothing like that. No, okay. How about cancers? No cancers. Okay. And then do you smoke? No, I, I don't. No. Yeah, I've never smoked before. Okay. How about, um, marijuana? Do you consume that in any form? No, I don't. Okay. Um, and then, then do drink alcohol?",
+        "topic_id": 23,
+        "summary": " How about autoimmune conditions? No, nothing like that. How about cancers? No cancers . How about marijuana? Do you consume that in any form? \"No, I don't. I've never smoked before\"",
+        "keywords": [
+            "marijuana",
+            "alcohol",
+            "smoked",
+            "smoke",
+            "drink"
+        ],
+        "sentiment": 0.3125
+    },
+    {
+        "start_time": 665.0,
+        "end_time": 731.92,
+        "text": "Um, everyone's in a while. I'll have a glass of wine, but uh, usually the social thing or we're at Christmas. Okay. Um, have out, um, in terms of sick contacts, have you had any recently? I don't believe so. I've been going to work as a bank teller, but everybody at work hasn't been sick and we've been using masks and cleaning our hands and all of that sort of thing. Okay, okay, that's good. And how about travel have you had any recently? No, we've been fit at home. Been looking forward to a vacation, though. Yeah, for sure. And then where do you work and who do you live with and where do you live? Yeah, so I work on a bank and I live with my husband and I'm in our son. He's six. Okay, okay. Okay. Those are all the questions I have history. We can move on to the physical",
+        "topic_id": 24,
+        "summary": " In terms of sick contacts, have you had any recently? \"I don't believe so. I've been going to work as a bank teller, but everybody at work hasn't been sick\"",
+        "keywords": [
+            "vacation",
+            "travel",
+            "christmas",
+            "cleaning",
+            "wine"
+        ],
+        "sentiment": 0.17704488493962178
+    },
+    {
+        "start_time": 731.92,
+        "end_time": 741.16,
+        "text": "exam, part of this interview. Did you have any questions before we did that? No, no, that sounds",
+        "topic_id": 25,
+        "summary": "exam, part of this interview. Did you have any questions before we did that? No, no, that sounds",
+        "keywords": [
+            "interview",
+            "exam",
+            "questions",
+            "did",
+            "sounds"
+        ],
+        "sentiment": 0.0
+    },
+    {
+        "start_time": 741.16,
+        "end_time": 786.24,
+        "text": "good. Okay. So if you have someone there with you or if you have a mirror or if there's Thank you very much for watching this video and I'll see you in the next video front of your neck, do you see any redness or swelling in that area? No, I don't. No, okay. Do you see any muscle activity, any deformities or skin changes? No, nothing like that. Okay. And then when you kind of just with the back of your hand, place it on your neck and the front as well as the back.",
+        "topic_id": 26,
+        "summary": " Front of your neck, do you see any redness or swelling in that area? No, I don't. No, okay. Do you see no muscle activity, any deformities or skin changes? Nothing like that. Okay. good.",
+        "keywords": [
+            "neck",
+            "swelling",
+            "redness",
+            "video",
+            "mirror"
+        ],
+        "sentiment": 0.25666666666666665
+    },
+    {
+        "start_time": 786.24,
+        "end_time": 806.88,
+        "text": "Does it feel warm at all? No. No, okay. And then I'm going to get you to palpate certain areas. So we'll start with the chin. Does that hurt when you press down? No. No, okay. How about just where the thyroid would be?",
+        "topic_id": 27,
+        "summary": " The doctor asks you to palpate certain areas, such as the chin and the thyroid . Does it feel warm? No. No, okay. How about just where the thyroid would be? And then I'm going to get you to .",
+        "keywords": [
+            "warm",
+            "thyroid",
+            "chin",
+            "feel",
+            "hurt"
+        ],
+        "sentiment": 0.031746031746031744
+    },
+    {
+        "start_time": 806.88,
+        "end_time": 828.96,
+        "text": "No, no pain. Yeah, no pain there. Okay, Marrikay, have a look to the size kind of where you're on a sternoclato mastoid muscles are. Yeah, I think like a little bit of tenderness in the front of the neck muscles there.",
+        "topic_id": 28,
+        "summary": " Marrikay: \"No pain there. No, no pain. No pain there\"",
+        "keywords": [
+            "mastoid",
+            "tenderness",
+            "pain",
+            "neck",
+            "sternoclato"
+        ],
+        "sentiment": 0.3041666666666667
+    },
+    {
+        "start_time": 828.96,
+        "end_time": 829.96,
+        "text": "Okay.",
+        "topic_id": 29,
+        "summary": "Okay.",
+        "keywords": [
+            "okay"
+        ],
+        "sentiment": 0.5
+    },
+    {
+        "start_time": 829.96,
+        "end_time": 841.32,
+        "text": "And then have out when you've towards the back and then on your C spine, cervical spine, just like at the very back of your neck.",
+        "topic_id": 30,
+        "summary": "And then have out when you've towards the back and then on your C spine, cervical spine, just like at the very back of your neck.",
+        "keywords": [
+            "cervical",
+            "spine",
+            "neck",
+            "like",
+            "ve"
+        ],
+        "sentiment": 0.0
+    },
+    {
+        "start_time": 841.32,
+        "end_time": 842.32,
+        "text": "Yeah.",
+        "topic_id": 31,
+        "summary": "Yeah.",
+        "keywords": [
+            "yeah"
+        ],
+        "sentiment": 0.0
+    },
+    {
+        "start_time": 842.32,
+        "end_time": 850.52,
+        "text": "So there's no pain when I push on the bones, I can feel like so actually on that..",
+        "topic_id": 32,
+        "summary": "So there's no pain when I push on the bones, I can feel like so actually on that..",
+        "keywords": [
+            "bones",
+            "pain",
+            "feel",
+            "push",
+            "like"
+        ],
+        "sentiment": 0.0
+    },
+    {
+        "start_time": 850.52,
+        "end_time": 873.52,
+        "text": ". . . . . . . . . . . . . . . . . . . . . . .",
+        "topic_id": 33,
+        "summary": ". . . . . . . . . . . . . . . . . . . . . . .",
+        "keywords": [],
+        "sentiment": 0.0
+    },
+    {
+        "start_time": 873.52,
+        "end_time": 866.88,
+        "text": "..... Yeah, so there's no paint when I push on the like bones, I could feel like so actually on that, the, like sea spine itself, there's no paint, but like off to the sides, so on the muscles, to the sides, there's a bit of tenderness. Okay, so kind of like, um, where, so there's paint on the trapezius and deltoid muscles?",
+        "topic_id": 34,
+        "summary": " There is no paint when I push on the like bones, I could feel like so actually on that, the, like sea spine itself, there's no paint, but like off to the sides, so on the . sides, there is a bit of tenderness .",
+        "keywords": [
+            "tenderness",
+            "bones",
+            "spine",
+            "muscles",
+            "paint"
+        ],
+        "sentiment": 0.3666666666666667
+    },
+    {
+        "start_time": 873.36,
+        "end_time": 878.16,
+        "text": "Yeah, more trapezius not so much deltoid and then also",
+        "topic_id": 35,
+        "summary": "Yeah, more trapezius not so much deltoid and then also",
+        "keywords": [
+            "trapezius",
+            "deltoid",
+            "yeah"
+        ],
+        "sentiment": 0.35
+    },
+    {
+        "start_time": 881.68,
+        "end_time": 1089.04,
+        "text": "like the the perisfinal muscles. Okay, I see. All right. Okay, and then let's some move on to some range of motion exam. So I'm going to get you to flex your next so look down at the ground all the way as much as you can does that hurt It does yeah Okay, but you're able to fully flex your neck. Yeah, I could touch my Chin to my chest almost But yeah, I'll get paid the back of my neck when I do that and the front and the front Okay, and then how about when you extend your head all the way back so that you're looking at the ceiling? I'm able to do it still. It's a bit stiff and it's slow to get there, but again, I get paid at the back and the front of my neck when I'm doing this. Okay. Okay. How about when you flex your neck to the side so that your right ear is touching your right shoulder? Um, yeah, there's a little bit of, uh, prepared in the muscles on the left side when I'm doing that that. Okay, and then how about when you do the opposite touch, your left ear to your left shoulders, so that your lateral reflex and your neck on the left side. A little bit of paint there too, but I'm able to do it though. Okay, so you're able to do all of these issues just that you have some pain when you do that. Yeah, exactly. I could do all of the movements, but yeah, pain and stiffness. Okay, okay. Those were all the questions that I had for you. Did you have any questions of your own? I know that I just was wondering if I if you think I I'm I don't need it an x-ray or like you think that I think is broken. It's like it's kind of like concerned about today. Yeah, for sure. And so right now, just to me, it sounds like a whiplash injury, so kind of like low impact. But just to be certain, we can order an x-ray to rule out any fractures or dislocations. And in terms of the management plan, And for pain management, you can rest, you can either apply heat or cold packs to your neck for 15 minutes, every couple of hours or so. You can try some over the counter, pain medications, I can't be profan or Tylenol. And if it still doesn't get better we can try like we can try injections to the area to release some of that pain but something else in conjunction we can try some physiotherapy and they'll basically help you with a range of motion exercises and try to strengthen the muscles in that area and",
+        "topic_id": 36,
+        "summary": " It sounds like a whiplash injury, so kind of like low impact, so low impact. But just to be certain, we can order an x-ray to rule out any fractures or dislocations. If it still doesn't get better we can try injections to the area",
+        "keywords": [
+            "exercises",
+            "shoulders",
+            "neck",
+            "muscles",
+            "shoulder"
+        ],
+        "sentiment": 0.2286886724386724
+    },
+    {
+        "start_time": 1089.04,
+        "end_time": 1099.68,
+        "text": "to improve your posture and normal movement. That's kind of where we can start for now and",
+        "topic_id": 37,
+        "summary": "to improve your posture and normal movement. That's kind of where we can start for now and",
+        "keywords": [
+            "posture",
+            "movement",
+            "improve",
+            "start",
+            "normal"
+        ],
+        "sentiment": 0.375
+    },
+    {
+        "start_time": 1099.68,
+        "end_time": 1106.4,
+        "text": "if it doesn't get any better we can talk about alternative management plans, does that",
+        "topic_id": 38,
+        "summary": "if it doesn't get any better we can talk about alternative management plans, does that",
+        "keywords": [
+            "management",
+            "plans",
+            "alternative",
+            "better",
+            "talk"
+        ],
+        "sentiment": 0.5
+    },
+    {
+        "start_time": 1106.4,
+        "end_time": 1108.64,
+        "text": "sound okay?",
+        "topic_id": 39,
+        "summary": "sound okay?",
+        "keywords": [
+            "okay",
+            "sound"
+        ],
+        "sentiment": 0.45
+    },
+    {
+        "start_time": 1108.64,
+        "end_time": 1111.36,
+        "text": "It does, yeah, that makes sense, thank you.",
+        "topic_id": 40,
+        "summary": "It does, yeah, that makes sense, thank you.",
+        "keywords": [
+            "does",
+            "sense",
+            "thank",
+            "makes",
+            "yeah"
+        ],
+        "sentiment": 0.0
+    },
+    {
+        "start_time": 1111.36,
+        "end_time": 1112.48,
+        "text": "Okay, yeah, no worries.",
+        "topic_id": 41,
+        "summary": "Okay, yeah, no worries.",
+        "keywords": [
+            "worries",
+            "okay",
+            "yeah"
+        ],
+        "sentiment": 0.5
+    }
+]

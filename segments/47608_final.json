@@ -1,0 +1,13 @@
+[
+    {
+        "start_time": 0.0,
+        "end_time": 1.0,
+        "text": "Which is Coke.",
+        "topic_id": 1,
+        "summary": "Which is Coke.",
+        "keywords": [
+            "coke"
+        ],
+        "sentiment": 0.0
+    }
+]

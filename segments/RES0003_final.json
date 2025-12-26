@@ -1,0 +1,143 @@
+[
+    {
+        "start_time": 0.0,
+        "end_time": 206.24,
+        "text": "nice to meet you. What's your name? It's nice to meet you as well. My name is Jim and I'm here with my son Joey here who he's had a sore throat now for the last couple of days. Okay. How old is he? Joey? Sorry. He is three years old. He's three years old. Okay. And he said for the past couple of days, about two, three days? Yeah, probably. Yeah, about three days ago. He didn't go to school for the last two days, because I mean, daycare, I should say, because the pain was bugging. I'm so bad. OK. Yeah, so how long has he been going to daycare for? He started this year. So he's been going for about six months. OK. Is he having issues swallowing food? Does it hurt when he swallows food? Yeah, he's definitely the last couple of days. He hasn't been eating as much solid food. He's drinking cold liquids. Okay, but yeah,, hasn't been eating as much. Okay, he says it's hard to say, he does say it hurts to swallow as well. Okay, and does he ever clutch to his neck? Like his neck hurts? No, he hasn't said anything like that. I mean nothing about his neck. Okay, have you taken his temperature at all? Yeah, we did, and it's pretty high, actually. It was like 39.4. Okay, wow, yeah, that's pretty high. Have you noticed any swollen areas on a snack? No, I haven't noticed anything on a snack. Okay, any rushes that you've noticed? No rushes. No, okay, and Has he been having chills or night sweats? That's nothing like There we've noticed, no shaking or or sweaty bed. Okay, and have a like that stuff you know or runny nose? No, nothing like that. Okay, and coughing? No cough? No. And have a, um any body aches? No, it's mostly just been his throat that he's complaining about. Okay. How about headaches? Yes, I'd mention anything with his head. Okay. And has he been around anyone who's been sick? Maybe at his daycare? I mean, his sister has had some colds. She's also in his daycare. So, I mean, maybe her? Okay, how old is she?",
+        "topic_id": 1,
+        "summary": " Jim says his son Joey has a sore throat for the last couple of days . He hasn't been eating as much solid food and drinking cold liquids . Has he been around anyone who's been sick? No, it's mostly just been his throat that he's complaining about .",
+        "keywords": [
+            "throat",
+            "swallowing",
+            "swallow",
+            "coughing",
+            "swollen"
+        ],
+        "sentiment": 0.13142328042328044
+    },
+    {
+        "start_time": 207.92,
+        "end_time": 211.48,
+        "text": "She's two. She's two. Okay, so she's younger.",
+        "topic_id": 2,
+        "summary": "She's two. She's two. Okay, so she's younger.",
+        "keywords": [
+            "younger",
+            "okay"
+        ],
+        "sentiment": 0.25
+    },
+    {
+        "start_time": 212.48,
+        "end_time": 213.64,
+        "text": "Yeah.",
+        "topic_id": 3,
+        "summary": "Yeah.",
+        "keywords": [
+            "yeah"
+        ],
+        "sentiment": 0.0
+    },
+    {
+        "start_time": 213.64,
+        "end_time": 219.92,
+        "text": "Okay, any, uh, nausea or vomiting? Um, no vomiting.",
+        "topic_id": 4,
+        "summary": "Okay, any, uh, nausea or vomiting? Um, no vomiting.",
+        "keywords": [
+            "vomiting",
+            "nausea",
+            "okay",
+            "um",
+            "uh"
+        ],
+        "sentiment": 0.5
+    },
+    {
+        "start_time": 220.92,
+        "end_time": 271.28,
+        "text": "Okay, have a about, um, diarrhea, constipation. Have you noticed anything like that? His valve movements have been normal. Have you urinating as abnormal? His usual amount is as far as I know. Okay. Um. Okay. Any issues with his eyes, any, like, puss or bleeding or redness? No, his eyes have, have looked normal to me. Okay. Have one his ears? Those have also been normal. Okay. Any source on his mouth or inside? No, it does kind of look like they're,",
+        "topic_id": 5,
+        "summary": " Have you noticed anything like that? His valve movements have been normal. His usual amount is as far as I know. Have you urinating as abnormal? Have you seen anything abnormal? No, his eyes have looked normal to me .",
+        "keywords": [
+            "constipation",
+            "diarrhea",
+            "abnormal",
+            "redness",
+            "normal"
+        ],
+        "sentiment": 0.3090909090909091
+    },
+    {
+        "start_time": 272.56,
+        "end_time": 279.44,
+        "text": "like it's pretty red and the back of his throat when I was able to look, but yeah.",
+        "topic_id": 6,
+        "summary": "like it's pretty red and the back of his throat when I was able to look, but yeah.",
+        "keywords": [
+            "red",
+            "throat",
+            "like",
+            "pretty",
+            "look"
+        ],
+        "sentiment": 0.1875
+    },
+    {
+        "start_time": 280.32,
+        "end_time": 646.08,
+        "text": "Okay, and has he ever experienced any of these symptoms before? And he said sort of, you know, he said sort of, you know, he said sort of, you know, he said sort of, you know, he said sort of, you know, he said sort of, you know, he said sort of, you know, he said sort of, you know, he said sort of, you know, he said sort of, you know, he said sort of, you know, he said sort of, you know, he said sort of, you know, he said sort of, you know, he said sort of, you know, he said sort of, you know, he said sort of, you know, he said sort of, you know, he said sort of, you know, he said sort of, you know, he said sort of, you know, he said sort of, you know, he said sort of, you know, he said sort of, you know, he said sort of, you know, he said sort of, you know, he said sort of, you know, he said sort of, you know, he said sort of, you know, he said sort of, you know, he said sort of, you know, he said sort of, you know, he said sort of, you know, he said sort of, you know, he said sort of, you know, you know, he said sort of, you know, he said sort of, you know, you know, he said sort of, you know, you know, you know, you know, you know, you know, you know, you know, you know, you know, you know, you know, you know, you know, you know, you know, you know, you know, you know, you know, you know, you know, you know, you know, you know, you know, you know, you know, you know, you know, you know, you know, you know, you know, you know, you know, you know, you know, you know, you know, you know, you know before? Um, he said sore throat before, but I think this one is a bit more severe. He hasn't complained this bad before. Okay, okay. Um, has he tried anything for it? Have you given him any over the counter medications? Yeah, we did use some Tylenol and it brought the fever down. So, I was part of the reason why we didn't come in because he sat sore throat before, but the fever bounced back and the pain seems to have continued so we came in and does the otherwise healthy does he have any medical conditions? Yeah, he's otherwise healthy, no medical conditions, has it had a reason to see a doctor before? No, okay. And then just how was your pregnancy with him? Was it normal? Any complications? Yeah, so I'm just a national diabetes, but it was treated with diet and blood sugars have been fine now, but no complications to the pregnancy from that regard as far as I know. Okay. Any alcohol or recreational drugs used during the pregnancy? No, nothing like that. No smoking either. Okay, okay good. And how far along were you when you delivered him? It was a vaginal delivery just after 38 weeks. Okay, so he was full term. And you said vaginal delivery. Did they have induce you at all? No. No. Okay. And was he a normal birth weight? Yeah, he was. Yeah, I think he was just over three kilograms. Okay, good. And was he healthy after birth? Did he have any breathing issues, jaundice, anything like that? No breathing issues or or or jaundice, he came home with us right away. Okay, okay. And then after that point to now has he been normal in terms of this, uh, weight, height, or comfort? Yeah, yeah, he's been growing normally and, um, uh, eating well, um, up to this point. Okay, and I should ask, um, has he been hitting all his milestones? Like, is he doing the things that his peers are doing? Yeah, I would say he's keeping up with his peers in daycare and no concerns with his development. Okay, good. Is he on any medications? No medications. No, okay. And is he up to date with all his immunizations he is yes okay and any allergies got that we're aware of okay any family history of lung conditions no family history of I history but family lung conditions. Okay, and so who does he love with at home? So he goes with myself and his father and then sister. So there's just the four of us at home. Okay. And what's the relationship like between all of you any domestic issues or things okay? Oh, things are great at home. It's a really really supportive environment. Okay. Good. Does anyone smoke at home? No. No. Okay. Any carpets at home? Old carpets? Um, I think there's a few area rugs around, but most of the carpets are gone. Okay. Okay. Um, all right. So it sounds like, um, from what you're telling me, he, oh, sorry. I should have asked you this earlier. Has he had any issues breathing? I'm no problems breathing, but his voice does sound a bit, a little bit off, a bit husky. A bit husky, okay. And nothing like a seizure, like a federal seizure, right? No, I haven't seen any like limb jerking or anything like that. Okay. So just roughly doing from the sense of it that sounds like he has a certain throat that's been persistent. And we do this I think called a center or score. So it sounds like he's had a fever, no cough, sore throat. So the first thing that we'd want to check to see or to rule out would be a strep throat. And then, well, if that comes back, negative will go from there and think about other viral causes for a strep throat as well.",
+        "topic_id": 7,
+        "summary": "Okay, and has he ever experienced any of these symptoms before? And he said sort of, you know, he sa...",
+        "keywords": [
+            "symptoms",
+            "seizure",
+            "fever",
+            "severe",
+            "pain"
+        ],
+        "sentiment": 0.26577520679633354
+    },
+    {
+        "start_time": 646.08,
+        "end_time": 651.36,
+        "text": "Did you have any questions or anything that I missed that you wanted to discuss today?",
+        "topic_id": 8,
+        "summary": "Did you have any questions or anything that I missed that you wanted to discuss today?",
+        "keywords": [
+            "discuss",
+            "questions",
+            "missed",
+            "today",
+            "did"
+        ],
+        "sentiment": 0.0
+    },
+    {
+        "start_time": 651.36,
+        "end_time": 658.64,
+        "text": "No, we were thinking that it could be maybe strep throat, so yeah, thank you.",
+        "topic_id": 9,
+        "summary": "No, we were thinking that it could be maybe strep throat, so yeah, thank you.",
+        "keywords": [
+            "throat",
+            "strep",
+            "maybe",
+            "thinking",
+            "yeah"
+        ],
+        "sentiment": 0.0
+    },
+    {
+        "start_time": 658.64,
+        "end_time": 660.08,
+        "text": "Okay, great, thank you.",
+        "topic_id": 10,
+        "summary": "Okay, great, thank you.",
+        "keywords": [
+            "okay",
+            "great",
+            "thank"
+        ],
+        "sentiment": 0.65
+    }
+]

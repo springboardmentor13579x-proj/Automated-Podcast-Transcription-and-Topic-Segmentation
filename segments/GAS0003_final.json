@@ -1,0 +1,314 @@
+[
+    {
+        "start_time": 0.0,
+        "end_time": 27.36,
+        "text": "what brings you in here today? Yeah, hi. I have a pain in my belly. It started a couple hours ago. Okay, and where exactly in your belly do you have this pain? Uh, it's mostly up here on the right side. On the right side. Yeah. Can you describe what kind of pain is it like a dull pain or",
+        "topic_id": 1,
+        "summary": " A patient says he has a pain in his belly that started a couple hours ago . The pain is mostly up here on the right side of his belly .",
+        "keywords": [
+            "belly",
+            "pain",
+            "dull",
+            "today",
+            "hi"
+        ],
+        "sentiment": 0.30425170068027213
+    },
+    {
+        "start_time": 27.36,
+        "end_time": 38.72,
+        "text": "sharp pain and aching pain I guess it's an aching pain it's an aching pain it kind of",
+        "topic_id": 2,
+        "summary": "sharp pain and aching pain I guess it's an aching pain it's an aching pain it kind of",
+        "keywords": [
+            "aching",
+            "pain",
+            "sharp",
+            "kind",
+            "guess"
+        ],
+        "sentiment": 0.2375
+    },
+    {
+        "start_time": 38.72,
+        "end_time": 67.8,
+        "text": "just it would initially just come and go but now it's just staying it's not going Wait, wait, wait, wait, wait, wait, wait, wait, wait, wait, wait, wait, wait, wait, wait, wait, wait, wait, wait, wait, wait, wait, wait, wait, wait, wait, wait, wait, wait, wait, wait, wait, wait, wait, wait, wait, wait, wait, wait, wait, wait, wait, wait, wait, wait, wait, wait, wait, wait, wait, wait, wait, wait, wait, wait, wait, wait, wait, wait, wait, wait, wait, wait, wait, wait, wait, wait, wait, wait, wait, wait, wait, wait, wait, wait, wait, wait, wait, wait, wait, wait, wait, wait, wait, wait, wait, wait, wait, wait, wait, wait, wait, wait, wait, wait, wait, wait, wait, wait, wait, wait, wait, wait, wait, wait, wait, wait, wait, wait, wait, wait, wait, wait, wait, wait, wait, wait, wait, wait, wait, wait, wait, wait, wait, wait, wait, wait, wait, wait, wait, wait, wait, wait, wait, wait, wait, wait, wait, wait, wait, wait, wait, wait, wait, wait, wait, wait, wait, wait, wait, wait, wait, wait, wait, wait, wait, wait, wait, wait, wait, wait, wait, wait, wait, wait, wait, wait, wait, wait, wait, wait, wait, wait, wait, wait, wait, wait, wait, wait, wait, wait, wait, wait, wait, wait, wait, wait, wait, wait, wait, wait, wait, wait, wait, wait, wait, wait, wait, wait, wait, wait, wait, wait, wait, wait, wait, wait, wait, wait, wait, wait, wait, wait, wait, wait, wait,'s just staying, it's not going away. Okay, and so it's in the right area. Does it travel anywhere else where it decides it on from the right side? No. Okay. And on a scale of 1 to 10, 1 being the least amount of pain in your",
+        "topic_id": 3,
+        "summary": " On a scale of 1 to 10, 1 is 1 being the least amount of pain in your life . Does it travel anywhere else where it decides it on from the right side? No. just it would initially just come and go but now it's just staying it's not going",
+        "keywords": [
+            "wait",
+            "okay",
+            "staying",
+            "just",
+            "come"
+        ],
+        "sentiment": 0.08690476190476189
+    },
+    {
+        "start_time": 67.8,
+        "end_time": 71.4,
+        "text": "cells in your life and 10 being the worst, how much would you rate it right now?",
+        "topic_id": 4,
+        "summary": "cells in your life and 10 being the worst, how much would you rate it right now?",
+        "keywords": [
+            "cells",
+            "10",
+            "rate",
+            "life",
+            "worst"
+        ],
+        "sentiment": -0.17142857142857146
+    },
+    {
+        "start_time": 71.4,
+        "end_time": 81.0,
+        "text": "It's about a 10, an age, maybe? An age, okay. And so just to clarify, when did it start?",
+        "topic_id": 5,
+        "summary": "It's about a 10, an age, maybe? An age, okay. And so just to clarify, when did it start?",
+        "keywords": [
+            "age",
+            "start",
+            "10",
+            "just",
+            "clarify"
+        ],
+        "sentiment": 0.5
+    },
+    {
+        "start_time": 81.0,
+        "end_time": 83.0,
+        "text": "About eight hours ago?",
+        "topic_id": 6,
+        "summary": "About eight hours ago?",
+        "keywords": [
+            "ago",
+            "hours"
+        ],
+        "sentiment": 0.0
+    },
+    {
+        "start_time": 83.0,
+        "end_time": 148.24,
+        "text": "Eight hours ago. Okay. And were you doing anything before, like did you have a meal or Thank you very much for watching this video and I'll see you in the next video, thanks, I was just about to go to sleep. I wasn't doing anything in particular at the time. Okay. And has it been getting the worst since it first started? Oh yeah, you definitely. It would come and go, but now for the past I'd say five to six hours, it's been constant. It's just there all the time. Okay, and have you have any similar pain like this in the past? Yeah, I have the same pain that comes and goes after I eat. Usually after I've had something like something fatty, something from outdoors, maybe like a burger or fries or something,",
+        "topic_id": 7,
+        "summary": " I wasn't doing anything in particular at the time, I was just about to go to sleep. Eight hours ago. Okay. And has it been getting the worst since it first started? Oh yeah, you definitely. It would come and go, but now for the past five to",
+        "keywords": [
+            "pain",
+            "meal",
+            "eat",
+            "fatty",
+            "fries"
+        ],
+        "sentiment": 0.025098039215686277
+    },
+    {
+        "start_time": 149.36,
+        "end_time": 153.2,
+        "text": "I initially thought it was in-dejection, but I don't know what's going on now.",
+        "topic_id": 8,
+        "summary": "I initially thought it was in-dejection, but I don't know what's going on now.",
+        "keywords": [
+            "dejection",
+            "thought",
+            "know",
+            "initially",
+            "don"
+        ],
+        "sentiment": 0.0
+    },
+    {
+        "start_time": 154.48,
+        "end_time": 160.16,
+        "text": "Okay, and does anything make a better or worse, or anything that you've tried?",
+        "topic_id": 9,
+        "summary": "Okay, and does anything make a better or worse, or anything that you've tried?",
+        "keywords": [
+            "does",
+            "worse",
+            "tried",
+            "better",
+            "ve"
+        ],
+        "sentiment": 0.19999999999999998
+    },
+    {
+        "start_time": 161.52,
+        "end_time": 205.0,
+        "text": "Well, I guess eating sometimes makes it worse, but I don't think there's anything that's making it better. Okay, have you tried any medications at all? I tried Tylenol, but that didn't do anything. Okay, and besides the pain that you're having, do you have any nausea and vomiting? I am a little nauseous, but no, I didn't, I haven't, I haven't vomiting yet, no. Okay, and have you been having any fevers? I don't think so. I haven't checked, but I don't feel feverish. Any swaths to her, like chills? No, I don't think he'd be rich.",
+        "topic_id": 10,
+        "summary": " Have you tried any medications at all? I tried Tylenol, but that didn't do anything. Well, I guess eating sometimes makes it worse, but I don't think there's anything that's making it better. Have you been having any fevers? No, I",
+        "keywords": [
+            "vomiting",
+            "nausea",
+            "fevers",
+            "nauseous",
+            "feverish"
+        ],
+        "sentiment": 0.11718750000000001
+    },
+    {
+        "start_time": 205.0,
+        "end_time": 311.0,
+        "text": "Any sweats or like chills? No, I don't think so. Okay, any changes in your bowel movements like constipation diarrhea? No. Okay. Have you traveled anywhere recently? No, I haven't. Okay. You've been feeling it all very tired, not your usual self, fatigue. Well, the pain is making it difficult for me to do things. But I guess I'm not a little bit deesh, baby. Okay. Have you been having any changes in your urinary patterns? No, no, any changes in your skin and your rush is any yellowing in your skin? I think that I've noticed. No, I don't think so. Okay, any changes in your urinary color? No, okay, have you noticed blood in your stool at all? I have not, no. And how about your appetite? Has this change at all? Well, I guess because this scene happens, usually happens after I eat, I think I've been eating less than you fall. I don't want to, you know, I don't like the pain. Okay. Anything to begin. I think I've been eating less than usual because I don't want to, you know, I don't like the pain. Okay. Any significant weight loss recently? Uh, I don't think so. Okay. Any recent infections? Um, recently at all? Nope. Um, and otherwise, are you, are you, do you have any other medical conditions like diabetes, blood pressure or anything else?",
+        "topic_id": 11,
+        "summary": " Have you traveled anywhere recently? No, I haven't . Have you noticed blood in your stool at all? I have not, no, no. Have you been having any changes in your urinary patterns? No . Any significant weight loss recently? Uh, I don't think so.",
+        "keywords": [
+            "constipation",
+            "appetite",
+            "diarrhea",
+            "bowel",
+            "fatigue"
+        ],
+        "sentiment": 0.05168402777777778
+    },
+    {
+        "start_time": 311.0,
+        "end_time": 324.0,
+        "text": "I do have diabetes, but that's about it, I think. And do you take anything for your diabetes? I take medicine.",
+        "topic_id": 12,
+        "summary": "I do have diabetes, but that's about it, I think. And do you take anything for your diabetes? I take medicine.",
+        "keywords": [
+            "diabetes",
+            "medicine",
+            "think"
+        ],
+        "sentiment": 0.0
+    },
+    {
+        "start_time": 324.0,
+        "end_time": 325.44,
+        "text": "Okay.",
+        "topic_id": 13,
+        "summary": "Okay.",
+        "keywords": [
+            "okay"
+        ],
+        "sentiment": 0.5
+    },
+    {
+        "start_time": 325.44,
+        "end_time": 328.08,
+        "text": "Do you take any other medications at all?",
+        "topic_id": 14,
+        "summary": "Do you take any other medications at all?",
+        "keywords": [
+            "medications"
+        ],
+        "sentiment": -0.125
+    },
+    {
+        "start_time": 328.08,
+        "end_time": 329.08,
+        "text": "No.",
+        "topic_id": 15,
+        "summary": "No.",
+        "keywords": [],
+        "sentiment": 0.0
+    },
+    {
+        "start_time": 329.08,
+        "end_time": 330.08,
+        "text": "I don't know.",
+        "topic_id": 16,
+        "summary": "I don't know.",
+        "keywords": [
+            "know",
+            "don"
+        ],
+        "sentiment": 0.0
+    },
+    {
+        "start_time": 330.08,
+        "end_time": 330.92,
+        "text": "No, I do.",
+        "topic_id": 17,
+        "summary": "No, I do.",
+        "keywords": [],
+        "sentiment": 0.0
+    },
+    {
+        "start_time": 330.92,
+        "end_time": 331.92,
+        "text": "Sorry.",
+        "topic_id": 18,
+        "summary": "Sorry.",
+        "keywords": [
+            "sorry"
+        ],
+        "sentiment": -0.5
+    },
+    {
+        "start_time": 331.92,
+        "end_time": 332.72,
+        "text": "No, no, no.",
+        "topic_id": 19,
+        "summary": "No, no, no.",
+        "keywords": [],
+        "sentiment": 0.0
+    },
+    {
+        "start_time": 332.72,
+        "end_time": 337.96,
+        "text": "If you have any allergies to any medications, any environmental allergies, no.",
+        "topic_id": 20,
+        "summary": "If you have any allergies to any medications, any environmental allergies, no.",
+        "keywords": [
+            "allergies",
+            "medications",
+            "environmental"
+        ],
+        "sentiment": 0.0
+    },
+    {
+        "start_time": 337.96,
+        "end_time": 339.68,
+        "text": "No, no, I don't.",
+        "topic_id": 21,
+        "summary": "No, no, I don't.",
+        "keywords": [
+            "don"
+        ],
+        "sentiment": 0.0
+    },
+    {
+        "start_time": 339.68,
+        "end_time": 341.56,
+        "text": "Okay.",
+        "topic_id": 22,
+        "summary": "Okay.",
+        "keywords": [
+            "okay"
+        ],
+        "sentiment": 0.5
+    },
+    {
+        "start_time": 341.56,
+        "end_time": 509.0,
+        "text": "Have you been hospitalized in the past? No, no haven't ever. I've been very, I've been healthy. No hospitalizations. Thank you very much for watching this video, thank you very much to when I was a teenager. Okay. Have you been in contact with anyone who has been ill recently? No, I don't think so. And in terms of your family history, has anyone had any cancers or any IBD, like Crohn's disease or ulcerative colitis? No, not that I know off. Okay. Anything that runs in the family at all? Uh, my dad had a heart attack. Uh, but he was in his sixties. But that's it. Okay. And, um, currently right now, uh, do you work? Uh, no, I'm because of COVID. Okay. And currently, what is your home situation like? What do you mean? So do you live in an apartment, a house, and do you live with anyone? I live in an apartment. I live alone. Okay. And in terms of your daily routine, you feel that you get an exercise, do you both have the walks and runs and you can write that? I usually go out for a run, especially when it's a little bit warmer, which it now is. And do you drink alcohol? Sometimes. How much would you say you drink in an average week? I wanted to drink a day. And what do you usually drink? I'll just drink a glass of wine at night. It just helps me relax. Okay, and do you smoke cigarettes? I don't know. Okay, and do you use any recreational drugs like marijuana? No, I don't. Okay. All right, so that's all the questions I have. And just to clarify, does your pain come and go? Or is it constant? Yeah, so initially it would come and go. But now for the first two hours, it would come and go.",
+        "topic_id": 23,
+        "summary": " Have you been hospitalized in the past? No, no, no haven't ever . Have you ever had any cancers or any IBD, like Crohn's disease or ulcerative colitis? \"I've been very, I've been healthy. No hospitalizations\" Do you",
+        "keywords": [
+            "hospitalized",
+            "colitis",
+            "hospitalizations",
+            "crohn",
+            "covid"
+        ],
+        "sentiment": 0.14808736717827625
+    },
+    {
+        "start_time": 509.0,
+        "end_time": 520.0,
+        "text": "And when I would have the spin when I was eating, it would come and go, but over the past six hours, it's just been constant.",
+        "topic_id": 24,
+        "summary": "And when I would have the spin when I was eating, it would come and go, but over the past six hours, it's just been constant.",
+        "keywords": [
+            "spin",
+            "eating",
+            "constant",
+            "hours",
+            "come"
+        ],
+        "sentiment": -0.125
+    }
+]

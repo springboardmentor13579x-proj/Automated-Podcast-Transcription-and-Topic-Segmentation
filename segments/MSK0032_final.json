@@ -1,0 +1,268 @@
+[
+    {
+        "start_time": 0.0,
+        "end_time": 87.76,
+        "text": "brings you in. Hi, I'm here with my daughter. We noticed that since yesterday she's been having this pain just in her elbow and like today we've noticed like after she woke up she's just been in pain and also just keeping her elbow like protected kind of like just flexing it and just holding onto it. So I think it's giving her a lot of discomfort and she's been crying as well. Oh yeah for sure. When did this start? I think it started after we went for a walk last evening and we just went to the park and since then like she's been having that pain. Okay okay and did anything happen to check her this, did she fall on that arm man or a leg injuries? I think she was playing and then she was about to fall right on to the playground pavement. So I remember like, but I like hotter right away, so to protect her. And",
+        "topic_id": 1,
+        "summary": " Parents say their daughter has been in pain in her elbow since yesterday . She was playing and then she was about to fall right on to the playground pavement .",
+        "keywords": [
+            "elbow",
+            "injuries",
+            "arm",
+            "discomfort",
+            "pain"
+        ],
+        "sentiment": 0.3089285714285714
+    },
+    {
+        "start_time": 87.76,
+        "end_time": 102.6,
+        "text": "then since then I don't know if there was like a jerk movement as like I kind of pulled her back up or when I was stopping her from falling like if that caused it but she didn't hit herself or or anything like that.",
+        "topic_id": 2,
+        "summary": " Since then since then I don't know if there was like a jerk movement as like I kind of pulled her back up or when I was stopping her from falling like if that caused it but she didn't hit herself or or anything like that .",
+        "keywords": [
+            "falling",
+            "jerk",
+            "movement",
+            "hit",
+            "kind"
+        ],
+        "sentiment": 0.3
+    },
+    {
+        "start_time": 102.6,
+        "end_time": 105.6,
+        "text": "Okay. All right.",
+        "topic_id": 3,
+        "summary": "Okay. All right.",
+        "keywords": [
+            "okay",
+            "right"
+        ],
+        "sentiment": 0.39285714285714285
+    },
+    {
+        "start_time": 105.6,
+        "end_time": 127.0,
+        "text": "Um, and in terms of, terms of the type of paint she's having right now, did she say if it was a dull achy kind of paint or is it sharp? She says it's aching a lot. Okay, and has it been constant since she started experiencing this or does it come and go?",
+        "topic_id": 4,
+        "summary": " In terms of the type of paint she's having right now, did she say if it was a dull achy kind of paint or is it sharp? She says it's aching a lot. Um, and has it been constant since she started experiencing this .",
+        "keywords": [
+            "paint",
+            "sharp",
+            "dull",
+            "aching",
+            "achy"
+        ],
+        "sentiment": 0.1615079365079365
+    },
+    {
+        "start_time": 127.0,
+        "end_time": 349.0,
+        "text": "It's been pretty constant since then and yeah she just kind of keep she's kind of keep just keeping it like for arms extended and then yeah just holding on to it. And then is the pain just in the elbow or does it radiate down into your hands or after shoulders? It kind of goes into your upper arms like from her elbows to her upper arm. Okay. Have you tried anything for this pain? No, I haven't tried any medications or anything. I just wanted to come in before I try anything. Yeah, one to ten, ten being the worst type of pain, how bad is this pain for her? Um, I would say it's probably at least a seven. Okay, and then, um, has she ever experienced pain like this in the past? um, no, this is the first time okay um, and then did she have any numbness or tingling in the area? um, no, not that I know okay have a memory loss or confusion no Um, no, not that I know. Okay. Have a memory loss or confusion. No. Um, any headaches? No. Um, Did you necessarily think spouse? Nope. Any weight loss recently? Nope. Divors or chills? Nope. Um, rashes. Um, no us our chills. Nope. Rashes. No. I changed as envision hearing smell or taste. No. Any coughing, sharpness of breath or reasing? No. Any chest pain or heart Are your palpitations? Nope. Any changes in bowel movements? Nope. Have a change in urine? Nope. No, no changes. Okay. And if you otherwise healthy, does she have any long-standing medical conditions? If she's going to healthy so far, no concerns at all. Okay. And with her mother's pregnancy with her, were there any complications at that point? No, it was like a normal pregnancy, no complications, um, she was born at 39 weeks, like a bacterial delivery, didn't have to stay in the hospital or anything like that. Okay, then no issues as a neonate. Uh, no, she, we were able to bring her home pretty quick. Okay, that's good. And then she hasn't had any hospitalizations or surgery since then. No, no surgeries or hospitalizations. All right, she have any medications? No, no medications. Okay. If you have to date with her immunization. Well, yep. We've had forget all the immunization. Okay. How about allergies, does she have any? No allergies. Okay. Any family history of musculoskeletal issues?",
+        "topic_id": 5,
+        "summary": " Have you tried anything for this pain? No. I just wanted to come in before I try anything. It's been pretty constant since then and yeah she just kind of keep she's kind of keeping it like for arms extended and then yeah just holding on to it. Um, I",
+        "keywords": [
+            "numbness",
+            "pain",
+            "headaches",
+            "elbow",
+            "tingling"
+        ],
+        "sentiment": 0.2503373015873016
+    },
+    {
+        "start_time": 350.0,
+        "end_time": 351.0,
+        "text": "Uh, no.",
+        "topic_id": 6,
+        "summary": "Uh, no.",
+        "keywords": [
+            "uh"
+        ],
+        "sentiment": 0.0
+    },
+    {
+        "start_time": 352.0,
+        "end_time": 354.0,
+        "text": "Uh, longer heart conditions.",
+        "topic_id": 7,
+        "summary": "Uh, longer heart conditions.",
+        "keywords": [
+            "longer",
+            "heart",
+            "conditions",
+            "uh"
+        ],
+        "sentiment": 0.0
+    },
+    {
+        "start_time": 355.0,
+        "end_time": 356.0,
+        "text": "Uh, nope.",
+        "topic_id": 8,
+        "summary": "Uh, nope.",
+        "keywords": [
+            "uh",
+            "nope"
+        ],
+        "sentiment": 0.0
+    },
+    {
+        "start_time": 357.0,
+        "end_time": 359.0,
+        "text": "Um, autoimmune conditions.",
+        "topic_id": 9,
+        "summary": "Um, autoimmune conditions.",
+        "keywords": [
+            "autoimmune",
+            "conditions",
+            "um"
+        ],
+        "sentiment": 0.0
+    },
+    {
+        "start_time": 360.0,
+        "end_time": 361.0,
+        "text": "Nope.",
+        "topic_id": 10,
+        "summary": "Nope.",
+        "keywords": [
+            "nope"
+        ],
+        "sentiment": 0.0
+    },
+    {
+        "start_time": 361.0,
+        "end_time": 362.0,
+        "text": "Cancer's.",
+        "topic_id": 11,
+        "summary": "Cancer's.",
+        "keywords": [
+            "cancer"
+        ],
+        "sentiment": 0.0
+    },
+    {
+        "start_time": 363.0,
+        "end_time": 364.0,
+        "text": "Uh, nope.",
+        "topic_id": 12,
+        "summary": "Uh, nope.",
+        "keywords": [
+            "uh",
+            "nope"
+        ],
+        "sentiment": 0.0
+    },
+    {
+        "start_time": 375.0,
+        "end_time": 382.12,
+        "text": "Um, Is she, like, on par with her peers in terms of development and, um, reaching milestones? Um, no, like, uh, she's been meeting older milestones, uh, have been on par with",
+        "topic_id": 13,
+        "summary": " Um, Is she, like, on par with her peers in terms of development and, um, reaching milestones? Um, no, like ... she's been meeting older milestones, uh, have been on par .",
+        "keywords": [
+            "milestones",
+            "development",
+            "peers",
+            "older",
+            "reaching"
+        ],
+        "sentiment": 0.16666666666666666
+    },
+    {
+        "start_time": 382.12,
+        "end_time": 405.0,
+        "text": "her siblings, uh, and, uh, other children, no concerns from the doctor whatsoever. Thank you for watching, and I'll see you? She lives with me, her dad and we just two siblings, two older brothers. Okay.",
+        "topic_id": 14,
+        "summary": " She lives with me, her dad and we just two siblings, two older brothers . No concerns from the doctor whatsoever .",
+        "keywords": [
+            "siblings",
+            "doctor",
+            "children",
+            "concerns",
+            "older"
+        ],
+        "sentiment": 0.18055555555555555
+    },
+    {
+        "start_time": 486.0,
+        "end_time": 589.96,
+        "text": "And does anyone at home smoke? Nope. Any concerns for her safety at home? No, like we're like, no, I don't think so. No, okay. And how are the things that's cool's been well, like, uh, it's been difficult with the pandemic, but, um, she's doing well. Okay, that's good. Does she come in contact with anyone sick recently? Uh, no. Um, have you done any travel recently? Nope. Okay. Um. All right, um, those are all the questions I have for history taking. Let's move on to the physical exam part of this interview. I'm just going to get you to take a look at both her elbows and arms. Do you see any redness or swelling in the right elbow compared to the left? No, I don't see any changes. Okay, so far about any muscle atrophy, deformities or skin changes like bruises. No, I don't see anything like that. Okay. How about... When you palate her elbows, does she impain? Um, she doesn't really let me but if I try to I think that does cause or something okay I have what when you poppied her like four arm muscles um no not as much much. I don't have letter biceps and triceps? Um, no, not really. No, okay. Um, alright. And those are all the questions that it kind of had for you. Um, did you have any questions of your own for myself? No, I just wanted to find out if she broke something or I didn't know what was going on. Okay, yeah, it seems like someone of her age and just the kind of history that you're giving me, so I'm like she has something called a radial head subluxation, and that's usually caused in young children when they're like pulled or lifted by the hand or wrist while their arm is held straight which can kind of pull the bone out of its socket a little bit so in terms of like a management plan you can You can try conservative things like ice packs, over-the-counter",
+        "topic_id": 15,
+        "summary": " Does anyone at home smoke? Nope. Any concerns for her safety at home? No, like we're like, no, I don't think so. And how are the things that's cool's been well, like, uh, it's been difficult with the pandemic, but",
+        "keywords": [
+            "elbows",
+            "atrophy",
+            "swelling",
+            "bruises",
+            "elbow"
+        ],
+        "sentiment": 0.19550492610837436
+    },
+    {
+        "start_time": 589.96,
+        "end_time": 628.4,
+        "text": "painkillers, otherwise we can try to put the radius back into its normal position here. I will just take like a few minutes. And then after we reduce it back into its place, she should have normal function of her arm again. If you still experience in pain, we can continue keeping it on a splint. But otherwise, I don't think we need any imaging for this",
+        "topic_id": 16,
+        "summary": " If you still experience in pain, we can continue keeping it on a splint . But otherwise, I don't think we need any imaging for this .",
+        "keywords": [
+            "splint",
+            "radius",
+            "arm",
+            "imaging",
+            "pain"
+        ],
+        "sentiment": 0.019999999999999997
+    },
+    {
+        "start_time": 628.4,
+        "end_time": 636.0,
+        "text": "at this time, so did you have any questions or any concerns about that?",
+        "topic_id": 17,
+        "summary": "at this time, so did you have any questions or any concerns about that?",
+        "keywords": [
+            "concerns",
+            "questions",
+            "did",
+            "time"
+        ],
+        "sentiment": 0.0
+    },
+    {
+        "start_time": 636.0,
+        "end_time": 640.0,
+        "text": "No, I think that's a good plan.",
+        "topic_id": 18,
+        "summary": "No, I think that's a good plan.",
+        "keywords": [
+            "plan",
+            "good",
+            "think"
+        ],
+        "sentiment": 0.7
+    },
+    {
+        "start_time": 640.0,
+        "end_time": 642.0,
+        "text": "Okay, great.",
+        "topic_id": 19,
+        "summary": "Okay, great.",
+        "keywords": [
+            "okay",
+            "great"
+        ],
+        "sentiment": 0.65
+    },
+    {
+        "start_time": 642.0,
+        "end_time": 644.0,
+        "text": "Thank you. Thank you.",
+        "topic_id": 20,
+        "summary": "Thank you. Thank you.",
+        "keywords": [
+            "thank"
+        ],
+        "sentiment": 0.0
+    }
+]

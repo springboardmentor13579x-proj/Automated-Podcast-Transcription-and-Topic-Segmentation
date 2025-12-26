@@ -1,0 +1,236 @@
+[
+    {
+        "start_time": 0.0,
+        "end_time": 311.04,
+        "text": "how may I help you? I'm short the father my daughter's five years old and I noticed just a few days ago that she was walking a little bit funny kind of having a limb when she came back from school and since since then she's been saying that it just hurts too much to put any weight on that leg on the right leg. And since then, I've been like carrying around. It's been very painful for her. So I just wanted to come and check what might be going on. Okay, and so I, and and this, what does this exactly start? Um, so just two days ago. Okay. And did she have any trauma, um, to, to her right hip or her to her right leg, like, um, a fall lower Sorry, I know, not that I know of at least and she hasn't told me anything, but she does do some activity, some sports, but I haven't and it's seen or fallen, you were okay. All right, and has she not been able to walk then? Yeah, so I've been carrying her around for at least like she's missed school too, but I've been carrying around for the last one and a half to two days. As soon as I'd like to ask her to walk, she starts kind of hopping and saying that there's a lot of pain near the top of her leg and by her hips whenever she puts her foot down. So yeah, she's in pain crying. So I kind of have to carry her. Okay. And I was her behavior. I've been recently like her mood and things like that. She's definitely been more just a bit anxious about the pain very scared about putting her foot down and just overall I think also more irritable to crying more bits of the pain so but I get to understand if there's something going on it must be very painful. Okay, and all right, and as she had any fevers or chills, I didn't notice a couple of days ago, she felt a bit warm, but we didn't really measure temperature. Over the last few weeks, she has had, kind of, runny nose and a cough, and I think she might have had a fever last week as well. So, she has been sick recently. Okay, so it sounds actually might have had a cold last week, and it looked like the ready nose and cough go away. Yeah, the ready nose and cough are gone. The fever was gone too, but she did feel a little bit warm yesterday, so I'm not sure about that. Okay, so she's a bit warm now, still. Okay, has she had any headaches? No, no headaches. Any sensory changes like things to her vision or hearing or taste their smell? No. Okay, any sore throat or cough? no. All right, any shortness or breath? No, any chest pain? No. Has you had a loss of appetite? No, okay. And has you had any unexpected weight loss, no, nothing like that. Any night sweats? No. Any nausea or vomiting? No. Any abdominal pain? No, abdominal pain. Okay, Any diarrhea or constipation or blood in the stool? Uh, no, nothing like that. All right. It's an any, um, problems with urination like pain or frequency. Uh, no, not that she's mentioned. No. Okay. Um, and any skin rashes or changes? No. Okay, and any",
+        "topic_id": 1,
+        "summary": " Five-year-old girl has been sick recently and has not been able to walk for two days . Her father says she has been anxious about the pain and more irritable about putting her foot down . She has had, kind of, runny nose and a cough, and a",
+        "keywords": [
+            "limb",
+            "trauma",
+            "leg",
+            "daughter",
+            "walking"
+        ],
+        "sentiment": 0.10875623582766437
+    },
+    {
+        "start_time": 311.04,
+        "end_time": 319.84,
+        "text": "muscle aches or body pains or any other pains anywhere else? No, it's mainly just their upper",
+        "topic_id": 2,
+        "summary": "muscle aches or body pains or any other pains anywhere else? No, it's mainly just their upper",
+        "keywords": [
+            "pains",
+            "aches",
+            "muscle",
+            "upper",
+            "body"
+        ],
+        "sentiment": 0.013888888888888886
+    },
+    {
+        "start_time": 319.84,
+        "end_time": 576.68,
+        "text": "right leg and hip. Okay, has she had an enabness or or tingling? No, not that she's pension, no. Okay, and how about muscle weakness? No. Okay, and any confusion or or memory loss. I know. Okay. Um. and any confusion or memory loss, no, okay, and in the past as she been diagnosed with any medical conditions, she did have this condition with her hips dysplasia, like developmental dysplasia of the head. So when she was born, she was getting like dysclicking noise in her inner hips. And so she wasn't this splint for probably almost two months at the start, like after she was born. Okay, and did her hips, did like, was she able to walk afterwards? Yeah. Okay. Yeah, and we were seeing a specialist in orthopedic surgeon, and they were managing her, and after one year they stopped following her she was well like she was walking or she was okay so she was walking around one year and have you had any other concerns about her and other social or physical development? No she's been really great She's good with people. She has great social skills. She has grown well met all her milestones. She's doing really well at school and gets along well with her peers as well. Okay, excellent. And were there any concerns throughout pregnancies, such as gestational diabetes or hypertension or any exposures to infections? No, her mom's pregnancy was perfectly normal. She was born on 39 weeks. She was a breach at that time, which the doctor said might have to do with her clicking hips. But since then, we're growing pregnancy no other complications. Okay, that's great. And in regards to mentioned her, her hip, any other past medical history, I know other than that she's been healthy. Okay, and does she take any medications regularly over the counter or prescribed? No, no, no medications. Okay, any allergies to medications? No, not that I know. And sorry, did you take anything for that? Let me. No, I haven't really given her anything. I didn't know what to give. OK. All right. We'll talk to more. As she had it, her organization. No. OK. OK. How do you know who she's living? That's she's living. Yeah, so she's currently living at home with me, my wife, and she has an older brother. We live in a small house, just near the city, okay. what do you guys yeah so I am a lawyer and my wife",
+        "topic_id": 3,
+        "summary": " She was born with dysclicking noise in her inner hips when she was born . She has great social skills and is doing well at school and gets along well with her peers as well .",
+        "keywords": [
+            "dysplasia",
+            "diagnosed",
+            "splint",
+            "orthopedic",
+            "complications"
+        ],
+        "sentiment": 0.20595344198285373
+    },
+    {
+        "start_time": 576.68,
+        "end_time": 590.4,
+        "text": "is a music teacher you spoke to the home no none of us spoke okay and.",
+        "topic_id": 4,
+        "summary": "is a music teacher you spoke to the home no none of us spoke okay and.",
+        "keywords": [
+            "teacher",
+            "music",
+            "spoke",
+            "home",
+            "okay"
+        ],
+        "sentiment": 0.5
+    },
+    {
+        "start_time": 590.4,
+        "end_time": 613.4,
+        "text": ". . . . . . . . . . . . . . . . . . . . . . .",
+        "topic_id": 5,
+        "summary": ". . . . . . . . . . . . . . . . . . . . . . .",
+        "keywords": [],
+        "sentiment": 0.0
+    },
+    {
+        "start_time": 613.4,
+        "end_time": 587.0,
+        "text": "..... You spoke to the home? No, none of us spoke.",
+        "topic_id": 6,
+        "summary": "..... You spoke to the home? No, none of us spoke.",
+        "keywords": [
+            "spoke",
+            "home"
+        ],
+        "sentiment": 0.0
+    },
+    {
+        "start_time": 587.0,
+        "end_time": 592.0,
+        "text": "Okay. Okay.",
+        "topic_id": 7,
+        "summary": "Okay. Okay.",
+        "keywords": [
+            "okay"
+        ],
+        "sentiment": 0.5
+    },
+    {
+        "start_time": 592.0,
+        "end_time": 610.0,
+        "text": "And any family history of harder lung conditions? No, no family history of our family is pretty healthy. Okay, I would have family history of any. I don't know.",
+        "topic_id": 8,
+        "summary": "And any family history of harder lung conditions? No, no family history of our family is pretty healthy. Okay, I would have family history of any. I don't know.",
+        "keywords": [
+            "lung",
+            "family",
+            "healthy",
+            "history",
+            "conditions"
+        ],
+        "sentiment": 0.2875
+    },
+    {
+        "start_time": 610.0,
+        "end_time": 633.0,
+        "text": "I don't know. I don't know. I don't know. I don't know. I don't know. I don't know. I don't know. I don't know. I don't know. I don't know. I don't know. I don't know. I don't know. I don't know. I don't know. I don't know. I don't know. I don't know. I don't know. I don't know. I don't know. I don't know. I don't know.",
+        "topic_id": 9,
+        "summary": " I don't know. I don\u2019t know what I really mean. I just want to say I\u2019m not afraid to say anything. I'm not sure what I mean, I'm sure it\u2019s not a secret. I know I'm going to say",
+        "keywords": [
+            "don",
+            "know"
+        ],
+        "sentiment": 0.0
+    },
+    {
+        "start_time": 633.0,
+        "end_time": 685.0,
+        "text": "I don't know. I don't know. I donletal or neurological conditions in the family? No. Okay. So next on, just the eight things, Sam. When you're looking at the right everything, seeing any swelling, redness. No, I'm not that I see anything, no. Okay. And is there any muscle activity around the hip? No, not that I see it all. Okay, and that is already misalignment. You're different. I hope the joy that you can see. No, I can't. Yeah, I don't see anything in the hips or legs. That's really points out to me. Okay. And is there any pain to palpation over the hip or or knee? If I press on it, I don't think she's in that much pain.",
+        "topic_id": 10,
+        "summary": " When you're looking at the right everything, seeing any swelling, redness. No, I'm not that I see anything, no. And is there any muscle activity around the hip? No. I don't think she's in that much pain. If I press on it,",
+        "keywords": [
+            "swelling",
+            "hip",
+            "misalignment",
+            "hips",
+            "knee"
+        ],
+        "sentiment": 0.19857142857142857
+    },
+    {
+        "start_time": 685.0,
+        "end_time": 690.0,
+        "text": "It's mainly just when she's trying to walk or put weight on it.",
+        "topic_id": 11,
+        "summary": "It's mainly just when she's trying to walk or put weight on it.",
+        "keywords": [
+            "walk",
+            "weight",
+            "mainly",
+            "just",
+            "trying"
+        ],
+        "sentiment": 0.16666666666666666
+    },
+    {
+        "start_time": 691.0,
+        "end_time": 692.0,
+        "text": "Okay.",
+        "topic_id": 12,
+        "summary": "Okay.",
+        "keywords": [
+            "okay"
+        ],
+        "sentiment": 0.5
+    },
+    {
+        "start_time": 693.0,
+        "end_time": 697.0,
+        "text": "And she able to move the hip in a full range of ocean",
+        "topic_id": 13,
+        "summary": "And she able to move the hip in a full range of ocean",
+        "keywords": [
+            "hip",
+            "ocean",
+            "range",
+            "able"
+        ],
+        "sentiment": 0.425
+    },
+    {
+        "start_time": 697.0,
+        "end_time": 701.0,
+        "text": "of like flexion and extension, abduction, adduction.",
+        "topic_id": 14,
+        "summary": "of like flexion and extension, abduction, adduction.",
+        "keywords": [
+            "flexion",
+            "adduction",
+            "extension",
+            "abduction",
+            "like"
+        ],
+        "sentiment": 0.0
+    },
+    {
+        "start_time": 704.0,
+        "end_time": 867.2,
+        "text": "So she does, she is able to move it if she really tries. But it's mainly just putting her weight on it. Anytime she puts her weight on it is when it really hurts. Okay, so more but the weight on it. And as she able to move that her knee with a full range emotion? Yeah. Okay, and any muscle weakness when testing around the joint? No. No. Okay. Okay, So I think that was everything that I wanted to ask on history and check. Was there anything I maybe forgot about? You thought would be more important today? No, I think that's all. Just just wondering what might be going on? Yeah, certainly so a couple of things that it could be. One is that it can be common in this age group is something called transient cinema by this, where which can happen in the hip where there's some inflammation and it causes some pain following a viral infection and it sounds like she had a viral infection last week with a cough fever and runny nose and her she was feeling a bit warm and maybe feverish today as well, which could be a sign with a lower kind of a slightly elevated temperature pointing towards transient cinabitis, which is a condition that will be self-limiting and can use anti-inflammatories to help with the pain, such as ibuprofen, but also something that would be important to rule out, as septic arthritis, because it could lead to damage of the joint, but this will be lower on the differential and then finally, something to consider is leg-cav-perthese disease. And, but this would be more progressive on set, but if she's not getting any better and or if she becomes more sick like",
+        "topic_id": 15,
+        "summary": " She is able to move her knee with a full range emotion . Anytime she puts her weight on it is when it really hurts . Transient cinema is something called transient cinema by this, where there's some inflammation and it causes some pain following a viral infection . Leg-cav",
+        "keywords": [
+            "fever",
+            "knee",
+            "infection",
+            "arthritis",
+            "inflammation"
+        ],
+        "sentiment": 0.225
+    },
+    {
+        "start_time": 867.2,
+        "end_time": 873.44,
+        "text": "develops a really high fever or a red hot swollen joint, then we'd be thinking more along the",
+        "topic_id": 16,
+        "summary": "develops a really high fever or a red hot swollen joint, then we'd be thinking more along the",
+        "keywords": [
+            "fever",
+            "swollen",
+            "joint",
+            "hot",
+            "high"
+        ],
+        "sentiment": 0.2275
+    },
+    {
+        "start_time": 873.44,
+        "end_time": 881.04,
+        "text": "lines of septic arthritis and we want to reassess. Okay, sounds good. Thank you so much.",
+        "topic_id": 17,
+        "summary": "lines of septic arthritis and we want to reassess. Okay, sounds good. Thank you so much.",
+        "keywords": [
+            "septic",
+            "arthritis",
+            "reassess",
+            "lines",
+            "thank"
+        ],
+        "sentiment": 0.4666666666666666
+    }
+]

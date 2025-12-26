@@ -1,0 +1,448 @@
+[
+    {
+        "start_time": 0.0,
+        "end_time": 46.48,
+        "text": "How have I helped you? Yeah, I just came in here today, I've been experiencing some difficulties with my right hand, especially at the basis of the fourth and fifth digits. I noticed this happening over the last, I'll say probably last few months, it's been getting worse. I've been having trouble just kind of extending those two fingers and I kind of see like this little bump at the base of those two fingers. So yeah overall it's just been difficult working. I'm a construction worker and I don't know if this just keep getting worse.",
+        "topic_id": 1,
+        "summary": " I noticed this happening over the last, I'll say probably last few months, it's been getting worse. I've been having trouble just kind of extending those two fingers and I kind of see like this little bump at the base of those fingers . So yeah overall it's just been",
+        "keywords": [
+            "difficulties",
+            "fingers",
+            "hand",
+            "working",
+            "experiencing"
+        ],
+        "sentiment": -0.08011904761904763
+    },
+    {
+        "start_time": 46.48,
+        "end_time": 48.48,
+        "text": "Okay.",
+        "topic_id": 2,
+        "summary": "Okay.",
+        "keywords": [
+            "okay"
+        ],
+        "sentiment": 0.5
+    },
+    {
+        "start_time": 48.48,
+        "end_time": 46.0,
+        "text": "And you know. And I don't know if this is just keep getting worse.",
+        "topic_id": 3,
+        "summary": "And you know. And I don't know if this is just keep getting worse.",
+        "keywords": [
+            "know",
+            "worse",
+            "just",
+            "don",
+            "getting"
+        ],
+        "sentiment": -0.4
+    },
+    {
+        "start_time": 47.0,
+        "end_time": 49.0,
+        "text": "Okay.",
+        "topic_id": 4,
+        "summary": "Okay.",
+        "keywords": [
+            "okay"
+        ],
+        "sentiment": 0.5
+    },
+    {
+        "start_time": 51.0,
+        "end_time": 52.0,
+        "text": "And you've noticed.",
+        "topic_id": 5,
+        "summary": "And you've noticed.",
+        "keywords": [
+            "noticed",
+            "ve"
+        ],
+        "sentiment": 0.0
+    },
+    {
+        "start_time": 55.0,
+        "end_time": 56.0,
+        "text": "And sorry, when exactly did it start?",
+        "topic_id": 6,
+        "summary": "And sorry, when exactly did it start?",
+        "keywords": [
+            "start",
+            "did",
+            "sorry",
+            "exactly"
+        ],
+        "sentiment": -0.125
+    },
+    {
+        "start_time": 58.0,
+        "end_time": 61.0,
+        "text": "Probably in two months ago. Two months ago.",
+        "topic_id": 7,
+        "summary": "Probably in two months ago. Two months ago.",
+        "keywords": [
+            "months",
+            "ago",
+            "probably"
+        ],
+        "sentiment": 0.0
+    },
+    {
+        "start_time": 63.0,
+        "end_time": 88.0,
+        "text": "And it's the fourth and fifth digits. Are any other fingers involved or any parts other parts of your hand? No, it's just those two. Okay, um, and how would you describe the, uh, the pain that you're feeling? Is it a pain and an achy pain or a burning pain?",
+        "topic_id": 8,
+        "summary": " Are any other fingers involved or any parts other parts of your hand? No, it's just those two . How would you describe the pain that you're feeling? Is it a pain and an achy pain or a burning pain?",
+        "keywords": [
+            "fingers",
+            "digits",
+            "pain",
+            "hand",
+            "burning"
+        ],
+        "sentiment": 0.0625
+    },
+    {
+        "start_time": 90.16,
+        "end_time": 208.68,
+        "text": "It's more like an aching aching pain, which gets worse with if I try to extend those fingers. And yeah, like, I do feel like the little nodules, but like pressing on them doesn't hurt or anything like that. Okay, and do you feel any radiation of pain like into your hand or forearm? No, not really. Okay. I end. Is there anything that is aggravating or we're making the pain worse? Um, I think just extending, it's, I would say more than the pain, it's just like discomfort and just not being able to extend it. That is, is frustrating, like the pain isn't that bad, like there's minimal pain. Okay, and is there any, like, like clicking, or, uh, yeah, any clicking or catching when you're trying to, like, extend the finger? Um, I would say there is, uh, yeah, there's some, like, catching, I would say if when I'm trying to extend. Okay. And has there been anything that you've tried recently? That's improved the discomfort or helped with the range of motion. No, nothing that I've tried. That has really helped. And yeah, I'm just",
+        "topic_id": 9,
+        "summary": " Do you feel any radiation of pain like into your hand or forearm? No, not really. It's more like an aching aching pain, which gets worse with if I try to extend those fingers . Is there anything that is aggravating or we're making the pain worse?",
+        "keywords": [
+            "discomfort",
+            "pain",
+            "fingers",
+            "aching",
+            "finger"
+        ],
+        "sentiment": 0.11544117647058824
+    },
+    {
+        "start_time": 208.68,
+        "end_time": 218.0,
+        "text": "afraid if I stop kind of exercising and I'll just keep getting worse. Okay, yeah, certainly.",
+        "topic_id": 10,
+        "summary": "afraid if I stop kind of exercising and I'll just keep getting worse. Okay, yeah, certainly.",
+        "keywords": [
+            "exercising",
+            "afraid",
+            "stop",
+            "certainly",
+            "okay"
+        ],
+        "sentiment": 0.06285714285714286
+    },
+    {
+        "start_time": 218.0,
+        "end_time": 365.28,
+        "text": "Okay, and if you had any problems with your hand before, like any trauma there, or Thank you very much for watching this video and I'll see you in the next video, see you in the next video, see you in the next video, and see you in the next video, and see you in the next video, and see you in the next video, and see you in the next video, and see you in the next video, and see you in the next video, and see you in the next video, and see you in the next video, and see you in the next video, and see you in the next video, and see you in the next video, and see you in the next video, and see you in the next video, and see you in the next video, and see you in the next video, and see you in the next video, and see you in the next video, and see you in the next video, and see you in the next video, and see you in the next video, and see you in the next video, and see you in the next video, and see you in the next video, and see you in the next video, and see you in the next video, and see you in the next video, and see you in the next video, and see you in the next video, and see you in the next video, and see you in the next video, and see you in the next video, and see you in the next video, and see you in the next video, and see you in the next video, and see you in the next video, and see you in the next video, and see you in the next video, and see you in the next video, and see you in the next video, and see you in the next video, and see you in the next video, and see you in the next video, and see you in the next video, and see you in the next video, and see you in the next video, and see you in the next video, and see you in the next video, and see you in the next video, and see you in the next video, and see you in the next video, and see you in the next video, and if you had any problems with your hand before, like any trauma there or anything like that. My construction worker, so there's always like a lot of, I haven't had any falls or injuries on my hands, luckily, but there's always just constant lifting. There's, I used to drill a lot to, so there's like always constant and I'm right handed as well. So there's always like the vibration and so but no, no direct like traumas or falls. Have you been having any neurological symptoms such as like nobness or tingling or loss of sensation to any parts of your hand or upper extremity? No, no, no, I'm just tingling and no weakness or anything like that. Okay, so no muscle weakness? No. Okay. And have you been having any fevers or chills? No. Okay. And how about any night sweats? No. And have you been having any unexpected weight loss? No. Okay. And have you had any headaches? No. any sensory changes such as changes to your vision hearing loss of taste or sense of smell. No, nothing like that. Have you had a runny nose or called congested? No. Have you had any eye redness or itchy eyes? Nope. All right. Have've got a sore throat or a cough. No, nothing like that. How about I need shortness of breath or wheezing? Nope. Have you had any chest pain? Nope. Any lightheadedness, a dizzyness or feeling as though you might faint? No, if had any feelings of though your heart is racing. No, okay, I'd be out of any nausea or vomiting. No, any abdominal pain. I don't know. Have you had any diarrhea or constipation?",
+        "topic_id": 11,
+        "summary": " If you had any problems with your hand before, like any trauma there, or Thank you very much for watching this video and I'll see you in the next video . Have you been having any diarrhea or constipation? No. Have you had a runny nose or called congested",
+        "keywords": [
+            "video",
+            "watching",
+            "trauma",
+            "traumas",
+            "vision"
+        ],
+        "sentiment": 0.009927248677248677
+    },
+    {
+        "start_time": 366.96,
+        "end_time": 369.92,
+        "text": "Nope. All right, and have you had like any blood in this stool?",
+        "topic_id": 12,
+        "summary": "Nope. All right, and have you had like any blood in this stool?",
+        "keywords": [
+            "stool",
+            "blood",
+            "nope",
+            "right",
+            "like"
+        ],
+        "sentiment": 0.2857142857142857
+    },
+    {
+        "start_time": 370.64,
+        "end_time": 371.68,
+        "text": "Nope.",
+        "topic_id": 13,
+        "summary": "Nope.",
+        "keywords": [
+            "nope"
+        ],
+        "sentiment": 0.0
+    },
+    {
+        "start_time": 371.68,
+        "end_time": 374.16,
+        "text": "Any urinary problems like pain or frequency?",
+        "topic_id": 14,
+        "summary": "Any urinary problems like pain or frequency?",
+        "keywords": [
+            "urinary",
+            "pain",
+            "problems",
+            "frequency",
+            "like"
+        ],
+        "sentiment": 0.0
+    },
+    {
+        "start_time": 375.2,
+        "end_time": 376.0,
+        "text": "Nope.",
+        "topic_id": 15,
+        "summary": "Nope.",
+        "keywords": [
+            "nope"
+        ],
+        "sentiment": 0.0
+    },
+    {
+        "start_time": 376.0,
+        "end_time": 378.4,
+        "text": "Any skin changes like rashes?",
+        "topic_id": 16,
+        "summary": "Any skin changes like rashes?",
+        "keywords": [
+            "rashes",
+            "skin",
+            "changes",
+            "like"
+        ],
+        "sentiment": 0.0
+    },
+    {
+        "start_time": 381.68,
+        "end_time": 382.88,
+        "text": "No, nothing like that.",
+        "topic_id": 17,
+        "summary": "No, nothing like that.",
+        "keywords": [
+            "like"
+        ],
+        "sentiment": 0.0
+    },
+    {
+        "start_time": 384.16,
+        "end_time": 391.0,
+        "text": "Okay, or any changes to your nails or hair, like you'll notice like plaques on the nails or hair loss.",
+        "topic_id": 18,
+        "summary": "Okay, or any changes to your nails or hair, like you'll notice like plaques on the nails or hair loss.",
+        "keywords": [
+            "nails",
+            "plaques",
+            "hair",
+            "changes",
+            "notice"
+        ],
+        "sentiment": 0.5
+    },
+    {
+        "start_time": 392.0,
+        "end_time": 393.0,
+        "text": "No.",
+        "topic_id": 19,
+        "summary": "No.",
+        "keywords": [],
+        "sentiment": 0.0
+    },
+    {
+        "start_time": 394.0,
+        "end_time": 401.0,
+        "text": "Okay, and have you been having any muscle aches or joint pains or body pains anywhere else?",
+        "topic_id": 20,
+        "summary": "Okay, and have you been having any muscle aches or joint pains or body pains anywhere else?",
+        "keywords": [
+            "pains",
+            "aches",
+            "joint",
+            "muscle",
+            "having"
+        ],
+        "sentiment": 0.5
+    },
+    {
+        "start_time": 402.0,
+        "end_time": 404.0,
+        "text": "No, not really.",
+        "topic_id": 21,
+        "summary": "No, not really.",
+        "keywords": [
+            "really"
+        ],
+        "sentiment": -0.1
+    },
+    {
+        "start_time": 410.72,
+        "end_time": 412.96,
+        "text": "All right, and have you had any memory loss or confusion?",
+        "topic_id": 22,
+        "summary": "All right, and have you had any memory loss or confusion?",
+        "keywords": [
+            "memory",
+            "confusion",
+            "loss",
+            "right"
+        ],
+        "sentiment": 0.2857142857142857
+    },
+    {
+        "start_time": 418.16,
+        "end_time": 421.04,
+        "text": "No, nothing like that. Okay, and have you had any appetite loss or fatigue?",
+        "topic_id": 23,
+        "summary": "No, nothing like that. Okay, and have you had any appetite loss or fatigue?",
+        "keywords": [
+            "appetite",
+            "fatigue",
+            "like",
+            "loss",
+            "okay"
+        ],
+        "sentiment": 0.5
+    },
+    {
+        "start_time": 546.72,
+        "end_time": 548.56,
+        "text": "Nope. All right, and in the past, have you been diagnosed with any medical conditions? Um, well, and they say I have like some high cholesterol. I'm taking this medication like a statin. But other than that, you know. Okay, so do you take any other medications? Or is it just the statin? It's just the statin. Okay. And have you had any prior surgeries or hospitalizations? I did have an ACL repair just when I was probably 18. Okay, um, and do you have any allergies? No, not that I know. All right, and uh, are you immunizations up to date? Yep, can you tell me a little bit about where you're living and who you're living with? Yeah, so I just lived with my wife, you live in a small apartment. Okay, and are you working right now? Yeah, just a construction worker have been doing that for the last probably 10 years. Okay. And have you been around anybody who's been sick? Nope. Okay. And sorry, as a construction worker, I can't you have any, like anyure wounds to your hands or anything that like any like slivers or things that have like gone into the skin. So any puncture wounds like yeah, sometimes get splinters here and there but nothing like nothing recently that I can think of that has been anything worrying or significant.",
+        "topic_id": 24,
+        "summary": " Have you had any prior surgeries or hospitalizations? I did have an ACL repair just when I was probably 18 . Have you been around anybody who's been sick? Nope. Nope. And sorry, as a construction worker, I can't you have any puncture wounds to your hands",
+        "keywords": [
+            "cholesterol",
+            "statin",
+            "allergies",
+            "immunizations",
+            "diagnosed"
+        ],
+        "sentiment": 0.10333568605307733
+    },
+    {
+        "start_time": 554.8,
+        "end_time": 555.6,
+        "text": "All right. Okay. And have you travel anywhere recently?",
+        "topic_id": 25,
+        "summary": "All right. Okay. And have you travel anywhere recently?",
+        "keywords": [
+            "travel",
+            "recently",
+            "okay",
+            "right"
+        ],
+        "sentiment": 0.2619047619047619
+    },
+    {
+        "start_time": 561.6,
+        "end_time": 562.8,
+        "text": "No. Bit around anybody who's been sick. No. And do you smoke cigarettes?",
+        "topic_id": 26,
+        "summary": "No. Bit around anybody who's been sick. No. And do you smoke cigarettes?",
+        "keywords": [
+            "cigarettes",
+            "smoke",
+            "sick",
+            "anybody",
+            "bit"
+        ],
+        "sentiment": -0.7142857142857143
+    },
+    {
+        "start_time": 625.0,
+        "end_time": 626.0,
+        "text": "Yeah, smoke probably a pack of day for the last the last, I don't know, like 10 years. Okay, and do you smoke marijuana? No, not that much, probably just a couple times a month. Okay, and do you drink alcohol? Yeah, probably a couple of years a day. Okay, like one or two, a day? Yeah, probably one or two, sometimes three. Okay, and use any other recreational drugs, and or any IV drugs, and have you in the past? No, I haven't tried anything on the weed, and I don't want to try any other stuff. Okay, I see end.",
+        "topic_id": 27,
+        "summary": " Do you smoke marijuana? No, not that much, probably just a couple times a month . Do you drink alcohol? Yeah, probably a couple of years a day . No, I haven't tried anything on the weed, and I don't want to try any other stuff .",
+        "keywords": [
+            "weed",
+            "marijuana",
+            "smoke",
+            "drugs",
+            "just"
+        ],
+        "sentiment": 0.2
+    },
+    {
+        "start_time": 627.0,
+        "end_time": 637.0,
+        "text": "That's good. Then anybody in the family have any musculoskeletal or neurological conditions that run in the family?",
+        "topic_id": 28,
+        "summary": "That's good. Then anybody in the family have any musculoskeletal or neurological conditions that run in the family?",
+        "keywords": [
+            "family",
+            "neurological",
+            "musculoskeletal",
+            "good",
+            "conditions"
+        ],
+        "sentiment": 0.7
+    },
+    {
+        "start_time": 637.0,
+        "end_time": 639.0,
+        "text": "I'm not that I know all.",
+        "topic_id": 29,
+        "summary": "I'm not that I know all.",
+        "keywords": [
+            "know"
+        ],
+        "sentiment": 0.0
+    },
+    {
+        "start_time": 639.0,
+        "end_time": 641.0,
+        "text": "Okay.",
+        "topic_id": 30,
+        "summary": "Okay.",
+        "keywords": [
+            "okay"
+        ],
+        "sentiment": 0.5
+    },
+    {
+        "start_time": 641.0,
+        "end_time": 888.64,
+        "text": "And how about any autoimmune conditions like rheumatoid arthritis or hypothyroidism? Nope. Okay. And is anybody in the family had a dupetrance contracture before? No, I haven't. I haven't heard it though. Okay. Um, and so, uh, next I just wanted to go on to the physical exam portion. So just a couple more questions. Um, so when you're looking at your hand, uh, are you seeing any swelling, uh, redness? Not swelling, I just, yeah, just those nodules, and, I just see, just those nodules. And again, like, a little bit of whiteness around those nodules. So when I extend my fingers, okay. Yeah. But no redness. No. Okay. And are you, are you seeing any, like, muscle atrophy or any deformities of any of your joints in the fingers or the wrist? Nope. Okay. And are there any areas that you can palpate over your hand that causes pain? Yeah, there's just some discomfort like when I, at the bases of those two fingers, like if I press on the nodules, like it's sometimes a little bit uncomfortable, but it's not too bad, like I don't, but I don't have a pretty high pain threshold too, so it's hard to say. Okay, I see. And when you're extending your fingers with like passive extension to do it with your other hand, do you get a lot of pain like along the tendons with the passive extension, to do it with your other hand. Do you get a lot of pain along the tendons or the passive extension? Yeah, definitely I would say more painful than if I tried to extend it myself. Like just forcing it back, but not anything too, like it's not sharp or anything like that. Okay. And with the on the nodules and stuff, do you feel any like crepitations or like crackling or rubbing over those areas or your palm? Crackling and no, not that I have noticed. No. Okay, um, and any issues with your, uh, like wrist or, um, or elbow? No, not that I know. Okay, um, Um, so I think that's everything that I wanted to ask about today. Did you have anything that you wanted to add or did you have any questions? No, I think that's all. OK. So right now, it's like it's most likely something called dupetrins contracture. But also, you can't rule out, like Flex or Tino CiboBitis, just yet, or trigger finger. Based on the symptoms, but the fact that you're not having a fever, you don't have pain kind of along the tendon. You're not seeing any swelling or redness. That's all pointing away from the the tinocinovitis. But it'll be important to get some blood work and things to make sure that we're not missing that. But for DuPage, DuPage",
+        "topic_id": 31,
+        "summary": " DuPage, DuPage says it's most likely something called dupetrins contracture . But also, you can't rule out, like Flex or Tino CiboBitis, just yet, or trigger finger .",
+        "keywords": [
+            "arthritis",
+            "rheumatoid",
+            "nodules",
+            "symptoms",
+            "swelling"
+        ],
+        "sentiment": 0.1335749299719888
+    },
+    {
+        "start_time": 888.64,
+        "end_time": 911.0,
+        "text": "Trins Contractor, it'll be doing what we can with therapy to try at like physiotherapy and and activity modification to try and loosen those structures on the palm of your hand.",
+        "topic_id": 32,
+        "summary": " Trins Contractor, it'll be doing what we can with therapy to try at physiotherapy and and activity modification to try and loosen those structures .",
+        "keywords": [
+            "palm",
+            "physiotherapy",
+            "hand",
+            "trins",
+            "loosen"
+        ],
+        "sentiment": 0.0
+    },
+    {
+        "start_time": 911.0,
+        "end_time": 913.0,
+        "text": "Okay, sounds good.",
+        "topic_id": 33,
+        "summary": "Okay, sounds good.",
+        "keywords": [
+            "okay",
+            "sounds",
+            "good"
+        ],
+        "sentiment": 0.6
+    }
+]

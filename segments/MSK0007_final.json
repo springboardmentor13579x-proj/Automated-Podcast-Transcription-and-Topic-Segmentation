@@ -1,0 +1,473 @@
+[
+    {
+        "start_time": 0.0,
+        "end_time": 42.36,
+        "text": "how may I help you? Hi I'm yes I've had this pain in my left elbow for a couple of weeks now and it's not getting any better so I'm just here to kind of figure out what it is. Okay are you feeling this pain on the lateral side of the elbow or on the the media or side of the elbow. It's on the media or side. Okay, and sorry, when did this paint exactly? on the lateral side of the elbow, on the middle side of the elbow, it's on the medial side. Okay, and sorry, what did this painting exactly start? So it's been ongoing for like the past three months, but it's gotten worse over the last I'd say three weeks.",
+        "topic_id": 1,
+        "summary": " How may I help you? Hi I've had this pain in my left elbow for a couple of weeks now and it's not getting any better so I'm just here to kind of figure out what it is . Okay are you feeling this pain on the lateral side of the elbow or",
+        "keywords": [
+            "elbow",
+            "painting",
+            "paint",
+            "pain",
+            "medial"
+        ],
+        "sentiment": 0.10357142857142858
+    },
+    {
+        "start_time": 42.36,
+        "end_time": 44.36,
+        "text": "Okay.",
+        "topic_id": 2,
+        "summary": "Okay.",
+        "keywords": [
+            "okay"
+        ],
+        "sentiment": 0.5
+    },
+    {
+        "start_time": 44.36,
+        "end_time": 62.0,
+        "text": "And has the pain been getting worse. Any better? Ah, the pain's been getting worse. Yeah. Okay. Was there any triggers or precipitating events to",
+        "topic_id": 3,
+        "summary": "And has the pain been getting worse. Any better? Ah, the pain's been getting worse. Yeah. Okay. Was there any triggers or precipitating events to",
+        "keywords": [
+            "pain",
+            "precipitating",
+            "worse",
+            "triggers",
+            "better"
+        ],
+        "sentiment": 0.04999999999999999
+    },
+    {
+        "start_time": 62.0,
+        "end_time": 67.0,
+        "text": "the pain, such as like a fall or any types of trauma to the elbow?",
+        "topic_id": 4,
+        "summary": "the pain, such as like a fall or any types of trauma to the elbow?",
+        "keywords": [
+            "elbow",
+            "trauma",
+            "pain",
+            "fall",
+            "like"
+        ],
+        "sentiment": 0.0
+    },
+    {
+        "start_time": 67.0,
+        "end_time": 70.0,
+        "text": "No, no, not that I can think of.",
+        "topic_id": 5,
+        "summary": "No, no, not that I can think of.",
+        "keywords": [
+            "think"
+        ],
+        "sentiment": 0.0
+    },
+    {
+        "start_time": 70.0,
+        "end_time": 75.0,
+        "text": "Have you had any pain or injury to the elbow in the past?",
+        "topic_id": 6,
+        "summary": "Have you had any pain or injury to the elbow in the past?",
+        "keywords": [
+            "elbow",
+            "injury",
+            "pain",
+            "past"
+        ],
+        "sentiment": -0.25
+    },
+    {
+        "start_time": 75.0,
+        "end_time": 77.0,
+        "text": "No.",
+        "topic_id": 7,
+        "summary": "No.",
+        "keywords": [],
+        "sentiment": 0.0
+    },
+    {
+        "start_time": 78.0,
+        "end_time": 84.0,
+        "text": "Could you describe the character of the pain as a sharp, achy or dull?",
+        "topic_id": 8,
+        "summary": "Could you describe the character of the pain as a sharp, achy or dull?",
+        "keywords": [
+            "pain",
+            "dull",
+            "sharp",
+            "character",
+            "achy"
+        ],
+        "sentiment": -0.20833333333333334
+    },
+    {
+        "start_time": 84.0,
+        "end_time": 190.68,
+        "text": "It's usually achy, but it can be sharp. Okay. Does the pain radiate anywhere? No, it's pretty, it's pretty much in that one area. Okay, just on the medial side of the left elbow. Yeah. Okay. And is there anything that you've done to help make the pain go away or any alleviating factors? Um, I've taken some NSAIDs that helps with the pain temporarily. Okay. And um, are there any factors that make the pain worse? When I, I guess when I like extend my elbow out, it gets okay so it's a movement um okay straightening the elbow yeah okay and what is the severity of the pain on a scale I want to tend with 10 being the worst pain you've ever felt Um, I'd say about five. Okay. And, um, uh, to do, do you have any other symptoms associated with the elbow pain? Um, no, um, not really. I, um, otherwise pretty healthy. Okay. So have you had any",
+        "topic_id": 9,
+        "summary": " The pain is usually achy, but it can be sharp . The pain radiates in the medial side of the left elbow . Do you have any other symptoms associated with the elbow pain?",
+        "keywords": [
+            "elbow",
+            "symptoms",
+            "pain",
+            "nsaids",
+            "medial"
+        ],
+        "sentiment": 0.1880952380952381
+    },
+    {
+        "start_time": 190.68,
+        "end_time": 199.52,
+        "text": "fevers or chills? No. Have you had any, uh, night sweats? No. Any, uh, any weight loss?",
+        "topic_id": 10,
+        "summary": "fevers or chills? No. Have you had any, uh, night sweats? No. Any, uh, any weight loss?",
+        "keywords": [
+            "fevers",
+            "sweats",
+            "chills",
+            "night",
+            "weight"
+        ],
+        "sentiment": 0.0
+    },
+    {
+        "start_time": 199.52,
+        "end_time": 225.0,
+        "text": "No. Okay. Have you had any, uh, any headaches? No. Any sensory changes like changes to your vision or hearing or even your smile or taste? No. Okay. Have you had any high redness or eye discharge or your ear pain? No. Okay.",
+        "topic_id": 11,
+        "summary": " Have you had any high redness or eye discharge or ear pain? No. No. Any sensory changes like changes to your vision or hearing or even your smile or taste?",
+        "keywords": [
+            "headaches",
+            "ear",
+            "pain",
+            "redness",
+            "sensory"
+        ],
+        "sentiment": -0.05800000000000001
+    },
+    {
+        "start_time": 225.0,
+        "end_time": 227.0,
+        "text": "Have you had a runny nose or a sore throat?",
+        "topic_id": 12,
+        "summary": "Have you had a runny nose or a sore throat?",
+        "keywords": [
+            "throat",
+            "runny",
+            "nose",
+            "sore"
+        ],
+        "sentiment": 0.0
+    },
+    {
+        "start_time": 228.0,
+        "end_time": 230.0,
+        "text": "No. No.",
+        "topic_id": 13,
+        "summary": "No. No.",
+        "keywords": [],
+        "sentiment": 0.0
+    },
+    {
+        "start_time": 231.0,
+        "end_time": 233.0,
+        "text": "Have you had a cough or a shortness of breath?",
+        "topic_id": 14,
+        "summary": "Have you had a cough or a shortness of breath?",
+        "keywords": [
+            "breath",
+            "cough",
+            "shortness"
+        ],
+        "sentiment": 0.0
+    },
+    {
+        "start_time": 234.0,
+        "end_time": 235.0,
+        "text": "No.",
+        "topic_id": 15,
+        "summary": "No.",
+        "keywords": [],
+        "sentiment": 0.0
+    },
+    {
+        "start_time": 235.0,
+        "end_time": 237.0,
+        "text": "Have you had any breathing?",
+        "topic_id": 16,
+        "summary": "Have you had any breathing?",
+        "keywords": [
+            "breathing"
+        ],
+        "sentiment": 0.0
+    },
+    {
+        "start_time": 237.0,
+        "end_time": 238.0,
+        "text": "No.",
+        "topic_id": 17,
+        "summary": "No.",
+        "keywords": [],
+        "sentiment": 0.0
+    },
+    {
+        "start_time": 238.0,
+        "end_time": 240.0,
+        "text": "Okay. Have you had any chest pain?",
+        "topic_id": 18,
+        "summary": "Okay. Have you had any chest pain?",
+        "keywords": [
+            "chest",
+            "pain",
+            "okay"
+        ],
+        "sentiment": 0.5
+    },
+    {
+        "start_time": 241.0,
+        "end_time": 242.0,
+        "text": "No.",
+        "topic_id": 19,
+        "summary": "No.",
+        "keywords": [],
+        "sentiment": 0.0
+    },
+    {
+        "start_time": 242.0,
+        "end_time": 468.0,
+        "text": "Any lightheadedness or a dizziness? No. If you had any heart palpitations? No. Okay. And have you had any nausea vomiting? No. Have you had any abdominal pain? No. Any diarrhea or constipation? No. Have you had any urinary problems? No. Okay. Have you had any skin rashes? No. No. Okay. Have you had any numbness or tingling? No. And how about any muscle weakness? No. Okay. And any joint pains anywhere else? No. Okay. And any changes to your memory or any confusion? No. Okay. And have you had any fatigue? No. Okay. And I'll say have you had any changes to your appetite? No. Okay. And I'll say, have you had any changes to your appetite? No. Okay. And have you been diagnosed with any medical conditions in the past? No. Okay, so do you take any medications either prescribed or over the counter? No, I just take some multivitaments. Okay, and do you have any allergies to medications? Um, no. Okay, and have you had any hospitalizations or prior surgeries? I had a fracture when I was younger. It was in my humorous bone on the right side. Okay, so the fracture was on the other arm? Yes. Okay, what that, okay. And did that heal, okay? Yes. All right, so can you tell me about your living situation? Currently, like, whereabouts, and you're living with? I live with my partner of five years, so we live in an apartment together. Okay, and are you working currently? I am. And what do you do? I work on the assembly line for Chrysler. Okay, and do you do repetitive tasks at work? I do. Okay. And do you notice this pain after more so after shift or after a long day? Yes, definitely. Okay, and what types of hobbies do you have? Do you play golf or tennis or any kind of like sports, I guess? Yeah, I used to play golf before this pain in my arm in my elbow. So I haven't played it in the past like six months. Okay. Okay. And do you smoke cigarettes? I don't. And do you drink alcohol? I'll have a glass of wine every other day.",
+        "topic_id": 20,
+        "summary": " Have you had any lightheadedness or a dizziness? No. If you've had any heart palpitations, no. Any diarrhea or constipation? No . Have you been diagnosed with any medical conditions in the past? No, I just take some multivitaments .",
+        "keywords": [
+            "fracture",
+            "dizziness",
+            "diagnosed",
+            "numbness",
+            "nausea"
+        ],
+        "sentiment": 0.10360389610389611
+    },
+    {
+        "start_time": 468.0,
+        "end_time": 475.0,
+        "text": "Okay, how about the use of any recreational drugs like cannabis or anything else?",
+        "topic_id": 21,
+        "summary": "Okay, how about the use of any recreational drugs like cannabis or anything else?",
+        "keywords": [
+            "cannabis",
+            "recreational",
+            "drugs",
+            "okay",
+            "use"
+        ],
+        "sentiment": 0.5
+    },
+    {
+        "start_time": 475.0,
+        "end_time": 479.0,
+        "text": "I'll smoke a joint once a week.",
+        "topic_id": 22,
+        "summary": "I'll smoke a joint once a week.",
+        "keywords": [
+            "joint",
+            "smoke",
+            "week",
+            "ll"
+        ],
+        "sentiment": 0.0
+    },
+    {
+        "start_time": 479.0,
+        "end_time": 481.0,
+        "text": "Okay.",
+        "topic_id": 23,
+        "summary": "Okay.",
+        "keywords": [
+            "okay"
+        ],
+        "sentiment": 0.5
+    },
+    {
+        "start_time": 481.0,
+        "end_time": 565.52,
+        "text": "Is there any family history of any harder lung problems? No. Thanks for watching, and I'll see you in the next video,. How would any autoimmune diseases like thyroid disease or diabetes? No. Okay. And so next I would wanted to walk through a physical exam. So when you look at the elbow yourself, do you see any swelling or redness? No. Okay. Does it look like there is any muscle atrophy? Either in the forearm forearm or the biceps or triceps? No. Okay, and how about any misalignment or joint deformity? No, I don't see any of that. Okay, and are there any scars? No. Okay, And when you press on the medial part of the elbow, do you feel pain? I do. How about over the electron or the, yeah, any pain over the electron on? I a little bit. Okay, and is there any paint over the lacquer on? Uh, a little bit.",
+        "topic_id": 24,
+        "summary": " Does it look like there is any muscle atrophy? Is there any family history of any harder lung problems? No. How would any autoimmune diseases like thyroid disease or diabetes? No .",
+        "keywords": [
+            "elbow",
+            "forearm",
+            "swelling",
+            "lung",
+            "atrophy"
+        ],
+        "sentiment": -0.044230769230769226
+    },
+    {
+        "start_time": 566.32,
+        "end_time": 566.88,
+        "text": "Okay.",
+        "topic_id": 25,
+        "summary": "Okay.",
+        "keywords": [
+            "okay"
+        ],
+        "sentiment": 0.5
+    },
+    {
+        "start_time": 567.44,
+        "end_time": 571.12,
+        "text": "And is there any paint over the lateral part of the elbow?",
+        "topic_id": 26,
+        "summary": "And is there any paint over the lateral part of the elbow?",
+        "keywords": [
+            "elbow",
+            "paint",
+            "lateral"
+        ],
+        "sentiment": 0.0
+    },
+    {
+        "start_time": 571.36,
+        "end_time": 572.08,
+        "text": "No.",
+        "topic_id": 27,
+        "summary": "No.",
+        "keywords": [],
+        "sentiment": 0.0
+    },
+    {
+        "start_time": 573.92,
+        "end_time": 574.4,
+        "text": "Okay.",
+        "topic_id": 28,
+        "summary": "Okay.",
+        "keywords": [
+            "okay"
+        ],
+        "sentiment": 0.5
+    },
+    {
+        "start_time": 574.4,
+        "end_time": 578.88,
+        "text": "And any paint over the forearm or biceps or triceps muscles?",
+        "topic_id": 29,
+        "summary": "And any paint over the forearm or biceps or triceps muscles?",
+        "keywords": [
+            "biceps",
+            "forearm",
+            "paint",
+            "muscles",
+            "triceps"
+        ],
+        "sentiment": 0.0
+    },
+    {
+        "start_time": 579.92,
+        "end_time": 580.56,
+        "text": "Uh, no.",
+        "topic_id": 30,
+        "summary": "Uh, no.",
+        "keywords": [
+            "uh"
+        ],
+        "sentiment": 0.0
+    },
+    {
+        "start_time": 582.32,
+        "end_time": 582.88,
+        "text": "Okay.",
+        "topic_id": 31,
+        "summary": "Okay.",
+        "keywords": [
+            "okay"
+        ],
+        "sentiment": 0.5
+    },
+    {
+        "start_time": 583.36,
+        "end_time": 726.72,
+        "text": "And does the joint feel like it's hot? No. Okay, and any pain with shoulder or elbow movements? No. Actually, sorry, with the elbow, when I straighten it out all all the way it hurts a little bit. Okay when you're straightening it out all the way okay uh but no pain with with shoulder movements and full range of motion. No no pain with shoulder. Okay um and how about um pain with pronation and supination with pronation at hurts okay at the medial side yes okay and how about with wrist. So with resisted, um, uh, yeah, wrist, uh, flexion, wrist flexion. Yeah, that hurts too. Okay. And then how about if you passively extend your, your wrist is far you can go down, yes, that hurts too. And is there any numbness or tingling anywhere? Um, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, it Certainly it it sounds like with the media aspect of your elbow Having pain there last several months and so the physical exam maneuvers, such as passive risk",
+        "topic_id": 32,
+        "summary": " Does the joint feel like it's hot? No. No. pain with shoulder or elbow movements? No pain with with shoulder movements and full range of motion . Pain with pronation and supination at hurts okay at the medial side yes okay .",
+        "keywords": [
+            "joint",
+            "straightening",
+            "wrist",
+            "elbow",
+            "shoulder"
+        ],
+        "sentiment": 0.19840167548500884
+    },
+    {
+        "start_time": 726.72,
+        "end_time": 732.6,
+        "text": "extension, resisted risk flexion, as well as pronation, and the point tenderness over",
+        "topic_id": 33,
+        "summary": "extension, resisted risk flexion, as well as pronation, and the point tenderness over",
+        "keywords": [
+            "tenderness",
+            "flexion",
+            "pronation",
+            "resisted",
+            "extension"
+        ],
+        "sentiment": 0.0
+    },
+    {
+        "start_time": 732.6,
+        "end_time": 785.44,
+        "text": "the medial elbow, there's could be a medial epiconolitis or a tendonopathy in that area. And so, this is tip, tip, tip, tip, tip, tip, tip, tip, tip, tip, tip, tip, tip, tip, tip, tip, tip, tip, tip, tip, tip, tip, tip, tip, tip, tip, tip, tip, tip, tip, tip, tip, tip, tip, tip, tip, tip, tip, tip, tip, tip, tip, tip, tip, tip, tip, tip, tip, tip, tip, tip, tip, tip, tip, tip, tip, tip, tip, tip, tip, tip, tip, tip, tip, tip, tip, tip, tip, tip, tip, tip, tip, tip, tip, tip, tip, tip, tip, tip, tip, tip, tip, tip, tip, tip, tip, tip, tip, tip, tip, tip, tip, tip, tip, tip, tip, tip, tip, tip, tip, tip, tip, tip, tip, tip, tip, tip, tip, tip, tip, tip, tip, tip, tip, tip, tip, tip, tip, tip, tip, tip, tip, tip, tip, tip, tip, tip, tip, tip, tip, tip, tip, tip, tip, tip, tip, tip, tip, tip, tip, tip, tip, tip, tip, tip, tip, tip, tip, tip, tip, tip, tip, tip, tip, tip, tip, tip, tip, tip, tip, tip, tip, tip, tip, tip, tip, tip, tip, tip, tip, tip, tip, tip, tip, tip, tip, tip, tip, tip, tip, tip, tip, tip, tip, tip, tip, tip, tip, tip, tip, tip, tip, tip, tip, tip, tip, tip, tip, tip, tip, tip, tip, tip, tip, tip, tip, tip, tip, tip, tip, tip, tip, tip, tip, and so this is typically treated with activity modification, so this could be trying to avoid repetitive movements that cause pain and using medications such as Advil and Tylenol and doing strengthening and stretching exercises which you can learn from a physiotherapist or on your own as well. And also other things that the medial side of the elbow that it could be is an",
+        "topic_id": 34,
+        "summary": " The medial elbow, there's could be a medial epiconolitis or a tendonopathy in that area . This is typically treated with activity modification . This could be trying to avoid repetitive movements that cause pain .",
+        "keywords": [
+            "medial",
+            "tendonopathy",
+            "elbow",
+            "epiconolitis",
+            "stretching"
+        ],
+        "sentiment": 0.011666666666666669
+    },
+    {
+        "start_time": 785.44,
+        "end_time": 807.0,
+        "text": "ulnar ligament injury or yeah the other thing to be considering is an ulnar ligament injury and so if the pain isn't going away then we might consider an ultrasound or something to look at this structure.",
+        "topic_id": 35,
+        "summary": " The other thing to be considering is an ulnar ligament injury . If the pain isn't going away then we might consider an ultrasound or something to look at this structure .",
+        "keywords": [
+            "ligament",
+            "injury",
+            "pain",
+            "ultrasound",
+            "ulnar"
+        ],
+        "sentiment": -0.125
+    },
+    {
+        "start_time": 807.0,
+        "end_time": 810.0,
+        "text": "There.",
+        "topic_id": 36,
+        "summary": "There.",
+        "keywords": [],
+        "sentiment": 0.0
+    },
+    {
+        "start_time": 810.0,
+        "end_time": 812.0,
+        "text": "Okay, that sounds great. Thank you.",
+        "topic_id": 37,
+        "summary": "Okay, that sounds great. Thank you.",
+        "keywords": [
+            "great",
+            "okay",
+            "sounds",
+            "thank"
+        ],
+        "sentiment": 0.65
+    }
+]

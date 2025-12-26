@@ -1,0 +1,14 @@
+[
+    {
+        "start_time": 0.0,
+        "end_time": 1.0,
+        "text": "Um, black.",
+        "topic_id": 1,
+        "summary": "Um, black.",
+        "keywords": [
+            "black",
+            "um"
+        ],
+        "sentiment": -0.16666666666666666
+    }
+]

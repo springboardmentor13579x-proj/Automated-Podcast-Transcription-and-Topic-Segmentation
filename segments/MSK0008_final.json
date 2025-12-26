@@ -1,0 +1,302 @@
+[
+    {
+        "start_time": 0.0,
+        "end_time": 23.88,
+        "text": "help you. Hi Chris, so I was playing soccer the other day and I got kicked in the knee and since then my knee has been hurting and it looks a little bit red and a little bit swollen on the a medial aspect of my right knee.",
+        "topic_id": 1,
+        "summary": " I was playing soccer the other day and I got kicked in the knee and since then my knee has been hurting and it looks a little bit red and a little . bit swollen on the a medial aspect of my right knee . help you. help you .",
+        "keywords": [
+            "knee",
+            "swollen",
+            "medial",
+            "hurting",
+            "red"
+        ],
+        "sentiment": -0.04285714285714286
+    },
+    {
+        "start_time": 25.88,
+        "end_time": 26.72,
+        "text": "Okay.",
+        "topic_id": 2,
+        "summary": "Okay.",
+        "keywords": [
+            "okay"
+        ],
+        "sentiment": 0.5
+    },
+    {
+        "start_time": 28.68,
+        "end_time": 113.0,
+        "text": "And... on the medial aspect of my right knee, okay, and this started right after the kick at soccer? Yes. Okay, and how many days ago was this? This was two days ago. Okay, since then as the pain didn't get any better or worse or staying the same. No, it's staying the same or a little bit worse. Okay. Um, could you describe the pain? Is it sharp, achy? a pretty sharp okay um and do you feel the pain radiate anywhere like down the leg or or up into the thigh I know okay um any pain that the post-year your aspect of the knee or the lateral aspect? No. Okay. Um, and is there anything that makes the, uh, pain worse? Um, I guess if I press on that area or I try to, um, I don't know, flex or extend my knee too much.",
+        "topic_id": 3,
+        "summary": " The pain started on the medial aspect of his right knee, okay, and this started right after the kick at soccer? Yes. This was two days ago. Since then as the pain didn't get any better or worse or staying the same . No. I guess if I press on",
+        "keywords": [
+            "knee",
+            "pain",
+            "medial",
+            "leg",
+            "thigh"
+        ],
+        "sentiment": 0.13538059163059166
+    },
+    {
+        "start_time": 113.0,
+        "end_time": 115.0,
+        "text": "Okay.",
+        "topic_id": 4,
+        "summary": "Okay.",
+        "keywords": [
+            "okay"
+        ],
+        "sentiment": 0.5
+    },
+    {
+        "start_time": 115.0,
+        "end_time": 122.0,
+        "text": "And anything that you've tried to make the pain better?",
+        "topic_id": 5,
+        "summary": "And anything that you've tried to make the pain better?",
+        "keywords": [
+            "pain",
+            "ve",
+            "tried",
+            "better",
+            "make"
+        ],
+        "sentiment": 0.5
+    },
+    {
+        "start_time": 122.0,
+        "end_time": 147.0,
+        "text": "I'm some ice helps. Okay. And have you you've noticed swelling over the area? Just a little bit. Okay, and redness as well? Yes. Okay. And what would you say the severity of the pain",
+        "topic_id": 6,
+        "summary": " Have you you've noticed swelling over the area? Just a little bit. Okay, and redness as well? Yes. I'm some ice helps .",
+        "keywords": [
+            "swelling",
+            "ice",
+            "pain",
+            "redness",
+            "severity"
+        ],
+        "sentiment": 0.328125
+    },
+    {
+        "start_time": 147.0,
+        "end_time": 149.84,
+        "text": "is a tad being the worst pain that you've ever felt",
+        "topic_id": 7,
+        "summary": "is a tad being the worst pain that you've ever felt",
+        "keywords": [
+            "pain",
+            "worst",
+            "tad",
+            "felt",
+            "ve"
+        ],
+        "sentiment": -1.0
+    },
+    {
+        "start_time": 149.84,
+        "end_time": 153.64,
+        "text": "and one being low intensity pain?",
+        "topic_id": 8,
+        "summary": "and one being low intensity pain?",
+        "keywords": [
+            "pain",
+            "intensity",
+            "low"
+        ],
+        "sentiment": 0.0
+    },
+    {
+        "start_time": 155.24,
+        "end_time": 157.32,
+        "text": "I give it about a five.",
+        "topic_id": 9,
+        "summary": "I give it about a five.",
+        "keywords": [],
+        "sentiment": 0.0
+    },
+    {
+        "start_time": 159.64,
+        "end_time": 250.0,
+        "text": "Okay, and if you have any injuries or any knee pain before? No. Okay. And at the time of the injury, did you hear a pop sound or any kind of sounds like that? I don't recall. Okay, and how about any difficulties walking or having any knee instability? Um, a little bit only when I like try to extend or flex my knee too much. Okay, and I'm all right, so have you been experiencing any other symptoms? No. All right, just to be calm, we're going to run through a review. So have you been having any headaches? No. Any sensory changes like changes to vision, hearing, spell, or taste? No. Okay. Any eye symptoms or ear symptoms? No. Have you had a runny nose or sore throat? roads, we had a cough, no, any shortness of breath?",
+        "topic_id": 10,
+        "summary": " Have you been experiencing any other symptoms? No. Have you had a runny nose or sore throat? No, we had a cough, no, any shortness of breath? No . Did you hear a pop sound or any kind of sounds like that? I don't recall.",
+        "keywords": [
+            "symptoms",
+            "knee",
+            "headaches",
+            "pain",
+            "injuries"
+        ],
+        "sentiment": 0.1968406593406593
+    },
+    {
+        "start_time": 250.0,
+        "end_time": 251.0,
+        "text": "No.",
+        "topic_id": 11,
+        "summary": "No.",
+        "keywords": [],
+        "sentiment": 0.0
+    },
+    {
+        "start_time": 251.0,
+        "end_time": 253.0,
+        "text": "Have you had any wheezing?",
+        "topic_id": 12,
+        "summary": "Have you had any wheezing?",
+        "keywords": [
+            "wheezing"
+        ],
+        "sentiment": 0.0
+    },
+    {
+        "start_time": 253.0,
+        "end_time": 254.0,
+        "text": "No.",
+        "topic_id": 13,
+        "summary": "No.",
+        "keywords": [],
+        "sentiment": 0.0
+    },
+    {
+        "start_time": 254.0,
+        "end_time": 256.0,
+        "text": "Have you had any chest pain?",
+        "topic_id": 14,
+        "summary": "Have you had any chest pain?",
+        "keywords": [
+            "chest",
+            "pain"
+        ],
+        "sentiment": 0.0
+    },
+    {
+        "start_time": 256.0,
+        "end_time": 257.0,
+        "text": "No.",
+        "topic_id": 15,
+        "summary": "No.",
+        "keywords": [],
+        "sentiment": 0.0
+    },
+    {
+        "start_time": 257.0,
+        "end_time": 260.0,
+        "text": "Any heart palpitations or heart racing?",
+        "topic_id": 16,
+        "summary": "Any heart palpitations or heart racing?",
+        "keywords": [
+            "palpitations",
+            "heart",
+            "racing"
+        ],
+        "sentiment": 0.0
+    },
+    {
+        "start_time": 260.0,
+        "end_time": 261.0,
+        "text": "No.",
+        "topic_id": 17,
+        "summary": "No.",
+        "keywords": [],
+        "sentiment": 0.0
+    },
+    {
+        "start_time": 261.0,
+        "end_time": 262.0,
+        "text": "Okay.",
+        "topic_id": 18,
+        "summary": "Okay.",
+        "keywords": [
+            "okay"
+        ],
+        "sentiment": 0.5
+    },
+    {
+        "start_time": 262.0,
+        "end_time": 264.0,
+        "text": "Have you had any fainting or dizziness?",
+        "topic_id": 19,
+        "summary": "Have you had any fainting or dizziness?",
+        "keywords": [
+            "dizziness",
+            "fainting"
+        ],
+        "sentiment": 0.0
+    },
+    {
+        "start_time": 264.0,
+        "end_time": 270.0,
+        "text": "I know. All right. Have you had any... Uh-huh.",
+        "topic_id": 20,
+        "summary": "I know. All right. Have you had any... Uh-huh.",
+        "keywords": [
+            "know",
+            "right",
+            "uh",
+            "huh"
+        ],
+        "sentiment": 0.2857142857142857
+    },
+    {
+        "start_time": 270.0,
+        "end_time": 293.0,
+        "text": "Uh-huh. Uh-huh. Uh-huh. Uh-huh. Uh-huh. Uh-huh. Uh-huh. Uh-huh. Uh-huh. Uh-huh. Uh-huh. Uh-huh. Uh-huh. Uh-huh. Uh-huh. Uh-huh. Uh-huh. Uh-huh. Uh-huh. Uh-huh. Uh-huh. Uh-huh. Uh-huh.",
+        "topic_id": 21,
+        "summary": "Uh-huh. Uh-huh. Uh-huh. Uh-huh. Uh-huh. Uh-huh. Uh-huh. Uh-huh. Uh-huh. Uh-huh. Uh-huh. Uh-huh. Uh-huh. Uh-huh. Uh-huh. Uh-huh. Uh-huh. Uh-huh. Uh-huh. Uh-huh. Uh-huh. Uh-huh. Uh-huh.",
+        "keywords": [
+            "huh",
+            "uh"
+        ],
+        "sentiment": 0.0
+    },
+    {
+        "start_time": 293.0,
+        "end_time": 309.92,
+        "text": "Uh-huh. Uh-huh. Uh- have you had any abdominal pain? I know. Any I change the bowel habits like diarrhea, constipation? No. Okay, have you had any urinary problems like pain or frequency? No. All right, and have you had any skin changes, such as brat, rashes or anything",
+        "topic_id": 22,
+        "summary": " Have you had any bowel habits like diarrhea, constipation? No. No. Have had any urinary problems like pain or frequency? No . Have you ever had any skin changes, such as brat, rashes or anything?",
+        "keywords": [
+            "bowel",
+            "constipation",
+            "diarrhea",
+            "abdominal",
+            "changes"
+        ],
+        "sentiment": 0.011904761904761899
+    },
+    {
+        "start_time": 309.92,
+        "end_time": 509.04,
+        "text": "like that? No. Okay, any joint pains anywhere else? I know. Okay, and any fatig? No. Okay, um, uh, and any fatigue? No. Okay. Um, and, uh, in the past, uh, have you had, or have you been diagnosed with any medical conditions? I know. Okay, do you have any, uh, allergies to medications? No, no, not that I know of. Are you currently taking any medications? No. All right, and have you had any surgeries or hospitalizations before? No. Okay. And, um, can you tell me a little bit about your living situation, like, who're living with and whereabouts? Sure. Um, I live with both my parents and, uh, three of my siblings. Okay. I am. Are you going to school? I am. I'm in my last year of grade 12. Okay. Uh, that's good. How has that been going? Um, it's okay. We've been doing part of mine part in person. Okay. Have you been around anybody who's been sick? No. All right. Tim. Can you play soccer? Do you play any other sports? And I play football. Okay, cool. And any injuries before to your knee or anything like that? No, not in the past. All right. And do you smoke cigarettes? No. Do, do you drink alcohol? No. Okay. Um, and do you use any recreational drugs like marijuana or, um, anything else? No. Okay. Um, are you currently sexually active? I am. Okay. Are you in a relationship? I am. I've been together for a year. Okay. Okay. Okay. Are you in a relationship? I am. We've been together for a year. Okay. Is there any concern for sexually transmitted infection? No, we were both tested. Okay. Great. And any chance that you could be pregnant? No. Okay. And in the family, are there any musculoskeletal or neurological conditions? No. Okay. And so that was everything I wanted to ask on history, so for the physical exam, when inspecting the knee, are you seeing any joint effusions or joint swelling or Atmosis are bruising. Um, it looks, oh, it's not a bruise, it looks red.",
+        "topic_id": 23,
+        "summary": " Tim is in his last year of grade 12 . Tim says he lives with his parents and three of his siblings . He says he's in a relationship with his girlfriend and is sexually active .",
+        "keywords": [
+            "pains",
+            "diagnosed",
+            "fatigue",
+            "joint",
+            "sick"
+        ],
+        "sentiment": 0.16706478045763756
+    },
+    {
+        "start_time": 509.04,
+        "end_time": 871.04,
+        "text": "And... or joint swelling, or echamosis or bruising? Um, it looks, oh, it's not a bruise, it looks red. And I would say it's a little bit swollen on the medial aspect, don't we? Okay, is there any muscle atrophy? Uh, no. Okay, and is there any, um, Misalignment or joint deformities? No, not that I noticed. Okay. And on gates, or walking, is there any limb for antelgia? I know. If you're able to walk normally. I'm able to walk normally. It hurts, but I think I'm walking okay. Okay. And next is, or any changes to temperature, like does the joint itself feel hot? No. Okay, and are there any areas of the joint line itself of the knee that is painted to palpation? it just the medial part of it like the I guess where the ligament would be okay so just let me okay and any pain over the petala no any pain over the uh... tibial tuberosity or petaller tendon no Any pain over pain over the, uh, Tibio's uberosity or patella tendon? No. Any pain over your, over the, uh, fibular head or the lateral part of the knee? No. Any pain on the calf or the thigh muscles? No. Any pain on the hamstring muscles? No. Okay. And is there any pain to a, like, various stress of the knee? To the various, just, I guess there would be pain if I pressed down in that area. Okay and is there any joint yeah joint laxity or pain to like a valgus stress of the knee? Yeah so when I press when I do that it hurts on the medial aspect, but not the lateral aspect. Okay. And does it feel as though there's some like the joints opening more when you put the valgus stress? A little bit, yes. Okay. And is there any instability moving that tibia anteriorly, if you're to like pull it outwards, um, no, and how about if you pull the tibia posteriorly any instability? No. Okay. And is there full range of motion of the knee? Yes. And full range of motion of the hip and ankle? Yes. Okay. And then do you have any like numbness, tingling, or muscle weakness? No. Okay. And any sensory changes to the skin? No. Okay. And reflexes are normal. Okay. Um, so I think that was everything I wanted to ask and kind of go through on the physical exam. Did you have any other questions or anything that maybe I forgot to mention today? Uh, no, that was it. Just, um, what can I do about my, um, my knee? Um, yeah. So right now, uh, it's sounding like this could be, um, an MCL or medial collateral ligament, uh, strain, um, or, um, injury. And so, um, these types of injuries are usually treated conservatively, like with things like NSAIDs or anti-inflammatories to help the pain and swelling. If the pain depending on how severe it is, it might be useful to use maybe crutches for a day or two to try to try to help let the paints subside and allow you to be able to do some physical therapy exercises like strengthening the quadriceps and hamstring muscles. But typically injuries is that our lower grade, what we'll heal within two weeks, and so if it's more severe, it could take a bit longer. And although it's most likely an MSTL injury that you're describing, It could be a medial meniscal injury as well. Or possibly even a incursitis at the medial aspect of the knee. But the treatment to start with will be the same and maybe we'll get a new X-ray if things aren't improving.",
+        "topic_id": 24,
+        "summary": " Is there any muscle atrophy or joint deformities? No, not that I noticed. And... or joint swelling, or echamosis or bruising? Um, it looks, oh, it's a little bit swollen on the medial aspect, don't we? Okay, is there",
+        "keywords": [
+            "swelling",
+            "knee",
+            "joints",
+            "patella",
+            "ligament"
+        ],
+        "sentiment": 0.18084799361395104
+    }
+]

@@ -1,0 +1,404 @@
+[
+    {
+        "start_time": 0.0,
+        "end_time": 1.76,
+        "text": "What brings you in here today?",
+        "topic_id": 1,
+        "summary": "What brings you in here today?",
+        "keywords": [
+            "brings",
+            "today"
+        ],
+        "sentiment": 0.0
+    },
+    {
+        "start_time": 1.76,
+        "end_time": 85.36,
+        "text": "I've had this pain in my back. That's kind of like in my lower back, in my buttocks, and it's now radiating down to my right leg. I've had this for a while now, but it's getting worse, and I just wanna come get a check-out. Okay, and how long have you had this painful? It's about a month. Okay, and has gone worse at all. Like, did you have the iterating to your like before? Is that something that happened after? That's something that happened after. That's been going on for the past week. Okay, and is this pain constant or does it come and go? It's pretty much always there but certain things can make it worse like if I'm walking or doing certain activities it can make doors. Okay and and did you have any back pain before this month? No, not, I mean, no, not really. Okay. And what kind of pain would you say it is, is it like a sharp stabbing pain, or is it more so adult aching pain? I'm usually, or well, before it was like a sharp-stabbing pain or is it more so a dull aching pain?",
+        "topic_id": 2,
+        "summary": " I've had this pain in my lower back, in my buttocks, and it's now radiating down to my right leg . It's pretty much always there but certain things can make it worse like if I'm walking or doing certain activities it can make doors make doors .",
+        "keywords": [
+            "pain",
+            "aching",
+            "painful",
+            "stabbing",
+            "leg"
+        ],
+        "sentiment": 0.056397209421402965
+    },
+    {
+        "start_time": 86.88,
+        "end_time": 92.4,
+        "text": "Usually or well before it was like a mild achy pain, but now",
+        "topic_id": 3,
+        "summary": "Usually or well before it was like a mild achy pain, but now",
+        "keywords": [
+            "pain",
+            "mild",
+            "achy",
+            "usually",
+            "like"
+        ],
+        "sentiment": 0.04166666666666666
+    },
+    {
+        "start_time": 93.36,
+        "end_time": 104.72,
+        "text": "It can be it's sharp and it feels like a burning sensation Okay, a burning sensation where would you say that burning sensation is it's like",
+        "topic_id": 4,
+        "summary": "It can be it's sharp and it feels like a burning sensation Okay, a burning sensation where would you say that burning sensation is it's like",
+        "keywords": [
+            "sensation",
+            "burning",
+            "sharp",
+            "feels",
+            "like"
+        ],
+        "sentiment": 0.1875
+    },
+    {
+        "start_time": 147.64,
+        "end_time": 149.16,
+        "text": "Down my botox to the right leg. Okay, and do you feel any kind of numbness or tingling with it? Um, a little, a little bit of tingling. Um, yeah, a little bit of tingling. Okay. Um, and how would you rate the pain from a scale of zero to 10, 10, being the worst popping you've had in your life? So usually it's about like a 5 to 6 out of 10, but when it gets bad and I sharp, I'd give it an 8 out of 10. Okay. And are there any kind of motions or positions that cause you more paint?",
+        "topic_id": 5,
+        "summary": " Down my botox to the right leg. Um, yeah, a little bit of tingling. Okay, and how would you rate the pain from a scale of zero to 10, 10, being the worst popping you've had in your life?",
+        "keywords": [
+            "botox",
+            "numbness",
+            "tingling",
+            "pain",
+            "popping"
+        ],
+        "sentiment": 0.04617724867724869
+    },
+    {
+        "start_time": 152.88,
+        "end_time": 157.88,
+        "text": "Yeah, so I'd say like, just any sort of physical",
+        "topic_id": 6,
+        "summary": "Yeah, so I'd say like, just any sort of physical",
+        "keywords": [
+            "physical",
+            "like",
+            "just",
+            "yeah",
+            "say"
+        ],
+        "sentiment": 0.0
+    },
+    {
+        "start_time": 158.04,
+        "end_time": 161.32,
+        "text": "activity, like, if I'm on my feet a lot, it hurts.",
+        "topic_id": 7,
+        "summary": "activity, like, if I'm on my feet a lot, it hurts.",
+        "keywords": [
+            "feet",
+            "hurts",
+            "activity",
+            "like",
+            "lot"
+        ],
+        "sentiment": 0.0
+    },
+    {
+        "start_time": 164.48,
+        "end_time": 286.24,
+        "text": "Yeah, that's pretty much the only thing that I can think of right now. Okay, and just, and just, and just, and just, and just injuries or falls that might have caused this pain? I know like a long time ago like maybe six, seven years ago, I entered my back at work, but I just did some conservative treatments for that and, uh, it went away. Okay, and was it your lore about? Yes. Okay, um, and, uh, what do you do for work? I used to work on an assembly line. So I used to carry heavy objects and things like that, like car parts. Okay, and do you still work there? No, I don't. Okay, When did you stop working there? About three years back. Okay. Is there any other work you do currently? I work from home now. I do daycare at home. Okay. Okay. And just getting back to the pain. So it's kind of in your lore back, your buttocks, and then it goes to your right upper leg. Does it move anywhere else besides that, or those are the regions that it stays in? No, those are kind of the only regions that experience saying it right now. Okay, and do you get more pain leaning bending forward, or would you say extending your box? Um, I would say extending my back hurts more. Okay, and do you get pain with sitting down?",
+        "topic_id": 8,
+        "summary": " I used to work on an assembly line, but I just did some conservative treatments for that and, uh, it went away . It's kind of in your lore back, your buttocks, and then it goes to your right upper leg . Do you get more pain leaning forward, or",
+        "keywords": [
+            "pain",
+            "injuries",
+            "leg",
+            "sitting",
+            "buttocks"
+        ],
+        "sentiment": 0.24926835317460314
+    },
+    {
+        "start_time": 287.52,
+        "end_time": 301.12,
+        "text": "Sometimes. Okay. How about lying down? Lying down. I guess it depends on the position. If I straight on my back,",
+        "topic_id": 9,
+        "summary": "Sometimes. Okay. How about lying down? Lying down. I guess it depends on the position. If I straight on my back,",
+        "keywords": [
+            "lying",
+            "position",
+            "straight",
+            "depends",
+            "okay"
+        ],
+        "sentiment": 0.07777777777777777
+    },
+    {
+        "start_time": 302.88,
+        "end_time": 626.96,
+        "text": "it's not too bad, but if I like, I'm hunched over or something like that it hurts. Okay I see okay and have you tried any medications over the counter any pain killers that I'm healthy? I tried some ibuprofen and some like topical like um, um, like ointments, but it helps temporarily, um, and then the pain comes back. Okay, let's see. And, uh, other than that, uh, so other than this pain, that's been going on, uh, do you have any fevers or chills? No, no fevers or chills. Okay, no night sweats? No. Any increased fatigue? No. Any rashes or skin changes? No. Any cough or cold symptoms recently? No, nothing like that. Okay, and apart from your back, any kind of joint or muscle pain anywhere else in your body? No, no. Any changes in your bowel movements? No. Okay. Any urinary problems? I know. Okay. Any stool in contact with your urinary in contact with? No. Okay. And any kind of numbness So our pair's around just your lower back in Botox? No, no numbness, just like that tingling burning feeling. Okay, okay, okay. Any recent weight changes like any significant weight loss? No. Okay. Any muscle weakness at all in that area? I'm finding it hard to walk. Harder to walk. Okay. Are you letting it all? Yeah, I'm putting more weight on my left leg. Okay. And do you feel, so you mentioned you feel tingling going down your legs? Like, do you feel any kind of numbness at all? No. Okay. All right. Do you have any kind of urinary or fecal retention, like, at all? No, I'm using the washroom, okay. Okay. Do you have any history of any cancers at all? No. No, okay. Are you on any, so do you have any past medical conditions we've been diagnosed with? No. No. Okay. Do you take any medications regularly? No. I don't. I just take calcium and vitamin D and other, but multivitaments. Okay. Any allergies to any medications? No. Have you had any previous surgeries or have you been hospitalized for any reason? No. No. Okay. Any family history of any autoimmune conditions, any heart or lung conditions? I know, not that I know of. Okay. And currently you said you work from home. How did you describe your loving situation life? I would say it's okay, I live in an apartment with my husband. Okay, and currently do you smoke? No. Okay, and do you drink alcohol? I'll have a glass of wine like once a week. Okay, and do you use any recreational drugs? So I've been using catapest oil for the past month just to see if it helps with the pain. Okay, has that been working for you at all? A little bit, I think. Okay, so those are some of the questions I had. And I'm just gonna ask a few questions about just examining the areas that are giving you trouble. So along your back, if you, if you were to press down on the middle to your lower back, any kind of pain when you press down? Lower back, yes. Okay, so what kind of pain is it like sharp or is it kind of a dull",
+        "topic_id": 10,
+        "summary": " Do you have a family history of any autoimmune conditions, any heart or lung conditions? I know, not that I know of. I just take calcium and vitamin D and other, but multivitaments . Do you smoke? No. I'll have a glass of wine like once",
+        "keywords": [
+            "symptoms",
+            "hunched",
+            "fevers",
+            "botox",
+            "ibuprofen"
+        ],
+        "sentiment": 0.14523881673881675
+    },
+    {
+        "start_time": 626.96,
+        "end_time": 665.2,
+        "text": "aching pain? When I press down I feel sharp. Okay, and do you have you noticed any kind of swelling in your legs or near the areas where you have pain swelling or redness or any one. Um, it seems to, uh, actually no, it's not, it's not warm. Okay, um, and in terms of, uh, just movement, are you able to you able to bend down?",
+        "topic_id": 11,
+        "summary": " When I press down I feel sharp. Um, it seems to, uh, actually no, it's not warm. When you press down, it feels sharp. Okay, and do you have you noticed any kind of swelling in your legs or near the areas where you have pain swelling",
+        "keywords": [
+            "swelling",
+            "aching",
+            "warm",
+            "pain",
+            "bend"
+        ],
+        "sentiment": 0.1963888888888889
+    },
+    {
+        "start_time": 670.48,
+        "end_time": 671.28,
+        "text": "Um, I can bend down. It's just hard for me to get back up.",
+        "topic_id": 12,
+        "summary": "Um, I can bend down. It's just hard for me to get back up.",
+        "keywords": [
+            "bend",
+            "hard",
+            "um",
+            "just"
+        ],
+        "sentiment": -0.1490740740740741
+    },
+    {
+        "start_time": 673.92,
+        "end_time": 675.2,
+        "text": "Okay, see, and how about like, bend sideways?",
+        "topic_id": 13,
+        "summary": "Okay, see, and how about like, bend sideways?",
+        "keywords": [
+            "bend",
+            "sideways",
+            "like",
+            "okay"
+        ],
+        "sentiment": 0.5
+    },
+    {
+        "start_time": 681.44,
+        "end_time": 682.32,
+        "text": "Uh, I can do that. Okay. Um, and uh, how about if you're",
+        "topic_id": 14,
+        "summary": "Uh, I can do that. Okay. Um, and uh, how about if you're",
+        "keywords": [
+            "okay",
+            "uh",
+            "um"
+        ],
+        "sentiment": 0.5
+    },
+    {
+        "start_time": 687.52,
+        "end_time": 688.52,
+        "text": "laying flat, uh, are you able to raise your legs without bending your knees?",
+        "topic_id": 15,
+        "summary": "laying flat, uh, are you able to raise your legs without bending your knees?",
+        "keywords": [
+            "knees",
+            "flat",
+            "legs",
+            "laying",
+            "bending"
+        ],
+        "sentiment": 0.2375
+    },
+    {
+        "start_time": 688.52,
+        "end_time": 694.16,
+        "text": "Um, I can do that.",
+        "topic_id": 16,
+        "summary": "Um, I can do that.",
+        "keywords": [
+            "um"
+        ],
+        "sentiment": 0.0
+    },
+    {
+        "start_time": 694.16,
+        "end_time": 695.16,
+        "text": "Yeah.",
+        "topic_id": 17,
+        "summary": "Yeah.",
+        "keywords": [
+            "yeah"
+        ],
+        "sentiment": 0.0
+    },
+    {
+        "start_time": 695.16,
+        "end_time": 696.16,
+        "text": "Actually, no, I can't.",
+        "topic_id": 18,
+        "summary": "Actually, no, I can't.",
+        "keywords": [
+            "actually"
+        ],
+        "sentiment": 0.0
+    },
+    {
+        "start_time": 696.16,
+        "end_time": 697.16,
+        "text": "Sorry.",
+        "topic_id": 19,
+        "summary": "Sorry.",
+        "keywords": [
+            "sorry"
+        ],
+        "sentiment": -0.5
+    },
+    {
+        "start_time": 697.16,
+        "end_time": 698.16,
+        "text": "That hurts.",
+        "topic_id": 20,
+        "summary": "That hurts.",
+        "keywords": [
+            "hurts"
+        ],
+        "sentiment": 0.0
+    },
+    {
+        "start_time": 698.16,
+        "end_time": 699.16,
+        "text": "Yeah.",
+        "topic_id": 21,
+        "summary": "Yeah.",
+        "keywords": [
+            "yeah"
+        ],
+        "sentiment": 0.0
+    },
+    {
+        "start_time": 699.16,
+        "end_time": 701.76,
+        "text": "So you're right, like, hurts when you do that?",
+        "topic_id": 22,
+        "summary": "So you're right, like, hurts when you do that?",
+        "keywords": [
+            "hurts",
+            "like",
+            "right"
+        ],
+        "sentiment": 0.2857142857142857
+    },
+    {
+        "start_time": 701.76,
+        "end_time": 704.76,
+        "text": "Yeah. Okay. Okay.",
+        "topic_id": 23,
+        "summary": "Yeah. Okay. Okay.",
+        "keywords": [
+            "okay",
+            "yeah"
+        ],
+        "sentiment": 0.5
+    },
+    {
+        "start_time": 704.76,
+        "end_time": 746.0,
+        "text": "Um, and other than that, like, when you, when you do any of those movements, Thank you very much for watching this video and I'll see you in the next video, and I'll see you in the next video, and I'll see you in the next video, and I'll see you in the next video, and I'll see you in the next video, and I'll see you in the next video, and I'll see you in the next video, and I'll see you in the next video, and I'll see you in the next video, and I'll see you in the next video, and I'll see you in the next video, and I'll see you in the next video, and I'll see you in the next video, and I'll see you in the next video, and I'll see you in the next video, and I'll see you in the next video, and I'll see you in the next video, and I'll see you in the next video, and I'll see you in the next video, and I'll see you in the next video, and I'll see you in the next video, and I'll see you in the next video, and I'll see you in the next video, and I'll see you in the next video, and I'll see you in the next video, and I'll see you in the next video, and I'll see you in the next video, and I'll see you in the next video, and I'll see you in the next video, and I'll see you in the next video, and I'll see you in the next video, and I'll see you in the next video, and I'll see you in the next video, and I'll see you in the next video, and I'll see you in the next video, and I'll see you in the next video, and I'll see you in the next video, and I'll see you in the next video, and I'll see you in the next video, and I'll see you in the next video, and I'll see you in the next video, and I'll see you in the next video, and I'll see you in Okay. Um, and other than that, uh, like when you, when you do any of those movements, can you, uh, you get like that tingling again? Yeah, it does. Yeah. Okay. All right. And when you stand up and walk, um, how would you describe, uh, are you having any kind of limping at all? Um, a little bit of a little bit of a little bit of a little bit of a little bit of a little bit of a little bit of a little bit of a little bit of a little bit of a little bit of a little bit of a little bit of a little bit of a little bit of a little bit of a little bit of a little bit of a little bit of a little bit of a little bit of a little bit of a little bit of a little bit of a little bit of a little bit of a little bit of a little bit of a little bit of a little bit of a little bit of a little bit of a little bit of a little bit of a little bit of a little bit of a little bit of a little bit of a little bit of a little bit of a little bit of a little bit of a little bit of a little bit of a little bit of a little bit of a little bit of a little bit of a little bit of a little bit of a little bit of a little bit of a little bit of a little bit of a little bit of a little bit of a little bit of a little bit of a little bit of a little bit of a little bit of a little bit of a little bit of a little bit of a little bit of a little bit of a little bit of a little bit of a little bit of a little bit of a little bit of a little bit of a little bit of a little bit of a little bit of a little bit of a little bit of a little bit of a little bit of a little bit of a little bit of a little bit of a little bit of a little bit of a little bit of a having any kind of limping at all? Um, a little bit of limpia. I'm putting more weight on the left leg. OK. All right. So yeah, those are just some of the questions I had for you today. Do you have any questions at all?",
+        "topic_id": 24,
+        "summary": " Thank you very much for watching this video and I'll see you in the next video . I'm putting more weight on my left leg. Um, and other than that, uh, like when you, when you . do any of those movements, can you, . uh, you",
+        "keywords": [
+            "movements",
+            "video",
+            "walk",
+            "watching",
+            "ll"
+        ],
+        "sentiment": -0.08816836734693877
+    },
+    {
+        "start_time": 746.0,
+        "end_time": 825.6,
+        "text": "No, what can I do about this back pain and how long do you think I'll have it for? Yeah, so it's been happening from one month right and you're getting some symptoms in your lower leg. So normally we would wait before we do any kind of diagnostic imaging, but since you're also having these other symptoms, we were worrying about sometimes lower back pain, can lead to something called sciatica. It's just when one of the nerves gets pinched and then that's why you're getting the tingling around your right upper leg. So what we can do is we can do, if you haven't had an x-ray, we can do an x-ray of your lower back and then we can also do an MRI and based on what results come back at the same time we will. I will keep you some information about some anti-inflammatory medications you can take to help relieve some of your pain. other than that I will also refer you to some",
+        "topic_id": 25,
+        "summary": " Sometimes lower back pain, can lead to something called sciatica . It's just when one of the nerves gets pinched and then that's why you're getting the tingling around your right upper leg . If you haven't had an x-ray, we can do an",
+        "keywords": [
+            "sciatica",
+            "tingling",
+            "pain",
+            "mri",
+            "pinched"
+        ],
+        "sentiment": 0.07857142857142857
+    },
+    {
+        "start_time": 825.6,
+        "end_time": 848.0,
+        "text": "physiotherapy that will help you do some exercises at home just ways to protect your back as well as a strength in some of your muscles to help deal with some of that pain. So we'll get the results back and then we'll go from there.",
+        "topic_id": 26,
+        "summary": " physiotherapy will help you do some exercises at home just ways to protect your back as well as strength in some of your muscles to help deal with some of that pain . So we'll get the results back and then we'll go from there .",
+        "keywords": [
+            "physiotherapy",
+            "exercises",
+            "pain",
+            "muscles",
+            "home"
+        ],
+        "sentiment": 0.0
+    },
+    {
+        "start_time": 848.0,
+        "end_time": 847.0,
+        "text": "Okay, so much'll get the results back and then we'll go from there.",
+        "topic_id": 27,
+        "summary": "Okay, so much'll get the results back and then we'll go from there.",
+        "keywords": [
+            "results",
+            "okay",
+            "ll"
+        ],
+        "sentiment": 0.2333333333333333
+    },
+    {
+        "start_time": 847.0,
+        "end_time": 849.0,
+        "text": "Okay, thanks so much for that.",
+        "topic_id": 28,
+        "summary": "Okay, thanks so much for that.",
+        "keywords": [
+            "thanks",
+            "okay"
+        ],
+        "sentiment": 0.3
+    },
+    {
+        "start_time": 849.0,
+        "end_time": 851.0,
+        "text": "Thank you. You're welcome.",
+        "topic_id": 29,
+        "summary": "Thank you. You're welcome.",
+        "keywords": [
+            "welcome",
+            "thank"
+        ],
+        "sentiment": 0.8
+    },
+    {
+        "start_time": 851.0,
+        "end_time": 852.0,
+        "text": "Take care.",
+        "topic_id": 30,
+        "summary": "Take care.",
+        "keywords": [
+            "care"
+        ],
+        "sentiment": 0.0
+    }
+]

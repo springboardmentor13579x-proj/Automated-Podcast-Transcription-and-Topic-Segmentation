@@ -1,0 +1,487 @@
+[
+    {
+        "start_time": 0.0,
+        "end_time": 23.84,
+        "text": "help you. Hi, I'm here because I've had this numbness and tingling in my feet for a while now, and I've started to notice these open wounds on my feet as well, and I'm not feeling it, But it's there.",
+        "topic_id": 1,
+        "summary": " I'm here because I've had this numbness and tingling in my feet for a while now . I've started to notice these open wounds on my feet as well, and I'm not feeling it, But it's there. help you.",
+        "keywords": [
+            "numbness",
+            "tingling",
+            "wounds",
+            "feet",
+            "feeling"
+        ],
+        "sentiment": 0.0
+    },
+    {
+        "start_time": 24.84,
+        "end_time": 27.84,
+        "text": "Okay, I ended you first.",
+        "topic_id": 2,
+        "summary": "Okay, I ended you first.",
+        "keywords": [
+            "ended",
+            "okay"
+        ],
+        "sentiment": 0.375
+    },
+    {
+        "start_time": 27.84,
+        "end_time": 25.0,
+        "text": "Um, notice that I'm not feeling it, but it's there.",
+        "topic_id": 3,
+        "summary": "Um, notice that I'm not feeling it, but it's there.",
+        "keywords": [
+            "feeling",
+            "um",
+            "notice"
+        ],
+        "sentiment": 0.0
+    },
+    {
+        "start_time": 31.0,
+        "end_time": 32.0,
+        "text": "Okay, and what did you first notice that I'm just entangling?",
+        "topic_id": 4,
+        "summary": "Okay, and what did you first notice that I'm just entangling?",
+        "keywords": [
+            "entangling",
+            "notice",
+            "just",
+            "okay",
+            "did"
+        ],
+        "sentiment": 0.375
+    },
+    {
+        "start_time": 36.0,
+        "end_time": 42.0,
+        "text": "It's been ongoing for the past like two years, but recently I've seen the past like three months, it's gotten worse.",
+        "topic_id": 5,
+        "summary": "It's been ongoing for the past like two years, but recently I've seen the past like three months, it's gotten worse.",
+        "keywords": [
+            "ongoing",
+            "recently",
+            "months",
+            "years",
+            "worse"
+        ],
+        "sentiment": -0.225
+    },
+    {
+        "start_time": 43.0,
+        "end_time": 65.0,
+        "text": "Okay, and do you feel it in both feet? yes okay and where about do you feel that I'm listening tingling if you feel it like all the way up your upper leg or is it all the part way? um it goes right up until my ankles.",
+        "topic_id": 6,
+        "summary": " Do you feel that I'm listening tingling if you feel it like all the way up your upper leg or is it all the part way? um it goes right up until my ankles . Okay, and do you feel this in both feet? yes okay .",
+        "keywords": [
+            "tingling",
+            "ankles",
+            "feet",
+            "leg",
+            "feel"
+        ],
+        "sentiment": 0.3214285714285714
+    },
+    {
+        "start_time": 65.0,
+        "end_time": 135.0,
+        "text": "Okay. Uh, and, uh, so you have wounds on your feet that, uh, like you, you don't notice them because you can't feel it. Yeah, I don't notice it because I can't feel it, but then I'll see them and they look bad. Okay, do you recall hitting your foot or off of anything or stepping on any objects that could have caused that trauma to your feet? I mean, it's possible, but I didn't feel anything. So, I'm not too sure about that it is a summer so I've been like going to the beach and when I'm at the park like I'll take off my flip-flops. Okay, have you had any muscle weakness through your legs or feet maybe a little bit of muscle weakness in my legs?",
+        "topic_id": 7,
+        "summary": " Do you recall hitting your foot or off of anything or stepping on any objects that could have caused that trauma to your feet? I mean, it's possible, but I didn't feel anything. So, I'm not too sure about that it is a summer so I've been like",
+        "keywords": [
+            "wounds",
+            "feet",
+            "legs",
+            "foot",
+            "trauma"
+        ],
+        "sentiment": 0.10000000000000002
+    },
+    {
+        "start_time": 137.0,
+        "end_time": 142.0,
+        "text": "Okay, have you had any problems with balance or have you had any falls?",
+        "topic_id": 8,
+        "summary": "Okay, have you had any problems with balance or have you had any falls?",
+        "keywords": [
+            "balance",
+            "falls",
+            "problems",
+            "okay"
+        ],
+        "sentiment": 0.5
+    },
+    {
+        "start_time": 143.0,
+        "end_time": 144.0,
+        "text": "No.",
+        "topic_id": 9,
+        "summary": "No.",
+        "keywords": [],
+        "sentiment": 0.0
+    },
+    {
+        "start_time": 156.0,
+        "end_time": 156.8,
+        "text": "Okay. And, uh, and had any fevers or chills?",
+        "topic_id": 10,
+        "summary": "Okay. And, uh, and had any fevers or chills?",
+        "keywords": [
+            "fevers",
+            "chills",
+            "okay",
+            "uh"
+        ],
+        "sentiment": 0.5
+    },
+    {
+        "start_time": 163.52,
+        "end_time": 164.32,
+        "text": "No. Have you had any night sweats? No. And have you had any unexpected weight loss?",
+        "topic_id": 11,
+        "summary": "No. Have you had any night sweats? No. And have you had any unexpected weight loss?",
+        "keywords": [
+            "sweats",
+            "night",
+            "weight",
+            "loss",
+            "unexpected"
+        ],
+        "sentiment": 0.1
+    },
+    {
+        "start_time": 205.0,
+        "end_time": 209.0,
+        "text": "No. Okay. Have you had any headaches? No. All right. Have you had any sensory changes like changes to your vision hearing or sense of smell or taste? No. Have you had any sore throat or cough? Nope. How about, um, any shortness of breath? No. Okay. Have you had any wheezing? No. Have you had any chest pain? No. Any, have you had any dizziness or lightheadedness? Nope.. Have you had any heart palpitations or feeling like your heart's racing?",
+        "topic_id": 12,
+        "summary": " Have you had any sore throat or cough? Nope. Have any heart palpitations or feeling like your heart's racing? No. Have you ever had any dizziness or lightheadedness? Nope .",
+        "keywords": [
+            "dizziness",
+            "headaches",
+            "palpitations",
+            "lightheadedness",
+            "wheezing"
+        ],
+        "sentiment": -0.07142857142857144
+    },
+    {
+        "start_time": 209.0,
+        "end_time": 210.0,
+        "text": "No.",
+        "topic_id": 13,
+        "summary": "No.",
+        "keywords": [],
+        "sentiment": 0.0
+    },
+    {
+        "start_time": 210.0,
+        "end_time": 213.0,
+        "text": "Have you had any nausea or vomiting?",
+        "topic_id": 14,
+        "summary": "Have you had any nausea or vomiting?",
+        "keywords": [
+            "nausea",
+            "vomiting"
+        ],
+        "sentiment": 0.0
+    },
+    {
+        "start_time": 213.0,
+        "end_time": 214.0,
+        "text": "No.",
+        "topic_id": 15,
+        "summary": "No.",
+        "keywords": [],
+        "sentiment": 0.0
+    },
+    {
+        "start_time": 214.0,
+        "end_time": 216.0,
+        "text": "How about any abdominal pain?",
+        "topic_id": 16,
+        "summary": "How about any abdominal pain?",
+        "keywords": [
+            "abdominal",
+            "pain"
+        ],
+        "sentiment": 0.0
+    },
+    {
+        "start_time": 216.0,
+        "end_time": 217.0,
+        "text": "No.",
+        "topic_id": 17,
+        "summary": "No.",
+        "keywords": [],
+        "sentiment": 0.0
+    },
+    {
+        "start_time": 217.0,
+        "end_time": 222.0,
+        "text": "Have you had any changes to bowel movements like diarrhea or constipation?",
+        "topic_id": 18,
+        "summary": "Have you had any changes to bowel movements like diarrhea or constipation?",
+        "keywords": [
+            "constipation",
+            "bowel",
+            "diarrhea",
+            "changes",
+            "movements"
+        ],
+        "sentiment": 0.0
+    },
+    {
+        "start_time": 223.0,
+        "end_time": 224.0,
+        "text": "I know.",
+        "topic_id": 19,
+        "summary": "I know.",
+        "keywords": [
+            "know"
+        ],
+        "sentiment": 0.0
+    },
+    {
+        "start_time": 224.0,
+        "end_time": 245.76,
+        "text": "Okay, and have you had any urinary problems like frequency or painful urination? No. Okay. And have you had any rashes on your skin? No. Okay. And any muscle aches or joint pains? Uh, nope. I think with that.",
+        "topic_id": 20,
+        "summary": " Have you had any urinary problems like frequency or painful urination? No. And have you had rashes on your skin? No . And have any muscle aches or joint pains? Uh, nope. I think with that .",
+        "keywords": [
+            "urination",
+            "urinary",
+            "pains",
+            "nope",
+            "aches"
+        ],
+        "sentiment": -0.175
+    },
+    {
+        "start_time": 286.16,
+        "end_time": 297.28,
+        "text": "Okay. And do you have any numbness or tingling to any other parts of your body? Uh, maybe a little bit in my fingertips as well. Okay. Uh, and when did you first started noticing that? Um, in the past year. Okay, and have had any like, like, clubziness or, uh, like, dropping objects? Uh, yeah, definitely some of that, like, um, I'll find it hard to, like, open cans and bottles. Okay. Um, any weakness in the hands Only when only sometimes when I'm trying to grip things. Pretty hard",
+        "topic_id": 21,
+        "summary": " Do you have any numbness or tingling to any other parts of your body? Uh, maybe a little bit in my fingertips as well? \"Only when only sometimes when I'm trying to grip things. Pretty hard\"",
+        "keywords": [
+            "numbness",
+            "fingertips",
+            "tingling",
+            "hands",
+            "grip"
+        ],
+        "sentiment": 0.09027777777777776
+    },
+    {
+        "start_time": 299.28,
+        "end_time": 301.28,
+        "text": "Okay and",
+        "topic_id": 22,
+        "summary": "Okay and",
+        "keywords": [
+            "okay"
+        ],
+        "sentiment": 0.5
+    },
+    {
+        "start_time": 330.0,
+        "end_time": 430.8,
+        "text": "Um, um, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh Okay. In the past, have you been diagnosed with any, or sorry, before that, have you had any neck pain? No, no neck pain. Okay. And in the past, have you been diagnosed with any medical conditions? Yes, so I've been diagnosed with diabetes, hypertension, hyperclastrolemia, obesity and I think that's about it. Okay, and are you currently on any medications? Do you have insulin? Do you use insulin? I do, so I'm on insulin. I short-acting and long-acting. I'm on Ramaprole, I'm on a Torah statin. Okay, and do you recall any, like what your A1C has been in the past, and have you had your eyes checked in kidney's checked? My A1C has been pretty high, especially recently. I think it was 8.1 or something last time. I got a check. I haven't had my eyes checked in a while and in terms of my kidneys, I think I did a urine analysis recently and everything came back normal okay and you and do you have any allergies to medications? No.",
+        "topic_id": 23,
+        "summary": " In the past, have you been diagnosed with diabetes, hypertension, hyperclastrolemia, obesity and obesity . Do you have allergies to medications? No. No. I haven't had my eyes checked in a while and kidney's checked .",
+        "keywords": [
+            "diagnosed",
+            "ve",
+            "pain",
+            "haven",
+            "conditions"
+        ],
+        "sentiment": 0.10055555555555555
+    },
+    {
+        "start_time": 430.8,
+        "end_time": 439.04,
+        "text": "All right, and have you had any prior surgeries or hospitalizations? No, I don't believe so.",
+        "topic_id": 24,
+        "summary": "All right, and have you had any prior surgeries or hospitalizations? No, I don't believe so.",
+        "keywords": [
+            "surgeries",
+            "hospitalizations",
+            "prior",
+            "believe",
+            "right"
+        ],
+        "sentiment": 0.14285714285714285
+    },
+    {
+        "start_time": 439.04,
+        "end_time": 449.96,
+        "text": "Okay, and are your immunizations up to date? Yes. Okay, and.",
+        "topic_id": 25,
+        "summary": "Okay, and are your immunizations up to date? Yes. Okay, and.",
+        "keywords": [
+            "immunizations",
+            "okay",
+            "date",
+            "yes"
+        ],
+        "sentiment": 0.5
+    },
+    {
+        "start_time": 449.96,
+        "end_time": 472.96,
+        "text": ". . . . . . . . . . . . . . . . . . . . . . .",
+        "topic_id": 26,
+        "summary": ". . . . . . . . . . . . . . . . . . . . . . .",
+        "keywords": [],
+        "sentiment": 0.0
+    },
+    {
+        "start_time": 472.96,
+        "end_time": 526.48,
+        "text": "..... Okay. And are your immunizations up to date? Yes. Okay. And, can you tell me a little bit about where you're living currently and who you're living with? I live in a house downtown with my wife. Okay. And are you working currently? I am. I work from home now. Okay, so, and have you been around anybody who's been sick? I know, I don't think so. Okay, and have you traveled anywhere recently? No, not outside the province. All right, and do you drink alcohol? I, yeah, I'll have some alcohol every day. Okay, okay, how many drinks per day would you have for and how many drinks per week? Um, I'll have about five beers a day. Okay, do you feel as though that's, um, a lot? Yeah, I, I'm hoping to cut down. Okay, that's good. And if at any point you need help or I would like to discuss that, just please let me know",
+        "topic_id": 27,
+        "summary": " Have you been around anybody who's been sick? I know, I don't think so . Have you traveled anywhere recently? No, not outside the province . I'll have about five beers a day. I'm hoping to cut down. I work from home now .",
+        "keywords": [
+            "immunizations",
+            "drink",
+            "sick",
+            "beers",
+            "drinks"
+        ],
+        "sentiment": 0.27823683261183263
+    },
+    {
+        "start_time": 528.68,
+        "end_time": 530.68,
+        "text": "Okay, and",
+        "topic_id": 28,
+        "summary": "Okay, and",
+        "keywords": [
+            "okay"
+        ],
+        "sentiment": 0.5
+    },
+    {
+        "start_time": 530.68,
+        "end_time": 538.68,
+        "text": "Do you smoke cigarettes? I do. Okay, how much do you smoke? I'll smoke at about half a pack a day",
+        "topic_id": 29,
+        "summary": "Do you smoke cigarettes? I do. Okay, how much do you smoke? I'll smoke at about half a pack a day",
+        "keywords": [
+            "cigarettes",
+            "smoke",
+            "half",
+            "pack",
+            "day"
+        ],
+        "sentiment": 0.17777777777777778
+    },
+    {
+        "start_time": 539.96,
+        "end_time": 606.0,
+        "text": "And for how long have you been smoking for for the past almost 20 years? Okay, I have your thought about cutting down. Yeah, again, that's something that I'm hoping to Quit doing in the future as well Certainly, okay And are you currently sexually active? I am? Okay, and can you tell me about your partners or partner? Um, yeah, just my wife, we've been together for the past five years. Okay, any concerns were a sexually transmitted infection at this time? No. Okay. And any muscular skeletal or neurological conditions that run in the family? No. Okay. And how about any cancers that run in the family? No cancers that I know of. Okay, and how about heart conditions or",
+        "topic_id": 30,
+        "summary": " Are you currently sexually active? I am? Okay, and can you tell me about your partners or partner? No. Okay, I have your thought about cutting down. And for how long have you been smoking for for the past almost 20 years?",
+        "keywords": [
+            "smoking",
+            "cancers",
+            "concerns",
+            "infection",
+            "transmitted"
+        ],
+        "sentiment": 0.07074074074074074
+    },
+    {
+        "start_time": 606.0,
+        "end_time": 646.24,
+        "text": "or lung conditions? No, nothing like that. Okay, so next I just wanted to move on to the physical exam piece of the appointment today. So just looking at your at your feet and that the joints of the ankle and toes, are you seeing any swelling redness or redness? I don't know, swelling or redness. Is there a temperature change to your feet or any of the joints or they feel like hot or cold?",
+        "topic_id": 31,
+        "summary": " The patient's feet and the joints of the ankle and toes, are you seeing any swelling redness or redness? No, nothing like that. Is there a temperature change to your feet or any of the joints or they feel like hot or cold?",
+        "keywords": [
+            "swelling",
+            "redness",
+            "ankle",
+            "joints",
+            "appointment"
+        ],
+        "sentiment": 0.030000000000000006
+    },
+    {
+        "start_time": 646.96,
+        "end_time": 648.96,
+        "text": "No.",
+        "topic_id": 32,
+        "summary": "No.",
+        "keywords": [],
+        "sentiment": 0.0
+    },
+    {
+        "start_time": 648.96,
+        "end_time": 887.0,
+        "text": "Okay. And are there any deformities or misaligned into any of the joints? No. Okay. And any scarring from any of the trauma? um there are like yeah, there's some scarring, uh, from like all sers, from previous ones that have healed. Yeah, that's right. Okay. Um, and is there any pain to palpation over the ankle joint? Over the ankle joint, no. Okay, and then how about over any of the joints of your toes? No, nothing like that. No pain. Just I can't feel it. Okay how is the range of motion of your feet and toast? Pretty good. I can move them all. Okay and then how about your knees? my knees are also the same. Okay, and any ankle instability with any special tests? No. Okay, and on walking, is there any limp or is it appear? How does the walk pier? Um, pretty normal. I'm not lending. Okay. Um, uh, and, um, okay. Uh, so that was everything that I wanted to ask and and check today. Did you have any questions? Hmm. Just um, what do you think is going on with my feet and how do I get some sensation back? So it does sound like it could be related to diabetes where what happens is you get like a peripheral neuropathy over time and you can lose sensation to your feet and a glove and stalking distribution which sounds like the history of your saying today with having sensation reduced on your feeds and also your fingertips as well. Where you get, yeah, you'll lose sensation and you can't be all pain. And so. But other things to consider could be. Possibly like bite of indifficiency or things like that, but that would be much lower down on the differential. And so to regain sensation, I think really the only thing that can be done now is to help prevent further damage to the nerves and that would be to make sure that the diabetes is under good control and trying to monitor your feet as regularly as you can making sure that the there aren't any kind of open wounds or sorrows that are not healing. If things are not healing, it'll be important to check to see if there is an underlying infection, such as osteomyolitis, which will prevent wound healing. And so if there are anything like that, it would be important to have that checked out.",
+        "topic_id": 33,
+        "summary": " Is there any deformities or misaligned into any of the joints? No. And any scarring from any trauma? There are some scarring, uh, from like all sers, from previous ones that have healed . To regain sensation, the only thing that can be done now",
+        "keywords": [
+            "joints",
+            "ankle",
+            "joint",
+            "limp",
+            "knees"
+        ],
+        "sentiment": 0.21041144527986635
+    },
+    {
+        "start_time": 887.0,
+        "end_time": 896.0,
+        "text": "So feet hygiene is extremely important as we're working on improving that diabetes control,",
+        "topic_id": 34,
+        "summary": "So feet hygiene is extremely important as we're working on improving that diabetes control,",
+        "keywords": [
+            "hygiene",
+            "diabetes",
+            "feet",
+            "important",
+            "improving"
+        ],
+        "sentiment": 0.4
+    },
+    {
+        "start_time": 896.0,
+        "end_time": 900.0,
+        "text": "as well as things like cutting down alcohol.",
+        "topic_id": 35,
+        "summary": "as well as things like cutting down alcohol.",
+        "keywords": [
+            "alcohol",
+            "cutting",
+            "things",
+            "like"
+        ],
+        "sentiment": -0.37777777777777777
+    },
+    {
+        "start_time": 900.0,
+        "end_time": 903.0,
+        "text": "It could also help as well.",
+        "topic_id": 36,
+        "summary": "It could also help as well.",
+        "keywords": [
+            "help"
+        ],
+        "sentiment": 0.0
+    },
+    {
+        "start_time": 903.0,
+        "end_time": 906.0,
+        "text": "Okay, okay, thank you.",
+        "topic_id": 37,
+        "summary": "Okay, okay, thank you.",
+        "keywords": [
+            "okay",
+            "thank"
+        ],
+        "sentiment": 0.5
+    }
+]

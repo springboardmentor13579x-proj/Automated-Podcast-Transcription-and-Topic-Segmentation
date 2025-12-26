@@ -1,0 +1,350 @@
+[
+    {
+        "start_time": 0.0,
+        "end_time": 2.0,
+        "text": "How will I help you?",
+        "topic_id": 1,
+        "summary": "How will I help you?",
+        "keywords": [
+            "help"
+        ],
+        "sentiment": 0.0
+    },
+    {
+        "start_time": 2.0,
+        "end_time": 12.68,
+        "text": "I am just coming into the clinic today, my parents came to me to come to, I've noticed",
+        "topic_id": 2,
+        "summary": "I am just coming into the clinic today, my parents came to me to come to, I've noticed",
+        "keywords": [
+            "clinic",
+            "parents",
+            "come",
+            "came",
+            "coming"
+        ],
+        "sentiment": 0.0
+    },
+    {
+        "start_time": 12.68,
+        "end_time": 22.44,
+        "text": "in this just mass right below or like kind of like a lump and mass below my right knee.",
+        "topic_id": 3,
+        "summary": "in this just mass right below or like kind of like a lump and mass below my right knee.",
+        "keywords": [
+            "lump",
+            "knee",
+            "mass",
+            "like",
+            "just"
+        ],
+        "sentiment": 0.3904761904761904
+    },
+    {
+        "start_time": 22.44,
+        "end_time": 27.76,
+        "text": "And it's not painful or anything, it's a little bit uncomfortable, but I just wanted",
+        "topic_id": 4,
+        "summary": "And it's not painful or anything, it's a little bit uncomfortable, but I just wanted",
+        "keywords": [
+            "painful",
+            "uncomfortable",
+            "wanted",
+            "just",
+            "little"
+        ],
+        "sentiment": -0.1125
+    },
+    {
+        "start_time": 27.76,
+        "end_time": 62.0,
+        "text": "to check out and see what it might be. Yeah, certainly. Okay. When did you first notice this last. So I think I noticed it for the first time, probably a couple of weeks ago, I feel like two weeks ago, I noticed it. And where specifically is it located?",
+        "topic_id": 5,
+        "summary": " When did you first notice this last. to check out and see what it might be. Yeah, certainly. I think I noticed it for the first time, probably a couple of weeks ago, probably two weeks ago . And where specifically is it located?",
+        "keywords": [
+            "noticed",
+            "notice",
+            "located",
+            "check",
+            "weeks"
+        ],
+        "sentiment": 0.25
+    },
+    {
+        "start_time": 62.0,
+        "end_time": 188.0,
+        "text": "So it's below my knee, right on like, I feel it on the big bone right below the knee. It's, um, um, yeah it's a little bit uncomfortable, but it's not like I wouldn't call it pain. Okay. And have you had any trauma to the to the knee or area or any injuries there? No, not that I can remember. I don't think I've had any injuries there and and this lump is like a probably like two to three centimeters I don't even know like when it appeared or why it appeared. I've been really injured myself or anything Okay And have you had any Any fevers or chills? No Okay, I have you had any unexpected weight loss. No, I'm not that I can remember. Okay. And how about any neurological symptoms like numbness, tingling, a sensory loss, know I can felt any of those, okay, and how about any muscle weakness in the lower extremity or upper extremity? No, no weakness, okay, have you had any, uh, like fevers or chills?",
+        "topic_id": 6,
+        "summary": " It's below my knee, right on like, I feel it on the big bone right below the knee . And have you had any trauma to the to the knee or area or any injuries there? No, not that I can remember. I don't think I've had any injuries",
+        "keywords": [
+            "lump",
+            "symptoms",
+            "knee",
+            "numbness",
+            "pain"
+        ],
+        "sentiment": 0.17385204081632652
+    },
+    {
+        "start_time": 189.44,
+        "end_time": 200.4,
+        "text": "You know, uh, how about night sweats? Uh, no night sweats. Okay, and have you had any infectious symptoms like, uh,",
+        "topic_id": 7,
+        "summary": "You know, uh, how about night sweats? Uh, no night sweats. Okay, and have you had any infectious symptoms like, uh,",
+        "keywords": [
+            "sweats",
+            "symptoms",
+            "infectious",
+            "night",
+            "like"
+        ],
+        "sentiment": 0.5
+    },
+    {
+        "start_time": 200.4,
+        "end_time": 266.48,
+        "text": "acaroninos or a sore throat? No. Okay, have you Okay, have you had a cough for shortness of breath? I don't know, I've been pretty well recently. Okay, that's good. And how about any memory loss or confusion? No, nothing like that. Okay, and any sensory changes like changes to your vision hearing, spell or taste? No, I don't think like that. Okay, have you had any chest pain? Nope. How about any heart palpitations or feeling like your heart's racing? Nope. Okay, have you had any lightheadedness or dizziness, you know, nothing like that, okay, and have you had any nausea or you're vomiting and no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no. Okay. Have you had any changes or lost to appetite?",
+        "topic_id": 8,
+        "summary": " Have you had a cough for shortness of breath? I don't know, I've been pretty well recently . Have any memory loss or confusion? No, nothing like that, and have you had any nausea or vomiting? No. acaroninos or a sore throat? No .",
+        "keywords": [
+            "nausea",
+            "dizziness",
+            "palpitations",
+            "throat",
+            "vomiting"
+        ],
+        "sentiment": 0.34500000000000003
+    },
+    {
+        "start_time": 306.0,
+        "end_time": 307.6,
+        "text": "Nope. How about any abdominal pain? Nope. No, I'm done with pain. All right. Have you had any changes to your bowel habits like diarrhea, constipation, or blood in the stool? Okay, and how about any changes to your urinary patterns like pain or frequency? No, no changes at all. Okay, and have you had any changes to your skin like such as rashes or any changes to your hair or nails?",
+        "topic_id": 9,
+        "summary": " Have you had any changes to your bowel habits like diarrhea, constipation, or blood in the stool? No, no changes at all. How about any abdominal pain? Nope. No, I'm done with pain .",
+        "keywords": [
+            "constipation",
+            "bowel",
+            "diarrhea",
+            "stool",
+            "abdominal"
+        ],
+        "sentiment": 0.3214285714285714
+    },
+    {
+        "start_time": 309.44,
+        "end_time": 310.88,
+        "text": "No, anything that I'm notice.",
+        "topic_id": 10,
+        "summary": "No, anything that I'm notice.",
+        "keywords": [
+            "notice"
+        ],
+        "sentiment": 0.0
+    },
+    {
+        "start_time": 315.12,
+        "end_time": 322.16,
+        "text": "Alright, so that's how about your energy. Have you had any fatigue? No, my energy's been fine.",
+        "topic_id": 11,
+        "summary": "Alright, so that's how about your energy. Have you had any fatigue? No, my energy's been fine.",
+        "keywords": [
+            "fatigue",
+            "energy",
+            "fine",
+            "alright"
+        ],
+        "sentiment": 0.4166666666666667
+    },
+    {
+        "start_time": 526.88,
+        "end_time": 528.72,
+        "text": "Okay, and have you had any muscle aches or body pains or any joint pains? No, I mean, like all the other joints and other bones and muscles have been primed. It's just even I wouldn't describe this as pain. It's just I think my parents got a bit concerned and instead was like a lump they were scared a little bit scared to so I just came into check it out. Yeah certainly okay and have you had I've been diagnosed with any medical conditions in the past So, a doctor for any recent and no I've been pretty healthy up until now okay and do you take any medications regularly over the counter or prescribed I know no medications. And do you have any allergies? No. All right. And are your immunizations up to date? Yeah, all my immunizations up to date. Okay. And have you You had any hospitalizations or surgeries? No, I haven't had any hospitalizations or surgery. Can you tell me a little bit about your living situation currently, like who you're living with and where? Yeah, so I'm living with my wall parents and older brother and we live in just a house right outside of the city. Okay, and are you currently in school and working or or working, You know, I don't work currently in school right now. So yeah, to busy with school and then just extra curriculum activities. Yeah, absolutely. Okay. And how have you been around anybody who's been sick, you know, okay, and have you traveled anywhere recently, oh, oh, just been at home, okay, and, I'm, do you smoke cigarettes or, um, or use any cannabis products? No, I, I haven't tried any drugs or anything like that. Okay, now that's good and, um, are you currently sexually active? You don't know. Okay, have you been sexually active in the past? No, I haven't. Okay. And any concerns for safety at home with either physical, a violence or verbal abuse out added to yourself or anybody in the home?",
+        "topic_id": 12,
+        "summary": " Have you had any muscle aches or body pains or any joint pains? No, I mean, like all the other joints and other bones and muscles have been primed. It's just even I wouldn't describe this as pain . Do you smoke cigarettes or, um, or use any",
+        "keywords": [
+            "pains",
+            "lump",
+            "diagnosed",
+            "allergies",
+            "immunizations"
+        ],
+        "sentiment": 0.15651176948051945
+    },
+    {
+        "start_time": 548.84,
+        "end_time": 566.56,
+        "text": "I know with like, remember, if you'll say that home, school is going well too, and pretty the free athletic school, I have to friends, so no bullying or anything like that feels pretty safe when we're all. Okay, that's good. I'm not happy to hear that. And is there any conditions in the family, either like musculoskeletal or neurological things that you can think of.",
+        "topic_id": 13,
+        "summary": " Home, school is going well too, and pretty the free athletic school, I have to friends, so no bullying or anything like that feels pretty safe when we all. I know with like, remember, remember .",
+        "keywords": [
+            "family",
+            "bullying",
+            "musculoskeletal",
+            "neurological",
+            "athletic"
+        ],
+        "sentiment": 0.3142857142857142
+    },
+    {
+        "start_time": 647.0,
+        "end_time": 661.0,
+        "text": "I think anything related to this but I know my my dad has diabetes and my mom has an some anxiety. Okay, and anybody in the family ever have any cancers or any bone tumors or soft tissue tumors or growth? Um, I don't think anyone's had like a bone tumor or anything like that, I know. Uh, my uncle, um, he, uh, he does have, uh, he had like melanoma, which yeah, I get to get surgically removed an egenetic disease in the family or congenital diseases. Not that I've been told. Okay. So next I just wanted to move on to the physical exam component. First, are you having any issues with walking? No, I've been like, no, no pain, no, I can walk and just find there, no issues there.",
+        "topic_id": 14,
+        "summary": " I think anything related to this but I know my my dad has diabetes and my mom has an anxiety . I don't think anyone's had like a bone tumor or anything like that, I know. I get to get surgically removed an egenetic disease in the family or congen",
+        "keywords": [
+            "diabetes",
+            "tumor",
+            "anxiety",
+            "tumors",
+            "melanoma"
+        ],
+        "sentiment": 0.19285714285714287
+    },
+    {
+        "start_time": 661.0,
+        "end_time": 662.0,
+        "text": "Okay, excellent.",
+        "topic_id": 15,
+        "summary": "Okay, excellent.",
+        "keywords": [
+            "excellent",
+            "okay"
+        ],
+        "sentiment": 0.75
+    },
+    {
+        "start_time": 662.0,
+        "end_time": 664.0,
+        "text": "So no entalgic gate.",
+        "topic_id": 16,
+        "summary": "So no entalgic gate.",
+        "keywords": [
+            "gate",
+            "entalgic"
+        ],
+        "sentiment": 0.0
+    },
+    {
+        "start_time": 664.0,
+        "end_time": 686.0,
+        "text": "And when looking at the area, are you seeing any swelling, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, are you seeing any swelling or redness or skin discoloration? No, nothing like that. I can tell there's like a month there and if I press it, I can feel like a hard lung. I don't know changes in the skin above it.",
+        "topic_id": 17,
+        "summary": " Are you seeing any swelling or redness or skin discoloration? No, nothing like that. I can tell there's like a month there and if I press it, I can feel like a hard lung .",
+        "keywords": [
+            "swelling",
+            "seeing",
+            "redness",
+            "discoloration",
+            "lung"
+        ],
+        "sentiment": -0.14583333333333334
+    },
+    {
+        "start_time": 686.0,
+        "end_time": 708.0,
+        "text": "Okay, but are you seeing any muscle atrophy around the area? No, nothing like that. Okay, and are you seeing any, like, joint deformities or anything like that.",
+        "topic_id": 18,
+        "summary": "Okay, but are you seeing any muscle atrophy around the area? No, nothing like that. Okay, and are you seeing any, like, joint deformities or anything like that.",
+        "keywords": [
+            "atrophy",
+            "deformities",
+            "muscle",
+            "joint",
+            "area"
+        ],
+        "sentiment": 0.5
+    },
+    {
+        "start_time": 710.0,
+        "end_time": 712.0,
+        "text": "No, not that I can tell.",
+        "topic_id": 19,
+        "summary": "No, not that I can tell.",
+        "keywords": [
+            "tell"
+        ],
+        "sentiment": 0.0
+    },
+    {
+        "start_time": 714.0,
+        "end_time": 718.0,
+        "text": "Okay. And you don't have any pain.",
+        "topic_id": 20,
+        "summary": "Okay. And you don't have any pain.",
+        "keywords": [
+            "pain",
+            "okay",
+            "don"
+        ],
+        "sentiment": 0.5
+    },
+    {
+        "start_time": 718.0,
+        "end_time": 722.0,
+        "text": "So if you press on the area or on the knee joint,",
+        "topic_id": 21,
+        "summary": "So if you press on the area or on the knee joint,",
+        "keywords": [
+            "knee",
+            "joint",
+            "press",
+            "area"
+        ],
+        "sentiment": 0.0
+    },
+    {
+        "start_time": 722.0,
+        "end_time": 849.0,
+        "text": "you can just feel the mass and no pain there. Yeah, it just feels weird. I don't, I'm not in any pain or anything, Thank you very much, everyone, see you next time, bye, bye too feel there as well. Okay. And, um, okay. And then no limitations with a, with like range of motion of any of your joints included, I kept neat and angle. Yeah, I know. I can move everything just fine. Okay. Awesome. And so that was everything that I wanted to ask today and check on this as well. So, was there anything else that I maybe forgot to ask about or anything you wanted to add? Well, no, nothing else I wanted to add, but I think my parents and I were just scared about it being like a cancer or like a tumor, so I just don't know what I should do if I need to get any plus stone or x-rays or anything like that. Okay. Um, yeah. We, so, um, the first thing we will want to get an x-ray of-ray, um, of the knee and also of the, uh, long bones. So of your femur, uh, as well as your, your leg too, um, and because right now, the, um, most likely thing is called something, uh, an osteocondroma, um, which is the most common primary benign bone tumor. However, there are other things that it could be. and so such as like an osteoma or an endocondroma.",
+        "topic_id": 22,
+        "summary": " I think my parents and I were just scared about it being like a cancer or like a tumor, so I just don't know what I should do if I need to get any plus stone or x-rays . The most likely thing is called something, uh, an osteocond",
+        "keywords": [
+            "bones",
+            "joints",
+            "bone",
+            "femur",
+            "knee"
+        ],
+        "sentiment": 0.2440726817042607
+    },
+    {
+        "start_time": 853.0,
+        "end_time": 862.0,
+        "text": "So we all want to get that x-ray and kind of go from there.",
+        "topic_id": 23,
+        "summary": "So we all want to get that x-ray and kind of go from there.",
+        "keywords": [
+            "ray",
+            "want",
+            "kind"
+        ],
+        "sentiment": 0.6
+    },
+    {
+        "start_time": 863.0,
+        "end_time": 870.16,
+        "text": "Okay. Yeah, that sounds good. Alright, so we'll get that we'll get that we'll get that we'll get that we'll get that we'll get that we'll get that we'll get that we'll get that we'll get that we'll get that we'll get that we'll get that we'll get that we'll get that we'll get that we'll get that we'll get that we'll get that we'll get that we'll get that we'll get that we'll get that we'll get that we'll get that we'll get that we'll get that we'll get that we'll get that we'll get that we'll get that we'll get that we'll get that we'll get that we'll get that we'll get that we'll get that we'll get that we'll get that we'll get that we'll get that we'll get that we'll get that we'll get that we'll get that we'll get that we'll get that we'll get that we'll get that we'll get that we'll get that we'll get that we'll get that we'll get that we'll get that we'll get that we'll get that we'll get that we'll get that we'll get that we'll get that we'll get that we'll get that we'll get that we'll get that we'll get that we'll get that we'll get that we'll get that we'll get that we'll get that we'll get that we'll get that we'll get that we'll get that we'll get that we'll get that we'll get that we'll get that we'll get that we'll get that we'll get that we'll get that we'll get that we'll get that we'll get that we'll get that we'll get that we'll get that we'll get that we'll get that we'll get that we'll get that we'll get that we'll get that we'll get that we'll get that we'll get that we'll get that we'll get that we'll get that we'll get that we'll get that we'll get that we'll get that we'll get that we'll get that we'll good. All right. So we'll get that. We'll get that ordered.",
+        "topic_id": 24,
+        "summary": " All right. We'll get that ordered. So we'll get it ordered. Yeah, that sounds good. All right, so let's get that. We will get that . We won't get that, but we will get it . We'll also get that we'll have that",
+        "keywords": [
+            "alright",
+            "good",
+            "okay",
+            "yeah",
+            "right"
+        ],
+        "sentiment": 0.5464285714285714
+    },
+    {
+        "start_time": 871.36,
+        "end_time": 875.12,
+        "text": "Perfect. Thank you so much.",
+        "topic_id": 25,
+        "summary": "Perfect. Thank you so much.",
+        "keywords": [
+            "perfect",
+            "thank"
+        ],
+        "sentiment": 0.6
+    }
+]

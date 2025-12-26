@@ -1,0 +1,137 @@
+[
+    {
+        "start_time": 0.0,
+        "end_time": 194.0,
+        "text": "was wondering if you could tell me a little bit about what brought you in to the emergency department today. Yeah, so nice to meet you. I've been having this pain right in my abdomen. It's kind of like in the upper right area. Okay, and so where's this pain located exactly? So it's just in the upper right corner of my abdomen, right below where the lungs are. And yeah, I have this severe pain that's going on. Okay, and how long has it been going on for? So it's been going on for the last few days, and it got worse not today. Okay, and how long has it been since it's like got worse. There's been a few hours or how long has happen. So I would say it got worse just three or four hours ago before I came into the emergency department. Okay, and does the pain radiate anywhere? No, it stays right in the spot that I told you right in the right upper corner. Okay, and What did the pain start or if you could tell me what were you doing? Great prior to the the pain starting So I think it started after just two days ago after I had a meal, like I think it was after lunch around half an hour or an hour after lunch. I see. Okay. It has the pain. God and worse stayed this same or God and better since since yesterday. I think it's God, it was, it's the worst today, especially like a few hours ago, like three hours ago. It was much worse than the other two days. Okay, and how would you describe the character or the the quality of the pain? So it's like a sharp, I would describe it as like a sharp pain. Okay, and on a scale of 1 to 10, 10 being the most severe pain, what would you rate it as. I'll rate it as right now I'd rate it as an eight. Okay. It has anything like this happened to you before. I think it happened to me a few years back where I had this pain and then it just kind of went away on its own. I didn't go to the emergency department then though. Okay, and has there been anything that you've tried to make this pain any better?",
+        "topic_id": 1,
+        "summary": " The patient describes the pain in the upper right corner of his abdomen, right below where the lungs are . On a scale of 1 to 10, 10 being the most severe pain, what would you rate it as? I think it happened to me a few years back where I had this",
+        "keywords": [
+            "abdomen",
+            "pain",
+            "lungs",
+            "emergency",
+            "severe"
+        ],
+        "sentiment": 0.1399360670194003
+    },
+    {
+        "start_time": 194.0,
+        "end_time": 203.16,
+        "text": "I tried taking just like Adville and Canonal, but it didn't really seem to help the pain too much.",
+        "topic_id": 2,
+        "summary": "I tried taking just like Adville and Canonal, but it didn't really seem to help the pain too much.",
+        "keywords": [
+            "canonal",
+            "adville",
+            "taking",
+            "pain",
+            "really"
+        ],
+        "sentiment": 0.2
+    },
+    {
+        "start_time": 203.16,
+        "end_time": 207.12,
+        "text": "Okay, and have you had any other",
+        "topic_id": 3,
+        "summary": "Okay, and have you had any other",
+        "keywords": [
+            "okay"
+        ],
+        "sentiment": 0.1875
+    },
+    {
+        "start_time": 386.96,
+        "end_time": 448.96,
+        "text": "associated symptoms such as nausea or or vomiting? I've had some nausea over the past few days management, I haven't vomited anything. Okay, so no blood in your MSS or or no vomiting at all. Yeah, okay. And have you traveled anywhere recently? No, like we haven't traveled anywhere recently. Okay and how is your energy levels been? Energy and when it's hurting a lot like today I've been it's been difficult to move around. I've been pretty drained from the pain but otherwise over the last few days it hasn't impacted me too much, but today I would say my injury levels are down. Okay, and have you noticed any skin changes or any rashes? I don't think so. I don't think I've noticed any kind of skin changes. Okay. How about any changes to urinary habits? Like, painful urination or the color of your urine. No changes. Okay. And have you had any changes to bowel patterns such as diarrhea or changes in color of your stool? No, I don't think so. No changes that I've noticed. Okay. So any notice any blood in this stool? No, no blood. Okay. And how is your appetite been? Uh, it's, it was around the same before the pain actually started getting worse. So today I didn't really feel like eating. I did have a nausea with past duties but my appetite I would say is the worst today. Okay and have you noticed any changes to your weight recently? Oh no, I don't think so. Okay and have you had any recent infections? No, not that I know. Okay. So next, just to ask some questions about your past medical history, have you been diagnosed with any medical conditions in the past? So I think the only thing is my doctor told me that I should do some weight, but other than that, I know medical history. Okay. Any allergies to medications? No. No allergies. And other medications that you take on a regular basis, either prescribed or over the counter. Uh, you know, prescribe sometimes I take like some ant acids when I get hard for. But this is just like a couple times someone after dinner, sometimes in my, that's about it. Okay, and any hospitalizations? Just for just when I had my children at the time of their birth, but that's it. Okay, and have you been around anybody who's been sick? Nope. Okay, and have you had any prior surgeries? Nope, no prior surgeries. Okay, and any family history of call bladder disease or cardiovascular disease in the family. So my father died of a stroke",
+        "topic_id": 4,
+        "summary": " Have you had any symptoms of MSS. associated symptoms such as nausea or or vomiting? I've had some nausea over the past few days management, I haven't vomited anything. I don't think I've noticed any kind of skin changes. No changes to urinary habits. No",
+        "keywords": [
+            "symptoms",
+            "nausea",
+            "vomiting",
+            "sick",
+            "diarrhea"
+        ],
+        "sentiment": 0.07526455026455027
+    },
+    {
+        "start_time": 448.96,
+        "end_time": 545.52,
+        "text": "when he was in the sixties. My mother does have gallstones. Okay. And what do you do for work? work. So I work in at the bank. okay, consulted, okay, and do you drink alcohol? Yeah, sometimes, okay, maybe one or two classes of wine at every night. Okay, and do you feel the need to cut down on your drinking? I don't know really. Okay, if you have refelt in the wide, about people criticizing your drinking? No. Okay, if you felt guilty about your drinking, Yeah, sure should I be? No, at this time, just wanting to gauge a sense of how you feel about your drinking levels at this time. And a follow-up question to that would be, have you ever felt the need to have a drink early in the morning? I don't know. I've never drink in the morning. Okay. And do use recreational drugs? I don't remember.",
+        "topic_id": 5,
+        "summary": " Have you ever felt the need to have a drink early in the morning? I don't know really. I've never drink in the early hours of the morning. Do you use recreational drugs? Do you have a problem with people criticizing your drinking? No. My mother does have gall",
+        "keywords": [
+            "drinking",
+            "drink",
+            "alcohol",
+            "wine",
+            "gallstones"
+        ],
+        "sentiment": 0.23803418803418805
+    },
+    {
+        "start_time": 545.52,
+        "end_time": 546.52,
+        "text": "Okay.",
+        "topic_id": 6,
+        "summary": "Okay.",
+        "keywords": [
+            "okay"
+        ],
+        "sentiment": 0.5
+    },
+    {
+        "start_time": 546.52,
+        "end_time": 548.52,
+        "text": "And these folks, cigarettes?",
+        "topic_id": 7,
+        "summary": "And these folks, cigarettes?",
+        "keywords": [
+            "cigarettes",
+            "folks"
+        ],
+        "sentiment": 0.0
+    },
+    {
+        "start_time": 548.52,
+        "end_time": 576.48,
+        "text": "Nope. And... Oh, and then who are you living with currently at home? So I'm living with my two children and my partner, and can you tell me a little bit about the home situation? Yeah, the home situation is fine, like kids are",
+        "topic_id": 8,
+        "summary": " I'm living with my two children and my partner, and can you tell me a little bit about the home situation? Yeah, it's fine, like kids are . And... And then who are you living with currently at home?",
+        "keywords": [
+            "home",
+            "nope",
+            "partner",
+            "living",
+            "situation"
+        ],
+        "sentiment": 0.0763888888888889
+    },
+    {
+        "start_time": 576.48,
+        "end_time": 584.64,
+        "text": "doing great and the partner is very supportive, no noise use that I can think of at home. Okay,",
+        "topic_id": 9,
+        "summary": "doing great and the partner is very supportive, no noise use that I can think of at home. Okay,",
+        "keywords": [
+            "noise",
+            "partner",
+            "supportive",
+            "doing",
+            "home"
+        ],
+        "sentiment": 0.65
+    },
+    {
+        "start_time": 584.64,
+        "end_time": 585.64,
+        "text": "Excellent.",
+        "topic_id": 10,
+        "summary": "Excellent.",
+        "keywords": [
+            "excellent"
+        ],
+        "sentiment": 1.0
+    }
+]

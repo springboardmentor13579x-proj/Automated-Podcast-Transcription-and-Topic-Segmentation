@@ -1,0 +1,321 @@
+[
+    {
+        "start_time": 0.0,
+        "end_time": 86.76,
+        "text": "brings you in today. So, I've just had this pain in my chest for just over a week now, and it's caused me to have trouble breathing. Okay, how old are you Jen? 52. 52. Okay, when did this pain start? You said a week back? Yeah, I just about that. I think maybe eight days ago. Okay. And is it a constant pain? Is it always there? It is, but it's definitely worse that it's the breathing that's been bothering me a lot more. When I take a deep breath, the pain's a lot worse. Okay, okay. And when you do get that pain, how long does it last? I would say, I don't know, 15, 20 minutes. It goes away over time. Okay, and the shortness of breath, do you have that at rest as well? No, if I take a break or sit down to rest, then I can usually catch my breath. Even if I'm doing a little bit of exertion,",
+        "topic_id": 1,
+        "summary": " Jen, 52, has been in pain in her chest for over a week and has trouble breathing . When she takes a deep breath, the pain's a lot worse . She would say that pain lasts 15, 20 minutes .",
+        "keywords": [
+            "breathing",
+            "breath",
+            "pain",
+            "chest",
+            "rest"
+        ],
+        "sentiment": 0.10299707602339184
+    },
+    {
+        "start_time": 86.76,
+        "end_time": 91.76,
+        "text": "like walking a few blocks or something like that,",
+        "topic_id": 2,
+        "summary": "like walking a few blocks or something like that,",
+        "keywords": [
+            "walking",
+            "blocks",
+            "like"
+        ],
+        "sentiment": -0.2
+    },
+    {
+        "start_time": 94.0,
+        "end_time": 97.2,
+        "text": "I'm finding it, I'm sure on a breath.",
+        "topic_id": 3,
+        "summary": "I'm finding it, I'm sure on a breath.",
+        "keywords": [
+            "breath",
+            "finding",
+            "sure"
+        ],
+        "sentiment": 0.5
+    },
+    {
+        "start_time": 97.2,
+        "end_time": 98.04,
+        "text": "Okay.",
+        "topic_id": 4,
+        "summary": "Okay.",
+        "keywords": [
+            "okay"
+        ],
+        "sentiment": 0.5
+    },
+    {
+        "start_time": 100.04,
+        "end_time": 103.16,
+        "text": "Do anything trigger this a week back?",
+        "topic_id": 5,
+        "summary": "Do anything trigger this a week back?",
+        "keywords": [
+            "week",
+            "trigger"
+        ],
+        "sentiment": 0.0
+    },
+    {
+        "start_time": 103.16,
+        "end_time": 267.04,
+        "text": "Any trauma to the chest area? Anything like that? No, no one else has been sick. I had a cough about a week ago, and so I thought it might be a chest infection, but I'm not feverish, so I'm not sure. Okay, the cough is still there. Yeah, it's, um, I still have a cough. Okay, and are you coughing up any blood? No, I haven't noticed any blood. Okay. Have what spewed him? Um, no spewed him. No, okay. And do you feel like you're wheezing? Uh, no wheezing. No wheezing, okay. Um, the shortness of breath. 1 to 10, 10 being the worst, uh, the most severe. How bad is your shortness of breath? I would say what I'm exerting myself, it could get up to like a 7 or an 8. Okay. And you mentioned how far can you walk before you need to rest? I would say maybe a hundred meters before I was able to run, or I was running a few days per week, so I'm not like me. And the chess pain, is it sharp or is it dull, crampy? What does it feel like? I say it's sharp. Okay, have you ever experienced this before? No, nothing like like this before at all. I haven't ever had any any problems like this before. Okay, and has it changed since it started a week back or has your symptoms been pretty much the same? They've been pretty much the same. Okay, okay. Do you have anything like COPD, congestive heart failure, or anything like that? No, I've never had any heart problems in the past. I've been healthy up to this point, though. Nothing I see a doctor regularly for. Okay, okay.",
+        "topic_id": 6,
+        "summary": " Shortness of breath, chess pain and chess pain can be sharp, crampy . No one else has been sick, but he says he's never had heart problems in the past .",
+        "keywords": [
+            "coughing",
+            "wheezing",
+            "symptoms",
+            "sick",
+            "cough"
+        ],
+        "sentiment": 0.1285383597883598
+    },
+    {
+        "start_time": 269.96,
+        "end_time": 271.16,
+        "text": "You mentioned no fever, no chills,",
+        "topic_id": 7,
+        "summary": "You mentioned no fever, no chills,",
+        "keywords": [
+            "fever",
+            "chills",
+            "mentioned"
+        ],
+        "sentiment": 0.0
+    },
+    {
+        "start_time": 273.2,
+        "end_time": 282.52,
+        "text": "no night sweats, too, I guess. Yeah, no night sweats. Okay, and have a weight loss, any weight loss? No weight loss.",
+        "topic_id": 8,
+        "summary": "no night sweats, too, I guess. Yeah, no night sweats. Okay, and have a weight loss, any weight loss? No weight loss.",
+        "keywords": [
+            "sweats",
+            "night",
+            "weight",
+            "loss",
+            "yeah"
+        ],
+        "sentiment": 0.5
+    },
+    {
+        "start_time": 282.52,
+        "end_time": 283.6,
+        "text": "No, okay.",
+        "topic_id": 9,
+        "summary": "No, okay.",
+        "keywords": [
+            "okay"
+        ],
+        "sentiment": -0.25
+    },
+    {
+        "start_time": 289.6,
+        "end_time": 302.0,
+        "text": "Have you experienced any changes in your vision? Um, yeah, no, my vision's been been, um, been fine. Okay, hearing. Yeah, hearing has been okay. Okay. How about smell?",
+        "topic_id": 10,
+        "summary": "Have you experienced any changes in your vision? Um, yeah, no, my vision's been been, um, been fine. Okay, hearing. Yeah, hearing has been okay. Okay. How about smell?",
+        "keywords": [
+            "smell",
+            "hearing",
+            "vision",
+            "experienced",
+            "changes"
+        ],
+        "sentiment": 0.5433333333333333
+    },
+    {
+        "start_time": 329.52,
+        "end_time": 340.0,
+        "text": "No changes in smell. No, um, have you had a st stuffy nose or a runny nose in the past week or so? No, it's just that. The dry cough. Okay, dry cough. Any changes in your skin like grasses? No rashes. Okay. And you mentioned some chest pain, any palpitations like you feel like your heart's racing? I actually did feel like that a little bit, especially when I was moving",
+        "topic_id": 11,
+        "summary": " No, um, have you had a stuffy nose or a runny nose in the past week or so? No, it's just that. The dry cough. No changes in smell. No rashes. Any changes in your skin like grasses? No . And you mentioned",
+        "keywords": [
+            "palpitations",
+            "smell",
+            "chest",
+            "cough",
+            "moving"
+        ],
+        "sentiment": 0.05364583333333334
+    },
+    {
+        "start_time": 340.0,
+        "end_time": 366.0,
+        "text": "a little bit more, I felt like my heart was racing. Okay, um, any calf pain? Um, yeah, my left, my left legs actually a little bit sore. Okay, any swelling in the area? Um, Uh, no, I don't, don't, um, see any swelling there.",
+        "topic_id": 12,
+        "summary": " \"I felt like my heart was racing. a little bit more,\" he said . \"I don't, no, I don't see any swelling in the area?\" he asked .",
+        "keywords": [
+            "swelling",
+            "sore",
+            "calf",
+            "pain",
+            "heart"
+        ],
+        "sentiment": 0.16071428571428573
+    },
+    {
+        "start_time": 366.0,
+        "end_time": 367.0,
+        "text": "Oh, okay.",
+        "topic_id": 13,
+        "summary": "Oh, okay.",
+        "keywords": [
+            "oh",
+            "okay"
+        ],
+        "sentiment": 0.5
+    },
+    {
+        "start_time": 368.2,
+        "end_time": 569.04,
+        "text": "No. Uh, yeah, we'll say that they're swelling. Okay. Um, and you mentioned short as some shortness of breath, um, on exertion. How about when you're laying down? Uh, not what I'm laying down. No, okay, and not when you're okay, not when you're laying down, okay. Um, alright. And in terms of what you're stool, uh, so bowel movements and urination, like all of that's normal. Yeah, all of that's been normal. Okay, any headaches? No, no confusion. No, no confusion. Okay, have a dizziness or fainting spells? No fainting spells. Okay, okay, and have you already received any sort of imaging or pulmonary function tests or anything like that for this recently? No, I haven't. Okay. And are you otherwise healthy? Do you have any past medical history of any conditions really? Um, no, like I've been, um, any conditions, really? Um, no, like, I've been, um, previously healthy. Um, but I, I guess I did have, uh, a his direct to me a few weeks ago. I know, it was, I, I didn't bring it up before because it's just a, a day procedure, but, um, I was definitely spending a lot more time, um, after that a few weeks ago. Okay, okay, so you haven't been moving around as much I guess since the hysterectomy? Yeah, exactly. It was starting to get, it was starting to get, the pain was starting to improved, but it was keeping me on the couch a lot of days. Okay, yeah. Um, are you on any medications? Um, no, I tried some, I'd tie it on an, an advil for the pain throughout this week and it didn't really help much, but other than that, don't take any medications, nothing for blood pressure or anything like that. Okay, and sorry, what was the his direct to me for? I was having a lot of bleeding. Okay, so were they thinking it was like a cancer or something? I think it was from fibroids. Okay, okay. And so you mentioned no medications, any allergies? No allergies to medications. No. And are you up to date with any, oh, with all your immunizations? Um, and yeah. You are. Okay. Any family history of lung conditions? No lung conditions. Okay.",
+        "topic_id": 14,
+        "summary": " I was having a lot of bleeding. I think it was from fibroids. No. I tried some, I'd tie it on an, an advil for the pain throughout this week and it didn't really help much, but other than that, don't take any medications",
+        "keywords": [
+            "dizziness",
+            "fainting",
+            "swelling",
+            "headaches",
+            "urination"
+        ],
+        "sentiment": 0.19909420289855068
+    },
+    {
+        "start_time": 569.04,
+        "end_time": 583.76,
+        "text": "How about heart? Yeah. My mom had a heart attack when she was 56. Okay. Okay. I'm I'm sorry to get a that.",
+        "topic_id": 15,
+        "summary": "How about heart? Yeah. My mom had a heart attack when she was 56. Okay. Okay. I'm I'm sorry to get a that.",
+        "keywords": [
+            "heart",
+            "56",
+            "mom",
+            "sorry",
+            "attack"
+        ],
+        "sentiment": 0.16666666666666666
+    },
+    {
+        "start_time": 583.76,
+        "end_time": 625.8,
+        "text": "And any history of family history of something called pulmonary embolism or DVDs? No, I haven't heard of pulmonary embolism before. Okay, so it's basically blood clots in your lung and then DVD DVT's are deep vein thrombosis, so I'll still blood clots, but in different parts of your body. Okay. Yeah, anything like that that you know of? No, I have might have heard of something like that happening in my mom, actually.",
+        "topic_id": 16,
+        "summary": " DVD DVT's are deep vein thromsosis, so I'll still blood clots, but in different parts of your body . And any history of family history of something called pulmonary embolism or DVDs? No, I haven't heard of pulmonary\u00a0embolism before",
+        "keywords": [
+            "embolism",
+            "thrombosis",
+            "pulmonary",
+            "clots",
+            "vein"
+        ],
+        "sentiment": 0.2
+    },
+    {
+        "start_time": 625.8,
+        "end_time": 631.8,
+        "text": "I might have been related to her heart attack, but I'm not specifically sure.",
+        "topic_id": 17,
+        "summary": "I might have been related to her heart attack, but I'm not specifically sure.",
+        "keywords": [
+            "heart",
+            "related",
+            "attack",
+            "specifically",
+            "sure"
+        ],
+        "sentiment": 0.25
+    },
+    {
+        "start_time": 632.6,
+        "end_time": 633.6,
+        "text": "Okay, sure.",
+        "topic_id": 18,
+        "summary": "Okay, sure.",
+        "keywords": [
+            "sure",
+            "okay"
+        ],
+        "sentiment": 0.5
+    },
+    {
+        "start_time": 634.6,
+        "end_time": 637.8,
+        "text": "Um, and Jen, do you smoke?",
+        "topic_id": 19,
+        "summary": "Um, and Jen, do you smoke?",
+        "keywords": [
+            "jen",
+            "smoke",
+            "um"
+        ],
+        "sentiment": 0.0
+    },
+    {
+        "start_time": 639.2,
+        "end_time": 705.4,
+        "text": "Um, I spoke maybe about half a pack of cigarettes per day. I've smoked ever since I was a teenager, I've smoked ever since I was a teenager, I've smoked, ever since I was a teenager, I've smoked, ever since I was a teenager, I've smoked, ever since I was a teenager, I've smoked, ever since I was a teenager, I've smoked, ever since I was a teenager, I've smoked, ever since I was a teenager, I've smoked, ever since I was a teenager, I've smoked, ever since I was a teenager, I've smoked, ever since I was a teenager, I've smoked, ever since I was a teenager, I've smoked, ever since I was a teenager, I've smoked, ever since I was a teenager, I've smoked, ever since I was a teenager, I've smoked, ever since I was a teenager, I've smoked, ever since I was a teenager, I've smoked, ever since I was a teenager, I've smoked, ever since I was a teenager, I've smoked, ever since I was a teenager, I've smoked, ever since I was a teenager, I've smoked, Ever since I was a teenager, I've smoked, Ever since I was a teenager, Ever since I was a teenager, Ever since I was a teenager, Ever since I was a teenager, Ever since I was a teenager, Ever since I was a teenager, Ever since I was a teenager, Ever since I was a teenager, Ever since I was a teenager, Ever since I was a teenager, Ever since I was a teenager, Ever since I was a teenager, Ever since I was a teenager, Ever since I was a teenager, Ever since I was a teenager, Ever since I was a teenager, Ever since I was a teenager, Ever since I was a teenager, Ever since I was a teenager, Ever since I was a teenager, Ever since I was a teenager, Ever since I was a teenager, Ever since I was a teenager, Ever since I was a teenager, Ever since I was a teenager, Ever since I was a teenager, Ever since I was a've spoken ever since I was a teenager, I've tried to quit multiple times. I was smoking about a pack per day before, so I have cut it down, but still something that I'm working on. Okay, good. I'm glad you're trying to cut down. We have resources available if you're interested in some more help. And do you smoke marijuana? No, I don't. Okay. Any use of other recreational drugs? Nope. No, okay. And have about alcohol, do you drink. Maybe a glass of wine on the weekends, but other than that, no. Okay. And have you had any sick contacts recently? People around you? People you live with, that work. I can't think of anybody anybody who's been",
+        "topic_id": 20,
+        "summary": " I've smoked ever since I was a teenager . I've tried to quit multiple times. I was smoking about a pack per day before, so I have cut it down, but still something that I'm working on. Do you smoke marijuana? No, I don't . Do you",
+        "keywords": [
+            "cigarettes",
+            "smoked",
+            "teenager",
+            "smoking",
+            "smoke"
+        ],
+        "sentiment": 0.08579445246111911
+    },
+    {
+        "start_time": 705.4,
+        "end_time": 785.04,
+        "text": "sick no okay and and what do you do for work Jen? I work as an administrator at at a bank okay okay and have you traveled anywhere recently? No I I can't remember the last vacation. Okay, all right. So those are all the questions that I had for you. Did you have anything that you wanted to add? Anything that I hadn't touched on? No, I think you covered everything. Thank you. Okay, yeah, no worries. So I guess at this point, we would do a physical exam, just take a listen to your lungs and your chest after that. So right now, it sounds like it could be something basculer, you know, like a pulmonary embolism like we talked about. That's kind of high on my list of things to work up for. But also, we don't want to miss other things like cancer, infection, autoimmune things that could affect your lung. So we'll just do a work up for all of that.",
+        "topic_id": 21,
+        "summary": " Jen works as an administrator at at a bank and has not traveled anywhere recently . She says she can't remember the last vacation .",
+        "keywords": [
+            "lungs",
+            "lung",
+            "pulmonary",
+            "embolism",
+            "infection"
+        ],
+        "sentiment": 0.16015306122448983
+    },
+    {
+        "start_time": 785.04,
+        "end_time": 793.44,
+        "text": "How does that sound? Yeah, whatever, whatever you think we need to do. Okay, sounds good.",
+        "topic_id": 22,
+        "summary": "How does that sound? Yeah, whatever, whatever you think we need to do. Okay, sounds good.",
+        "keywords": [
+            "sounds",
+            "sound",
+            "yeah",
+            "think",
+            "good"
+        ],
+        "sentiment": 0.5333333333333333
+    },
+    {
+        "start_time": 793.44,
+        "end_time": 798.96,
+        "text": "Thank you for your time. Yeah, thanks.",
+        "topic_id": 23,
+        "summary": "Thank you for your time. Yeah, thanks.",
+        "keywords": [
+            "thanks",
+            "time",
+            "thank",
+            "yeah"
+        ],
+        "sentiment": 0.2
+    }
+]

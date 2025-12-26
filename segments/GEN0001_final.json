@@ -1,0 +1,246 @@
+[
+    {
+        "start_time": 0.0,
+        "end_time": 2.6,
+        "text": "Oh, brings you to Clyde today.",
+        "topic_id": 1,
+        "summary": "Oh, brings you to Clyde today.",
+        "keywords": [
+            "clyde",
+            "brings",
+            "today",
+            "oh"
+        ],
+        "sentiment": 0.0
+    },
+    {
+        "start_time": 2.6,
+        "end_time": 45.92,
+        "text": "Hi, so I feel like I might have a bladder infection. I see a urologist because I've had some issues with like an overactive bladder for a while. I've had a few bladder infections in the past and this usually how they feel. um, you guys feel like a little bit of burning when I go to the bathroom and I have to go, like, a lot right now. But then also sometimes it means that like it gets like this when I have my period and I don't have my period right now, but I, you know, I could be getting it,",
+        "topic_id": 2,
+        "summary": " \"I see a urologist because I've had some issues with like an overactive bladder for a while,\" she says . \"I've had a few bladder infections in the past and this usually feels like a little bit of burning when I go to the bathroom and I have to",
+        "keywords": [
+            "bladder",
+            "urologist",
+            "infection",
+            "bathroom",
+            "infections"
+        ],
+        "sentiment": -0.05267857142857143
+    },
+    {
+        "start_time": 45.92,
+        "end_time": 51.2,
+        "text": "but I also just don't want to let it go keep going if I do have an infection. I'm just",
+        "topic_id": 3,
+        "summary": "but I also just don't want to let it go keep going if I do have an infection. I'm just",
+        "keywords": [
+            "infection",
+            "don",
+            "let",
+            "just",
+            "going"
+        ],
+        "sentiment": 0.0
+    },
+    {
+        "start_time": 51.2,
+        "end_time": 55.92,
+        "text": "like, rather get it treated if I do. Okay, I'm just so, when was your last period?",
+        "topic_id": 4,
+        "summary": "like, rather get it treated if I do. Okay, I'm just so, when was your last period?",
+        "keywords": [
+            "period",
+            "treated",
+            "okay",
+            "like",
+            "just"
+        ],
+        "sentiment": 0.25
+    },
+    {
+        "start_time": 57.76,
+        "end_time": 106.0,
+        "text": "Um, like two weeks ago. About two weeks ago, are you fairly regular? Like, yes and no, it's, it's, it's, it's, it's, it's, it's, it's, it's, it's, it's, it's, it's, it's, it's, it's, it's, it's, it's, it's, it's, it's, it's, it's, it's, it's, it's, it's, it's, it's, it's, it's, it's, it's, it's, it's, it's, it's, it's, it's, it's, it's, it's, it's, it's, it's, it's, it's, it's, it's, it's, it's, it's, it's, it's, it's, it's, it's, it's, it's, it's, it's, it's, it's, it's, it's, it's, it's, it's, it's, it's, it's, it's, it's, it's, it's, it's, it's, it's, it's, it's, it's, it's, it's, it's, it's, it's, it's, it's, it's, it's, it's, it's, it's, it's, it's, it's, it's, it's, it's, it's, it's, it's, it's, it's, it's, it's, it's, it's, it's, it's, it's, it's, it's, it's, it's, it's, it's, it's, it's, it's, it's, it's, it's, it's, it's, it's, it's, it's, it's, it's, it's, it's, it's, it's, it's, it's, it's, it's, it's, it's, it's, it's, it's,. About two weeks ago, are you fairly regular? Like, yes and no, it's, I'm not super irregular, but I sometimes have, like, it basically is like, I alternate sometimes, I, my cycle's like four weeks and sometimes it's more like five. Sorry, it's clarify again, you're 30 years old? Yeah, I'm 30. Okay. Are you going to your contraception right now? Uh, no, I'm not. Okay. Are you sexually active at all? No. No. Okay. So just in terms of your, your energy tract infections, what will be the last one?",
+        "topic_id": 5,
+        "summary": " About two weeks ago, are you fairly regular? Like, yes and no . I'm not super irregular, but I sometimes have, like, I alternate sometimes, I, my cycle's like four weeks and sometimes it's more like five . Are you sexually active at all? No",
+        "keywords": [
+            "irregular",
+            "regular",
+            "weeks",
+            "terms",
+            "cycle"
+        ],
+        "sentiment": 0.006593406593406596
+    },
+    {
+        "start_time": 108.0,
+        "end_time": 111.0,
+        "text": "I have one like three months ago, maybe.",
+        "topic_id": 6,
+        "summary": "I have one like three months ago, maybe.",
+        "keywords": [
+            "maybe",
+            "months",
+            "ago",
+            "like"
+        ],
+        "sentiment": 0.0
+    },
+    {
+        "start_time": 112.0,
+        "end_time": 117.0,
+        "text": "Three months ago. Okay. I mean, prescribed you antibiotics, and it went away fairly quickly.",
+        "topic_id": 7,
+        "summary": "Three months ago. Okay. I mean, prescribed you antibiotics, and it went away fairly quickly.",
+        "keywords": [
+            "antibiotics",
+            "prescribed",
+            "months",
+            "ago",
+            "okay"
+        ],
+        "sentiment": 0.17361111111111108
+    },
+    {
+        "start_time": 118.0,
+        "end_time": 391.0,
+        "text": "Yeah, yeah, I went away. Like I always, I always have an attractive bladder, and I always have to go pretty frequently like every hour sometimes half hour but so that's still there but it's like it hasn't ever since then I haven't had any like pain with it. Okay so you still have quite a you have a quite a bit of urgency to go to kind of keep it more frequently but I suppose the new thing that you're a little bit concerned about is that it burns a little bit. It stains a little bit when you do your name. Mind your standing correctly. Exactly. Like for the past couple days, it felt like that. Okay. Has it been getting progressively worse at all? Maybe a little bit. I feel like now I can recognize it pretty early when it's not too bad to kind of get ahead of it. Okay, understood. And do you have any pain kind of behind your rips at all? When you're back. So, can you repeat that? You haven't had any pain on your back, middle back kind of close to your ribs, have you? I'm not that I can think of. Okay. And have you noticed any changes to the quality of the year? Uh, uh. For example, is it like frothy or smelled bad? It maybe looks like a little cloudy. But nothing else out of the ordinary, like I've never had blood in it or anything. Understood. Have you also any visual changes in the area in Virginia? No, not that I can't believe in anything like that, anything concerned for an STI that you're worried about? No, and like I haven't had a sexual partner in a few years. I don't understand. These are kind of questions that we ask when someone's having a little bit. Maybe an issue holding in their urine. But you're a felt-in-eaten numbness or inability to feel kind of around your buttocks region. For example, when you wipe with tissue paper, can you feel that well? Oh, yeah. I can feel everything. Okay. And no changes to your poops to your bowel movements. You know, well, it's pretty normal. Okay. And how do you feel otherwise? Oh, I mean mean I feel a little tired. I felt like a little hot yesterday. I don't have a thermometer so I didn't take my temperature but you know sometimes I feel a little hot like when I've had the infections before. Okay, you don't have any swelling on your anywhere on your body on your ankles, do you? No. No. Okay. And then, so no puffiness around your eyes that you've noticed? No. I don't know about it. Any rashes or any changes on your face? Like my mom said, I come, I'm earlier, and she said I looked like a little flushed, but it's not, not like a rash or anything. No, no markings across the bridge of your nose and your cheeks. No. Okay. And then in regards otherwise, you're feeling a little flushle tired. Any other medical issues that you have? No, this is like overactive bladder things. Okay. And have they given you any medications for it? Uh, we try to see different ones before. Now I get, um, I get Botox injections into, uh, the bladder, like, maybe twice a year. Hmm. Anything else they've used recently? Like, uh, any medications you're on right now, I suppose? No, nothing, no, nothing else. I guess I have, like, I have an inhaler, uh, but I don't use it all the time. Like, I haven't had to in a while. I'll see you have have asthma. Yeah, like I honestly don't feel like I have it very much now, but I still have, like I still have to be a healer. Understood, understood. Anything else you've taken medications for in the past? Ah, I used to take first control, like the pill, but like I just, I don't have before I came right now, and then just didn't really feel like I needed it otherwise understood and have you had any past surgeries?",
+        "topic_id": 8,
+        "summary": " Have you also any visual changes in the area in Virginia? No, not that I can't believe in anything like that, anything concerned for an STI that you're worried about . No, and like I haven't had a sexual partner in a few years. No, this is",
+        "keywords": [
+            "bladder",
+            "urine",
+            "pain",
+            "bowel",
+            "felt"
+        ],
+        "sentiment": 0.08012148649472595
+    },
+    {
+        "start_time": 393.0,
+        "end_time": 403.0,
+        "text": "I had my my appendix out when I was 24 and that's it though.",
+        "topic_id": 9,
+        "summary": "I had my my appendix out when I was 24 and that's it though.",
+        "keywords": [
+            "appendix",
+            "24"
+        ],
+        "sentiment": 0.0
+    },
+    {
+        "start_time": 403.0,
+        "end_time": 405.0,
+        "text": "Okay, got it.",
+        "topic_id": 10,
+        "summary": "Okay, got it.",
+        "keywords": [
+            "got",
+            "okay"
+        ],
+        "sentiment": 0.5
+    },
+    {
+        "start_time": 405.0,
+        "end_time": 447.0,
+        "text": "And then just in terms of you yourselves, do you live in London? Yeah, I do. Okay, what do you do for work? I work at a bank. Okay. Color. Do you have any children? No. Okay. And it regards to anything. So any sick contacts? No. Any recent travel? No. Any allergies? No. Like sometimes in this ring, I'll all get like a little stuffy. Okay. So it's like, yeah. The nothing too can say no drug allergies.",
+        "topic_id": 11,
+        "summary": " Do you have any children? No. No. Any recent travel? No . No. I work at a bank . Do you live in London? Yeah, I do .",
+        "keywords": [
+            "allergies",
+            "london",
+            "stuffy",
+            "ring",
+            "sick"
+        ],
+        "sentiment": 0.06057224025974024
+    },
+    {
+        "start_time": 447.0,
+        "end_time": 449.0,
+        "text": "No, nothing like that.",
+        "topic_id": 12,
+        "summary": "No, nothing like that.",
+        "keywords": [
+            "like"
+        ],
+        "sentiment": 0.0
+    },
+    {
+        "start_time": 449.0,
+        "end_time": 451.0,
+        "text": "Got it, got it.",
+        "topic_id": 13,
+        "summary": "Got it, got it.",
+        "keywords": [
+            "got"
+        ],
+        "sentiment": 0.0
+    },
+    {
+        "start_time": 451.0,
+        "end_time": 455.0,
+        "text": "Okay, I think what now do next I'll move to a physical exam.",
+        "topic_id": 14,
+        "summary": "Okay, I think what now do next I'll move to a physical exam.",
+        "keywords": [
+            "exam",
+            "physical",
+            "okay",
+            "think",
+            "ll"
+        ],
+        "sentiment": 0.16666666666666666
+    },
+    {
+        "start_time": 455.0,
+        "end_time": 460.0,
+        "text": "I think we might just do some investigations just in order to get some more information.",
+        "topic_id": 15,
+        "summary": "I think we might just do some investigations just in order to get some more information.",
+        "keywords": [
+            "investigations",
+            "information",
+            "think",
+            "just",
+            "order"
+        ],
+        "sentiment": 0.5
+    },
+    {
+        "start_time": 460.0,
+        "end_time": 463.0,
+        "text": "And then the physician will come in to see you, okay?",
+        "topic_id": 16,
+        "summary": "And then the physician will come in to see you, okay?",
+        "keywords": [
+            "physician",
+            "come",
+            "okay"
+        ],
+        "sentiment": 0.5
+    },
+    {
+        "start_time": 463.0,
+        "end_time": 465.0,
+        "text": "Well, thank you.",
+        "topic_id": 17,
+        "summary": "Well, thank you.",
+        "keywords": [
+            "thank"
+        ],
+        "sentiment": 0.0
+    },
+    {
+        "start_time": 465.0,
+        "end_time": 466.0,
+        "text": "No problem.",
+        "topic_id": 18,
+        "summary": "No problem.",
+        "keywords": [
+            "problem"
+        ],
+        "sentiment": 0.0
+    }
+]

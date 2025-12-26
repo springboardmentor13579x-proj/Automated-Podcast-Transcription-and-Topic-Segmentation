@@ -1,0 +1,573 @@
+[
+    {
+        "start_time": 0.0,
+        "end_time": 67.84,
+        "text": "whipping feeling. Just come in today because I've been having some issues with my hips as well as my knees. Just over the last probably a month or two I've been just getting this sickness and pain especially throughout the day as the day goes along and I also experienced some stiffness whenever we go up in the morning in my hips and knees so I just wanted to come and check out what that might be. Okay and you said it started in the past month. Yeah maybe up to two months months actually. Yeah, I would say two months. OK. And as a pain and stiffness always there, or does it come and go? It comes and goes. It's worse. So it's stiff, more stiff in the morning first. But as the day goes on, probably near the afternoon, it it gets worse so I've had to stop some of",
+        "topic_id": 1,
+        "summary": " Just over the last probably a month or two I've been just getting this sickness and pain especially throughout the day as the day goes along . I also experienced some stiffness whenever we go up in the morning in my hips and knees so I just wanted to come and check out what that might",
+        "keywords": [
+            "stiffness",
+            "whipping",
+            "sickness",
+            "stiff",
+            "pain"
+        ],
+        "sentiment": 0.08367346938775509
+    },
+    {
+        "start_time": 108.4,
+        "end_time": 129.0,
+        "text": "my activities like gardening or being outdoors and things like that. Okay I said it's it gets worse if the activity is there anything else that makes it better or worse. Um, it probably, yeah, if I'm just exerting myself too much, in terms of better, I think I've taken some ad-vill that does help with the pain. Okay. Okay. And then if you were to describe the quality of this pain, would you say it's achy, dropping dull or sharp? It's kind of like this achy pain kind of deep within the joins themselves. Okay, yeah, it just gets worse as I walk more and it's a new",
+        "topic_id": 2,
+        "summary": " It's kind of like this achy pain kind of deep within the joins themselves . It just gets worse as I walk more and it's a new pain, it gets worse if I'm exerting too much .",
+        "keywords": [
+            "pain",
+            "walk",
+            "exerting",
+            "dull",
+            "activity"
+        ],
+        "sentiment": 0.20115864527629232
+    },
+    {
+        "start_time": 129.0,
+        "end_time": 130.24,
+        "text": "more activities.",
+        "topic_id": 3,
+        "summary": "more activities.",
+        "keywords": [
+            "activities"
+        ],
+        "sentiment": 0.5
+    },
+    {
+        "start_time": 131.24,
+        "end_time": 138.48,
+        "text": "Yeah, okay, and does a pain ratey also, or is it pretty localized here, hits and knees?",
+        "topic_id": 4,
+        "summary": "Yeah, okay, and does a pain ratey also, or is it pretty localized here, hits and knees?",
+        "keywords": [
+            "knees",
+            "pain",
+            "hits",
+            "localized",
+            "does"
+        ],
+        "sentiment": 0.375
+    },
+    {
+        "start_time": 139.2,
+        "end_time": 141.6,
+        "text": "It's mainly in those areas.",
+        "topic_id": 5,
+        "summary": "It's mainly in those areas.",
+        "keywords": [
+            "areas",
+            "mainly"
+        ],
+        "sentiment": 0.16666666666666666
+    },
+    {
+        "start_time": 141.6,
+        "end_time": 145.28,
+        "text": "Okay, and severity-wise, want to tend to end being the worst",
+        "topic_id": 6,
+        "summary": "Okay, and severity-wise, want to tend to end being the worst",
+        "keywords": [
+            "severity",
+            "worst",
+            "end",
+            "tend",
+            "okay"
+        ],
+        "sentiment": -0.25
+    },
+    {
+        "start_time": 145.28,
+        "end_time": 168.32,
+        "text": "pain you've ever felt how bad is this pain? Probably like a seven. Seven, okay, and have you ever experienced type of pain before? No, not really. Okay, and And do you think your pain is getting worse?",
+        "topic_id": 7,
+        "summary": " How bad is this pain you've ever felt? Probably like a seven, okay, and have you ever experienced this type of pain before? No, not really. Do you think your pain is getting worse? And do you think this pain is going to get worse?",
+        "keywords": [
+            "pain",
+            "worse",
+            "felt",
+            "seven",
+            "bad"
+        ],
+        "sentiment": -0.009999999999999964
+    },
+    {
+        "start_time": 168.32,
+        "end_time": 246.96,
+        "text": "I think so, like over the last two months, I feel like my pain, there's more stiffness, there's more pain throughout the day. Okay, okay. Um, and, yeah, so do, are you experiencing any sort of numbness or tingling in the areas? No, not really. No, okay. Any muscle weakness? Nope. No, okay. So able to walk and do the things that you used to enjoy doing. I know you said gardening was hard for you. How about like other activities of like daily living, like cooking, using the washroom, things like that. Yeah, those things I don't really have too much trouble with. Okay, okay, that's good, at least. And any diseases are fainting spells Uh, no. No, okay. How about, um, memory loss or confusion? Um, we don't know nothing like that. Any headaches? Nope. No, okay. Um, have a joint pains or muscle aches elsewhere. Um, no, I haven't really felt, um, have a joint pains or muscle aches elsewhere.",
+        "topic_id": 8,
+        "summary": " Are you experiencing any sort of numbness or tingling in the areas? No, okay. Any muscle weakness or muscle weakness? Nope. Any headaches or muscle aches elsewhere? No. I haven't really felt, um, have a joint pains .",
+        "keywords": [
+            "pains",
+            "numbness",
+            "gardening",
+            "aches",
+            "tingling"
+        ],
+        "sentiment": 0.14682539682539686
+    },
+    {
+        "start_time": 253.36,
+        "end_time": 254.4,
+        "text": "Um, no, I haven't really felt any other pain in any other joint so far.",
+        "topic_id": 9,
+        "summary": "Um, no, I haven't really felt any other pain in any other joint so far.",
+        "keywords": [
+            "pain",
+            "joint",
+            "felt",
+            "haven",
+            "really"
+        ],
+        "sentiment": 0.012500000000000004
+    },
+    {
+        "start_time": 259.6,
+        "end_time": 261.44,
+        "text": "Okay, um, and any weight loss recently?",
+        "topic_id": 10,
+        "summary": "Okay, um, and any weight loss recently?",
+        "keywords": [
+            "recently",
+            "weight",
+            "loss",
+            "um",
+            "okay"
+        ],
+        "sentiment": 0.25
+    },
+    {
+        "start_time": 262.56,
+        "end_time": 263.52,
+        "text": "Uh, no?",
+        "topic_id": 11,
+        "summary": "Uh, no?",
+        "keywords": [
+            "uh"
+        ],
+        "sentiment": 0.0
+    },
+    {
+        "start_time": 264.32,
+        "end_time": 307.0,
+        "text": "No, okay. How about, bit of fever's or chills. No, fever's or chills. Okay, and have a lot of rashes. Nope. No, and changes in your vision hearing smaller taste. Nope Nope. Have a coughing, are we seeing our shortness of breath? Nope. Um, chest pain, heart palpitations, um, or fainting? Uh, nope. Can you see your bowel movements? Nope. I tend to send your urinating.",
+        "topic_id": 12,
+        "summary": " Have a coughing, are we seeing our shortness of breath? Nope. Have a bit of fever's or chills? No. How about a lot of rashes and changes in your vision hearing smaller taste? Nope .",
+        "keywords": [
+            "fever",
+            "fainting",
+            "palpitations",
+            "coughing",
+            "urinating"
+        ],
+        "sentiment": 0.08333333333333333
+    },
+    {
+        "start_time": 307.0,
+        "end_time": 309.0,
+        "text": "Nope.",
+        "topic_id": 13,
+        "summary": "Nope.",
+        "keywords": [
+            "nope"
+        ],
+        "sentiment": 0.0
+    },
+    {
+        "start_time": 309.0,
+        "end_time": 312.0,
+        "text": "Okay.",
+        "topic_id": 14,
+        "summary": "Okay.",
+        "keywords": [
+            "okay"
+        ],
+        "sentiment": 0.5
+    },
+    {
+        "start_time": 312.0,
+        "end_time": 330.0,
+        "text": "And then, are you otherwise healthy or do you have any past medical conditions? Um, so I do have a prior history of hypertension as well as, uh,.",
+        "topic_id": 15,
+        "summary": "And then, are you otherwise healthy or do you have any past medical conditions? Um, so I do have a prior history of hypertension as well as, uh,.",
+        "keywords": [
+            "hypertension",
+            "healthy",
+            "medical",
+            "past",
+            "history"
+        ],
+        "sentiment": 0.0625
+    },
+    {
+        "start_time": 330.0,
+        "end_time": 353.0,
+        "text": ". . . . . . . . . . . . . . . . . . . . . . .",
+        "topic_id": 16,
+        "summary": ". . . . . . . . . . . . . . . . . . . . . . .",
+        "keywords": [],
+        "sentiment": 0.0
+    },
+    {
+        "start_time": 353.0,
+        "end_time": 432.0,
+        "text": "..... So I do have prior history of hypertension, as well as high cholesterol, diabetes, and also a bit more on the overweight side. Okay. Are you taking any medications for all of this? Yeah, so blood pressure I'm taking just medication called tell me sergeant. And then for blood pressure I'm taking a metformin sorry not blood pressure for diabetes I'm taking Okay, and then for the cholesterol I'm taking a metformant, sorry, not blood pressure for diabetes, I'm taking a woman. Okay. And then for the cholesterol I'm taking at this medication called a 12th of statin. Okay. All right. And do you have any allergies? No allergies. No allergies. Um, how about immunizations? Are you up to date with them? Uh, yeah, as far as I know. Okay, that's good. Um, how about family history of musculoskeletal issues? Um that I know. No. No. Okay. Then how about lung or heart conditions? No. I think my father maybe he had some heart issues. He did have a hard attack in his, let's see, like in the 70s.",
+        "topic_id": 17,
+        "summary": " \"I do have prior history of hypertension, as well as high cholesterol, diabetes, and also a bit more on the overweight side\" \"I think my father maybe he had some heart issues. He did have a hard attack in his, let's see, like in the 70s",
+        "keywords": [
+            "hypertension",
+            "statin",
+            "cholesterol",
+            "medications",
+            "metformin"
+        ],
+        "sentiment": 0.18026984126984127
+    },
+    {
+        "start_time": 432.0,
+        "end_time": 435.0,
+        "text": "In the 70s, okay.",
+        "topic_id": 18,
+        "summary": "In the 70s, okay.",
+        "keywords": [
+            "70s",
+            "okay"
+        ],
+        "sentiment": 0.5
+    },
+    {
+        "start_time": 435.0,
+        "end_time": 436.0,
+        "text": "Okay.",
+        "topic_id": 19,
+        "summary": "Okay.",
+        "keywords": [
+            "okay"
+        ],
+        "sentiment": 0.5
+    },
+    {
+        "start_time": 436.0,
+        "end_time": 438.0,
+        "text": "And...",
+        "topic_id": 20,
+        "summary": "And...",
+        "keywords": [],
+        "sentiment": 0.0
+    },
+    {
+        "start_time": 440.0,
+        "end_time": 441.0,
+        "text": "All right.",
+        "topic_id": 21,
+        "summary": "All right.",
+        "keywords": [
+            "right"
+        ],
+        "sentiment": 0.2857142857142857
+    },
+    {
+        "start_time": 441.0,
+        "end_time": 444.0,
+        "text": "And how about autoimmune conditions?",
+        "topic_id": 22,
+        "summary": "And how about autoimmune conditions?",
+        "keywords": [
+            "autoimmune",
+            "conditions"
+        ],
+        "sentiment": 0.0
+    },
+    {
+        "start_time": 450.0,
+        "end_time": 451.0,
+        "text": "I don't think so. Thank you. Thank you.",
+        "topic_id": 23,
+        "summary": "I don't think so. Thank you. Thank you.",
+        "keywords": [
+            "thank",
+            "think",
+            "don"
+        ],
+        "sentiment": 0.0
+    },
+    {
+        "start_time": 451.0,
+        "end_time": 473.0,
+        "text": "Thank you. Thank you. Thank you. Thank you. Thank you. Thank you. Thank you. Thank you. Thank you. Thank you. Thank you. Thank you. Thank you. Thank you. Thank you. Thank you. Thank you. Thank you. Thank you. Thank you. Thank you. Thank you.",
+        "topic_id": 24,
+        "summary": " Thank you! Thank you. Thank you . Thank you thank you. You thank you . You are a good person . You're a great person. You can be a wonderful person. I am so happy to see you .",
+        "keywords": [
+            "thank"
+        ],
+        "sentiment": 0.0
+    },
+    {
+        "start_time": 473.0,
+        "end_time": 544.52,
+        "text": "Thank you. Thank you. Thank you. Thank you. Thank you. All right, and how about autoimmune conditions? I don't think so. It can't, I can't recall any autoimmune condition. And did you smoke? Yeah, used to smoke probably up until when I was like 65 or something, so probably for 40 years of my life. Okay, how much did you use to smoke? Probably a pack a day. A pack a day, okay. I'm walking grad for quitting, I'm sure that was an hard. That means sorry. I'm sure that was hard. Yeah, so that's good and have you, do you consume marijuana? No. No, okay. Have other recreational drugs? No, no, the recreational drugs. Okay, that's good. Did you drink alcohol? Nope. Not anymore. I used to probably drink some wine here and there. But that I've stopped drinking alcohol too. Okay. And who do you live with right now and where do you live um right now i live with my wife i mean live in a small condominium okay and all right and then And any recent sick contacts?",
+        "topic_id": 25,
+        "summary": " Did you smoke? Yeah, used to smoke probably up until when he was like 65 or something, so probably for 40 years of my life . Did you drink alcohol? Nope. Not anymore. I used to probably drink some wine here and there .",
+        "keywords": [
+            "autoimmune",
+            "marijuana",
+            "quitting",
+            "smoke",
+            "sick"
+        ],
+        "sentiment": 0.15011824595157927
+    },
+    {
+        "start_time": 544.52,
+        "end_time": 547.2,
+        "text": "Nope. No, okay.",
+        "topic_id": 26,
+        "summary": "Nope. No, okay.",
+        "keywords": [
+            "nope",
+            "okay"
+        ],
+        "sentiment": -0.25
+    },
+    {
+        "start_time": 547.2,
+        "end_time": 588.6,
+        "text": "Have a travel anywhere. Nope. No, okay, that's good. And now I'm just going to get you to do the physical exam part of this interview with me. Is that okay? Yeah. Okay, so we'll take a look at if you can't have a mirror, we'll take a look at both hips first. Do you notice any redness or swelling on those hips? No, not really. Okay, have a look, any The actual fee deformities are skin changes.",
+        "topic_id": 27,
+        "summary": " The actual fee deformities are skin changes. Have a travel anywhere. No, okay, that's good. No. I'm just going to get you to do the physical exam part of this interview .",
+        "keywords": [
+            "hips",
+            "physical",
+            "exam",
+            "travel",
+            "interview"
+        ],
+        "sentiment": 0.18125
+    },
+    {
+        "start_time": 588.6,
+        "end_time": 652.0,
+        "text": "Nope. Okay, have a, any, um, atrophy deformities or skin changes. No. No, okay. And then have out on your knees. Do you see any redness or swelling there? No, not really, no. No, any, um, atrophy deformities or skin changes there? Uh, nope. No, okay. I'm going to get you to palpate your hip bones. Does that hurt? No, not really. Okay. How about when you do that to your knees? The knee I can feel a little bit of... I would say it's more of a discomfort than tenderness. Okay, so some discomfort on the petala palpation. All right, and when you palpate those areas, do you feel like there's a grading sensation or does it feel warm?",
+        "topic_id": 28,
+        "summary": " Do you see any redness or swelling there? No, not really, no. No, any, um, atrophy deformities or skin changes there? \"No, okay. I'm going to get you to palpate your hip bones.\"",
+        "keywords": [
+            "tenderness",
+            "discomfort",
+            "swelling",
+            "knees",
+            "knee"
+        ],
+        "sentiment": 0.13482142857142856
+    },
+    {
+        "start_time": 652.0,
+        "end_time": 654.0,
+        "text": "No. No.",
+        "topic_id": 29,
+        "summary": "No. No.",
+        "keywords": [],
+        "sentiment": 0.0
+    },
+    {
+        "start_time": 654.0,
+        "end_time": 655.0,
+        "text": "Okay.",
+        "topic_id": 30,
+        "summary": "Okay.",
+        "keywords": [
+            "okay"
+        ],
+        "sentiment": 0.5
+    },
+    {
+        "start_time": 655.0,
+        "end_time": 661.0,
+        "text": "And then I'm going to get you to, can you flex your hips all the way?",
+        "topic_id": 31,
+        "summary": "And then I'm going to get you to, can you flex your hips all the way?",
+        "keywords": [
+            "hips",
+            "flex",
+            "way",
+            "going"
+        ],
+        "sentiment": 0.0
+    },
+    {
+        "start_time": 661.0,
+        "end_time": 662.0,
+        "text": "So bend.",
+        "topic_id": 32,
+        "summary": "So bend.",
+        "keywords": [
+            "bend"
+        ],
+        "sentiment": 0.0
+    },
+    {
+        "start_time": 662.0,
+        "end_time": 670.0,
+        "text": "So from a sitting physician stand up first. And does it hurt when you extend your hips like that?.",
+        "topic_id": 33,
+        "summary": "So from a sitting physician stand up first. And does it hurt when you extend your hips like that?.",
+        "keywords": [
+            "hips",
+            "sitting",
+            "stand",
+            "hurt",
+            "extend"
+        ],
+        "sentiment": 0.25
+    },
+    {
+        "start_time": 670.0,
+        "end_time": 693.0,
+        "text": ". . . . . . . . . . . . . . . . . . . . . . .",
+        "topic_id": 34,
+        "summary": ". . . . . . . . . . . . . . . . . . . . . . .",
+        "keywords": [],
+        "sentiment": 0.0
+    },
+    {
+        "start_time": 693.0,
+        "end_time": 726.18,
+        "text": "..... flex your hips all the way so bend it so from a sitting position stand up first and does it hurt when you extend your hips like that? um not right now I think I'm pretty uh my hips are pretty well rested right now but there is still a little bit of stiffness okay so um some stiffness on hip extension, how about when you bend your hips all the way? Yeah, that I can't really go down that far, but yeah, even bending as much as I can, there is some discomfort there. Okay, so some discomfort and some pain on the hip flexion as well as limited range of motion. Okay. All right. And when you do both of those, do you hear any, like, what's called a",
+        "topic_id": 35,
+        "summary": " There is still a little bit of stiffness on hip extension, how about when you bend your hips all the way . Even bending as much as I can, there is some discomfort there .",
+        "keywords": [
+            "hips",
+            "stiffness",
+            "hip",
+            "flexion",
+            "bending"
+        ],
+        "sentiment": 0.18314909297052154
+    },
+    {
+        "start_time": 726.18,
+        "end_time": 732.0,
+        "text": "crap it is, or like a grading sensation, where you feel like bone may be hitting bone?",
+        "topic_id": 36,
+        "summary": "crap it is, or like a grading sensation, where you feel like bone may be hitting bone?",
+        "keywords": [
+            "bone",
+            "sensation",
+            "feel",
+            "hitting",
+            "grading"
+        ],
+        "sentiment": -0.8
+    },
+    {
+        "start_time": 732.0,
+        "end_time": 735.0,
+        "text": "Uh, no, not really.",
+        "topic_id": 37,
+        "summary": "Uh, no, not really.",
+        "keywords": [
+            "uh",
+            "really"
+        ],
+        "sentiment": -0.1
+    },
+    {
+        "start_time": 735.0,
+        "end_time": 736.0,
+        "text": "No, okay.",
+        "topic_id": 38,
+        "summary": "No, okay.",
+        "keywords": [
+            "okay"
+        ],
+        "sentiment": -0.25
+    },
+    {
+        "start_time": 736.0,
+        "end_time": 738.0,
+        "text": "All right.",
+        "topic_id": 39,
+        "summary": "All right.",
+        "keywords": [
+            "right"
+        ],
+        "sentiment": 0.2857142857142857
+    },
+    {
+        "start_time": 738.0,
+        "end_time": 906.56,
+        "text": "And I'm going to get you to extend your knees, so straighten it out. Um, uh, uh, uh, uh, uh, uh, I feel like I feel more of the grading sound in my knees. Okay, and then have it when you bend your knees all the way backwards. You can do one at a time. Yeah, yeah, it definitely feels some discomfort there as well. Yeah, okay. All right. And have it when you point your toes to the ceiling? No one does it, that's fine, I can do that. And then how about when you point your toes to the ground? Yeah, no issues. Okay, so no pain or limited range of motion with punch or flexion or door seat flexion. Okay, so those were all the tests that I want to do with you today. Did you have any questions or concerns? No, not really. No, okay. So it sounds like what you may have is something called arthritis, which basically happens when the cushions at the end of your bones and your joints kind of degenerate over the years. And so bone can eventually rub on bone, which causes like that, that, that grading sensation and causes the pain. And it happens in old age and happens with wear and tear. So to diagnose it, we will, yeah, we did the physical exam. We can also get an x-ray of your hips and knees, which can have some findings that align with osteoarthritis. And basically for now, we'll try to manage it conservatively so you can take and set, like ibuprofen for the pain or acetaminophen for the pain. And we'll also refer you tootherapy. Just strengthen those muscles around your joint and to increase flexibility and reduce that pain. And another thing that may be worth considering is occupational therapy because they can help you find ways to do everyday tasks without putting too much stress on an already",
+        "topic_id": 40,
+        "summary": " Have it when you point your toes to the ceiling? No one does it, that's fine, I can do that. And then how about pointing your toes towards the ground? No issues. No pain or limited range of motion with punch or flexion or door seat flexion .",
+        "keywords": [
+            "osteoarthritis",
+            "arthritis",
+            "knees",
+            "joints",
+            "discomfort"
+        ],
+        "sentiment": 0.2518207282913165
+    },
+    {
+        "start_time": 906.56,
+        "end_time": 913.76,
+        "text": "painful joint and if these things don't work in the future we can also discuss things like",
+        "topic_id": 41,
+        "summary": "painful joint and if these things don't work in the future we can also discuss things like",
+        "keywords": [
+            "joint",
+            "painful",
+            "discuss",
+            "work",
+            "future"
+        ],
+        "sentiment": -0.35
+    },
+    {
+        "start_time": 913.76,
+        "end_time": 919.4,
+        "text": "steroid injections or joint replacement does that sound like a good plan?",
+        "topic_id": 42,
+        "summary": "steroid injections or joint replacement does that sound like a good plan?",
+        "keywords": [
+            "steroid",
+            "injections",
+            "joint",
+            "replacement",
+            "plan"
+        ],
+        "sentiment": 0.55
+    },
+    {
+        "start_time": 919.4,
+        "end_time": 922.9,
+        "text": "Yeah, that sounds great. Thank you so much.",
+        "topic_id": 43,
+        "summary": "Yeah, that sounds great. Thank you so much.",
+        "keywords": [
+            "great",
+            "thank",
+            "yeah",
+            "sounds"
+        ],
+        "sentiment": 0.5
+    },
+    {
+        "start_time": 922.9,
+        "end_time": 924.4,
+        "text": "Okay, yeah, no worries.",
+        "topic_id": 44,
+        "summary": "Okay, yeah, no worries.",
+        "keywords": [
+            "worries",
+            "okay",
+            "yeah"
+        ],
+        "sentiment": 0.5
+    }
+]

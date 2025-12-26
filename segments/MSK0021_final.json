@@ -1,0 +1,564 @@
+[
+    {
+        "start_time": 0.0,
+        "end_time": 187.0,
+        "text": "What can I do for you? Hi there, I've had this pain in my knee. This has been going on for a few weeks now and it hasn't gone away and so I thought I would get checked out. It's been really impacting my running. I just haven't been able to run as as I would like to. And so that's why I wanted to get this look that. Yeah, for sure. You said it's shared a couple weeks ago. Was that two weeks ago, three weeks ago or more? Yeah, maybe it's been going on for the past four weeks or the past month or past month. Yeah. Okay. And is it a constant type of pain or does it come and go? It comes and goes. Yeah. It depends on what I'm doing. Okay. Um, all right. And what kind of makes it worse or better? So if I'm, well, well, running what will bug it, but I think like the main things that very people, if I'm walking downstairs or if I'm squatting, I like to lift weights as well. And yeah, if I can barely even do body weight now, because if I'm squatting down and causes a lot of pain, it's a sharp pain. Okay. Okay. And if you were to describe the quality of your pain, which is say it's achy, throbbing, dull, sharp burning. Hey, is it a sharp pain? Sharp pain okay. And what to tend to end being the worst pain you've ever had, how bad is this pain? It's about a seven. Seven, okay. And have you ever had pain like this in the past? No, I haven't. Okay. And do you feel like your pain's getting worse over the past four weeks? Yeah, it has gotten a bit worse. Okay. All right. And do you, are you serious? You're going to sort of muscle weakness? No muscle weakness. No, okay. How about numbness or tingling? No, numbness or tingling. Head aches. No. Confusion or memory loss. No. Any joint pains or muscle aches outside of the area of this left me? No, just just the left me. Okay and where abouts on the left me is it? It's uh on the edge of your aspect, so I got the front of it, but I could it feels like the pain is is great behind by like re underneath the kneecap.",
+        "topic_id": 1,
+        "summary": " Achy, throbbing, dull, sharp burning, numbness or tingling, memory loss, head aches, confusion or memory loss . What kind of makes it worse or better? If I'm squatting down and causes a lot of pain, it's a sharp pain",
+        "keywords": [
+            "pains",
+            "knee",
+            "running",
+            "pain",
+            "run"
+        ],
+        "sentiment": 0.06103347135955833
+    },
+    {
+        "start_time": 187.4,
+        "end_time": 189.0,
+        "text": "Right underneath the knee, okay? Yeah. It feels like the pain is right behind by like re-underneath the kneecap. Right underneath the knee, okay.",
+        "topic_id": 2,
+        "summary": "Right underneath the knee, okay? Yeah. It feels like the pain is right behind by like re-underneath the kneecap. Right underneath the knee, okay.",
+        "keywords": [
+            "knee",
+            "kneecap",
+            "pain",
+            "underneath",
+            "feels"
+        ],
+        "sentiment": 0.24285714285714285
+    },
+    {
+        "start_time": 189.0,
+        "end_time": 192.0,
+        "text": "Yeah. Okay.",
+        "topic_id": 3,
+        "summary": "Yeah. Okay.",
+        "keywords": [
+            "yeah",
+            "okay"
+        ],
+        "sentiment": 0.5
+    },
+    {
+        "start_time": 192.0,
+        "end_time": 193.0,
+        "text": "Hmm.",
+        "topic_id": 4,
+        "summary": "Hmm.",
+        "keywords": [
+            "hmm"
+        ],
+        "sentiment": 0.0
+    },
+    {
+        "start_time": 193.0,
+        "end_time": 196.0,
+        "text": "All right.",
+        "topic_id": 5,
+        "summary": "All right.",
+        "keywords": [
+            "right"
+        ],
+        "sentiment": 0.2857142857142857
+    },
+    {
+        "start_time": 196.0,
+        "end_time": 204.0,
+        "text": "And otherwise like have you had any weight loss? No, my weight's been the same.",
+        "topic_id": 6,
+        "summary": "And otherwise like have you had any weight loss? No, my weight's been the same.",
+        "keywords": [
+            "weight",
+            "loss",
+            "like"
+        ],
+        "sentiment": 0.0
+    },
+    {
+        "start_time": 204.0,
+        "end_time": 210.0,
+        "text": "Okay. Have out fevers or chills? No.",
+        "topic_id": 7,
+        "summary": "Okay. Have out fevers or chills? No.",
+        "keywords": [
+            "fevers",
+            "chills",
+            "okay"
+        ],
+        "sentiment": 0.5
+    },
+    {
+        "start_time": 210.0,
+        "end_time": 233.0,
+        "text": "No. No. No. No. No. No. No. No. No. No. No. No. No. No. No. No. No. No. No. No. No. No. No.",
+        "topic_id": 8,
+        "summary": "No. No. No. No. No. No. No. No. No. No. No. No. No. No. No. No. No. No. No. No. No. No. No.",
+        "keywords": [],
+        "sentiment": 0.0
+    },
+    {
+        "start_time": 233.0,
+        "end_time": 268.8,
+        "text": "No. No. No the same. Okay. Have out fevers or chills. No fevers or chills. Okay. Have out fatigue. No fatigue. Energy's been good. Okay. Chimps in your hair or nails like crashes. No, nothing like that. Chimps in your vision hearing smell or taste? Nope, that's all been normal. Okay. All right. Tab about coughing, shortness of breath, or um, using. Uh, no, nothing like that okay chest pain or heart palpitations nope no chest pain or anything like that okay um any changes in your bowel movements nope I haven't had any diarrhea or any blood. Okay, any changes in your",
+        "topic_id": 9,
+        "summary": " Have out fevers or chills. No the same. Have out fatigue. No fatigue. Energy's been good. Have had any diarrhea or any blood. No. the same .",
+        "keywords": [
+            "fevers",
+            "diarrhea",
+            "palpitations",
+            "coughing",
+            "fatigue"
+        ],
+        "sentiment": 0.4214285714285715
+    },
+    {
+        "start_time": 268.8,
+        "end_time": 279.6,
+        "text": "your nation? No. No, okay. Um, alright, and are you otherwise healthy or do you have any",
+        "topic_id": 10,
+        "summary": "your nation? No. No, okay. Um, alright, and are you otherwise healthy or do you have any",
+        "keywords": [
+            "nation",
+            "healthy",
+            "alright",
+            "okay",
+            "um"
+        ],
+        "sentiment": 0.125
+    },
+    {
+        "start_time": 279.6,
+        "end_time": 405.96,
+        "text": "longstanding medical conditions? Uh, I do have. Uh, as well. Um, so I, I do Thanks for watching, see you in the next video, thanks for watching, see you in the next blue one that I'll use sometimes, but I haven't needed that one for a while. I've been pretty good. I don't even need it when I'm going for runs anymore. Okay. Okay. That's good. And are you on any medications? Yeah, just the inhalers. And then I took an adverse control as well. I've been taking that since I was 16. So yeah, for like six, six years? First of all, yours? Okay. All right. Um, and uh, are you had you been hospitalized or had surgeries in the past? Uh, no, I've. Okay. How about immunizations are you up to date? I am, yes. Okay. How about allergies? Do you have any? I don't know. No allergies, okay. Good. family history of musculoskeletal issues? No. Well, I think my grandparents have like osteoarthritis or something like that. But that's it. Okay. Have it longer heart conditions. Nope, not to like that. Okay, and any autoimmune conditions? No, I don't believe so. No, okay, have a camcourous.",
+        "topic_id": 11,
+        "summary": " Are you on any medications? Yeah, just the inhalers. I've been taking that since I was 16. I haven't needed that one for a while. I don't even need it when I'm going for runs anymore. No allergies, okay. How about immunizations are",
+        "keywords": [
+            "allergies",
+            "osteoarthritis",
+            "immunizations",
+            "inhalers",
+            "medications"
+        ],
+        "sentiment": 0.30844155844155846
+    },
+    {
+        "start_time": 402.2,
+        "end_time": 409.2,
+        "text": "Um, no, no cancers in the family.",
+        "topic_id": 12,
+        "summary": "Um, no, no cancers in the family.",
+        "keywords": [
+            "cancers",
+            "family",
+            "um"
+        ],
+        "sentiment": 0.0
+    },
+    {
+        "start_time": 409.2,
+        "end_time": 414.2,
+        "text": "Okay. Um, and do you smoke?",
+        "topic_id": 13,
+        "summary": "Okay. Um, and do you smoke?",
+        "keywords": [
+            "smoke",
+            "okay",
+            "um"
+        ],
+        "sentiment": 0.5
+    },
+    {
+        "start_time": 414.2,
+        "end_time": 415.2,
+        "text": "Nope.",
+        "topic_id": 14,
+        "summary": "Nope.",
+        "keywords": [
+            "nope"
+        ],
+        "sentiment": 0.0
+    },
+    {
+        "start_time": 415.2,
+        "end_time": 418.2,
+        "text": "I try to stay away from that with all the running and stuff that I'm doing.",
+        "topic_id": 15,
+        "summary": "I try to stay away from that with all the running and stuff that I'm doing.",
+        "keywords": [
+            "running",
+            "doing",
+            "stay",
+            "away",
+            "stuff"
+        ],
+        "sentiment": 0.0
+    },
+    {
+        "start_time": 418.2,
+        "end_time": 423.2,
+        "text": "I want to make sure that I'm able to improve.",
+        "topic_id": 16,
+        "summary": "I want to make sure that I'm able to improve.",
+        "keywords": [
+            "improve",
+            "able",
+            "make",
+            "sure",
+            "want"
+        ],
+        "sentiment": 0.5
+    },
+    {
+        "start_time": 423.2,
+        "end_time": 424.2,
+        "text": "Yeah, for sure.",
+        "topic_id": 17,
+        "summary": "Yeah, for sure.",
+        "keywords": [
+            "yeah",
+            "sure"
+        ],
+        "sentiment": 0.5
+    },
+    {
+        "start_time": 424.2,
+        "end_time": 525.28,
+        "text": "And um, have a marijuana do you consume that in any form? No, I don't. No, okay. And have what recreational drugs? No, you say away from that stuff, too. Okay, okay, good. And who do you live with and where do you live right now? So I live with a couple of roommates at school, just finishing up my undergraduate degree. Okay, okay. Have you been in contact with anyone sick recently? Nope, I don't think so. Everybody's been been healthy. Okay. Okay. And travel anywhere? Nope. We've been been at home. Okay. Okay. Um, all right. So I think those are all the questions that I have for you. Let's move on to the physical exam part of this interview that's okay with you. So I'm going to get you to take a look at both your knees and let me know if you see more redness or swelling in your left knee compared to your right. No, I'm not noticing any swelling. Do you see any redness? No, no redness. No, okay. How about any atrophy deformities or skin changes in your left knee compared to your right knee.",
+        "topic_id": 18,
+        "summary": " Have you been in contact with anyone sick recently? Nope, I don't think so. Everybody's been been healthy. And have what recreational drugs? No, you say away from that stuff, too. No, okay, good. And who do you live with and where do you",
+        "keywords": [
+            "marijuana",
+            "knees",
+            "knee",
+            "swelling",
+            "drugs"
+        ],
+        "sentiment": 0.25144855144855144
+    },
+    {
+        "start_time": 526.64,
+        "end_time": 527.2,
+        "text": "No, nothing like that.",
+        "topic_id": 19,
+        "summary": "No, nothing like that.",
+        "keywords": [
+            "like"
+        ],
+        "sentiment": 0.0
+    },
+    {
+        "start_time": 535.2,
+        "end_time": 538.0,
+        "text": "No, okay. I'm going to get you to press down and palpate on your quadriceps on both knee. I was already on both thighs. Do you feel any pain there?",
+        "topic_id": 20,
+        "summary": " I'm going to get you to press down and palpate on your quadriceps on both knee. Do you feel any pain there? No, okay. I was already on both thighs. No .",
+        "keywords": [
+            "thighs",
+            "quadriceps",
+            "knee",
+            "pain",
+            "feel"
+        ],
+        "sentiment": -0.20277777777777778
+    },
+    {
+        "start_time": 539.6,
+        "end_time": 541.44,
+        "text": "Uh, no pain there.",
+        "topic_id": 21,
+        "summary": "Uh, no pain there.",
+        "keywords": [
+            "pain",
+            "uh"
+        ],
+        "sentiment": 0.0
+    },
+    {
+        "start_time": 542.0,
+        "end_time": 551.0,
+        "text": "Okay. How about when you press down on your knee caps? Yeah, I do get some pain when when you press down on your kneecaps. Yeah, I do get some pain when I push on the kneecap.",
+        "topic_id": 22,
+        "summary": " Yeah, I do get some pain when when when you press down on your kneecaps. How about when you push down on the kneecap? Yeah, he says .",
+        "keywords": [
+            "kneecaps",
+            "kneecap",
+            "pain",
+            "knee",
+            "caps"
+        ],
+        "sentiment": 0.06296296296296296
+    },
+    {
+        "start_time": 553.0,
+        "end_time": 554.0,
+        "text": "Oh, on my left knee. On your left knee, okay.",
+        "topic_id": 23,
+        "summary": "Oh, on my left knee. On your left knee, okay.",
+        "keywords": [
+            "knee",
+            "left",
+            "oh",
+            "okay"
+        ],
+        "sentiment": 0.16666666666666666
+    },
+    {
+        "start_time": 554.0,
+        "end_time": 558.0,
+        "text": "Have it just below that where you shouldn't start.",
+        "topic_id": 24,
+        "summary": "Have it just below that where you shouldn't start.",
+        "keywords": [
+            "start",
+            "shouldn",
+            "just"
+        ],
+        "sentiment": 0.0
+    },
+    {
+        "start_time": 559.0,
+        "end_time": 561.0,
+        "text": "No pain there. No pain there.",
+        "topic_id": 25,
+        "summary": "No pain there. No pain there.",
+        "keywords": [
+            "pain"
+        ],
+        "sentiment": 0.0
+    },
+    {
+        "start_time": 561.0,
+        "end_time": 564.0,
+        "text": "And then have it on the lateral aspects of your knee.",
+        "topic_id": 26,
+        "summary": "And then have it on the lateral aspects of your knee.",
+        "keywords": [
+            "knee",
+            "lateral",
+            "aspects"
+        ],
+        "sentiment": 0.0
+    },
+    {
+        "start_time": 588.32,
+        "end_time": 596.96,
+        "text": "No pain there. And then the medial aspects of your knee. No, no, no, no, no, no, no, no, no, no, no, no temperature between the left and right knee? Was the left knee a little bit more warm than the right knee? No, the temperature feels the same. Okay, okay, good. So now I'm going to, are you sitting down? I am, yes. Okay. So from a sitting position,",
+        "topic_id": 27,
+        "summary": " No pain there. No temperature between the left and right knee? No, the temperature feels the same. No pain, no pain there, no temperature between left knee and right .",
+        "keywords": [
+            "knee",
+            "pain",
+            "warm",
+            "sitting",
+            "medial"
+        ],
+        "sentiment": 0.2714133089133089
+    },
+    {
+        "start_time": 596.96,
+        "end_time": 604.96,
+        "text": "I'm going to get you to stand up and you let me know if that is painful. It is, yeah. Yeah, okay.",
+        "topic_id": 28,
+        "summary": "I'm going to get you to stand up and you let me know if that is painful. It is, yeah. Yeah, okay.",
+        "keywords": [
+            "painful",
+            "stand",
+            "okay",
+            "yeah",
+            "know"
+        ],
+        "sentiment": -0.09999999999999998
+    },
+    {
+        "start_time": 688.4,
+        "end_time": 694.84,
+        "text": "And, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, yeah. Yeah, okay. Um, and then, how about when you bend your knees? Um, not, no, no pain with just bending. Okay. How about when you, uh, when you flex your So we can do one leg at a time, does that hurt? No, that doesn't hurt. Have a squatting down. That does hurt. Yeah, squatting hurts. squatting hurts, Okay. Okay. And then how about when you point your toes towards the ceiling? No pain. Okay. How about when you point your toes towards the ground? No pain. No pain. So no pain on dorsy flexion or plantar flexion. Okay. Do you hear any like popping or crackling sounds in your knees when you climb stairs or when you're standing up after sitting down for a long time. Yeah, yeah, sometimes I will hear some like, yeah, crackling sounds. Okay. All right. And yeah, you mentioned that you do a lot of running. Do you do any other sorts of exercises? Yeah I'll do some weightlifting and",
+        "topic_id": 29,
+        "summary": " Do you hear any like popping or crackling sounds in your knees when you climb stairs or when you're standing up after sitting down for a long time? No, not, no, no pain with just bending. How about when you point your toes towards the ceiling? No pain.",
+        "keywords": [
+            "popping",
+            "lot",
+            "sorts",
+            "okay",
+            "yeah"
+        ],
+        "sentiment": 0.2749669312169312
+    },
+    {
+        "start_time": 694.84,
+        "end_time": 701.64,
+        "text": "like cycling as well. I mean all kinds of different stuff for just like staying",
+        "topic_id": 30,
+        "summary": "like cycling as well. I mean all kinds of different stuff for just like staying",
+        "keywords": [
+            "cycling",
+            "staying",
+            "like",
+            "kinds",
+            "stuff"
+        ],
+        "sentiment": -0.15625
+    },
+    {
+        "start_time": 701.64,
+        "end_time": 705.0,
+        "text": "as active as I can. Okay, all right.",
+        "topic_id": 31,
+        "summary": "as active as I can. Okay, all right.",
+        "keywords": [
+            "active",
+            "okay",
+            "right"
+        ],
+        "sentiment": 0.21746031746031746
+    },
+    {
+        "start_time": 706.0,
+        "end_time": 715.0,
+        "text": "Yeah, given your young age and the fact that you do a lot of running and a lot of physical activity like cycling and lifting weights.",
+        "topic_id": 32,
+        "summary": "Yeah, given your young age and the fact that you do a lot of running and a lot of physical activity like cycling and lifting weights.",
+        "keywords": [
+            "cycling",
+            "running",
+            "lifting",
+            "young",
+            "weights"
+        ],
+        "sentiment": 0.05
+    },
+    {
+        "start_time": 715.0,
+        "end_time": 822.9,
+        "text": "What you have is most likely something called a patella for moral syndrome and that is basically a nerve kind of pain in the soft tissues and bone around your kneecap and it's basically happens because of overuse so vigorous physical activities that put repeated stress on your knees like running and cycling, um, can cause that or just like improper sports training techniques. Um, and we can do a few things that, um, that'll help with the pain. So for a little bit if you could hold off on the running that would be good. So in the meantime while you switch to like low impact activities whether that's like writing a stationary bike or swimming. You can also try something called a rice method, so that's sense for resting, so avoiding putting any strain on that knee, using ice packs for several days compression, so wrapping your knee in like an elastic bandage, as well as elevating your knees, higher than the lumbar of your chest, can help and then with then sharp pain to get also take ibuprofen for pain management.",
+        "topic_id": 33,
+        "summary": " What you have is most likely something called a patella for moral syndrome and that is basically a nerve kind of pain in the soft tissues and bone around your kneecap . It's basically happens because of overuse so vigorous physical activities that put repeated stress on your knees like running",
+        "keywords": [
+            "knee",
+            "patella",
+            "knees",
+            "kneecap",
+            "ibuprofen"
+        ],
+        "sentiment": 0.12596153846153849
+    },
+    {
+        "start_time": 826.7,
+        "end_time": 825.0,
+        "text": "Yeah, so we can... take ibuprofen for pain management.",
+        "topic_id": 34,
+        "summary": "Yeah, so we can... take ibuprofen for pain management.",
+        "keywords": [
+            "ibuprofen",
+            "pain",
+            "yeah",
+            "management"
+        ],
+        "sentiment": 0.0
+    },
+    {
+        "start_time": 825.0,
+        "end_time": 832.0,
+        "text": "Yeah, so we can start there.",
+        "topic_id": 35,
+        "summary": "Yeah, so we can start there.",
+        "keywords": [
+            "start",
+            "yeah"
+        ],
+        "sentiment": 0.0
+    },
+    {
+        "start_time": 832.0,
+        "end_time": 837.76,
+        "text": "If it doesn't get better, we can also order an X-ray just to rule out other things.",
+        "topic_id": 36,
+        "summary": "If it doesn't get better, we can also order an X-ray just to rule out other things.",
+        "keywords": [
+            "ray",
+            "better",
+            "order",
+            "doesn",
+            "rule"
+        ],
+        "sentiment": 0.1875
+    },
+    {
+        "start_time": 837.76,
+        "end_time": 844.64,
+        "text": "That could have caused this pain in your knee, and if none of those non-surgical treatments",
+        "topic_id": 37,
+        "summary": "That could have caused this pain in your knee, and if none of those non-surgical treatments",
+        "keywords": [
+            "knee",
+            "pain",
+            "surgical",
+            "treatments",
+            "caused"
+        ],
+        "sentiment": 0.0
+    },
+    {
+        "start_time": 844.64,
+        "end_time": 868.12,
+        "text": "work, oh sorry I also forgot to mention, we'll also refer you to physiotherapy to help Thank you very much for watching this video and I'll see you in the next video, see you in the next video, see you in the next video, and see you in the next video, and see you in the next video, and see you in the next video, and see you in the next video, and see you in the next video, and see you in the next video, and see you in the next video, and see you in the next video, and see you in the next video, and see you in the next video, and see you in the next video, and see you in the next video, and see you in the next video, and see you in the next video, and see you in the next video, and see you in the next video, and see you in the next video, and see you in the next video, and see you in the next video, and see you in the next video, and see you in the next video, and see you in the next video, and see you in the next video, and see you in the next video, and see you in the next video, and see you in the next video, and see you in the next video, and see you in the next video, and see you in the next video, and see you in the next video, and see you in the next video, and see you in the next video, and see you in the next video, and see you in the next video, and see you in the next video, and see you in the next video, and see you in the next video, and see you in the next video, and see you in the next video, and see you in the next video, and see you in the next video, and see you in the next video, and see you in the next video, and see you in the next video, and see you in the next video, and see you in the next video, and see you in the next video, and see you in the next video, and see you in the next video, we'll also refer you to physiotherapy to help you with the range of motion and strength and endurance. But if none of those non-surgical treatments work will also refer you to like an artoscopy or some sort of surgery that may be able to fix the issue more permanently.",
+        "topic_id": 38,
+        "summary": " If none of those non-surgical treatments work will also refer you to like an artoscopy or some sort of surgery that may be able to fix the issue more permanently . We'll also refer to physiotherapy to help you with the range of motion and strength and endurance .",
+        "keywords": [
+            "physiotherapy",
+            "motion",
+            "video",
+            "watching",
+            "work"
+        ],
+        "sentiment": 0.013571428571428571
+    },
+    {
+        "start_time": 868.12,
+        "end_time": 870.48,
+        "text": "Does that sound okay?",
+        "topic_id": 39,
+        "summary": "Does that sound okay?",
+        "keywords": [
+            "okay",
+            "sound",
+            "does"
+        ],
+        "sentiment": 0.45
+    },
+    {
+        "start_time": 870.48,
+        "end_time": 871.48,
+        "text": "It does.",
+        "topic_id": 40,
+        "summary": "It does.",
+        "keywords": [
+            "does"
+        ],
+        "sentiment": 0.0
+    },
+    {
+        "start_time": 871.48,
+        "end_time": 872.48,
+        "text": "Yeah.",
+        "topic_id": 41,
+        "summary": "Yeah.",
+        "keywords": [
+            "yeah"
+        ],
+        "sentiment": 0.0
+    },
+    {
+        "start_time": 872.48,
+        "end_time": 873.48,
+        "text": "Thank you.",
+        "topic_id": 42,
+        "summary": "Thank you.",
+        "keywords": [
+            "thank"
+        ],
+        "sentiment": 0.0
+    }
+]

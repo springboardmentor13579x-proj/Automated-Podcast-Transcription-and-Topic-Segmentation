@@ -1,0 +1,435 @@
+[
+    {
+        "start_time": 0.0,
+        "end_time": 85.5,
+        "text": "So I understand even experiencing some abdominal pain? Yeah, yeah, stomach hurt. It started hurting more. Last couple of days, maybe three days ago, I think. Okay, so for three days ago, for the last three days, you said it's been hurting more. Did you have pain before that? It felt weird, like, crampy. I just thought I was concentrated because I'm like, I haven't been able to go to the bathroom as well. I just saw it kind of bloated a bit but yeah about about that time started to feel a little bit more painful. Okay can you tell me kind of where you're feeling the pain the most? Yeah kind of like near my right hip like lower where my stomach is but kind of where you're feeling the pain the most. Yeah, kind of like near my right hip, like lower where my stomach is, but kind of break and below my belly button. Sometimes a little bit on the top, just below my belly button. But mainly, just not right lower side, yeah. Great. Have you ever had pain like this in the past? No, never. Okay. And for the last three days, has it been pretty constant? Has it been on and off? I feel it's been getting worse to be honest. Okay. Very thing that you think of this made it feel better. Honestly, just resting flat makes feel a little bit better, but better, but I think that you think of this made it feel better.",
+        "topic_id": 1,
+        "summary": " It started hurting more. Last couple of days, maybe three days ago, I think. Last three days, it's been hurting more . It felt weird, like, crampy. I just thought I was concentrated because I'm like, I haven't been able to go to",
+        "keywords": [
+            "abdominal",
+            "pain",
+            "crampy",
+            "stomach",
+            "hurting"
+        ],
+        "sentiment": 0.2535849567099566
+    },
+    {
+        "start_time": 88.5,
+        "end_time": 90.0,
+        "text": "Honestly, just resting flat makes feel a little bit better, but I think lunch now.",
+        "topic_id": 2,
+        "summary": "Honestly, just resting flat makes feel a little bit better, but I think lunch now.",
+        "keywords": [
+            "resting",
+            "lunch",
+            "flat",
+            "feel",
+            "better"
+        ],
+        "sentiment": 0.221875
+    },
+    {
+        "start_time": 91.0,
+        "end_time": 92.0,
+        "text": "Okay.",
+        "topic_id": 3,
+        "summary": "Okay.",
+        "keywords": [
+            "okay"
+        ],
+        "sentiment": 0.5
+    },
+    {
+        "start_time": 92.5,
+        "end_time": 94.5,
+        "text": "Is there anything that makes it worse?",
+        "topic_id": 4,
+        "summary": "Is there anything that makes it worse?",
+        "keywords": [
+            "worse",
+            "makes"
+        ],
+        "sentiment": -0.4
+    },
+    {
+        "start_time": 95.5,
+        "end_time": 96.5,
+        "text": "Touching it.",
+        "topic_id": 5,
+        "summary": "Touching it.",
+        "keywords": [
+            "touching"
+        ],
+        "sentiment": 0.5
+    },
+    {
+        "start_time": 98.3,
+        "end_time": 100.7,
+        "text": "Also, I puked the other day.",
+        "topic_id": 6,
+        "summary": "Also, I puked the other day.",
+        "keywords": [
+            "puked",
+            "day"
+        ],
+        "sentiment": -0.125
+    },
+    {
+        "start_time": 100.7,
+        "end_time": 102.5,
+        "text": "That made it definitely feel worse.",
+        "topic_id": 7,
+        "summary": "That made it definitely feel worse.",
+        "keywords": [
+            "worse",
+            "feel",
+            "definitely"
+        ],
+        "sentiment": -0.2
+    },
+    {
+        "start_time": 102.5,
+        "end_time": 105.12,
+        "text": "Does that whole contraction my body was nasty.",
+        "topic_id": 8,
+        "summary": "Does that whole contraction my body was nasty.",
+        "keywords": [
+            "contraction",
+            "nasty",
+            "body",
+            "does"
+        ],
+        "sentiment": -0.4
+    },
+    {
+        "start_time": 106.32,
+        "end_time": 110.64,
+        "text": "Okay, was it just the one time? Yeah.",
+        "topic_id": 9,
+        "summary": "Okay, was it just the one time? Yeah.",
+        "keywords": [
+            "yeah",
+            "just",
+            "okay",
+            "time"
+        ],
+        "sentiment": 0.5
+    },
+    {
+        "start_time": 122.64,
+        "end_time": 130.88,
+        "text": "Okay, um, you hide a nausea and so see it as good as it is then. Okay, um, think the pain stay in that same spot or do this move anywhere else.",
+        "topic_id": 10,
+        "summary": " Okay, um, you hide a nausea and so see it as good as it is then . Okay, think the pain stay in that same spot or do this move anywhere else .",
+        "keywords": [
+            "nausea",
+            "pain",
+            "spot",
+            "hide",
+            "good"
+        ],
+        "sentiment": 0.425
+    },
+    {
+        "start_time": 130.88,
+        "end_time": 138.56,
+        "text": "It's pretty much stayed in that one spot. Yeah. Have you noticed any fever lately?",
+        "topic_id": 11,
+        "summary": "It's pretty much stayed in that one spot. Yeah. Have you noticed any fever lately?",
+        "keywords": [
+            "fever",
+            "spot",
+            "lately",
+            "noticed",
+            "yeah"
+        ],
+        "sentiment": 0.05000000000000001
+    },
+    {
+        "start_time": 139.76,
+        "end_time": 142.96,
+        "text": "It felt a bit hot the other day. Didn't take it to temperature though.",
+        "topic_id": 12,
+        "summary": "It felt a bit hot the other day. Didn't take it to temperature though.",
+        "keywords": [
+            "temperature",
+            "hot",
+            "felt",
+            "day",
+            "didn"
+        ],
+        "sentiment": 0.0625
+    },
+    {
+        "start_time": 144.16,
+        "end_time": 208.16,
+        "text": "Okay. Okay. And what specifically prompted you to come in today, today, today, today, today, today, today, today, today, today, today, today, today, today, but here we are kind of Thursday now and it's still pretty bad. Okay. Have you been in contact with anyone that's been sick lately? Not off the top of my head now. Uh, and have you traveled anywhere recently? And uh, I forgot to ask, did you notice any changes to your bowel habits? Yeah, yeah, and before I was fairly regular about once a day, five days ago, I started getting constipated, we'll be back up in pretty much the picture. I think last time I went to the bathroom was two days ago, I think, yeah. Okay, I'm just going to ask you some questions about your overall",
+        "topic_id": 13,
+        "summary": " Have you been in contact with anyone that's been sick lately? Not off the top of my head now . Have you traveled anywhere recently? And uh, I forgot to ask, did you notice any changes to your bowel habits?",
+        "keywords": [
+            "bowel",
+            "constipated",
+            "bathroom",
+            "sick",
+            "lately"
+        ],
+        "sentiment": 0.14915966386554624
+    },
+    {
+        "start_time": 208.16,
+        "end_time": 214.16,
+        "text": "health. Do you have any chronic conditions that you see your family doctor for or any",
+        "topic_id": 14,
+        "summary": "health. Do you have any chronic conditions that you see your family doctor for or any",
+        "keywords": [
+            "health",
+            "chronic",
+            "family",
+            "doctor",
+            "conditions"
+        ],
+        "sentiment": 0.0
+    },
+    {
+        "start_time": 214.16,
+        "end_time": 223.04,
+        "text": "other doctor? I got diabetes type 2. Okay. And is that generally has up been well controlled",
+        "topic_id": 15,
+        "summary": "other doctor? I got diabetes type 2. Okay. And is that generally has up been well controlled",
+        "keywords": [
+            "diabetes",
+            "doctor",
+            "controlled",
+            "type",
+            "generally"
+        ],
+        "sentiment": 0.1416666666666667
+    },
+    {
+        "start_time": 223.04,
+        "end_time": 269.0,
+        "text": "for you lately? Most part, doctor checks my sugars. I'm not too regular on the myself. Last time we changed medications was a couple of years back and I've just been on the same ones ever since. All right. What medication are you currently taking? That metformin, metformin. And have you ever had any surgeries in the process? Nah, I hope my tip holder that form and that form and that form and that form and that form and that form and that form and that form and that form and that form and that form and that form and that form and that form and that form and that form and that form and that form and that form and that form and that form and that form and that form and that form and that form and that form and that form and that form and that form and that form and that form and that form and that form and that form and that form and that form and that form and that form and that form and that form and that form and that form and that form and that form and that form and that form and that form and that form and that form and that form and that form and that form and that form and that form and that form and that form and that form and that form and that form and that form and that form and that form and that form and that form and that form and that form and that form and that form and that form and that form and that form and that form and that form and that form and that form and that form and that form and that form and that form and that form and that form and that form and that form and that form and that form and that form and that form and that form and that form and that form and that form and that form and that form and that form and that form and that form and that form and that form and that form and that form and that form and that form and that form and that form and that form and that form and that form and that form and that form and that form and that form and that form and that form and that form and that form and that form and that form and that form and that form and that form and that form and that form and that form and that form and that form and that form and that form and that form and that form and that form and that form and that form and that form and that form and that form and that form and that form and that form and that form and that form and that form and that form and that form and that form and that form and that form and that form and that form and Um, and do you have any allergies? No, sometimes get a little bit congested during the fall, but that's it.",
+        "topic_id": 16,
+        "summary": " Do you have any allergies? No, sometimes get a little bit congested during the fall, but that's it? \"I'm not too regular on the myself. Last time we changed medications was a couple of years back\"",
+        "keywords": [
+            "metformin",
+            "medications",
+            "medication",
+            "sugars",
+            "doctor"
+        ],
+        "sentiment": 0.07477678571428571
+    },
+    {
+        "start_time": 269.0,
+        "end_time": 270.0,
+        "text": "All right.",
+        "topic_id": 17,
+        "summary": "All right.",
+        "keywords": [
+            "right"
+        ],
+        "sentiment": 0.2857142857142857
+    },
+    {
+        "start_time": 270.0,
+        "end_time": 275.0,
+        "text": "Do you have any family history of doctor and personal problems?",
+        "topic_id": 18,
+        "summary": "Do you have any family history of doctor and personal problems?",
+        "keywords": [
+            "doctor",
+            "family",
+            "problems",
+            "history",
+            "personal"
+        ],
+        "sentiment": 0.0
+    },
+    {
+        "start_time": 275.0,
+        "end_time": 279.0,
+        "text": "Yes, like, uh, no.",
+        "topic_id": 19,
+        "summary": "Yes, like, uh, no.",
+        "keywords": [
+            "uh",
+            "yes",
+            "like"
+        ],
+        "sentiment": 0.0
+    },
+    {
+        "start_time": 279.0,
+        "end_time": 286.48,
+        "text": "I think my grandma died of breast cancer fairly early, but not that, not that I can think of.",
+        "topic_id": 20,
+        "summary": "I think my grandma died of breast cancer fairly early, but not that, not that I can think of.",
+        "keywords": [
+            "cancer",
+            "grandma",
+            "breast",
+            "died",
+            "early"
+        ],
+        "sentiment": 0.1
+    },
+    {
+        "start_time": 309.6,
+        "end_time": 305.0,
+        "text": "Um, and interesting terms of your lifestyle, do you live here in town? Yeah, yeah, I live alone or it's family. No, I got family. Um, need a wife. We've got two kids, one of them's college bound, not with that, yeah.",
+        "topic_id": 21,
+        "summary": " \"I live alone or it's family. No, I got family. Um, need a wife. We've got two kids, one of them's college bound, not with that, yeah . Um, and interesting terms of your lifestyle, do you live in town?",
+        "keywords": [
+            "family",
+            "wife",
+            "lifestyle",
+            "live",
+            "town"
+        ],
+        "sentiment": 0.25757575757575757
+    },
+    {
+        "start_time": 306.0,
+        "end_time": 311.0,
+        "text": "Hey, and what do you do for work or are you retired? I'm still working.",
+        "topic_id": 22,
+        "summary": "Hey, and what do you do for work or are you retired? I'm still working.",
+        "keywords": [
+            "retired",
+            "working",
+            "work",
+            "hey"
+        ],
+        "sentiment": 0.0
+    },
+    {
+        "start_time": 311.0,
+        "end_time": 316.0,
+        "text": "I'm a production overseer, production manager, over at Fairbanks.",
+        "topic_id": 23,
+        "summary": "I'm a production overseer, production manager, over at Fairbanks.",
+        "keywords": [
+            "fairbanks",
+            "overseer",
+            "production",
+            "manager"
+        ],
+        "sentiment": 0.0
+    },
+    {
+        "start_time": 317.0,
+        "end_time": 319.0,
+        "text": "Okay, you're a big boss.",
+        "topic_id": 24,
+        "summary": "Okay, you're a big boss.",
+        "keywords": [
+            "boss",
+            "big",
+            "okay"
+        ],
+        "sentiment": 0.25
+    },
+    {
+        "start_time": 320.0,
+        "end_time": 322.0,
+        "text": "I took a while to get here.",
+        "topic_id": 25,
+        "summary": "I took a while to get here.",
+        "keywords": [
+            "took"
+        ],
+        "sentiment": 0.0
+    },
+    {
+        "start_time": 324.0,
+        "end_time": 365.04,
+        "text": "I'm sure it was very hard work. In general, do you drink alcohol? Oh yeah, well like, I'll plan on drinking on the two four, but not regular special occasions, maybe hot days, sometimes I'll have a beer too. Sure. And do you smoke the grass? No. I haven't be ever smoked in the past. No. Okay, do you can't have it? No. Any other substances? No. Okay. Is there anything else you wanted to bring off today that I did ask you about for any other questions that you have.",
+        "topic_id": 26,
+        "summary": " Do you smoke the grass? No. I haven't be ever smoked in the past. I'm sure it was very hard work. In general, do you drink alcohol? Oh yeah, well like, well .",
+        "keywords": [
+            "smoked",
+            "drinking",
+            "alcohol",
+            "drink",
+            "beer"
+        ],
+        "sentiment": 0.02316468253968255
+    },
+    {
+        "start_time": 387.52,
+        "end_time": 389.16,
+        "text": "No, just hoping to get an answer to whatever's going on. Okay, well, at this point I will do a quick physical exam. We might want to have what worked on maybe some other tests based on what we find out from there and then we can kind of let you know after that, what the next step will be.",
+        "topic_id": 27,
+        "summary": " No, just hoping to get an answer to whatever's going on. Okay, well, at this point I will do a quick physical exam. We might want to have what worked on maybe some other tests based on what we find out from there . After that, what the next step",
+        "keywords": [
+            "tests",
+            "physical",
+            "exam",
+            "step",
+            "hoping"
+        ],
+        "sentiment": 0.21805555555555553
+    },
+    {
+        "start_time": 389.16,
+        "end_time": 391.0,
+        "text": "So I'm just going to take this and go over",
+        "topic_id": 28,
+        "summary": "So I'm just going to take this and go over",
+        "keywords": [
+            "going",
+            "just"
+        ],
+        "sentiment": 0.0
+    },
+    {
+        "start_time": 391.0,
+        "end_time": 392.48,
+        "text": "with the solution that I'm working with.",
+        "topic_id": 29,
+        "summary": "with the solution that I'm working with.",
+        "keywords": [
+            "solution",
+            "working"
+        ],
+        "sentiment": 0.0
+    },
+    {
+        "start_time": 392.48,
+        "end_time": 394.8,
+        "text": "And we'll get back to you short.",
+        "topic_id": 30,
+        "summary": "And we'll get back to you short.",
+        "keywords": [
+            "short",
+            "ll"
+        ],
+        "sentiment": 0.0
+    },
+    {
+        "start_time": 394.8,
+        "end_time": 396.36,
+        "text": "Thanks for chatting with us.",
+        "topic_id": 31,
+        "summary": "Thanks for chatting with us.",
+        "keywords": [
+            "chatting",
+            "thanks"
+        ],
+        "sentiment": 0.2
+    },
+    {
+        "start_time": 396.36,
+        "end_time": 397.2,
+        "text": "Thanks, Doug.",
+        "topic_id": 32,
+        "summary": "Thanks, Doug.",
+        "keywords": [
+            "doug",
+            "thanks"
+        ],
+        "sentiment": 0.2
+    }
+]

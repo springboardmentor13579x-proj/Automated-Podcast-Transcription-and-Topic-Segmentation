@@ -1,0 +1,157 @@
+[
+    {
+        "start_time": 0.0,
+        "end_time": 149.44,
+        "text": "how may I help you?\" So I've had this ankle pain for the past day and it doesn't seem to be getting better. My right ankle looks swollen and it's bruised and it's pretty painful. So I just wanted to come here to check it out, see if I need anything done to it. Yeah, absolutely. Okay, so you said that this started yesterday. Was there any like trauma to the ankle or leg? Or did you have a fall or some sort of injury? Yeah, so I play rugby. And I might have, so I fell during a tackle motion type thing and I fell on that leg and my leg my foot kind of pointed in words as I fell and I kind of fell on on my ankle kind of just above above my lateral side of the foot. So were that bony prominences? Okay, I see an end of your foot kind of turned in words when you fell. Yes, that's right. Okay, and was there pain immediately after this incident? Yes. Okay, were you able to walk off the field at all or did you need to be carried? Or were able to walk at any point after? So I can walk. But it is very painful and I'm putting a lot of weight on my left foot. So it's almost like I'm hopping on my left foot. Okay. And is the pain actually, where is the pain specifically located on your foot? All right. So, it's um, specifically it's on the like lateral maliolis area. Okay. And how would you describe the pain in terms of its character quality? Like",
+        "topic_id": 1,
+        "summary": " I play rugby and I fell during a tackle motion type thing and my leg my foot kind of pointed in words as I fell and I kind of fell on on my ankle kind of just above above above my lateral side of the foot . So I can walk. But it is very painful",
+        "keywords": [
+            "ankle",
+            "injury",
+            "bruised",
+            "foot",
+            "leg"
+        ],
+        "sentiment": 0.24588571428571426
+    },
+    {
+        "start_time": 149.44,
+        "end_time": 157.92,
+        "text": "is it sharp burning? It feels sharp. Okay, and do you feel the pain radiating anywhere else?",
+        "topic_id": 2,
+        "summary": "is it sharp burning? It feels sharp. Okay, and do you feel the pain radiating anywhere else?",
+        "keywords": [
+            "burning",
+            "pain",
+            "sharp",
+            "feels",
+            "feel"
+        ],
+        "sentiment": 0.08333333333333333
+    },
+    {
+        "start_time": 158.32,
+        "end_time": 705.36,
+        "text": "No, it's pretty much in that area, just in the ankle area. Okay, and has a Thanks for watching, and don't forget to like and subscribe for more videos've tried some ibuprofen and some ice. That seems to help temporarily, but it doesn't help with, like, like, it's not permanent. Okay. And, um, it hasn't been anything that's made it worse. Um, just putting weight or like trying to bear any weight on that ankle has made it worse. Okay. Um, and what would you say this severity of the pain is on a scale of of 10 to 1 with 10 being the worst pain you've ever felt? I'd say it's like a 7 or 8. Okay, and have you ever had a pain like this before to the ankle, or you ever injured your foot before? No, nothing like this. Okay. And have you had any headaches? No, headaches. Okay, and have you had any fevers or chills? No. How about night sweats? No. Have you had any unexpected weight loss? No. Okay, and have you had any sensory changes? Like, changes your vision hearing or even your sense of smell or sense of taste? No, nothing like that. Okay, and have you had any neurological symptoms such as like numbness or tingling? No. Okay, now have you noticed any sensory loss over your leg or ankle? No, no, no, no sensory loss. Okay. And have you had any muscle weakness? No. Okay. And have you had any infectious symptoms like having like a runny nose or feeling congested or maybe even a sore throat? No. All right, and have you had a cough? No cough. How about shortness of breath? No. All right, and have you had any chest pain or feeling like your heart's racing? No. Have you had any dizziness or lightheadedness? No. All right, and have you had any nausea or vomiting? No. How about any loss of appetite? No. Have you had any abdominal pain? No. Have you had any diarrhea, a constipation, or blood in the stool? No. Okay. And have you had any changes to urinary patterns? No. Okay. And have you had any changes to your energy recently? No. No changes to my energy. All right. And in the past, have you been diagnosed with any medical conditions or any reason to see a doctor regularly? Uh, no, I've been pretty healthy otherwise. Okay, so do you take any medications regularly? Are they're over the counter or prescribed? No. All right, didn't you have any allergies? Um, no. Okay, and are your immunizations up to date? I think so, um, they've, um, the most recent ones I've received in high school. Okay, uh, okay, that's good. And have you had any surgeries before or any reasons for hospitalizations? I've never been hospitalized. Okay, and could you tell me a little bit about your living situation right now, like who you're living with and whereabouts? I live with both my parents as well as two of my siblings. They're younger. We live in a house downtown. Okay. And are you currently in school? I am. I've been great 11. Okay, awesome. And they have has been going so far. I'm just going pretty well. Okay. And have you been around anybody who's been sick recently? No. No one's been sick. Okay, and how about traveling anywhere? No, we haven't been doing any of that since COVID. Okay, and I know sometimes people like in high school and certainly in your age group may experience with things like smoking, smoking tobacco or cigarettes, drinking alcohol or using marijuana. Have you used any of those those substances? No. Okay. And are you currently sexually active? I am. Okay, and could you tell me about your partner or partner? Yeah, she's been my girlfriend for the past two years. And we use protection. Okay, great. And any concerns for a sexually transmitted infection at this time? No. Okay. And in the family, has there been any history of musculoskeletal or neurological problems? No, nothing like that. Okay. And how about any autoimmune conditions? No. Okay. Next, I just wanted to move to the physical exam component. I'll ask you to have a look at your ankles and are you seeing any swelling or like redness or discoloration. So there's a like there's a bruise about four centimeters wide and it appears swollen but just by right ankle. Just your right ankle. Okay. And is there any temperature changes? Like warmth when you touch it? Uh, slightly warm, yeah. Okay. And are you seeing any muscle atrophy or deformities of the ankle or foot? No. Okay. And if you press on areas of your ankle and foot, do you feel pain at the lateral maliolis or the medial maliolis? There's a lot of pain on the lateral maliolis. Okay. And do you feel pain if you press on the top of your foot? Like, um, on the, no, no pain at the top of my foot. Okay. Um, and um, help out on the outside or lateral aspect of your foot, you'll feel a kind of it's a boany prominence that sticks out at the base of the fifth or your kind of last meta-tarsules or any pain there? Um, no, no pain there. Okay, and then how about any pains on the like medial side of your foot? On the medial side, no. Okay, um, and then when it comes to moving the foot, are you able to point your toes on your foot up towards your face.",
+        "topic_id": 3,
+        "summary": "No, it's pretty much in that area, just in the ankle area. Okay, and has a Thanks for watching, and ...",
+        "keywords": [
+            "ankle",
+            "pains",
+            "ankles",
+            "ibuprofen",
+            "symptoms"
+        ],
+        "sentiment": 0.1898225799023672
+    },
+    {
+        "start_time": 707.68,
+        "end_time": 709.36,
+        "text": "Up towards my face. That's hard.",
+        "topic_id": 4,
+        "summary": "Up towards my face. That's hard.",
+        "keywords": [
+            "face",
+            "hard"
+        ],
+        "sentiment": -0.2916666666666667
+    },
+    {
+        "start_time": 709.36,
+        "end_time": 713.04,
+        "text": "Okay, so Dorsey flexion is limited and how about",
+        "topic_id": 5,
+        "summary": "Okay, so Dorsey flexion is limited and how about",
+        "keywords": [
+            "dorsey",
+            "limited",
+            "flexion",
+            "okay"
+        ],
+        "sentiment": 0.2142857142857143
+    },
+    {
+        "start_time": 714.16,
+        "end_time": 717.04,
+        "text": "pushing your foot down like you're pressing on a gas pedal.",
+        "topic_id": 6,
+        "summary": "pushing your foot down like you're pressing on a gas pedal.",
+        "keywords": [
+            "pedal",
+            "pressing",
+            "gas",
+            "foot",
+            "pushing"
+        ],
+        "sentiment": -0.15555555555555559
+    },
+    {
+        "start_time": 718.52,
+        "end_time": 723.36,
+        "text": "I can do that, but it's still painful just to move the ankle.",
+        "topic_id": 7,
+        "summary": "I can do that, but it's still painful just to move the ankle.",
+        "keywords": [
+            "ankle",
+            "painful",
+            "just"
+        ],
+        "sentiment": -0.7
+    },
+    {
+        "start_time": 724.36,
+        "end_time": 795.12,
+        "text": "Okay, so planter flex function is painful as well. Has any issues with moving your toes? No. Okay, and then you mentioned that with walking, you're having a limp currently. Yes. Okay, so we're going to interrogate with an inability to bear weight as well. Okay, so that was everything that I wanted to ask and check today, and based on these features is starting like it could be either an ankle fracture or an ankle sprain but because of the pinpoint tenderness or that that you're finding on the lateral side as well as some of the inability to to bear weight as you're describing it'll be important to get an x-ray to make sure that there's not a fracture. And yeah, and if there is then it'll be important to have some sort of",
+        "topic_id": 8,
+        "summary": " Based on these features is starting like it could be either an ankle fracture or an ankle sprain but because of the pinpoint tenderness or that that you're finding on the lateral side as well as some of the inability to to bear weight as you're describing it'll be important to get",
+        "keywords": [
+            "ankle",
+            "fracture",
+            "limp",
+            "flex",
+            "sprain"
+        ],
+        "sentiment": 0.15
+    },
+    {
+        "start_time": 796.4,
+        "end_time": 802.32,
+        "text": "air boot or casting so to make sure that we're offloading the area and for the bones to heal,",
+        "topic_id": 9,
+        "summary": "air boot or casting so to make sure that we're offloading the area and for the bones to heal,",
+        "keywords": [
+            "bones",
+            "casting",
+            "boot",
+            "air",
+            "heal"
+        ],
+        "sentiment": 0.5
+    },
+    {
+        "start_time": 802.32,
+        "end_time": 807.68,
+        "text": "but we'll see what the x-ray shows. Okay, that sounds great. Thank you.",
+        "topic_id": 10,
+        "summary": "but we'll see what the x-ray shows. Okay, that sounds great. Thank you.",
+        "keywords": [
+            "ray",
+            "shows",
+            "great",
+            "thank",
+            "okay"
+        ],
+        "sentiment": 0.65
+    },
+    {
+        "start_time": 809.68,
+        "end_time": null,
+        "text": "Thank you.",
+        "topic_id": 11,
+        "summary": "Thank you.",
+        "keywords": [
+            "thank"
+        ],
+        "sentiment": 0.0
+    }
+]

@@ -1,0 +1,369 @@
+[
+    {
+        "start_time": 0.0,
+        "end_time": 167.0,
+        "text": "What brings you here today? I'm just having this really sharp vein in my chest and I'm scared. I think I'm having a heart attack. Oh wow, I must be really scary. Yeah. When did this pain start? So about three days ago. Three days ago. Okay. We're exactly in your chest you feel it. It's kind of right here right over my heart I think that's where it's the worst. Okay and is it what kind of pain is it is it more like a dull pressure pain or is it a a sharp pain? How would you describe it? I'd say it's a sharp pain or a sharp pain okay and So it started three days ago has it been coming and going or has it been constant? It just lasts for a few seconds and then it goes away. Okay. And does a pain come on when you're doing any activities or when does a pain usually come on? Uh, it's usually worse when I'm coughing or lying down. Yeah. Okay. And does it improve with any positional changes at all or anything that you do that does it helps? When I lean forward it actually does get better. I think about it. Okay. And has this ever happened to you before? No, no, it hasn't. Okay, and on the scale of 1 to 10, 1 being a Lisa monophenial fault, and 10 being the worst, how much would you rate it? Let's see how six out of 10? Okay, and does the pain move anywhere on in your chest? What does it stay in the same spot? Yeah, I think it kind of goes to my neck sometimes. Okay. And do you have any other symptoms? Do you have any shortness of breath, the dizziness, anything like that? No. I don't. Any any any palpitations no okay and I don't know that have you been having any other symptoms at all besides the pain no I know nothing else that just have these short episodes of being that lasted a couple of seconds.",
+        "topic_id": 1,
+        "summary": " We're exactly in your chest you feel it. What brings you here today? I'm just having this really sharp vein in my chest and I'm scared. I think I'm having a heart attack. Oh wow, I must be really scary. When I lean forward it actually does",
+        "keywords": [
+            "symptoms",
+            "pain",
+            "heart",
+            "chest",
+            "palpitations"
+        ],
+        "sentiment": 0.09537385129490394
+    },
+    {
+        "start_time": 167.0,
+        "end_time": 178.0,
+        "text": "Have you tried any medications that has helped the pain? Yeah, I took some, I took some Tylenol and that did help.",
+        "topic_id": 2,
+        "summary": "Have you tried any medications that has helped the pain? Yeah, I took some, I took some Tylenol and that did help.",
+        "keywords": [
+            "tylenol",
+            "pain",
+            "medications",
+            "tried",
+            "helped"
+        ],
+        "sentiment": 0.0
+    },
+    {
+        "start_time": 178.0,
+        "end_time": 179.0,
+        "text": "Okay.",
+        "topic_id": 3,
+        "summary": "Okay.",
+        "keywords": [
+            "okay"
+        ],
+        "sentiment": 0.5
+    },
+    {
+        "start_time": 179.0,
+        "end_time": 181.0,
+        "text": "Just took it once yesterday.",
+        "topic_id": 4,
+        "summary": "Just took it once yesterday.",
+        "keywords": [
+            "yesterday",
+            "took",
+            "just"
+        ],
+        "sentiment": 0.0
+    },
+    {
+        "start_time": 181.0,
+        "end_time": 183.0,
+        "text": "All right.",
+        "topic_id": 5,
+        "summary": "All right.",
+        "keywords": [
+            "right"
+        ],
+        "sentiment": 0.2857142857142857
+    },
+    {
+        "start_time": 183.0,
+        "end_time": 190.0,
+        "text": "Any recent injuries to the area, like if you have any falls or anything like that?.",
+        "topic_id": 6,
+        "summary": "Any recent injuries to the area, like if you have any falls or anything like that?.",
+        "keywords": [
+            "injuries",
+            "falls",
+            "area",
+            "recent",
+            "like"
+        ],
+        "sentiment": 0.0
+    },
+    {
+        "start_time": 190.0,
+        "end_time": 213.0,
+        "text": ". . . . . . . . . . . . . . . . . . . . . . .",
+        "topic_id": 7,
+        "summary": ". . . . . . . . . . . . . . . . . . . . . . .",
+        "keywords": [],
+        "sentiment": 0.0
+    },
+    {
+        "start_time": 213.0,
+        "end_time": 246.0,
+        "text": "..... day. Right. Any recent injuries to the area? Like, do you have any falls or anything like that? No. No, I have it. Okay. Any headaches to know how you're vomiting, fever, or chills, any of those symptoms? Nope. Any cough, runny nose, thing viral symptoms? Well, not right now, but I did have a flu last week. I had a fever, I don't runny nose. I did have a bit of a cough, I was feeling super tired, but not anymore, I'm okay now. Okay, and have you at all had any dizziness or have you fainted at all? No. Okay. Have you been noticing any kind of weakness or numbness?",
+        "topic_id": 8,
+        "summary": " Any recent injuries to the area? Like, do you have any falls or anything like that? No, I have it. Any headaches to know how you're vomiting, fever, or chills, any of those symptoms? Nope. Any cough, runny nose, thing viral symptoms",
+        "keywords": [
+            "dizziness",
+            "symptoms",
+            "fever",
+            "fainted",
+            "flu"
+        ],
+        "sentiment": 0.1751082251082251
+    },
+    {
+        "start_time": 246.0,
+        "end_time": 250.0,
+        "text": "Nope. Nope.",
+        "topic_id": 9,
+        "summary": "Nope. Nope.",
+        "keywords": [
+            "nope"
+        ],
+        "sentiment": 0.0
+    },
+    {
+        "start_time": 250.0,
+        "end_time": 251.0,
+        "text": "Okay.",
+        "topic_id": 10,
+        "summary": "Okay.",
+        "keywords": [
+            "okay"
+        ],
+        "sentiment": 0.5
+    },
+    {
+        "start_time": 251.0,
+        "end_time": 254.0,
+        "text": "In terms of your past medical history,",
+        "topic_id": 11,
+        "summary": "In terms of your past medical history,",
+        "keywords": [
+            "medical",
+            "history",
+            "past",
+            "terms"
+        ],
+        "sentiment": -0.125
+    },
+    {
+        "start_time": 254.0,
+        "end_time": 257.0,
+        "text": "do you have any medical conditions like diabetes,",
+        "topic_id": 12,
+        "summary": "do you have any medical conditions like diabetes,",
+        "keywords": [
+            "diabetes",
+            "medical",
+            "conditions",
+            "like"
+        ],
+        "sentiment": 0.0
+    },
+    {
+        "start_time": 257.0,
+        "end_time": 260.0,
+        "text": "blood pressure, any other diagnosis?",
+        "topic_id": 13,
+        "summary": "blood pressure, any other diagnosis?",
+        "keywords": [
+            "diagnosis",
+            "pressure",
+            "blood"
+        ],
+        "sentiment": -0.125
+    },
+    {
+        "start_time": 260.0,
+        "end_time": 264.0,
+        "text": "No, I'm a pretty healthy 25-year-old.",
+        "topic_id": 14,
+        "summary": "No, I'm a pretty healthy 25-year-old.",
+        "keywords": [
+            "healthy",
+            "25",
+            "old",
+            "pretty",
+            "year"
+        ],
+        "sentiment": 0.1875
+    },
+    {
+        "start_time": 264.0,
+        "end_time": 270.0,
+        "text": "Okay. Do you take any medications? Thank you.",
+        "topic_id": 15,
+        "summary": "Okay. Do you take any medications? Thank you.",
+        "keywords": [
+            "medications",
+            "okay",
+            "thank"
+        ],
+        "sentiment": 0.5
+    },
+    {
+        "start_time": 270.0,
+        "end_time": 293.0,
+        "text": "Thank you. Thank you. Thank you. Thank you. Thank you. Thank you. Thank you. Thank you. Thank you. Thank you. Thank you. Thank you. Thank you. Thank you. Thank you. Thank you. Thank you. Thank you. Thank you. Thank you. Thank you. Thank you.",
+        "topic_id": 16,
+        "summary": " Thank you! Thank you. Thank you . Thank you thank you. You thank you . You are a good person . You're a great person. You can be a wonderful person. I am so happy to see you .",
+        "keywords": [
+            "thank"
+        ],
+        "sentiment": 0.0
+    },
+    {
+        "start_time": 293.0,
+        "end_time": 265.0,
+        "text": "Thank you. Thank you. Thank you. Thank you. Thank you. No, I'm a pretty healthy 25-year-old.",
+        "topic_id": 17,
+        "summary": "Thank you. Thank you. Thank you. Thank you. Thank you. No, I'm a pretty healthy 25-year-old.",
+        "keywords": [
+            "healthy",
+            "25",
+            "thank",
+            "pretty",
+            "old"
+        ],
+        "sentiment": 0.1875
+    },
+    {
+        "start_time": 265.0,
+        "end_time": 267.0,
+        "text": "Okay.",
+        "topic_id": 18,
+        "summary": "Okay.",
+        "keywords": [
+            "okay"
+        ],
+        "sentiment": 0.5
+    },
+    {
+        "start_time": 267.0,
+        "end_time": 272.0,
+        "text": "Do you take any medications? I sometimes take Tylenol.",
+        "topic_id": 19,
+        "summary": "Do you take any medications? I sometimes take Tylenol.",
+        "keywords": [
+            "tylenol",
+            "medications"
+        ],
+        "sentiment": 0.0
+    },
+    {
+        "start_time": 272.0,
+        "end_time": 273.0,
+        "text": "Okay.",
+        "topic_id": 20,
+        "summary": "Okay.",
+        "keywords": [
+            "okay"
+        ],
+        "sentiment": 0.5
+    },
+    {
+        "start_time": 273.0,
+        "end_time": 276.0,
+        "text": "And any allergies at all?",
+        "topic_id": 21,
+        "summary": "And any allergies at all?",
+        "keywords": [
+            "allergies"
+        ],
+        "sentiment": 0.0
+    },
+    {
+        "start_time": 276.0,
+        "end_time": 278.0,
+        "text": "Nope.",
+        "topic_id": 22,
+        "summary": "Nope.",
+        "keywords": [
+            "nope"
+        ],
+        "sentiment": 0.0
+    },
+    {
+        "start_time": 278.0,
+        "end_time": 282.0,
+        "text": "Okay. Okay.",
+        "topic_id": 23,
+        "summary": "Okay. Okay.",
+        "keywords": [
+            "okay"
+        ],
+        "sentiment": 0.5
+    },
+    {
+        "start_time": 282.0,
+        "end_time": 429.88,
+        "text": "And any previous surgeries? No, no, no surgeries. Yeah, many family history of any heart conditions or any cancers or anything like that. Yeah, my father, he, he had a heart attack two weeks ago and he, and he passed away. and I'm worried that I should have been part of that too. Is this two weeks ago? Yeah. I'm so sorry to hear that, and that's be really difficult time for you right now. So, you're worried you might be having a heart attack as ball? Yeah. Okay, so we can definitely do some tests and see what's going on. I just have a few more questions and then I'll just get to some of the management and what we'll be doing for you in the future, so currently right now do you work at all? No, I'm a student. Well, at the part-time job, I do work as a postman. Okay, and where are you a student? What do you do? I'm studying engineering. Western. All right. And currently, where do you live? Do you live in a student housing apartment? I live in my parents. Well, my mom now. Okay. In a house. All right. And do you drink at all alcohol? I drink occasionally, maybe one or two drinks on the weekends. Okay, and any recreational drug use like marijuana or cocaine? No. And do you smoke? No. all right so those are all the questions we had for you today. And it must be really difficult and scary for you right now. But we'll make sure to get to the bottom of this and see what's going on. So what we can do is get you an ECG to see how your heart is functioning and then getting",
+        "topic_id": 24,
+        "summary": " I'm worried that I should have been part of that too, my father, he had a heart attack two weeks ago and he, and he passed away . I'm so sorry to hear that, and that's be really difficult time for you right now, but we'll make sure",
+        "keywords": [
+            "surgeries",
+            "worried",
+            "studying",
+            "heart",
+            "housing"
+        ],
+        "sentiment": 0.12061888728555392
+    },
+    {
+        "start_time": 429.88,
+        "end_time": 433.96,
+        "text": "you blood work if we need it for the future.",
+        "topic_id": 25,
+        "summary": "you blood work if we need it for the future.",
+        "keywords": [
+            "blood",
+            "work",
+            "future",
+            "need"
+        ],
+        "sentiment": 0.0
+    },
+    {
+        "start_time": 433.96,
+        "end_time": 442.16,
+        "text": "But yeah, right now, I'll say try not to worry too much about it right now and see what",
+        "topic_id": 26,
+        "summary": "But yeah, right now, I'll say try not to worry too much about it right now and see what",
+        "keywords": [
+            "worry",
+            "yeah",
+            "try",
+            "say",
+            "right"
+        ],
+        "sentiment": 0.2571428571428571
+    },
+    {
+        "start_time": 442.16,
+        "end_time": 445.16,
+        "text": "some of those tests come back.",
+        "topic_id": 27,
+        "summary": "some of those tests come back.",
+        "keywords": [
+            "tests",
+            "come"
+        ],
+        "sentiment": 0.0
+    },
+    {
+        "start_time": 445.16,
+        "end_time": 446.16,
+        "text": "Thank you.",
+        "topic_id": 28,
+        "summary": "Thank you.",
+        "keywords": [
+            "thank"
+        ],
+        "sentiment": 0.0
+    },
+    {
+        "start_time": 446.16,
+        "end_time": 448.16,
+        "text": "So, yeah, you're welcome.",
+        "topic_id": 29,
+        "summary": "So, yeah, you're welcome.",
+        "keywords": [
+            "welcome",
+            "yeah"
+        ],
+        "sentiment": 0.8
+    }
+]
