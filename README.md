@@ -1,6 +1,6 @@
 # Automated Podcast Transcription and Topic Segmentation
 
-##  Project Overview
+## 📌 Project Overview
 
 The **Automated Podcast Transcription & Topic Segmentation** project aims to build an end-to-end AI system that can:
 
@@ -13,7 +13,9 @@ The **Automated Podcast Transcription & Topic Segmentation** project aims to bui
 
 This project focuses on applying **AI, Speech Processing, NLP, and ML engineering** to create a practical real-world audio intelligence tool.
 
-## Project Objectives
+---
+
+## 🎯 Project Objectives
 
 ### 1. Transcription (Speech-to-Text)
 - Convert long podcast audio files into text using ASR models.
@@ -22,7 +24,7 @@ This project focuses on applying **AI, Speech Processing, NLP, and ML engineerin
 
 ### 2. Topic Segmentation
 - Detect shifts in content and break the transcript into chapters.
-- **Techniques Used:**
+- **Techniques Used**
   - TextTiling (Classic NLP)
   - Embedding similarity (BERT / Sentence Transformers)
   - Change-point detection methods
@@ -37,100 +39,132 @@ Generate per-topic:
 ### 4. UI for Navigation
 - Show transcript & segment list.
 
-## System Architecture
+---
 
-Audio Input → Preprocessing → Transcription (ASR) → Transcript Cleaning → Embedding Model → Topic Segmentation → Segment Summaries & Keywords → Indexing → UI (Search, Playback, Visualization)
+## 🏗 System Architecture
 
-- Clickable segments → jump to timestamp.
-- Playback visualization (Sentiment Timeline, Keyword Clouds).
+```
+Audio Input 
+→ Preprocessing 
+→ Transcription (ASR) 
+→ Transcript Cleaning 
+→ Embedding Model 
+→ Topic Segmentation 
+→ Segment Summaries & Keywords 
+→ Indexing 
+→ UI (Search, Playback, Visualization)
+```
+
+- Clickable segments → jump to timestamp  
+- Playback visualization (Sentiment Timeline, Keyword Clouds)
+
+---
 
 ## 🛠 Tech Stack
 
 ### Core
 - Python 3.9+
-- Whisper (OpenAI): ASR
-- Librosa, PyDub, ffmpeg: Audio processing
+- Whisper (OpenAI)
+- Librosa, PyDub, ffmpeg
 
 ### NLP
 - NLTK (TextTiling)
-- HuggingFace Transformers (Summarization)
-- Sentence Transformers (Semantic Similarity)
-- KeyBERT (Keywords)
-- TextBlob (Sentiment Analysis)
+- HuggingFace Transformers
+- Sentence Transformers
+- KeyBERT
+- TextBlob
 
 ### Visualization & UI
-- Flask (Backend)
-- Plotly (Interactive visualizations)
-- HTML/CSS/JS (Frontend)
+- Flask
+- Plotly
+- HTML/CSS/JS
 
 ### Storage
-- JSON (Transcript & metadata storage)
+- JSON structured metadata
+
 ---
-##  Folder Structure
-'''
+
+## 📁 Folder Structure
+
+```
 Podcast_Transcription1/
 │
 ├── data/
-│ ├── raw/ # Source audio files
-│ ├── transcripts/
-│ ├── segmented_topics/
-│ └── final_output/
+│   ├── raw/                    # Source audio files
+│   ├── transcripts/
+│   ├── segmented_topics/
+│   └── final_output/
 │
 ├── src/
-│ ├── transcriber.py # Whisper model wrapper
-│ ├── data_loader.py # MP3 → WAV & audio processing
-│ ├── semantic_segmenter.py # BERT-based segmentation
-│ ├── content_processor.py # Summary, Keywords & Sentiment
-│ ├── file_utils.py # Path helpers
-│ └── web_app/
-│ ├── templates/
-│ │ ├── index.html # UI Page 1
-│ │ └── player.html # Player with visualizations
-│ └── app.py # Flask backend
+│   ├── transcriber.py          # Whisper model wrapper
+│   ├── data_loader.py          # MP3 → WAV audio loader
+│   ├── semantic_segmenter.py   # BERT-based segmentation
+│   ├── content_processor.py    # Summary, Keywords & Sentiment
+│   ├── file_utils.py           # Utility helpers
+│   └── web_app/
+│       ├── templates/
+│       │   ├── index.html      # Homepage UI
+│       │   └── player.html     # Transcript Player
+│       └── app.py              # Flask server entrypoint
 │
-├── main.py # Step 1: Transcription
-├── run_segmentation.py # Step 2: Topic segmentation
-├── run_processing.py # Step 3: Summaries & keywords
-├── evaluate_accuracy.py # WER calculation
-├── requirements.txt # Dependencies
-└── README.md # Documentation
-'''
+├── main.py                     # Step 1: Transcription
+├── run_segmentation.py         # Step 2: Topic Segmentation
+├── run_processing.py           # Step 3: Summary & Keywords
+├── evaluate_accuracy.py        # WER evaluation
+├── requirements.txt            # Dependencies
+└── README.md                   # Project documentation
+```
+
 ---
+
 ## ⚙ Installation & Setup
 
-### 1. Clone the Repository
+### Clone Project
+```bash
 git clone <repo-url>
 cd Podcast_Transcription1
+```
 
-### 2. Create Virtual Environment
+### Create Environment
+```bash
 python -m venv venv
-source venv/bin/activate      # Mac/Linux
+source venv/bin/activate      # Mac / Linux
 .env\Scriptsctivate       # Windows
+```
 
-### 3. Install Dependencies
+### Install Dependencies
+```bash
 pip install flask transformers torch torchaudio sentence-transformers textblob keybert jiwer plotly pydub nltk scikit-learn openai-whisper
+```
 
-### 4. Install FFmpeg
-Required for audio processing.
+### Install FFmpeg
 - Windows: download from gyan.dev  
-- Mac: brew install ffmpeg
+- macOS: `brew install ffmpeg`
 
-##  How to Run
+---
 
-### Run the Pipeline
+## 🚀 Run Pipeline
 
-# Step 1: Transcribe (Audio → Text)
+```bash
+# Step 1: Transcribe
 python main.py
 
-# Step 2: Segment (Text → Topics)
+# Step 2: Segment Topics
 python run_segmentation.py
 
-# Step 3: Generate Summaries/Keywords
+# Step 3: Summaries + Keywords
 python run_processing.py
+```
 
 ### Launch Web UI
 
+```bash
 python src/web_app/app.py
+```
 
-Then open in browser: http://127.0.0.1:5000
+Open browser:  
+`http://127.0.0.1:5000`
+
+---
+
 
