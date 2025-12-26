@@ -175,6 +175,6 @@ Due to the large size of the audio files, the dataset is hosted externally.
 ### **Setup Instructions**
 1. Download the dataset from the link above.
 2. Extract the folder.
-3. Place the audio files in a folder named `audio_raw` inside the project root.
+3. Place the audio files in a folder named `processed_audio` inside the project root.
 4. Update the `AUDIO_DIR` path in `.env` if necessary.
 
