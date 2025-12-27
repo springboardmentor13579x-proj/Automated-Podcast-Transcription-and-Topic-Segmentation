@@ -115,16 +115,4 @@ ____________________________________
 # **License**
 
 This project uses the **MIT License**.
-Create a `LICENSE` file from GitHub’s license picker.
-<<<<<<< HEAD
-=======
 
-
-
-# **Contact**
-
-For questions or doubts:
-[springboardmentor13579x@gmail.com](mailto:springboardmentor13579x@gmail.com) (official mentor email)
-
-
->>>>>>> 803efaf (Updated main README)
