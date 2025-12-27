@@ -43,13 +43,20 @@ This project addresses that challenge by:
 - Medical-specific dictionary or model-based analysis  
 - Visual representation in Streamlit UI (charts)  
 
+
+### Keyword Cloud Visualization
+- Frequency-based visualization of extracted medical keywords  
+- Word size represents how often a term appears in the transcript  
+- Helps identify dominant medical topics at a glance  
+- Automatically generated per uploaded audio
+
 ### Interactive Streamlit UI
 - Full transcript visibility  
 - Clear layout with color-enhanced sections  
 - Easy navigation between segments  
 
 ### Offline NLTK Support
-- Works offline once NLTK data is downloaded  
+- Works offline once NLTK data is downloaded
 
 ---
 
@@ -64,6 +71,7 @@ This project addresses that challenge by:
 | Feature Extraction | Scikit-learn (TF-IDF)             |
 | Audio Processing   | Pydub                             |
 | Visualization      | Matplotlib / Streamlit Charts     |
+| Keyword Cloud      | WordCloud / Matplotlib            |
 | Sentiment Analysis | Custom medical sentiment module   |
 
 ---
@@ -108,8 +116,10 @@ flowchart TD
         C[Transcription using Whisper]
         D[Sentence Tokenization & Topic Segmentation]
         E[Keyword Extraction & Summarization]
+        K[Keyword Cloud Generation]
         F[Search & Segment Mapping]
         H[Sentiment Analysis]
+       
     end
 
     %% Output Stage
@@ -118,20 +128,8 @@ flowchart TD
     end
 
     %% Connections
-    A --> B --> C --> D --> E --> F --> H --> G
+    A --> B --> C --> D --> E --> K --> F --> H --> G 
 ```
-
----
-
-## Workflow
-
-1. Upload podcast audio  
-2. Preprocess audio (noise reduction, chunking)  
-3. Transcribe audio using OpenAI Whisper  
-4. Segment transcript into topics  
-5. Extract keywords and generate summaries  
-6. Perform **medical sentiment analysis**  
-7. Visualize results and enable transcript search via Streamlit UI  
 
 ---
 
@@ -139,9 +137,10 @@ flowchart TD
 
 - Full medical podcast transcript  
 - Topic-wise segmented content  
-- Extracted keywords and summaries  
+- Extracted keywords and summaries    
 - **Segment-level sentiment analysis** (positive, neutral, negative)  
-- Search audio segments containing particular words  
+- Search audio segments containing particular words
+- Keyword cloud showing most frequent medical terms 
 
 ---
 
