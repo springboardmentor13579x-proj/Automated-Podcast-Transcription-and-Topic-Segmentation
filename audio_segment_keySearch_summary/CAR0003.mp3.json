@@ -1,0 +1,183 @@
+[
+  {
+    "segment_id": 1,
+    "start_time": 0.0,
+    "end_time": 32.0,
+    "text": "What brings you in here today? I've been feeling breathless and it's getting worse, so I wanted to check it out.",
+    "keywords": [
+      "breathless",
+      "shortness of breath",
+      "worsening",
+      "presenting complaint"
+    ],
+    "summary": "The patient presents with worsening breathlessness."
+  },
+  {
+    "segment_id": 2,
+    "start_time": 32.0,
+    "end_time": 80.0,
+    "text": "When did you first start feeling breathless? About two months ago. It came on gradually over time.",
+    "keywords": [
+      "onset",
+      "two months",
+      "gradual",
+      "breathlessness"
+    ],
+    "summary": "The breathlessness began two months ago and developed gradually."
+  },
+  {
+    "segment_id": 3,
+    "start_time": 80.0,
+    "end_time": 140.0,
+    "text": "How often do you feel breathless? It's worse when I walk more than 50 meters. Exertion is the main trigger.",
+    "keywords": [
+      "exertion",
+      "walking",
+      "50 meters",
+      "exercise intolerance"
+    ],
+    "summary": "Breathlessness is mainly triggered by exertion, especially walking short distances."
+  },
+  {
+    "segment_id": 4,
+    "start_time": 140.0,
+    "end_time": 200.0,
+    "text": "Before two months ago, I could walk normally. I sometimes have a cough with frothy sputum.",
+    "keywords": [
+      "baseline",
+      "cough",
+      "frothy sputum",
+      "change"
+    ],
+    "summary": "Previously normal exercise tolerance, now associated with cough and frothy sputum."
+  },
+  {
+    "segment_id": 5,
+    "start_time": 200.0,
+    "end_time": 260.0,
+    "text": "The breathlessness has been getting worse over the last two months. Lying flat makes it worse and I gasp for air.",
+    "keywords": [
+      "orthopnea",
+      "lying flat",
+      "worsening",
+      "gasping"
+    ],
+    "summary": "Symptoms are progressively worsening and significantly worse when lying flat."
+  },
+  {
+    "segment_id": 6,
+    "start_time": 260.0,
+    "end_time": 320.0,
+    "text": "It's worse at night when I'm lying down. I get breathless after climbing three to four steps.",
+    "keywords": [
+      "night symptoms",
+      "stairs",
+      "limited exertion",
+      "breathlessness"
+    ],
+    "summary": "The patient experiences worse symptoms at night and with minimal exertion."
+  },
+  {
+    "segment_id": 7,
+    "start_time": 320.0,
+    "end_time": 390.0,
+    "text": "Stacking pillows helps my breathing. I haven't had chest pain, recent travel, infections, or surgeries.",
+    "keywords": [
+      "pillows",
+      "relief",
+      "no chest pain",
+      "negative history"
+    ],
+    "summary": "Breathlessness improves with positional changes and there are no recent triggering events."
+  },
+  {
+    "segment_id": 8,
+    "start_time": 390.0,
+    "end_time": 460.0,
+    "text": "I feel more fatigued during the day. I've noticed swelling in my legs starting about two months ago.",
+    "keywords": [
+      "fatigue",
+      "leg swelling",
+      "edema",
+      "two months"
+    ],
+    "summary": "The patient reports fatigue and bilateral leg swelling beginning around the same time as breathlessness."
+  },
+  {
+    "segment_id": 9,
+    "start_time": 460.0,
+    "end_time": 540.0,
+    "text": "I have high blood pressure, diabetes, and high cholesterol. I take aspirin, ramipril, and simvastatin.",
+    "keywords": [
+      "hypertension",
+      "diabetes",
+      "hyperlipidemia",
+      "medications"
+    ],
+    "summary": "The patient has multiple cardiovascular risk factors and is on relevant medications."
+  },
+  {
+    "segment_id": 10,
+    "start_time": 540.0,
+    "end_time": 610.0,
+    "text": "I had a heart attack four years ago and had a stent placed. I haven't had similar symptoms since then.",
+    "keywords": [
+      "heart attack",
+      "stent",
+      "cardiac history",
+      "past event"
+    ],
+    "summary": "Significant past history of myocardial infarction treated with stenting."
+  },
+  {
+    "segment_id": 11,
+    "start_time": 610.0,
+    "end_time": 680.0,
+    "text": "My father died of a heart attack at 60. I work as a cashier and live alone in an apartment.",
+    "keywords": [
+      "family history",
+      "heart attack",
+      "occupation",
+      "living situation"
+    ],
+    "summary": "There is a family history of heart disease, and the patient lives independently."
+  },
+  {
+    "segment_id": 12,
+    "start_time": 680.0,
+    "end_time": 750.0,
+    "text": "I used to smoke 10 cigarettes a day for 40 years but quit. I don't drink alcohol or use drugs.",
+    "keywords": [
+      "smoking history",
+      "ex-smoker",
+      "risk factors",
+      "lifestyle"
+    ],
+    "summary": "The patient is a former long-term smoker with no current substance use."
+  },
+  {
+    "segment_id": 13,
+    "start_time": 750.0,
+    "end_time": 820.0,
+    "text": "My activity levels have decreased over the last two months. It's affecting my work and daily routine.",
+    "keywords": [
+      "reduced activity",
+      "daily life",
+      "functional decline"
+    ],
+    "summary": "Breathlessness has significantly impacted daily activities and work performance."
+  },
+  {
+    "segment_id": 14,
+    "start_time": 820.0,
+    "end_time": 900.0,
+    "text": "Based on symptoms and history, congestive heart failure is suspected and further investigations are planned.",
+    "keywords": [
+      "congestive heart failure",
+      "diagnosis",
+      "investigation",
+      "management"
+    ],
+    "summary": "The clinician suspects congestive heart failure and plans further evaluation and treatment."
+  }
+]

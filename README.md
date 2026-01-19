@@ -1,7 +1,5 @@
+
 # Automated-Podcast-Transcription-and-Topic-Segmentation
-
-*A Springboard Internship Program Project*
-
 
 ## **Project Overview**
 
@@ -59,209 +57,141 @@ Audio Input → Preprocessing → Transcription (ASR) → Transcript Cleaning
           Indexing → UI (Search, Playback, Visualization)
 ```
 
+## Key Features
 
-##  **Tech Stack**
+- **Automatic Audio Transcription:** High-quality speech-to-text with Whisper, supports long audio files  
+- **Topic Segmentation:** Sentence-level segmentation with NLTK & TF-IDF  
+- **Keyword Extraction & Summarization:** Topic-focused keywords and concise summaries  
+- **Global Transcript Search:** Search across all segments  
+- **Sentiment Analysis:** Positive, neutral, negative sentiment per segment  
+- **Interactive UI:** Streamlit-based, easy navigation between segments
 
-### **Core**
+  ##  Tech Stack
 
-* Python 3.9+
-* Whisper (OpenAI) / Faster Whisper / Google Speech-to-Text
-* Librosa, PyDub, ffmpeg
+- **Programming Language:** Python  
+- **Audio Processing:** LibROSA, PyDub  
+- **Speech-to-Text (ASR):** OpenAI Whisper  
+- **Natural Language Processing:** NLTK, SpaCy, Hugging Face Transformers  
+- **Topic Segmentation:** TextTiling, BERT / GPT  
+- **Keyword Extraction:** TF-IDF  
+- **Sentiment Analysis:** VADER, Transformer Models  
+- **Data Storage:** JSON  
+- **Visualization & UI:** Streamlit, Plotly  
+- **Version Control:** Git, GitHub
 
-### **NLP**
+  ##  Workflow / Pipeline
 
-* NLTK / SpaCy
-* HuggingFace Transformers
-* Sentence Transformers
-* YAKE / RAKE / KeyBERT
+1. **Audio Input:**  
+   - Upload audio files in formats like MP3, WAV, etc.  
 
-### **Visualization & UI**
+2. **Audio Preprocessing:**  
+   - Clean audio, remove noise, split into manageable segments using LibROSA/PyDub.  
 
-* Streamlit / Flask
-* Plotly, Matplotlib
+3. **Speech-to-Text (ASR):**  
+   - Convert audio segments into text using OpenAI Whisper.  
 
-### **Storage**
+4. **Text Processing:**  
+   - Clean and normalize transcripts.  
+   - Tokenization, lemmatization using NLTK or SpaCy.  
 
-* JSON / CSV / SQLite for metadata
-* FAISS / vector DB (optional) for topic search
+5. **Topic Segmentation:**  
+   - Break transcripts into topics using TextTiling or BERT/GPT embeddings.  
 
+6. **Keyword Extraction:**  
+   - Identify important keywords from each segment using TF-IDF.  
 
-## **Recommended Folder Structure**
+7. **Sentiment Analysis:**  
+   - Analyze sentiment for each segment using VADER or transformer-based models.  
 
+8. **Data Storage:**  
+   - Store transcripts, keywords, and sentiment analysis in JSON files.  
+
+9. **Visualization & UI:**  
+   - Display results, transcripts, and keyword search using Streamlit and interactive plots with Plotly.  
+
+10. **Version Control:**  
+    - Track all code and updates using Git and GitHub
+
+# Project Structure
+
+```text
+AI_PODCAST_TRANSCRIPT/
+├── audio_raw/                         # Original podcast audio files
+├── audio_processed/                   # Preprocessed audio chunks
+├── audio_segment_keySearch_summary/   # Topic segments, keywords, summaries
+├── data/                              # Additional datasets (ignored in git)
+├── env/                               # Virtual environment (ignored in git)
+├── segment_keySearch_summary/         # Older summary folder (ignored)
+├── src/                               # Core source code
+│   ├── preprocessing.py               # Audio preprocessing logic
+│   ├── transcript.py                  # Whisper transcription module
+│   └── segment_keySearch.py           # Topic segmentation & keyword extraction
+├── transcripts/                       # Generated transcripts
+├── README.md                           # Project documentation
+└── .gitignore                          # Git ignore rules
 ```
-project/
-│── audio_raw/
-│── audio_processed/
-│── transcripts/
-│── segments/
-│── notebooks/
-│── src/
-│   ├── preprocessing.py
-│   ├── transcription.py
-│   ├── segmentation.py
-│   ├── summarization.py
-│   ├── keyword_extraction.py
-│   ├── ui_app.py
-│── docs/
-│── tests/
-│── README.md
-│── requirements.txt
-│── LICENSE
-```
+______________________________________________________________________________________________________________________________________
 
----
+## **Testing**
 
-## **Getting Started**
+This project uses **pytest** to ensure that each module works correctly and the full pipeline runs smoothly.  
 
-### **Steps Interns Should Follow**
+### 1. **Unit Testing with pytest**
+- Test files included:
+  - `test_preprocessing.py` → tests audio preprocessing functions
+  - `test_transcript.py` → tests transcription functionality using Whisper
+  - `test_segment_keySearch.py` → tests topic segmentation, keyword extraction, and summarization
+- Run all tests with:
+  ```bash
+  pytest
 
-- **Step 1 — Clone the repository**
+### 2. **Integration Testing**
 
-```bash
-git clone https://github.com/mentor/project-repo.git
-cd project-repo
-```
+Verified end-to-end pipeline:
 
-- **Step 2 — Create their branch**
-
-```bash
-git checkout -b intern-<name>
-```
-
-Example:
-
-```bash
-git checkout -b intern-goutham
-```
-
-- **Step 3 — Make changes**
-
-Work on code, notebooks, documentation, etc.
-
-- **Step 4 — Add files**
-
-```bash
-git add .
-```
-
-- **Step 5 — Commit with message**
-
-```bash
-git commit -m "Completed milestone 1 data preprocessing"
-```
-
-- **Step 6 — Push to their branch**
-
-```bash
-git push origin intern-goutham
-```
+```Audio Upload → Preprocessing → Transcription → Topic Segmentation → Keyword Extraction → Visualization```
 
 
-## **Milestone Plan (8 Weeks)**
+Checked segment timestamps match audio playback in the UI.
 
-### **Week 1**
+### 3. **Manual Testing**
 
-* Dataset download
-* Basic audio preprocessing
-* Whisper installation + test transcription
+Streamlit UI tested for:
 
-### **Week 2**
+- Uploading audio files
 
-* Build baseline transcription pipeline
-* Start transcript cleaning
+- Navigating between segments
 
-### **Week 3**
+- Searching keywords
 
-* Implement topic segmentation (TextTiling + embedding-based)
+- Viewing summaries and sentiment per segment
 
-### **Week 4**
+- Verified correct display for long podcast episodes (~1–2 hours).
 
-* Segment evaluation
-* Summaries & keywords generation
+ ### 4. **Performance & Accuracy Validation**
 
-### **Week 5**
+- Transcription accuracy checked on different audio qualities.
 
-* Build initial UI (Streamlit)
-* Integrate audio + transcript + segments
+- Topic segmentation manually validated against natural topic changes.
 
-### **Week 6**
+- Keywords and summaries reviewed for relevance.
 
-* Add visualization:
+- Future improvements: add automated benchmark tests for transcription accuracy and segmentation quality.
 
-  * Topic timeline
-  * Word clouds
-  * Sentiment trends
+  ## References
 
-### **Week 7**
+1. OpenAI Whisper — https://github.com/openai/whisper  
+2. Librosa Audio Processing Library — https://librosa.org/doc/main/index.html  
+3. NLTK (Natural Language Toolkit) — https://www.nltk.org/  
+4. Scikit‑learn Documentation — https://scikit-learn.org/  
+5. Streamlit Documentation — https://docs.streamlit.io/  
+6. WordCloud Library — https://github.com/amueller/word_cloud  
+7. Matplotlib Documentation — https://matplotlib.org/stable/  
+8. Speech and Language Processing (Jurafsky & Martin) — https://web.stanford.edu/~jurafsky/slp3/
 
-* Testing & refinements
-* Improve segmentation accuracy
-
-### **Week 8**
-
-* Final project report
-* Demo presentation
-* GitHub cleanup & documentation
-
-## **Evaluation Criteria**
-
-Interns will be evaluated on:
-
-* Technical accuracy of ASR & segmentation
-* Commit frequency & GitHub hygiene
-* Code clarity & modular design
-* Documentation quality
-* Final demo performance
-* Completion of milestones
-
-
-## **Future Enhancements (Optional)**
-
-* Multi-speaker diarization
-* Semantic search across segments
-* Embedding-based recommendation
-* Podcast summarization at episode level
-* Deploy UI online (Streamlit Cloud / Render)
-
-
-## **Intern Work Guidelines**
-
-Each intern must:
-
-* Work **individually** on their own GitHub branch
-* Commit regularly
-* Maintain clean code + folder structure
-* Follow milestone timelines
-* Attend mentor sessions (Mon–Fri)
-* Participate in final demo
-
-Intern pre-cautions,
-
-* **🚫 Don’t upload large files (datasets > 50 MB)**
-
-- Use Google Drive + link instead.
-
-* **🚫 Don’t create multiple branches unnecessarily**
-
-- Use only **one branch per intern**.
-
-* **🚫 Don’t work directly on the main branch**
-
-* **🚫 Don’t push zipped files**
-
-- Push notebooks, scripts, and markdown files.
-
-
+                                            
 # **License**
 
 This project uses the **MIT License**.
-Create a `LICENSE` file from GitHub’s license picker.
-
-
-
-# **Contact**
-
-For questions or doubts:
-[springboardmentor13579x@gmail.com](mailto:springboardmentor13579x@gmail.com) (official mentor email)
 
 

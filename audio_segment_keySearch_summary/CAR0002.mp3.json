@@ -1,0 +1,177 @@
+[
+  {
+    "segment_id": 1,
+    "start_time": 0.0,
+    "end_time": 30.0,
+    "text": "What brings you here today? Yeah, I have this pain in my chest. Where is the pain exactly? It's just over on the left side.",
+    "keywords": [
+      "chest pain",
+      "left side",
+      "pain",
+      "presenting complaint"
+    ],
+    "summary": "The patient presents with chest pain located on the left side of the chest."
+  },
+  {
+    "segment_id": 2,
+    "start_time": 30.0,
+    "end_time": 70.0,
+    "text": "When did this pain start? It started just 30 minutes ago. Did it come on randomly or during activity? I was shoveling the driveway when it came on.",
+    "keywords": [
+      "onset",
+      "30 minutes",
+      "shoveling",
+      "activity",
+      "sudden"
+    ],
+    "summary": "The chest pain started suddenly 30 minutes ago while the patient was shoveling the driveway."
+  },
+  {
+    "segment_id": 3,
+    "start_time": 70.0,
+    "end_time": 120.0,
+    "text": "Has the pain been getting worse? The pain has been there the whole time and has gotten worse since it started.",
+    "keywords": [
+      "worsening",
+      "persistent",
+      "pain",
+      "severity"
+    ],
+    "summary": "The pain has been constant and progressively worsening since onset."
+  },
+  {
+    "segment_id": 4,
+    "start_time": 120.0,
+    "end_time": 180.0,
+    "text": "How would you describe the pain? It feels dull, with a lot of pressure on my chest. How severe is the pain from zero to ten? Seven.",
+    "keywords": [
+      "dull",
+      "pressure",
+      "severity",
+      "7",
+      "chest"
+    ],
+    "summary": "The pain is described as dull and pressure-like, rated as 7 out of 10."
+  },
+  {
+    "segment_id": 5,
+    "start_time": 180.0,
+    "end_time": 240.0,
+    "text": "Have you had similar pain before? No, this is the first time. Does it travel anywhere? No, it stays on the left side.",
+    "keywords": [
+      "first episode",
+      "radiation",
+      "left chest",
+      "no history"
+    ],
+    "summary": "This is the first episode of chest pain, and it does not radiate."
+  },
+  {
+    "segment_id": 6,
+    "start_time": 240.0,
+    "end_time": 300.0,
+    "text": "Does anything make it worse or better? It's worse when moving or walking. It doesn't improve with anything. It's worse when lying down.",
+    "keywords": [
+      "movement",
+      "worse",
+      "lying down",
+      "activity",
+      "position"
+    ],
+    "summary": "The pain worsens with movement and lying down and does not improve with rest."
+  },
+  {
+    "segment_id": 7,
+    "start_time": 300.0,
+    "end_time": 360.0,
+    "text": "Any other symptoms like cough or difficulty breathing? I've felt short of breath since the pain started.",
+    "keywords": [
+      "shortness of breath",
+      "breathing",
+      "symptoms",
+      "chest pain"
+    ],
+    "summary": "The patient reports shortness of breath since the onset of chest pain."
+  },
+  {
+    "segment_id": 8,
+    "start_time": 360.0,
+    "end_time": 430.0,
+    "text": "Any recent injury? I play rugby and was tackled yesterday, but my chest felt fine afterward. Any travel or sick contacts? No.",
+    "keywords": [
+      "rugby",
+      "trauma",
+      "injury",
+      "travel",
+      "infection"
+    ],
+    "summary": "The patient reports recent physical activity but no clear trauma, travel, or infectious exposure."
+  },
+  {
+    "segment_id": 9,
+    "start_time": 430.0,
+    "end_time": 500.0,
+    "text": "Any nausea, vomiting, fever, or chills? No nausea or vomiting, but I feel hot. My temperature was 38 degrees.",
+    "keywords": [
+      "fever",
+      "temperature",
+      "38",
+      "hot",
+      "infection"
+    ],
+    "summary": "The patient reports fever of 38°C without gastrointestinal symptoms."
+  },
+  {
+    "segment_id": 10,
+    "start_time": 500.0,
+    "end_time": 560.0,
+    "text": "Any leg swelling, fatigue, or dizziness? No swelling, no fatigue, and no fainting. I do feel my heart beating faster.",
+    "keywords": [
+      "palpitations",
+      "tachycardia",
+      "no swelling",
+      "no dizziness"
+    ],
+    "summary": "The patient reports palpitations but denies swelling, fatigue, dizziness, or syncope."
+  },
+  {
+    "segment_id": 11,
+    "start_time": 560.0,
+    "end_time": 630.0,
+    "text": "I have high blood pressure and high cholesterol. I take lisinopril, rosuvastatin, and a multivitamin. No allergies.",
+    "keywords": [
+      "hypertension",
+      "high cholesterol",
+      "medications",
+      "lisinopril",
+      "statin"
+    ],
+    "summary": "The patient has a history of hypertension and hyperlipidemia and is on appropriate medications."
+  },
+  {
+    "segment_id": 12,
+    "start_time": 630.0,
+    "end_time": 700.0,
+    "text": "I live with my parents in a house and work as a city bus driver. I exercise occasionally and have a balanced diet.",
+    "keywords": [
+      "living situation",
+      "occupation",
+      "exercise",
+      "diet"
+    ],
+    "summary": "The patient lives with family, works as a bus driver, and maintains moderate lifestyle habits."
+  },
+  {
+    "segment_id": 13,
+    "start_time": 700.0,
+    "end_time": 780.0,
+    "text": "I smoke half a pack to a pack a day and have smoked for 20 years. I don't drink alcohol. I have used crystal meth, last used six days ago.",
+    "keywords": [
+      "smoking",
+      "substance use",
+      "crystal meth",
+      "risk factors"
+    ],
+    "summary": "The patient has significant risk factors including long-term smoking and intermittent crystal meth use."
+  }
+]

@@ -1,0 +1,156 @@
+[
+  {
+    "segment_id": 1,
+    "start_time": 0.0,
+    "end_time": 32.0,
+    "text": "What brought you in today? Sure, I'm just having a lot of chest pain and so I thought I should get it checked out. Okay, and before we start could you remind me of your gender and age? Sure, 39, I'm a male.",
+    "keywords": [
+      "chest pain",
+      "gender",
+      "age",
+      "male",
+      "checked"
+    ],
+    "summary": "The patient presents with chest pain and provides basic demographic information including age and gender."
+  },
+  {
+    "segment_id": 2,
+    "start_time": 32.0,
+    "end_time": 78.0,
+    "text": "Okay, and so when did this chest pain start? It started last night but it's becoming sharper. Okay, and where is this pain located? It's located on the left side of my chest.",
+    "keywords": [
+      "chest pain",
+      "started",
+      "last night",
+      "left side",
+      "sharper"
+    ],
+    "summary": "The patient reports chest pain that began last night, has become sharper, and is located on the left side of the chest."
+  },
+  {
+    "segment_id": 3,
+    "start_time": 78.0,
+    "end_time": 125.0,
+    "text": "Okay, and so how long has it been going on for? I guess it would be a couple hours now, maybe like eight. Has it been constant or changing? I would say it's been pretty constant.",
+    "keywords": [
+      "duration",
+      "constant",
+      "hours",
+      "eight",
+      "pain"
+    ],
+    "summary": "The chest pain has been present for approximately eight hours and has remained constant."
+  },
+  {
+    "segment_id": 4,
+    "start_time": 125.0,
+    "end_time": 185.0,
+    "text": "How would you describe the pain? I'd say it's pretty sharp. Anything that makes it better? Not laying down helps. Laying down makes it worse. Does the pain radiate anywhere? No.",
+    "keywords": [
+      "sharp pain",
+      "laying down",
+      "worse",
+      "better",
+      "radiation"
+    ],
+    "summary": "The pain is sharp, worsens when lying down, improves when not lying down, and does not radiate."
+  },
+  {
+    "segment_id": 5,
+    "start_time": 185.0,
+    "end_time": 245.0,
+    "text": "Anything else that makes the pain worse? Maybe taking a deep breath. When it started, I was moving furniture but I didn't feel injured.",
+    "keywords": [
+      "deep breath",
+      "worse",
+      "furniture",
+      "activity",
+      "onset"
+    ],
+    "summary": "The pain worsens with deep breathing and began after physical activity, though no injury was felt."
+  },
+  {
+    "segment_id": 6,
+    "start_time": 245.0,
+    "end_time": 305.0,
+    "text": "On a scale of 1 to 10, the pain is about a 7 or 8. I feel lightheaded and have some trouble breathing.",
+    "keywords": [
+      "severity",
+      "7",
+      "8",
+      "lightheaded",
+      "breathing"
+    ],
+    "summary": "The patient rates the pain as severe (7–8/10) with associated lightheadedness and breathing difficulty."
+  },
+  {
+    "segment_id": 7,
+    "start_time": 305.0,
+    "end_time": 365.0,
+    "text": "Have you had loss of consciousness? No. Racing heart? A little bit. Sweating? Only due to breathing issues.",
+    "keywords": [
+      "racing heart",
+      "sweating",
+      "breathing",
+      "symptoms",
+      "consciousness"
+    ],
+    "summary": "The patient reports palpitations and sweating related to breathing difficulty but no loss of consciousness."
+  },
+  {
+    "segment_id": 8,
+    "start_time": 365.0,
+    "end_time": 435.0,
+    "text": "Any recent immobilization? No. Any infections, nausea, vomiting, fever, cough, or wheeze? No.",
+    "keywords": [
+      "infection",
+      "fever",
+      "cough",
+      "immobilization",
+      "negative"
+    ],
+    "summary": "The patient denies immobilization, infection symptoms, gastrointestinal issues, or respiratory infections."
+  },
+  {
+    "segment_id": 9,
+    "start_time": 435.0,
+    "end_time": 495.0,
+    "text": "Any neck pain or trauma? No. No chest or back trauma. No past medical conditions, surgeries, or medications.",
+    "keywords": [
+      "trauma",
+      "medical history",
+      "surgeries",
+      "medications",
+      "negative"
+    ],
+    "summary": "There is no history of trauma, chronic medical conditions, surgeries, or medication use."
+  },
+  {
+    "segment_id": 10,
+    "start_time": 495.0,
+    "end_time": 565.0,
+    "text": "I live alone in an apartment. I'm an accountant. I smoke a pack a day for 10 to 15 years. Occasionally use cannabis and drink about 10 drinks per week.",
+    "keywords": [
+      "smoking",
+      "alcohol",
+      "cannabis",
+      "occupation",
+      "lifestyle"
+    ],
+    "summary": "The patient lives alone, works as an accountant, smokes daily, drinks alcohol regularly, and occasionally uses cannabis."
+  },
+  {
+    "segment_id": 11,
+    "start_time": 565.0,
+    "end_time": 640.0,
+    "text": "I try to eat healthy and exercise regularly. My father had a heart attack at 45 and had cholesterol problems.",
+    "keywords": [
+      "exercise",
+      "diet",
+      "family history",
+      "heart attack",
+      "cholesterol"
+    ],
+    "summary": "The patient maintains some healthy habits but has a significant family history of heart disease."
+  }
+]

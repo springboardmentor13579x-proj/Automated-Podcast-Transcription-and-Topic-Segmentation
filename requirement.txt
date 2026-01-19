@@ -1,0 +1,11 @@
+streamlit
+librosa
+pydub
+openai-whisper
+torch
+nltk
+scikit-learn
+matplotlib
+wordcloud
+numpy
+pandas
