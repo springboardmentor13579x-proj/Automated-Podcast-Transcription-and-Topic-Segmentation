@@ -1,267 +1,287 @@
-# Automated-Podcast-Transcription-and-Topic-Segmentation
+# Automated Podcast Transcription and Topic Segmentation  
+## An AI-Based System for HR Interviews, Corporate Meetings, and Spoken Content Analysis
 
-*A Springboard Internship Program Project*
+------------------------------------------------------------------------
 
+## 1. Overview
 
-## **Project Overview**
+The **Automated Podcast Transcription and Topic Segmentation** project presents an end-to-end artificial intelligence system for processing long-form spoken content such as **HR interviews, corporate meetings, podcasts, webinars, and lectures**. The system automatically converts audio into text, identifies topic boundaries, segments conversations into coherent sections, and generates summaries, keywords, sentiment insights, and evaluation metrics.
 
-The **Automated Podcast Transcription & Topic Segmentation** project aims to build an end-to-end AI system that can:
+The primary motivation of this work is to support **organizational communication analysis**, with a strong emphasis on **human resource (HR) interviews and professional meetings**, where efficient navigation, summarization, and structured evaluation of spoken content are critical. By integrating **speech recognition, natural language processing (NLP), audio feature analysis, and interactive visualization**, the system enables scalable analysis of otherwise unstructured audio data.
 
-* Convert podcast audio into accurate transcripts
-* Detect topic boundaries automatically
-* Segment the transcript into meaningful chapters
-* Extract keywords and summaries for each topic
-* Provide a UI to navigate the podcast episode by topics & timestamps
-* Display segment-level visual analytics
+------------------------------------------------------------------------
 
-This project focuses on applying **AI, Speech Processing, NLP, and ML engineering** to create a practical real-world audio intelligence tool.
+## 2. Methodological Approach
 
-
-##  **Project Objectives**
-
-### 1. **Transcription (Speech-to-Text)**
-
-* Convert long podcast audio files into text using ASR models
-* Support noisy, multi-speaker, real-world audio
-* Produce timestamps for each transcribed segment
-
-### 2. **Topic Segmentation**
-
-* Detect shifts in content and break the transcript into chapters
-* Use NLP techniques such as:
-
-  * TextTiling
-  * Embedding similarity (BERT / Sentence Transformers)
-  * Change-point detection methods
-
-### 3. **Summarization & Keyword Extraction**
-
-* Generate per-topic:
-
-  * Short summaries
-  * Bullet-point notes
-  * Keywords
-
-### 4. **UI for Navigation**
-
-* Show transcript & segment list
-* Allow clicking a segment → jump to timestamp
-* Provide playback & visualizations
-
-
-## **System Architecture**
+The system is designed as a modular processing pipeline. Each stage can be independently developed, evaluated, and extended.
 
 ```
-Audio Input → Preprocessing → Transcription (ASR) → Transcript Cleaning
-             ↓
-    Embedding Model → Topic Segmentation → Segment Summaries & Keywords
-             ↓
-          Indexing → UI (Search, Playback, Visualization)
+Audio Input → Preprocessing → ASR Transcription → Topic Segmentation
+                   ↓
+          Summarization & Keyword Extraction
+                   ↓
+      Evaluation, Visualization & Interactive UI
 ```
 
+### 2.1 Audio Preprocessing
+- Converts audio into a standardized format and sampling rate  
+- Applies noise reduction and amplitude normalization  
+- Ensures consistent input quality for downstream ASR models  
 
-##  **Tech Stack**
+### 2.2 Automatic Speech Recognition (ASR)
+- Uses **OpenAI Whisper** to transcribe audio into text  
+- Supports conversational speech common in interviews and meetings  
 
-### **Core**
+### 2.3 Topic Segmentation
+- Identifies topic boundaries using sentence structure and semantic cues  
+- Divides transcripts into meaningful segments representing discussion units  
 
-* Python 3.9+
-* Whisper (OpenAI) / Faster Whisper / Google Speech-to-Text
-* Librosa, PyDub, ffmpeg
+### 2.4 Summarization
+- Produces concise, segment-level and document-level summaries  
+- Removes filler content and non-informative phrases  
 
-### **NLP**
+### 2.5 Keyword Extraction
+- Extracts representative keywords related to HR and professional contexts  
+- Filters stopwords and noise terms to avoid redundancy  
 
-* NLTK / SpaCy
-* HuggingFace Transformers
-* Sentence Transformers
-* YAKE / RAKE / KeyBERT
+### 2.6 Sentiment and Emotion Analysis
+- Applies sentiment scoring to each segment  
+- Enables comparison between **interviewer and candidate sentiment trends**  
 
-### **Visualization & UI**
+### 2.7 Transcription Evaluation
+- Computes transcription quality metrics:
+  - Word Error Rate (WER)  
+  - Accuracy estimates  
 
-* Streamlit / Flask
-* Plotly, Matplotlib
+### 2.8 Reporting and Visualization
+- Interactive Streamlit dashboard for transcript review, keyword search, and timeline playback  
+- Automated **PDF report generation** summarizing interview insights  
 
-### **Storage**
+------------------------------------------------------------------------
 
-* JSON / CSV / SQLite for metadata
-* FAISS / vector DB (optional) for topic search
+## 3. Technology Stack
 
+### Core Technologies
+- Python 3.12  
+- OpenAI Whisper (ASR)  
+- Librosa, FFmpeg, PyDub (audio processing)  
 
-## **Recommended Folder Structure**
+### Natural Language Processing
+- NLTK  
+- Scikit-learn  
+- HuggingFace Transformers (optional)  
 
-```
-project/
-│── audio_raw/
-│── audio_processed/
-│── transcripts/
-│── segments/
-│── notebooks/
-│── src/
-│   ├── preprocessing.py
-│   ├── transcription.py
-│   ├── segmentation.py
-│   ├── summarization.py
-│   ├── keyword_extraction.py
-│   ├── ui_app.py
-│── docs/
-│── tests/
-│── README.md
-│── requirements.txt
-│── LICENSE
-```
+### Visualization and Interface
+- Streamlit  
+- Plotly  
+- Matplotlib  
+- WordCloud  
 
----
+### Evaluation and Reporting
+- jiwer (WER metrics)  
+- ReportLab (PDF report generation)  
+- CSV and TXT outputs  
 
-## **Getting Started**
+### Testing and CI
+- PyTest (unit testing)  
+- GitHub Actions (automated test pipeline)  
 
-### **Steps Interns Should Follow**
+------------------------------------------------------------------------
 
-- **Step 1 — Clone the repository**
+## 4. System Setup
+
+### Step 1: Clone the Repository
 
 ```bash
-git clone https://github.com/mentor/project-repo.git
-cd project-repo
+git clone https://github.com/springboardmentor13579x-proj/Automated-Podcast-Transcription-and-Topic-Segmentation.git
+cd Automated-Podcast-Transcription-and-Topic-Segmentation
+git checkout intern-vanshika
 ```
 
-- **Step 2 — Create their branch**
+### Step 2: Create Virtual Environment (Optional)
 
 ```bash
-git checkout -b intern-<name>
+python -m venv venv
+venv\Scripts\activate   # Windows
 ```
 
-Example:
+### Step 3: Install Dependencies
 
 ```bash
-git checkout -b intern-goutham
+pip install -r requirements.txt
 ```
 
-- **Step 3 — Make changes**
-
-Work on code, notebooks, documentation, etc.
-
-- **Step 4 — Add files**
+### Step 4: Execute the Backend Pipeline
 
 ```bash
-git add .
+python -m src.main
 ```
 
-- **Step 5 — Commit with message**
+### Step 5: Launch the Streamlit Dashboard
 
 ```bash
-git commit -m "Completed milestone 1 data preprocessing"
+streamlit run src/ui_app.py
 ```
 
-- **Step 6 — Push to their branch**
+------------------------------------------------------------------------
+
+## 5. Directory Structure
+
+```
+Automated-Podcast-Transcription-and-Topic-Segmentation/
+│
+├── src/
+│   ├── preprocessing.py        # Audio cleaning, normalization
+│   ├── transcription.py        # Whisper-based ASR
+│   ├── segmentation.py         # Topic & speaker segmentation
+│   ├── summarization.py        # AI / extractive summarization
+│   ├── keyword_extraction.py   # TF-IDF keyword extraction
+│   ├── evaluate_asr.py         # WER, CER, Accuracy evaluation
+│   ├── core.py                 # Pipeline controller
+│   ├── ui_app.py               # Streamlit enterprise dashboard
+│   └── main.py                 # Backend pipeline entry point
+│
+├── audio_raw/                  # Original uploaded audio files
+│
+├── audio_processed/            # Cleaned & normalized audio for ASR
+│
+├── audio_ui/                   # UI session audio
+│
+├── transcripts/
+│   ├── asr/                    # Raw ASR-generated transcripts
+│   ├── final/                  # Cleaned / summarized transcripts
+│   └── raw_reference/          # Ground-truth / manual transcripts for evaluation
+│
+├── segments/                   # Speaker-labeled and timestamped segments
+│
+├── docs/
+│   ├── asr_evaluation.csv      # WER, CER, Accuracy values
+│   ├── asr_evaluation_table.txt# Tabular ASR results
+│   └── keywords.txt            # Extracted keywords
+│   └── Documentation.pdf       # Final report (PDF)
+│   └── HR_Interview_Analyzer_Presentation.pptx   #Presentation
+│   
+├── notebooks/                  # Experiments and analysis (optional)
+│
+├── tests/
+│   └── test_core_functions.py  # Unit tests for backend modules
+│
+│── workflows/
+│       └── tests.yml           # GitHub Actions CI for automated testing
+│    
+│
+├── venv/                       # Python virtual environment (ignored by Git)
+│
+├── .gitattributes
+├── .gitignore
+├── LICENSE
+├── README.md
+└── requirements.txt
+
+```
+
+------------------------------------------------------------------------
+
+## 6. Use Cases
+
+### 6.1 HR Interviews (Primary Application)
+- Automated transcription of interviews  
+- Topic segmentation (skills, experience, behavioral, closing)  
+- Keyword extraction for job-relevant terms  
+- Sentiment and stress analysis  
+- Executive summaries and structured PDF reports  
+- Fair, scalable interview evaluation  
+
+### 6.2 Corporate Meetings
+- Agenda-based segmentation  
+- Decision and outcome tracking  
+- Sentiment trend analysis  
+
+### 6.3 Podcasts and Webinars
+- Topic chaptering  
+- Keyword-based navigation  
+- Content summarization  
+
+### 6.4 Academic Lectures
+- Modular segmentation  
+- Key concept extraction  
+- Learning support  
+
+### 6.5 Accessibility
+- Text-based access for hearing-impaired users  
+- Inclusive communication  
+
+------------------------------------------------------------------------
+
+## 7. Testing and Validation
+
+### Unit Testing
 
 ```bash
-git push origin intern-goutham
+pytest
 ```
 
+All core logic is validated:
+- Segmentation  
+- Summarization  
+- Keyword extraction  
+- Speaker and sentiment detection  
 
-## **Milestone Plan (8 Weeks)**
+### Continuous Integration
 
-### **Week 1**
+GitHub Actions automatically executes tests on:
+- Code pushes  
+- Pull requests  
 
-* Dataset download
-* Basic audio preprocessing
-* Whisper installation + test transcription
+------------------------------------------------------------------------
 
-### **Week 2**
+## 8. Troubleshooting
 
-* Build baseline transcription pipeline
-* Start transcript cleaning
+**ASR Not Running Correctly**  
+- Ensure Whisper and FFmpeg are installed  
+- Verify audio exists in input directory  
 
-### **Week 3**
+**Segmentation Produces No Output**  
+- Confirm transcripts exist in `transcripts/asr/`  
 
-* Implement topic segmentation (TextTiling + embedding-based)
+**Keyword Search Not Working**  
+- Check text cleaning and stopword filtering  
 
-### **Week 4**
+**Evaluation Errors**  
+- Reference transcripts must match ASR filenames  
 
-* Segment evaluation
-* Summaries & keywords generation
+**Large File Issues**  
+- GitHub limits 100MB files  
+- Use `.gitignore` or external storage  
 
-### **Week 5**
+------------------------------------------------------------------------
 
-* Build initial UI (Streamlit)
-* Integrate audio + transcript + segments
+## 9. Limitations
 
-### **Week 6**
+- ASR accuracy may degrade for noisy or accented speech  
+- Topic boundaries may miss subtle transitions  
+- Summarization is extractive, not abstractive  
+- Pipeline is batch-based (not real-time)  
+- Large audio files are excluded from version control  
 
-* Add visualization:
+------------------------------------------------------------------------
 
-  * Topic timeline
-  * Word clouds
-  * Sentiment trends
+## 10. Future Scope
 
-### **Week 7**
+- Multi-speaker diarization  
+- Semantic search with embeddings  
+- Advanced emotion & confidence detection  
+- Abstractive summarization with transformers  
+- Cloud deployment (Streamlit Cloud)  
+- YouTube audio ingestion  
 
-* Testing & refinements
-* Improve segmentation accuracy
+------------------------------------------------------------------------
 
-### **Week 8**
+## 11. References
 
-* Final project report
-* Demo presentation
-* GitHub cleanup & documentation
-
-## **Evaluation Criteria**
-
-Interns will be evaluated on:
-
-* Technical accuracy of ASR & segmentation
-* Commit frequency & GitHub hygiene
-* Code clarity & modular design
-* Documentation quality
-* Final demo performance
-* Completion of milestones
-
-
-## **Future Enhancements (Optional)**
-
-* Multi-speaker diarization
-* Semantic search across segments
-* Embedding-based recommendation
-* Podcast summarization at episode level
-* Deploy UI online (Streamlit Cloud / Render)
-
-
-## **Intern Work Guidelines**
-
-Each intern must:
-
-* Work **individually** on their own GitHub branch
-* Commit regularly
-* Maintain clean code + folder structure
-* Follow milestone timelines
-* Attend mentor sessions (Mon–Fri)
-* Participate in final demo
-
-Intern pre-cautions,
-
-* **🚫 Don’t upload large files (datasets > 50 MB)**
-
-- Use Google Drive + link instead.
-
-* **🚫 Don’t create multiple branches unnecessarily**
-
-- Use only **one branch per intern**.
-
-* **🚫 Don’t work directly on the main branch**
-
-* **🚫 Don’t push zipped files**
-
-- Push notebooks, scripts, and markdown files.
-
-
-# **License**
-
-This project uses the **MIT License**.
-Create a `LICENSE` file from GitHub’s license picker.
-
-
-
-# **Contact**
-
-For questions or doubts:
-[springboardmentor13579x@gmail.com](mailto:springboardmentor13579x@gmail.com) (official mentor email)
-
-
+1. Radford, A., et al. (2022). *Whisper: Robust Speech Recognition via Large-Scale Weak Supervision*. OpenAI.  
+2. JiWER: https://github.com/jitsi/jiwer  
+3. Hearst, M. (1997). *TextTiling*. Computational Linguistics.  
+4. NLTK: https://www.nltk.org/  
+5. HuggingFace: https://huggingface.co/  
+6. Streamlit: https://streamlit.io/  

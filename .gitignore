@@ -1,0 +1,76 @@
+# ==================================================
+# Python cache
+# ==================================================
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.egg-info/
+.pytest_cache/
+
+# ==================================================
+# Virtual environments
+# ==================================================
+venv/
+diarization_env/
+.env/
+
+# ==================================================
+# Audio files (do NOT push large audio)
+# ==================================================
+*.wav
+*.mp3
+*.flac
+*.m4a
+
+# ==================================================
+# Runtime audio folders (generated)
+# ==================================================
+audio_processed/
+audio_UI_clips/
+audio_ui/clips/
+
+# Keep folder structure only
+audio_raw/*
+!audio_raw/.gitkeep
+audio_ui/*
+!audio_ui/.gitkeep
+
+# ==================================================
+# Generated pipeline outputs
+# ==================================================
+transcripts/asr/*
+transcripts/final/*
+segments/*
+!transcripts/.gitkeep
+!segments/.gitkeep
+
+# ==================================================
+# Evaluation outputs (auto-generated)
+# ==================================================
+docs/asr_evaluation.csv
+docs/asr_evaluation_table.txt
+docs/keywords.txt
+
+# ==================================================
+# Results & temp outputs
+# ==================================================
+results/
+
+# ==================================================
+# Streamlit
+# ==================================================
+.streamlit/
+
+# ==================================================
+# OS / IDE files
+# ==================================================
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+
+# ==================================================
+# Logs
+# ==================================================
+*.log
